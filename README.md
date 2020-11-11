@@ -7,7 +7,7 @@ Processes that will be outlined include the following:
 **Data Management Workflows for CoEDL and PARADISEC**
 
 
-**Video processing:** 
+**[Video processing](https://paradisec-archive.github.io/video_transcoding/)** 
 1. changing video formats (.MTS/.AVI/.MPEG/.MP4, etc -> .MP4 or .MXF)
 2. creating compressed versions
 3. creating archival versions

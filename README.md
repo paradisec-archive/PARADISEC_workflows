@@ -1,10 +1,10 @@
 # Technical workflows designed to facilitate archiving with PARADISEC
 
-This site outlines some of the technical processes used when creating fit for purpose media files or creating archive-ready files. Most of this is done with [ffmpeg](www.ffmpeg.org) or [Adobe Creative Cloud](https://www.adobe.com/au/creativecloud.html) from CC2018 and later (Premiere, Media Encoder, Audition).
-
 <p align="center">
   <img width="200" src="images/revox_slow.gif">
 </p>
+
+This site outlines some of the technical processes used when creating fit for purpose media files or creating archive-ready files. Most of this is done with [ffmpeg](www.ffmpeg.org) or [Adobe Creative Cloud](https://www.adobe.com/au/creativecloud.html) from CC2018 and later (Premiere, Media Encoder, Audition).
 
 Processes that will be outlined include the following:
 

@@ -2,7 +2,7 @@
 
 This site outlines some of the technical processes used when creating fit for purpose media files or creating archive-ready files. Most of this is done with [ffmpeg](www.ffmpeg.org) or [Adobe Creative Cloud](https://www.adobe.com/au/creativecloud.html) from CC2018 and later (Premiere, Media Encoder, Audition).
 
-![Here is the alt text](images/Revox_slow.gif)
+![Reel life](images/revox_slow.gif "Reel life" =200x200)
 
 Processes that will be outlined include the following:
 

@@ -8,11 +8,9 @@ This site outlines some of the technical processes used when creating fit for pu
 
 Processes that will be outlined include the following:
 
-**Data Management Workflows for CoEDL and PARADISEC**
+###Suggested specifications for digital audio/visual recording
 
-**Suggested specifications for digital audio/visual recording
-
-**[Video processing](https://paradisec-archive.github.io/video_transcoding/)** 
+##[Video processing](https://paradisec-archive.github.io/video_transcoding/)
 1. changing video formats (.MTS/.AVI/.MPEG/.MP4, etc -> .MP4 or .MXF)
 2. creating compressed versions
 3. creating archival versions
@@ -22,7 +20,7 @@ Processes that will be outlined include the following:
 7. concatenating multiple video files
 8. repairing metadata problems (video with problematic properties)
 
-**Audio procesing:**
+##Audio procesing
 1. resampling
 2. mixing multiple tracks
 

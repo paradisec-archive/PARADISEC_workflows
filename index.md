@@ -8,25 +8,28 @@ This site outlines some of the technical processes used when creating fit for pu
 
 Processes that will be outlined include the following:
 
-## Suggested specifications for digital capture
+## [Suggested specifications for digital capture](paradisec-archive.github.io/suggested_specifications/)
 
-## Data management
+## [Data management](paradisec-archive.github.io/data_management/)
 * Metadata entry with PARADISEC-formatted spreadsheets
 * Metadata entry with LaMeta
 * File naming requirements for PARADISEC
 
-## [Video processing](https://paradisec-archive.github.io/video_transcoding/)
+## [Video processing](paradisec-archive.github.io/video_processing/)
 * Creating lossless JPEG2000 .MXF video files for archiving with PARADISEC (archival copy)
 * Creating .MP4 (H.264) video files for archiving with PARADISEC (access copy)
 * Handling video with problematic properties
 * Transcoding or rewrapping for other purposes
 * Extracting audio from video
 
-## Audio procesing
+## [Audio procesing](https://paradisec-archive.github.io/audio_processing/)
 * Resampling audio to meet PARADISEC archiving standards
 * Creating stereo track from mono track
 
-## PARADISEC Ingestion Workflow Model
+## [Image processing](https://paradisec-archive.github.io/image_processing/)
+
+
+## [PARADISEC Ingestion Workflow Model](https://paradisec-archive.github.io/ingestion_workflow_model/)
 
 * Pre-ingestion (audio tapes)
   * Assess collection (Admin and PD)

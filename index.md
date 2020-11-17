@@ -8,19 +8,40 @@ This site outlines some of the technical processes used when creating fit for pu
 
 Processes that will be outlined include the following:
 
-## Suggested specifications for digital audio/visual recording
+## Suggested specifications for digital capture
+
+## Data management
+* Metadata entry with PARADISEC-formatted spreadsheets
+* Metadata entry with LaMeta
+* File naming requirements for PARADISEC
 
 ## [Video processing](https://paradisec-archive.github.io/video_transcoding/)
-1. changing video formats (.MTS/.AVI/.MPEG/.MP4, etc -> .MP4 or .MXF)
-2. creating compressed versions
-3. creating archival versions
-4. adding external audio to video
-5. synchronising a secondary audio track to a video track
-6. extracting audio from video
-7. concatenating multiple video files
-8. repairing metadata problems (video with problematic properties)
+* Creating lossless JPEG2000 .MXF video files for archiving with PARADISEC (archival copy)
+* Creating .MP4 (H.264) video files for archiving with PARADISEC (access copy)
+* Handling video with problematic properties
+* Transcoding or rewrapping for other purposes
+* Extracting audio from video
 
 ## Audio procesing
-1. resampling
-2. mixing multiple tracks
+* Resampling audio to meet PARADISEC archiving standards
+* Creating stereo track from mono track
+
+## PARADISEC Ingestion Workflow Model
+
+* Pre-ingestion (audio tapes)
+  * Assess collection (Admin and PD)
+  * Rights
+  * Transportation
+  * Receipt of materials at ingestion point (Admin)
+  * metadata
+  * photograph tape covers and casings to capture all handwritten metadata
+  * prepare tapes for ingestion (Audio)
+* Ingestion Processes
+  * Wavelab ingestion processes – Sydney Lab (Audio)
+  * Dobbin Processes for BWF generation (Audio)
+  * Ingestion of photographic slides
+  * Digital text
+* University of Melbourne ingestion unit
+* Restore from archive process (SA)
+Appendix: Notes on Image Capture equipment 15
 

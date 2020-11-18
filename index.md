@@ -48,5 +48,5 @@ Processes that will be outlined include the following:
 * Restore from archive process (SA)
 Appendix: Notes on Image Capture equipment 15
 
-<link rel="shortcut icon" href="http://example.com/myicon.ico" />
+<link rel="shortcut icon" href="images/favicon.ico" />
 

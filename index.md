@@ -16,7 +16,7 @@ Processes that will be outlined include the following:
 * File naming requirements for PARADISEC
 
 ## [Video processing](https://paradisec-archive.github.io/video_processing/)
-* Creating lossless JPEG2000 .MXF video files for archiving with PARADISEC (archival copy)
+* Creating lossless JPEG2000 [.MXF](https://github.com/paradisec-archive/video_processing/blob/main/index.md#mxf) video files for archiving with PARADISEC (archival copy)
 * Creating .MP4 (H.264) video files for archiving with PARADISEC (access copy)
 * Handling video with problematic properties
 * Transcoding or rewrapping for other purposes

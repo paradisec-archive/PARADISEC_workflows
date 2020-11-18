@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="images/favicon.ico" />
+
 # Technical workflows designed to facilitate archiving with PARADISEC
 
 <p align="center">
@@ -47,6 +49,4 @@ Processes that will be outlined include the following:
 * University of Melbourne ingestion unit
 * Restore from archive process (SA)
 Appendix: Notes on Image Capture equipment 15
-
-<link rel="shortcut icon" href="images/favicon.ico" />
 

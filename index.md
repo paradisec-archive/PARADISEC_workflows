@@ -18,12 +18,14 @@ Processes that will be outlined include the following:
 * Metadata entry with LaMeta
 * File naming requirements for PARADISEC
 
-## [Video processing](https://paradisec-archive.github.io/video_processing/)
-* Create lossless JPEG2000 [.MXF](https://paradisec-archive.github.io/video_processing-MXF/) video files for archiving with PARADISEC (archival copy)
-* Create [.MP4 (H.264)](https://paradisec-archive.github.io/video_processing-MP4/) video files for archiving with PARADISEC (access copy)
-* Handle video with problematic properties
-* Transcode or rewrap for other purposes
+## [Video processing of archival MXF](https://paradisec-archive.github.io/video_processing-MXF/)
+* Create lossless JPEG2000 video files for archiving with PARADISEC (archival copy)
+* Handle video with problematic properties for lossless MXF format
+
+## [Video processing of MP4 (H.264)](https://paradisec-archive.github.io/video_processing-MP4/)
+* Create well-formed .MP4s for archival access copies or fit-for-purpose copies
 * Extract audio from video
+* Handle video with problematic properties in your attempts to make .MP4s
 
 ## [Audio procesing](https://paradisec-archive.github.io/audio_processing/)
 * Resampling audio to meet PARADISEC archiving standards

@@ -6,58 +6,58 @@
 
 These pages are designed to help people with vastly different skills and goals. There are guides for those just starting out with an archiving project and do not know where to begin. Some will help those who wish to create fit for purpose media files or creating archive-ready files. And there are very detailed guides for those with advanced skills who wish to learn more about PARADISEC's technical workflows. 
 
----
+<hr>
 
 If you are just starting out and would like to know how to start the process of archiving with PARADISEC these guides can help you get your materials in order:
 
-## [Getting started with PARADISEC](https://paradisec-archive.github.io/archiving_workflow/)
+### [Getting started with PARADISEC](https://paradisec-archive.github.io/archiving_workflow/)
 * How to become a PARADISEC user
 * How to start a collection
 * Archiving materials that come from analogue sources vs archiving born-digital materials
 * File-naming for PARADISEC
 * File formats we accept
 
-## [Data management](https://paradisec-archive.github.io/data_management/)
+### [Data management](https://paradisec-archive.github.io/data_management/)
 * Metadata entry with PARADISEC-formatted spreadsheets
 * Metadata entry with LaMeta
 * File naming requirements for PARADISEC
 
----
+<hr>
 
 The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or if instructions for those who are looking to digitise text material such as field notebooks:
 
-## [Suggested specifications for digital capture](https://paradisec-archive.github.io/suggested_specifications/)
+### [Suggested specifications for digital capture](https://paradisec-archive.github.io/suggested_specifications/)
 * Camera settings (frame rate, file formats)
 * Audio settings (sample and bit rates) 
 * Microphones
 
-## [Image capture and processing](https://paradisec-archive.github.io/image_processing/)
+### [Image capture and processing](https://paradisec-archive.github.io/image_processing/)
 * Photo stands/tripods and lighting
 * Remote capture using computer and camera
 * Post-production processing of images
 
----
+<hr>
 
 If you are interested in audio-visual processing these guides can help.
 
-## [Video processing of archival MXF](https://paradisec-archive.github.io/video_processing-MXF/)
+### [Video processing of archival MXF](https://paradisec-archive.github.io/video_processing-MXF/)
 * Create lossless JPEG2000 video files for archiving with PARADISEC (archival copy)
 * Handle video with problematic properties for lossless MXF format
 
-## [Video processing of MP4 (H.264)](https://paradisec-archive.github.io/video_processing-MP4/)
+### [Video processing of MP4 (H.264)](https://paradisec-archive.github.io/video_processing-MP4/)
 * Create well-formed .MP4s for archival access copies or fit-for-purpose copies
 * Extract audio from video
 * Handle video with problematic properties in your attempts to make .MP4s
 
-## [Audio procesing](https://paradisec-archive.github.io/audio_processing/)
+### [Audio procesing](https://paradisec-archive.github.io/audio_processing/)
 * Resampling audio to meet PARADISEC archiving standards
 * Creating stereo track from mono track
 
----
+<hr>
 
 And here is PARADISEC's full internal workflow model for ingesting files into our catalog: 
 
-## [PARADISEC Ingestion Workflow Model](https://paradisec-archive.github.io/ingestion_workflow_model/)
+### [PARADISEC Ingestion Workflow Model](https://paradisec-archive.github.io/ingestion_workflow_model/)
 * Pre-ingestion (audio tapes)
   * Assess collection (Admin and PD)
   * Rights

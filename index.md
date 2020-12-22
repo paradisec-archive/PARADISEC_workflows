@@ -5,7 +5,7 @@
 </p>
 <br>
 
-These pages are designed to help people with vastly different skills and goals. If there is something you want to know about, but the information is not contained in one of these guides, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
+These pages are designed to help people with vastly different skills and goals. If there is something you want to know about, but the information is not contained on one of these pages, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
 <br>
 <hr style="border:1px solid grey">
 *If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order:*

@@ -1,22 +1,39 @@
-<link rel="shortcut icon" href="images/favicon.ico">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-# Technical workflows designed to facilitate archiving with PARADISEC
+# Overview of technical workflows created by PARADISEC
 
 <p align="center">
   <img width="200" src="images/Revox_front.gif">
 </p>
 
-This site outlines some of the technical processes used when creating fit for purpose media files or creating archive-ready files. Most of this is done with [ffmpeg](www.ffmpeg.org) or [Adobe Creative Cloud](https://www.adobe.com/au/creativecloud.html) from CC2018 and later (Premiere, Media Encoder, Audition).
+These pages are designed to help people with vastly different skills and goals. There are guides for those just starting out with an archiving project and do not know where to begin. Some will help those who wish to create fit for purpose media files or creating archive-ready files. And there are very detailed guides for those with advanced skills who wish to learn more about PARADISEC's technical workflows. 
 
-Processes that will be outlined include the following:
 
-## [Suggested specifications for digital capture](https://paradisec-archive.github.io/suggested_specifications/)
+If you are just starting out and would like to know how to start the process of archiving with PARADISEC these guides can help you get your materials in order:
+
+## [Getting started with PARADISEC](https://paradisec-archive.github.io/archiving_workflow/)
+* How to become a PARADISEC user
+* How to start a collection
+* Archiving materials that come from analogue sources vs archiving born-digital materials
+* File-naming for PARADISEC
+* File formats we accept
 
 ## [Data management](https://paradisec-archive.github.io/data_management/)
 * Metadata entry with PARADISEC-formatted spreadsheets
 * Metadata entry with LaMeta
 * File naming requirements for PARADISEC
+
+The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or if instructions for those who are looking to digitise text material such as field notebooks:
+
+## [Suggested specifications for digital capture](https://paradisec-archive.github.io/suggested_specifications/)
+* Camera settings (frame rate, file formats)
+* Audio settings (sample and bit rates) 
+* Microphones
+
+## [Image capture and processing](https://paradisec-archive.github.io/image_processing/)
+* Photo stands/tripods and lighting
+* Remote capture using computer and camera
+* Post-production processing of images
+
+If you are interested in audio-visual processing these guides canhelp.
 
 ## [Video processing of archival MXF](https://paradisec-archive.github.io/video_processing-MXF/)
 * Create lossless JPEG2000 video files for archiving with PARADISEC (archival copy)
@@ -31,11 +48,9 @@ Processes that will be outlined include the following:
 * Resampling audio to meet PARADISEC archiving standards
 * Creating stereo track from mono track
 
-## [Image processing](https://paradisec-archive.github.io/image_processing/)
-
+And here is PARADISEC's full archiving workflow model: 
 
 ## [PARADISEC Ingestion Workflow Model](https://paradisec-archive.github.io/ingestion_workflow_model/)
-
 * Pre-ingestion (audio tapes)
   * Assess collection (Admin and PD)
   * Rights

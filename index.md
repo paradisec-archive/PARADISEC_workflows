@@ -8,7 +8,6 @@
 These pages are designed to help people with vastly different skills and goals. If there is something you want to know about, but the information is not contained in one of these guides, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
 <br>
 <hr style="border:1px solid grey">
-<br>
 *If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order:*
 
 ### [Getting started with PARADISEC](https://paradisec-archive.github.io/archiving_workflow/)
@@ -24,7 +23,6 @@ These pages are designed to help people with vastly different skills and goals. 
 * File naming requirements for PARADISEC
 <br>
 <hr style="border:1px solid grey">
-<br>
 *The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or if instructions for those who are looking to digitise text material such as field notebooks:*
 
 ### [Suggested specifications for digital capture](https://paradisec-archive.github.io/suggested_specifications/)
@@ -38,7 +36,6 @@ These pages are designed to help people with vastly different skills and goals. 
 * Post-production processing of images
 <br>
 <hr style="border:1px solid grey">
-<br>
 *If you are interested in audio-visual processing these guides can help.*
 
 ### [Video processing of archival MXF](https://paradisec-archive.github.io/video_processing-MXF/)
@@ -55,7 +52,6 @@ These pages are designed to help people with vastly different skills and goals. 
 * Creating stereo track from mono track
 <br>
 <hr style="border:1px solid grey">
-<br>
 *And here is PARADISEC's full internal workflow model for ingesting files into our catalog:* 
 
 ### [PARADISEC Ingestion Workflow Model](https://paradisec-archive.github.io/ingestion_workflow_model/)

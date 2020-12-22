@@ -6,7 +6,7 @@
 
 These pages are designed to help people with vastly different skills and goals. There are guides for those just starting out with an archiving project and do not know where to begin. Some will help those who wish to create fit for purpose media files or creating archive-ready files. And there are very detailed guides for those with advanced skills who wish to learn more about PARADISEC's technical workflows. 
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid blue">
 
 If you are just starting out and would like to know how to start the process of archiving with PARADISEC these guides can help you get your materials in order:
 

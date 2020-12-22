@@ -22,7 +22,7 @@ If you are just starting out and would like to know how to start the process of 
 * Metadata entry with LaMeta
 * File naming requirements for PARADISEC
 
-<hr>
+<hr style="border:1px solid grey">
 
 The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or if instructions for those who are looking to digitise text material such as field notebooks:
 

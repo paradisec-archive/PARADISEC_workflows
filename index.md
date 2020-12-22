@@ -23,7 +23,7 @@ These pages are designed to help people with vastly different skills and goals. 
 * File naming requirements for PARADISEC
 <br>
 <hr style="border:1px solid grey">
-*The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or if instructions for those who are looking to digitise text material such as field notebooks:*
+*The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or instructions for those who are looking to digitise text material such as field notebooks:*
 
 ### [Suggested specifications for digital capture](https://paradisec-archive.github.io/suggested_specifications/)
 * Camera settings (frame rate, file formats)

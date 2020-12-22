@@ -1,8 +1,9 @@
-# Overview of technical workflows created by PARADISEC
+# Overview of technical guides and workflows created by PARADISEC
 
 <p align="center">
   <img width="200" src="images/Revox_front.gif">
 </p>
+<br>
 
 These pages are designed to help people with vastly different skills and goals. If there is something you want to know about, but the information is not contained in one of these guides, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
 

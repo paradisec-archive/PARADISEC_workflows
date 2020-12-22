@@ -4,11 +4,11 @@
   <img width="200" src="images/Revox_front.gif">
 </p>
 
-These pages are designed to help people with vastly different skills and goals. There are guides for those just starting out with an archiving project and do not know where to begin. Some will help those who wish to create fit for purpose media files or creating archive-ready files. And there are very detailed guides for those with advanced skills who wish to learn more about PARADISEC's technical workflows. 
+These pages are designed to help people with vastly different skills and goals. If there is something you want to know about, but the information is not contained in one of these guides, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
 
-<hr style="border:2px solid grey">
+<hr style="border:1px solid grey">
 
-If you are just starting out and would like to know how to start the process of archiving with PARADISEC these guides can help you get your materials in order:
+If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order:
 
 ### [Getting started with PARADISEC](https://paradisec-archive.github.io/archiving_workflow/)
 * How to become a PARADISEC user
@@ -36,7 +36,7 @@ The following guides offer suggestions for when you are creating content for arc
 * Remote capture using computer and camera
 * Post-production processing of images
 
-<hr>
+<hr style="border:1px solid grey">
 
 If you are interested in audio-visual processing these guides can help.
 
@@ -53,7 +53,7 @@ If you are interested in audio-visual processing these guides can help.
 * Resampling audio to meet PARADISEC archiving standards
 * Creating stereo track from mono track
 
-<hr>
+<hr style="border:1px solid grey">
 
 And here is PARADISEC's full internal workflow model for ingesting files into our catalog: 
 

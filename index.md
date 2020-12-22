@@ -6,7 +6,7 @@
 <br>
 
 These pages are designed to help people with vastly different skills and goals. If there is something you want to know about, but the information is not contained in one of these guides, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
-
+<br>
 <hr style="border:1px solid grey">
 <br>
 
@@ -23,7 +23,7 @@ These pages are designed to help people with vastly different skills and goals. 
 * Metadata entry with PARADISEC-formatted spreadsheets
 * Metadata entry with LaMeta
 * File naming requirements for PARADISEC
-
+<br>
 <hr style="border:1px solid grey">
 <br>
 
@@ -38,7 +38,7 @@ These pages are designed to help people with vastly different skills and goals. 
 * Photo stands/tripods and lighting
 * Remote capture using computer and camera
 * Post-production processing of images
-
+<br>
 <hr style="border:1px solid grey">
 <br>
 
@@ -56,7 +56,7 @@ These pages are designed to help people with vastly different skills and goals. 
 ### [Audio procesing](https://paradisec-archive.github.io/audio_processing/)
 * Resampling audio to meet PARADISEC archiving standards
 * Creating stereo track from mono track
-
+<br>
 <hr style="border:1px solid grey">
 <br>
 

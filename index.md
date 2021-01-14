@@ -30,7 +30,7 @@ These pages are designed to help people with vastly different skills and goals. 
 * Audio settings (sample and bit rates) 
 * Microphones
 
-### [Image capture and processing](https://paradisec-archive.github.io/image_processing/)
+### [Digitising manuscripts](https://paradisec-archive.github.io/digitising_manuscripts/)
 * Photo stands/tripods and lighting
 * Remote capture using computer and camera
 * Post-production processing of images

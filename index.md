@@ -54,6 +54,10 @@ These pages are designed to help people with vastly different skills and goals. 
 <hr style="border:1px solid grey">
 *And here is PARADISEC's full internal workflow model for ingesting files into our catalog:* 
 
+### [Media captioning](https://paradisec-archive.github.io/media_captioning/)
+* Increase accesibility of your research content by adding captions
+* Use YouTube's AI technology to help you
+
 ### [PARADISEC Ingestion Workflow Model](https://paradisec-archive.github.io/ingestion_workflow/)
 * Pre-ingestion (audio tapes)
   * Assess collection (Admin and PD)

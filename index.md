@@ -56,6 +56,9 @@ These pages are designed to help people with vastly different skills and goals. 
 * Resampling audio to meet PARADISEC archiving standards
 * Creating stereo track from mono track
 
+### [Audio digitising](https://paradisec-archive.github.io/audio_digitising/)
+* Digitise audio cassette tapes and reel-to-reel tapes for archiving
+
 ### [Media captioning](https://paradisec-archive.github.io/media_captioning/)
 * Increase accesibility of your research content by adding captions
 * Use YouTube's AI technology to help you

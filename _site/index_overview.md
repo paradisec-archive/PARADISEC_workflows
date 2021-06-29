@@ -1,4 +1,4 @@
-# Overview of technical guides and workflows created by PARADISEC
+# Overview of technical guides and workflows
 
 <p align="center">
 🚧 This page is currently under construction, last edited on 2021-06-29 🚧

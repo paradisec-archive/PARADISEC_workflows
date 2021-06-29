@@ -8,3 +8,11 @@ search_tokenizer_separator: /[\s/]+/
 #heading_anchors: true
 #color_scheme: "dark"
 #theme: "just-the-docs"
+
+
+aux_links:
+  "PARADISEC Workflows on GitHub":
+    - "//https://github.com/paradisec-archive/PARADISEC_workflows"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true

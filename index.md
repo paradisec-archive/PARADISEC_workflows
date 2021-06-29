@@ -1,3 +1,9 @@
+---
+title: Overview
+layout: default
+nav_order: 1
+---
+
 # Overview of technical guides and workflows created by PARADISEC
 
 <p align="center">

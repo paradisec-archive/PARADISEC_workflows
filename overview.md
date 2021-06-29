@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Overview of technical guides and workflows
+## Overview of technical guides and workflows
 
 <p align="center">
 🚧 This page is currently under construction, last edited on 2021-06-29 🚧

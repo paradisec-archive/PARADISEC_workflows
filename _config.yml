@@ -1,10 +1,9 @@
 title: PARADISEC Workflows
 description: PARADISEC technical workflows and archiving guides 
 search_enabled: true
-theme: jekyll-theme-slate
+remote theme: jekyll-theme-slate
 search_enabled: true
 search.previews: 3
 search_tokenizer_separator: /[\s/]+/
 #heading_anchors: true
 #color_scheme: "dark"
-#theme: "just-the-docs"

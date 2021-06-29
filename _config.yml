@@ -12,7 +12,7 @@ search_tokenizer_separator: /[\s/]+/
 
 aux_links:
   "PARADISEC Workflows on GitHub":
-    - "//https://github.com/paradisec-archive/PARADISEC_workflows"
+    - "//github.com/paradisec-archive/PARADISEC_workflows"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

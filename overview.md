@@ -4,6 +4,15 @@ layout: default
 nav_order: 1
 ---
 
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Overview of technical guides and workflows
 
 <p align="center">

@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Overview",
     "title": "Overview",
-    "content": " ",
+    "content": ". | Overview of technical guides and workflows . | Getting started with PARADISEC | Data management | Suggested specifications for digital capture | Digitising manuscripts | Video processing of archival MXF | Video processing of MP4 (H.264) | Audio procesing | Audio digitising | Media captioning | PARADISEC Ingestion Workflow Model | . | . ",
     "url": "http://localhost:4000/overview.html",
     "relUrl": "/overview.html"
   },"4": {

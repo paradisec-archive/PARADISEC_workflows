@@ -34,5 +34,17 @@
     "content": ". | Audio Digitising Workflows for PARADISEC Archive . | Equipment . | Computer workstation | Soundcard: RME HDSPe AIO Pro | AD/DA Convertor: RME ADI-2 PRO FS | Audio cassette player: Tascam 122 mk II | Reel-to-reel tape player: Revox C270 | . | Software | Digitising Cassette Tapes | Digitising Reel-to-reel Tapes | Additional Resources | . | . ",
     "url": "http://localhost:4000/03_audio_digitising.html",
     "relUrl": "/03_audio_digitising.html"
+  },"6": {
+    "doc": "ReadMe",
+    "title": "Technical workflows designed to facilitate archiving with PARADISEC",
+    "content": "This site outlines some of the technical processes used when creating fit for purpose media files or creating archive-ready files. Most of this is done with ffmpeg or Adobe Creative Cloud from CC2018 and later (Premiere, Media Encoder, Audition). This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ",
+    "url": "http://localhost:4000/README.html#technical-workflows-designed-to-facilitate-archiving-with-paradisec",
+    "relUrl": "/README.html#technical-workflows-designed-to-facilitate-archiving-with-paradisec"
+  },"7": {
+    "doc": "ReadMe",
+    "title": "ReadMe",
+    "content": " ",
+    "url": "http://localhost:4000/README.html",
+    "relUrl": "/README.html"
   }
 }

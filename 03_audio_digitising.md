@@ -157,7 +157,7 @@ Press the button with the dot on it, far right. This will open the following rec
 14.	You can find the Azimuth screw on the TASCAM machine in the gap right above where the word STOP button. It is the screw to the left of the heads. Use the supplied tiny screwdriver.
   
 <p align="center">
-  <img width="300" src="images/TASCAM-AzimuthAdjustment.jpg"
+  <img width="300" src="images/TASCAM-AzimuthAdjustment.jpg">
 </p>
 
 

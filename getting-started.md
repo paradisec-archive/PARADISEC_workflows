@@ -1,8 +1,12 @@
 ---
+
 title: Getting started with PARADISEC
 layout: default
 nav_order: 2
+
 ---
+
+
 ## Getting Started with PARADISEC
 
 <p align="center">

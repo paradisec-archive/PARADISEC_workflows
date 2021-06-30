@@ -5,6 +5,15 @@ title: Getting started with PARADISEC
 nav_order: 2
 ---
 
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 
 ## Getting Started with PARADISEC
 

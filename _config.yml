@@ -9,7 +9,6 @@ search_tokenizer_separator: /[\s/]+/
 #color_scheme: "dark"
 #theme: "just-the-docs"
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
 
 aux_links:
   "PARADISEC Workflows on GitHub":

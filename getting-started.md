@@ -22,7 +22,7 @@ nav_order: 2
 </p>
 
 
-This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived with [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/).
+This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived with [PARADISEC](https://www.paradisec.org.au/) (Pacific and Regional Archive for Digital Sources in Engangered Cultures).
 
 ### STEP 1: Sign up as a user with PARADISEC
 Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.

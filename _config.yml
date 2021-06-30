@@ -9,3 +9,10 @@ search_tokenizer_separator: /[\s/]+/
 #color_scheme: "dark"
 
 theme: jekyll-theme-slate
+
+aux_links:
+  "PARADISEC Workflows on GitHub":
+    - "//github.com/paradisec-archive/PARADISEC_workflows"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true

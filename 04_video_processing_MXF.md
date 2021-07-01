@@ -1,5 +1,5 @@
 ---
-title: Video processing - MXF
+title: Video Processing - MXF
 layout: default
 published: true
 nav_order: 4

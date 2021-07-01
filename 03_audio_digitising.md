@@ -59,6 +59,7 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 </p>
 
 #### Reel-to-reel tape player: [Revox C270](https://www.reeltoreel.nl/studer/Public/Products/Revox/Revox_C270/Revox_C270_Op_E.pdf)
+<p align="center">
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
 

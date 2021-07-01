@@ -1,7 +1,7 @@
 ---
+title: Getting started with PARADISEC
 layout: default
 published: true
-title: Getting started with PARADISEC
 nav_order: 2
 ---
 

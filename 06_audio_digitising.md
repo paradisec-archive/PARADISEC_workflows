@@ -15,7 +15,7 @@ nav_order: 6
 </details>
 
 
-# Audio Digitising Workflows for PARADISEC Archive
+# Audio Digitising of Analogue Tapes
 <p align="center">
            🚧 This page is currently under construction 🚧 <br>
            Last edited on 2021-07-01

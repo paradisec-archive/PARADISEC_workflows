@@ -1,5 +1,5 @@
 ---
-title: Data and Metadata Management
+title: Metadata & Data Management
 layout: default
 published: true
 nav_order: 3
@@ -14,7 +14,7 @@ nav_order: 3
 {:toc}
 </details>
 
-## Data Management Suggestions for Archiving with PARADISEC or other archives
+## Metadata & Data Management
 
 
 <p align="center">

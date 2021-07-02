@@ -1,5 +1,5 @@
 ---
-title: Suggestions for Media Formats & Specifications
+title: Suggested specifications for digital capture
 layout: default
 published: true
 nav_order: 4
@@ -14,7 +14,7 @@ nav_order: 4
 {:toc}
 </details>
 
-## Suggested settings for recording audio and video for fiedwork
+## Suggested specifications for digital capture
 
 <p align="center">
 🚧 This page is currently under construction, last edited on 2021-05-25 🚧

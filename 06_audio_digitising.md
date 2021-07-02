@@ -179,7 +179,8 @@ Press the button with the dot on it, far right. This will open the following rec
 16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
 
 ### Digitising Reel-to-reel Tapes
-
+<br>
+<hr style="border:1px solid grey">
 ### Additional Resources
 [Pragmatic Audiovisual Preservation](http://doi.org/10.7207/twr20-10) (2021) Ashley Blewer
 

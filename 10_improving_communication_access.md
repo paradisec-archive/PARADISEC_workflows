@@ -53,6 +53,26 @@ As academics committed to equitable and democratic scholarship, we need to consi
 * **Live captions or transcriptions (onsite or remote):** Captions or transcriptions created by a human which can be done onsite or remotely. One method is referred to as *STTR (Speech-to-Text Relay)* in Australia and the UK. Another method is *CART (Communication Access Real-Time Translation)* in the USA. Both terms refer to the same output. The methods used to achieve either may be different, e.g., stenograph versus respeaking, which can affect the quality of captions produced. The output may be presented as captions or a transcription projected onto a screen, and/or sent directly to the laptop of the participant. However, it is important to realise that deaf and hard of hearing participants are often excluded from participating in discussions or question/answer sessions when using captions. This is because there is a delay between what is spoken and what is captioned, and/or when there is no option for deaf and hard of hearing participants to respond via typing text, and/or when they prefer to sign rather than type text. Moderators need to be aware there will be a delay, and check if anyone relying on captions needs clarification or wants to contribute.
 * **Sign language interpreters:** Qualified sign language interpreters can be booked to provide access for signing deaf people who use interpreters. A major benefit is that interpreters facilitate two-way interaction in real time, enabling everyone to access each other. Captions will only work one-way between people with sensorial asymmetries, e.g., between people who do not sign and deaf people who do not speak. Sign language interpreting is a very personal process and quality can vary widely. It is a good idea to liaise directly with the deaf person to find outwhat language, service and interpreters they prefer to use. See [below]() for more information on booking and working with sign language interpreters.
 
+#### How to caption pre-recorded content
+##### Creating captions using YouTube
+
+Below is a video that instructs you in creating captions for media using YouTube's AI (Artificial Intelligence) process *as a starting point*.
+The steps outlined in the video:
+* Create a YouTube account, as you will upload the video to your page.
+* YouTube will create captions automatically (usually within a few hours) 
+* Using YouTube Studio (accessible from your YouTube page), you will edit any mistakes made by YouTube's AI process (problems are typically with proper nouns)
+* Also in YouTube Studio, you will check the appropriateness of the caption alignment and amount of words on the screen, making sure the captions easy to read
+* You'll introduce each new speaker in the captions, e.g. ```[SPEAKER: Dr. Smith] Thank you for inviting me today.```
+* You will learn to download your newly corrected captions as .srt file
+* Using the free software [Handbrake](https://handbrake.fr/) you will then write those captions into your video file.
+
 <p align="center">
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/MQMdm6BYAJo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </p>
+
+##### Options for live captioning of online event
+
+###### Captions by AI -Artificial Intelligence
+* **Zoom** does have the option for the host of a meeting to engage the live captioning AI tool; **however**, this is dependent upon your institution’s license with Zoom. *At this time, ANU is in negotiations with Zoom to secure a new license, which would include this feature. Check with your versions of Zoom and if it is not a feature you can use, contact your institution’s IT department (those responsible for Zoom) or your Accessibility Services team and lodge a request. This is no guarantee you will get this feature-but providing feedback to your institution will be helpful.*
+<br>
+*For more information on how this works:* [https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription)

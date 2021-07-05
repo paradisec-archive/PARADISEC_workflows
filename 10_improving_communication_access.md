@@ -87,7 +87,9 @@ The steps outlined in the video:
 
 *See University of Melbourne’s findings on accuracy of MS Teams auto-captioning:* [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning) 
 
-  ==Things to keep in mind with AI auto-captioning:==
+
+  Things to keep in mind with AI auto-captioning:
   1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise
   2. AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful
   3. AI software may have subscriptions that are not covered by your institution
+{: .alert .alert-gitlab-orange}

@@ -30,7 +30,7 @@ nav_order: 1
 
 <img style='vertical-align:middle; 'img width="32"; src='images/GitHub-Light-32px.png'>
 <div style='vertical-align:middle; display:inline;'>
-*Last updated: 5 July 2021*
+<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 </div>
 
  [:octocat:](https://github.com/paradisec-archive/PARADISEC_workflows/tree/Test-for-new-page)

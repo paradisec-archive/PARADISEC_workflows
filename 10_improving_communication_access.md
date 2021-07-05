@@ -15,13 +15,13 @@ nav_order: 10
 </details>
 
 ## Improving communication access for deaf and hard of hearing people 
-
+<br>
 <p align="center">
 🚧 This page is currently under construction 🚧
 </p>
 
 <p align="center">
-  <img width="200" src="images/rev-rev-vox.gif">
+  <img width="300" src="images/rev-rev-vox.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 5 July 2021</span>

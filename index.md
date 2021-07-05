@@ -83,7 +83,7 @@ These technical workflows and archiving guides are designed to help people with 
 <hr style="border:1px solid grey">
 *CoEDL has released a set of [guidelines](http://www.dynamicsoflanguage.edu.au/publications-and-seminars/centre-publications/creating-captions-guidelines/) for improving communication access for deaf and hard of hearing people. This page offers a simple but effect workflow for integrating captioning and/or sign laguage interpreting.* 
 
-### Media captioning
+### Improving communication access for deaf & hard of hearing people 
 * General tips for improving communication access 
 * Ideas for captioning video presentations, both during and after an event
 * Tips on organising & working with a sign language interpreter

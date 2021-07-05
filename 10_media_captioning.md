@@ -1,5 +1,5 @@
 ---
-title: Adding Captions to Media
+title: Improving Communication Access
 layout: default
 published: true
 nav_order: 10
@@ -14,7 +14,7 @@ nav_order: 10
 {:toc}
 </details>
 
-## Captioning options to improve accessibility of your audio-visual content
+## Improving communication access for deaf and hard of hearing people 
 
 <p align="center">
 🚧 This page is currently under construction 🚧

@@ -58,13 +58,13 @@ As academics committed to equitable and democratic scholarship, we need to consi
 
 Below is a video that instructs you in creating captions for media using YouTube's AI (Artificial Intelligence) process *as a starting point*.
 The steps outlined in the video:
-* Create a YouTube account, as you will upload the video to your page.
+* Create a YouTube account, as you will upload the video to your page
 * YouTube will create captions automatically (usually within a few hours) 
 * Using YouTube Studio (accessible from your YouTube page), you will edit any mistakes made by YouTube's AI process (problems are typically with proper nouns)
 * Also in YouTube Studio, you will check the appropriateness of the caption alignment and amount of words on the screen, making sure the captions easy to read
 * You'll introduce each new speaker in the captions, e.g. ```[SPEAKER: Dr. Smith] Thank you for inviting me today.```
 * You will learn to download your newly corrected captions as .srt file
-* Using the free software [Handbrake](https://handbrake.fr/) you will then write those captions into your video file.
+* Using the free software [Handbrake](https://handbrake.fr/) you will then write those captions into your video file
 
 <p align="center">
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/MQMdm6BYAJo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
@@ -74,5 +74,20 @@ The steps outlined in the video:
 
 ###### Captions by AI -Artificial Intelligence
 * **Zoom** does have the option for the host of a meeting to engage the live captioning AI tool; **however**, this is dependent upon your institution’s license with Zoom. *At this time, ANU is in negotiations with Zoom to secure a new license, which would include this feature. Check with your versions of Zoom and if it is not a feature you can use, contact your institution’s IT department (those responsible for Zoom) or your Accessibility Services team and lodge a request. This is no guarantee you will get this feature-but providing feedback to your institution will be helpful.*
-<br>
+
 *For more information on how this works:* [https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription)
+
+
+* **Zoom + Otter.ai** is another method of live transcribing during a meeting, using artificial intelligence. Zoom allows for 3rd party software to perform auto-generated transcripts; this occurs in a separate text box, not as captions within the video window. If your institution does not provide this software to staff, there is a subscription for use. Otter’s Business Plan includes live captions for Zoom.
+
+*See University of Melbourne’s findings on accuracy of Otter.ai’s auto-transcripts:* [https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-automatically-generated-transcripts](https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-automatically-generated-transcriptsg)
+
+
+* **Microsoft Teams** also has a live captioning feature for meetings held within the MS Teams App.
+
+*See University of Melbourne’s findings on accuracy of MS Teams auto-captioning:* [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning) 
+
+  <pre><code>Things to keep in mind with AI auto-captioning:
+    1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise
+    2. AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful
+    3. AI software may have subscriptions that are not covered by your institution</code></pre>

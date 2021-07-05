@@ -14,6 +14,14 @@ nav_order: 10
 {:toc}
 </details>
 
+<style>
+H5{color:White !important;}
+</style>
+
+<style>
+H6{color:White !important;}
+</style>
+
 ## Improving communication access for deaf and hard of hearing people 
 <br>
 
@@ -70,10 +78,8 @@ The steps outlined in the video:
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/MQMdm6BYAJo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </p>
 
-<style>
-H5{color:White !important;}
 ##### Options for live captioning of online event
-</style>
+
 ###### Captions by AI -Artificial Intelligence
 
 * **Zoom** does have the option for the host of a meeting to engage the live captioning AI tool; **however**, this is dependent upon your institution’s license with Zoom. *At this time, ANU is in negotiations with Zoom to secure a new license, which would include this feature. Check with your versions of Zoom and if it is not a feature you can use, contact your institution’s IT department (those responsible for Zoom) or your Accessibility Services team and lodge a request. This is no guarantee you will get this feature-but providing feedback to your institution will be helpful.*

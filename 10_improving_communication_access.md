@@ -38,7 +38,7 @@ Some of these responses may feel reasonable from an institutional and bureaucrat
 
 As academics committed to equitable and democratic scholarship, we need to consider the impact that various institutional practices and norms can have on different people who want to participate. Many barriers can be removed by understanding what different forms of discrimination look like and how they can be avoided. This working guide is not exhaustive, as it focuses only on communication access for deaf and hard of hearing people. It is important to recognise that facilitating communication access is not just a response to one individual at one meeting or event. In time, many people will benefit as barriers are removed and the space becomes more equitable.
 
-### Captioning options to improveaccessibility ofyour audio-visualcontent
+### Captioning options to improve accessibility of your audio-visual content
 
 #### Some terms used
 * **Closed captioning vs open captioning**: Closed captions are ones that you can choose to display or not display. YouTube videos will often have CC options, as does Netflix. Open captions are those that cannot be removed from the display. An example is if you have created a subtitled video and burned the text into the video footage(this process will be described below).

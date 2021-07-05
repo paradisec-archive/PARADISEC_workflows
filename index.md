@@ -33,7 +33,7 @@ nav_order: 1
 These technical workflows and archiving guides are designed to help people with different goals and different skill levels. If there is a topic you want to know about, but the information is not contained on these pages, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
 <br>
 <hr style="border:1px solid grey">
-*If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order. :*
+*If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order.*
 
 ### Getting started with PARADISEC
 * How to become a PARADISEC user
@@ -48,7 +48,7 @@ These technical workflows and archiving guides are designed to help people with 
 * File naming requirements for PARADISEC
 <br>
 <hr style="border:1px solid grey">
-*The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or instructions for those who are looking to digitise text material such as field notebooks:*
+*The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or instructions for those who are looking to digitise text material such as field notebooks.*
 
 ### Suggested specifications for digital capture
 * Camera settings (frame rate, file formats)

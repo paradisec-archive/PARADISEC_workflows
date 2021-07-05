@@ -6,7 +6,14 @@ color_scheme: dark
 search_enabled: true
 search.previews: 3
 search_tokenizer_separator: /[\s/]+/
-#heading_anchors: true
+heading_anchors: true
+h1: {: .text-blue-000}
+h2: {: .text-blue-000}
+h3: {: .text-blue-000}
+h4: {: .text-blue-000}
+h5: {: .text-blue-000} {: .fs 4}
+h6: {: .text-blue-000} {: .fs 4}
+
 #color_scheme: "dark"
 #theme: "just-the-docs"
 

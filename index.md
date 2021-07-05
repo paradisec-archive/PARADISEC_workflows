@@ -30,7 +30,7 @@ nav_order: 1
 
 <span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 
-These technical workflows and archiving guides are designed to help people with different goals and very different skill levels. If there is a topic you want to know about, but the information is not contained on these pages, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
+These technical workflows and archiving guides are designed to help people with different goals and different skill levels. If there is a topic you want to know about, but the information is not contained on these pages, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
 <br>
 <hr style="border:1px solid grey">
 *If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order. :*
@@ -55,7 +55,7 @@ These technical workflows and archiving guides are designed to help people with 
 * Audio settings (sample and bit rates) 
 * Microphones
 
-### Digitising manuscripts
+### Digitising manuscripts & Field Notebooks
 * Photo stands/tripods and lighting
 * Remote capture using computer and camera
 * Post-production processing of images
@@ -79,9 +79,14 @@ These technical workflows and archiving guides are designed to help people with 
 * Create lossless JPEG2000 video files for archiving with PARADISEC (archival copy)
 * Handle video with problematic properties for lossless MXF format
 
+<br>
+<hr style="border:1px solid grey">
+*CoEDL has released a set of [guidelines](http://www.dynamicsoflanguage.edu.au/publications-and-seminars/centre-publications/creating-captions-guidelines/) for improving communication access for deaf and hard of hearing people. This page offers a simple but effect workflow for integrating captioning and/or sign laguage interpreting.* 
+
 ### Media captioning
-* Increase accesibility of your research content by adding captions
-* Use YouTube's AI technology to help you
+* General tips for improving communication access 
+* Ideas for captioning video presentations, both during and after an event
+* Tips on organising & working with a sign language interpreter
 
 <br>
 <hr style="border:1px solid grey">

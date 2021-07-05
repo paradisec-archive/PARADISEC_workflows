@@ -19,8 +19,10 @@ nav_order: 7
 <br>
 
 <p align="center">
-🚧 This page is currently under construction, last edited on 2021-07-01 🚧
+🚧 This page is currently under construction 🚧
 </p>
+
+<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 
 <br>
 <p align="center">

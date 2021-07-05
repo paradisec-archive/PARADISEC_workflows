@@ -17,13 +17,14 @@ nav_order: 6
 
 # Audio Digitising of Analogue Tapes
 <p align="center">
-           🚧 This page is currently under construction 🚧 <br>
-           Last edited on 2021-07-01
+           🚧 This page is currently under construction 🚧        
 </p>
 
 <p align="center">
   <img width="300" src="images/rev-rev-vox.gif">
 </p>
+
+<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 
 This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This worlflow can be modified to accommodate other organisations in their specific digitising goals.
 

@@ -17,12 +17,14 @@ nav_order: 4
 ## Suggested specifications for digital capture
 
 <p align="center">
-🚧 This page is currently under construction, last edited on 2021-05-25 🚧
+🚧 This page is currently under construction 🚧
 </p>
 
 <p align="center">
   <img height="100" src="images/lumetri_scope.gif">
 </p>
+
+<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 
 ### Audio recordings
 

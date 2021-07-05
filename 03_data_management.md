@@ -18,12 +18,14 @@ nav_order: 3
 
 
 <p align="center">
-🚧 This page is currently under construction, last edited on 2021-05-25 🚧
+🚧 This page is currently under construction 🚧
 </p>
 
 <p align="center">
   <img height="200" src="images/banner-notebooks.jpg">
 </p>
+
+<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 
 Most of this information is geared toward preparing your collection for [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/), but some of the organisational concepts can be applied to depositing with other archives such as [The Endangered Language Archive (ELAR)](https://elar.soas.ac.uk/) or [The Language Archive (TLA)](https://archive.mpi.nl/tla/).
 

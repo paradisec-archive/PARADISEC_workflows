@@ -17,12 +17,14 @@ nav_order: 10
 ## Captioning options to improve accessibility of your audio-visual content
 
 <p align="center">
-🚧 This page is currently under construction, last edited on 2021-05-25 🚧
+🚧 This page is currently under construction 🚧
 </p>
 
 <p align="center">
   <img height="200" src="images/rev-rev-vox.gif">
 </p>
+
+<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 
 ### What type of access could be offered and when?
 1. Captioning pre-recorded content:

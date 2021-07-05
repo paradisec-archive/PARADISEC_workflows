@@ -17,12 +17,14 @@ nav_order: 8
 ## MP4 (H.264)
 
 <p align="center">
-🚧 This page is currently under construction, last edited on 2021-05-25 🚧
+🚧 This page is currently under construction 🚧
 </p>
 
 ***Creating .MP4 (H.264) videos with either ffmpeg or Adobe Media Encoder (CC 2018 or later)***
 
->**Note:** This guide was last updated November 2020. Always check the links to the software webpages for any substantial changes to installation instructions.
+<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+
+>**Note:** Always check the links to the software webpages for any substantial changes to installation instructions.
 
 *[PARADISEC](https://paradisec.org) adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/).*
 

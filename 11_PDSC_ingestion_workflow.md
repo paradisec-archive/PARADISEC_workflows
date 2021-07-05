@@ -17,15 +17,17 @@ nav_order: 11
 ## PARADISEC Ingestion Workflow Model
 <br>
 <p align="center">
-🚧 This page is currently under construction, last edited on 2021-05-25 🚧
+🚧 This page is currently under construction🚧
 </p>
 
 
 <p align="center">
   <img width="500" src="images/Reel-BW-gh-page.jpg" alt="PARADISEC-reel-to-reel">
   </p>
-  
-This document was last updated 22 December 2020. Previous iterations of our Operations Manual (prior to implementation of the Nabu catalogue) are available from the downloads section of our website [https://www.paradisec.org.au/](http://www.paradisec.org.au/downloads.html).
+
+<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+
+Content for this document was last updated 22 December 2020. Previous iterations of our Operations Manual (prior to implementation of the Nabu catalogue) are available from the downloads section of our website [https://www.paradisec.org.au/](http://www.paradisec.org.au/downloads.html).
 
 For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au), or write to us at:<br><br>
 **PARADISEC <br>

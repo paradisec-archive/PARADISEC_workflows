@@ -21,6 +21,7 @@ nav_order: 2
   <img width="500" src="images/PARADISEC-banner.jpg">
 </p>
 
+<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 
 This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived with [PARADISEC](https://www.paradisec.org.au/) (Pacific and Regional Archive for Digital Sources in Engangered Cultures).
 

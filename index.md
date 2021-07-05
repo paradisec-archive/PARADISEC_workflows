@@ -28,7 +28,7 @@ nav_order: 1
 </p>
 <br>
 
-*Last updated: 5 July 2021* [::github::](https://github.com/paradisec-archive/PARADISEC_workflows/tree/Test-for-new-page)
+*Last updated: 5 July 2021* [:octocat:](https://github.com/paradisec-archive/PARADISEC_workflows/tree/Test-for-new-page)
 
 These technical workflows and archiving guides are designed to help people with different goals and very different skill levels. If there is a topic you want to know about, but the information is not contained on these pages, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au) and we will do our best to help. 
 <br>

@@ -37,7 +37,7 @@ nav_order: 10
 
 
 <div class="row video">
-   <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/{% "MQMdm6BYAJo" %}" frameborder="0" allow="autoplay; encrypted-media"
+   <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/MQMdm6BYAJo" frameborder="0" allow="autoplay; encrypted-media"
        allowfullscreen></iframe>
 </div>
 

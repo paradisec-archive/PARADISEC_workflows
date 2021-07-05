@@ -71,7 +71,7 @@ The steps outlined in the video:
 </p>
 
 <style>
-H5{color:Blue !important;}
+H5{color:White !important;}
 ##### Options for live captioning of online event
 </style>
 ###### Captions by AI -Artificial Intelligence

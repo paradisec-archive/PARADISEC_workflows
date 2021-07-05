@@ -72,7 +72,8 @@ The steps outlined in the video:
 
 ##### Options for live captioning of online event
 
-###### Captions by AI -Artificial Intelligence {.text-grey-lt-300}
+###### Captions by AI -Artificial Intelligence
+{: .text-blue-lt-000}
 
 * **Zoom** does have the option for the host of a meeting to engage the live captioning AI tool; **however**, this is dependent upon your institution’s license with Zoom. *At this time, ANU is in negotiations with Zoom to secure a new license, which would include this feature. Check with your versions of Zoom and if it is not a feature you can use, contact your institution’s IT department (those responsible for Zoom) or your Accessibility Services team and lodge a request. This is no guarantee you will get this feature-but providing feedback to your institution will be helpful.*
 

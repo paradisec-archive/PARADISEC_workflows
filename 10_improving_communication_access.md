@@ -82,15 +82,13 @@ The steps outlined in the video:
    * Introduce each new speaker in the captions, e.g. ```[SPEAKER: Dr. Smith] Thank you for inviting me today.```
    * Download your newly corrected captions as .srt file
    * Combine captions with your video using the free software [Handbrake](https://handbrake.fr/)
-
+<br>
 <p align="center">
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/MQMdm6BYAJo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </p>
-
 <br>
 <hr style="border:1px solid grey">
 <br>
-
 ##### Options for live captioning of online event
 
 ###### Captions by AI -Artificial Intelligence

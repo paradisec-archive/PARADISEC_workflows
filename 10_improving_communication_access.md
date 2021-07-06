@@ -108,7 +108,7 @@ The steps outlined in the video:
 <br>
 
 
-{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
+{% include note.html content="**Things to keep in mind with AI auto-captioning** <br/><br/> 1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise <br/><br/> 2. AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful <br/><br/> AI software may have subscriptions that are not covered by your institution" %}
 
 {% include callout.html content="**Important information**: This is my callout. It has a border on the left whose color you define by passing a type parameter. I typically use this style of callout when I have more information that I want to share, often spanning multiple paragraphs. <br/><br/>Here I am starting a new paragraph, because I have lots of information to share. You may wonder why I'm using line breaks instead of paragraph tags. This is because Kramdown processes the Markdown here as a span rather than a div (for whatever reason). Be grateful that you can be using Markdown at all inside of HTML. That's usually not allowed in Markdown syntax, but it's allowed here." type="primary" %}
 

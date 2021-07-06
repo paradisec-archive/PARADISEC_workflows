@@ -73,7 +73,6 @@ These technical workflows and archiving guides are designed to help people with 
 ### Video processing of archival MXF
 * Create lossless JPEG2000 video files for archiving with PARADISEC (archival copy)
 * Handle video with problematic properties for lossless MXF format
-
 <br>
 <hr style="border:1px solid grey">
 *CoEDL has released a set of [guidelines](http://www.dynamicsoflanguage.edu.au/publications-and-seminars/centre-publications/creating-captions-guidelines/) for improving communication access for deaf and hard of hearing people. This page offers a simple but effect workflow for integrating captioning and/or sign laguage interpreting.* 
@@ -82,26 +81,3 @@ These technical workflows and archiving guides are designed to help people with 
 * General tips for improving communication access 
 * Ideas for captioning video presentations, both during and after an event
 * Tips on organising & working with a sign language interpreter
-
-<br>
-<hr style="border:1px solid grey">
-*And here is PARADISEC's full internal workflow model for ingesting files into our catalog:* 
-
-### PARADISEC Ingestion Workflow Model
-* Pre-ingestion (audio tapes)
-  * Assess collection (Admin and PD)
-  * Rights
-  * Transportation
-  * Receipt of materials at ingestion point (Admin)
-  * metadata
-  * photograph tape covers and casings to capture all handwritten metadata
-  * prepare tapes for ingestion (Audio)
-* Ingestion Processes
-  * Wavelab ingestion processes – Sydney Lab (Audio)
-  * Dobbin Processes for BWF generation (Audio)
-  * Ingestion of photographic slides
-  * Digital text
-* University of Melbourne ingestion unit
-* Restore from archive process (SA)
-Appendix: Notes on Image Capture equipment 15
-

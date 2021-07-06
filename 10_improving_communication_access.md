@@ -113,8 +113,11 @@ The steps outlined in the video:
 > 3. AI software may have subscriptions that are not covered by your institution
 <br>
 
-JULIA's important paragraph. Hopefuly this is a blue box.
-{: .alert .alert-info}
+{{box op="start" cssClass="boxed noteBox"}}
+**Note!**
+
+This is something important to keep in mind.
+{{box op="end"}}
 
 
 ###### Live human captioning during online meeting

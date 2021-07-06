@@ -29,7 +29,7 @@ Developed by [Julia Miller](mailto:julia.miller@anu.edu.au) & [Gabrielle Hodge](
 *With thanks to Ida Rogers, Joshua Sealy and the CoEDL Executive Committee*
 
 <p align="center">
-  <img width="300" src="images/rev-rev-vox.gif">
+  <img width="500" src="images/ImprovingCommunicationAccess.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 28 June 2021</span>

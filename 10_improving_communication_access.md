@@ -111,10 +111,9 @@ The steps outlined in the video:
 | For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise
 AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful
 AI software may have subscriptions that are not covered by your institution |
-
 <br>
 
-###### Live human captioningduring online meeting
+###### Live human captioning during online meeting
 
 * CART *(Communication Access Real-Time Translation)* or STTR *(Speech-to-Text Relay)* is a service where a trained stenographer is either on-site or at a remote location listening to the speech and types the captions in real time. This is the method used to create transcripts of live court proceedings. However, some CART or STTR services (often for remote captions) are provided via re-speaking technologies, where a person listens to the speech and respeaks it more clearly for the AI recognition technology, which creates the captions. Stenography is a far more accurate method for live captioning.
 * Zoom has a feature which allows someone designated by the host to type in what is being said, and this can be seen as closed captions to anyone in the meeting who wishes to view it.

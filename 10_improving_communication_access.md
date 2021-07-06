@@ -59,7 +59,7 @@ As academics committed to equitable and democratic scholarship, we need to consi
 * Pre-recorded videos presented at a conference can be captioned prior to sending to conference organisers. Making a captioned version available would greatly improve access to your content.
 2. **Live captioning and/or interpreting:** When deaf or hard of hearing colleagues want to access and participate in live lectures, meetings, seminars, or workshops, you should make sure they have access to one or both of the following *(these services may be provided by the participant’s home institution, but this should not be assumed, as affiliation does not guarantee access)*:
 * **Live captions or transcriptions (onsite or remote):** Captions or transcriptions created by a human which can be done onsite or remotely. One method is referred to as *STTR (Speech-to-Text Relay)* in Australia and the UK. Another method is *CART (Communication Access Real-Time Translation)* in the USA. Both terms refer to the same output. The methods used to achieve either may be different, e.g., stenograph versus respeaking, which can affect the quality of captions produced. The output may be presented as captions or a transcription projected onto a screen, and/or sent directly to the laptop of the participant. However, it is important to realise that deaf and hard of hearing participants are often excluded from participating in discussions or question/answer sessions when using captions. This is because there is a delay between what is spoken and what is captioned, and/or when there is no option for deaf and hard of hearing participants to respond via typing text, and/or when they prefer to sign rather than type text. Moderators need to be aware there will be a delay, and check if anyone relying on captions needs clarification or wants to contribute.
-* **Sign language interpreters:** Qualified sign language interpreters can be booked to provide access for signing deaf people who use interpreters. A major benefit is that interpreters facilitate two-way interaction in real time, enabling everyone to access each other. Captions will only work one-way between people with sensorial asymmetries, e.g., between people who do not sign and deaf people who do not speak. Sign language interpreting is a very personal process and quality can vary widely. It is a good idea to liaise directly with the deaf person to find outwhat language, service and interpreters they prefer to use. See [below](https://paradisec-archive.github.io/PARADISEC_workflows/10_improving_communication_access.html#providing_interpreters_who_can_work_between_signed_and_spoken_languages) for more information on booking and working with sign language interpreters.
+* **Sign language interpreters:** Qualified sign language interpreters can be booked to provide access for signing deaf people who use interpreters. A major benefit is that interpreters facilitate two-way interaction in real time, enabling everyone to access each other. Captions will only work one-way between people with sensorial asymmetries, e.g., between people who do not sign and deaf people who do not speak. Sign language interpreting is a very personal process and quality can vary widely. It is a good idea to liaise directly with the deaf person to find outwhat language, service and interpreters they prefer to use. See [below](https://paradisec-archive.github.io/PARADISEC_workflows/10_improving_communication_access.html#providing-interpreters-who-can-work-between-signed-and-spoken-languages) for more information on booking and working with sign language interpreters.
 
 #### How to caption pre-recorded content
 ##### Creating captions using YouTube
@@ -96,11 +96,11 @@ The steps outlined in the video:
 
 *See University of Melbourne’s findings on accuracy of MS Teams auto-captioning:* [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning) 
 <br>
-| Things to keep in mind with AI auto-captioning: | 
+| Things to keep in mind with AI auto-captioning |
 | :--- |
-1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise |
-2. AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful |
-3. AI software may have subscriptions that are not covered by your institution |
+| 1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise |
+| 2. AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful |
+| 3. AI software may have subscriptions that are not covered by your institution |
 
 
 ###### Live human captioningduring online meeting
@@ -108,12 +108,12 @@ The steps outlined in the video:
 * CART *(Communication Access Real-Time Translation)* or STTR *(Speech-to-Text Relay)* is a service where a trained stenographer is either on-site or at a remote location listening to the speech and types the captions in real time. This is the method used to create transcripts of live court proceedings. However, some CART or STTR services (often for remote captions) are provided via re-speaking technologies, where a person listens to the speech and respeaks it more clearly for the AI recognition technology, which creates the captions. Stenography is a far more accurate method for live captioning.
 * Zoom has a feature which allows someone designated by the host to type in what is being said, and this can be seen as closed captions to anyone in the meeting who wishes to view it.
 
-| Things to keep in mind with live-captioning: | 
+| Things to keep in mind with live-captioning | 
 | :--- |
-1. CART or STTR option will have increased the quality of your transcriptions, but it will be costly, as you are paying for a trained service provider to type in captions during your event |
-2. CART or STTR can be provided by an on-site captioner or remotely. Remote caption services are often cheaper. However, you need to weigh up the benefits for the people requiring access for the meeting |
-3. It is a good idea to talk with the people requiring access to work out the best solution for the specific context |
-4. Deaf and hard of hearing participants are often excluded from participating in discussions or question/answer sessions when using captions. This is because there is a delay between what is spoken and what is captioned, and/or when there is no option for deaf and hard of hearing participants to respond via typing text, and/or when they prefer to sign rather than type text. Remember there will be a delay and check if anyone relying on captions needs clarification or wants to contribute |
+| 1. CART or STTR option will have increased the quality of your transcriptions, but it will be costly, as you are paying for a trained service provider to type in captions during your event |
+|2. CART or STTR can be provided by an on-site captioner or remotely. Remote caption services are often cheaper. However, you need to weigh up the benefits for the people requiring access for the meeting |
+| 3. It is a good idea to talk with the people requiring access to work out the best solution for the specific context |
+| 4. Deaf and hard of hearing participants are often excluded from participating in discussions or question/answer sessions when using captions. This is because there is a delay between what is spoken and what is captioned, and/or when there is no option for deaf and hard of hearing participants to respond via typing text, and/or when they prefer to sign rather than type text. Remember there will be a delay and check if anyone relying on captions needs clarification or wants to contribute |
 <br>
 
 ### Providing interpreters who can work between signed and spoken languages

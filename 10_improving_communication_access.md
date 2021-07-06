@@ -115,7 +115,7 @@ AI software may have subscriptions that are not covered by your institution |
 
 ###### Live human captioning during online meeting
 
-* CART *(Communication Access Real-Time Translation)* or STTR *(Speech-to-Text Relay)* is a service where a trained stenographer is either on-site or at a remote location listening to the speech and types the captions in real time. This is the method used to create transcripts of live court proceedings. However, some CART or STTR services (often for remote captions) are provided via re-speaking technologies, where a person listens to the speech and respeaks it more clearly for the AI recognition technology, which creates the captions. Stenography is a far more accurate method for live captioning.
+* **CART** *(Communication Access Real-Time Translation)*** or **STTR** *(Speech-to-Text Relay)* is a service where a trained stenographer is either on-site or at a remote location listening to the speech and types the captions in real time. This is the method used to create transcripts of live court proceedings. However, some CART or STTR services (often for remote captions) are provided via re-speaking technologies, where a person listens to the speech and respeaks it more clearly for the AI recognition technology, which creates the captions. Stenography is a far more accurate method for live captioning.
 * Zoom has a feature which allows someone designated by the host to type in what is being said, and this can be seen as closed captions to anyone in the meeting who wishes to view it.
 
 | Things to keep in mind with live-captioning | 

@@ -1,0 +1,16 @@
+current directory: /Users/u4777924/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/u4777924/.rbenv/versions/2.7.2/bin/ruby -I /Users/u4777924/.rbenv/versions/2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210706-36693-1cb4vc5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/u4777924/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/u4777924/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/u4777924/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20210706-36693-1bwhsiu

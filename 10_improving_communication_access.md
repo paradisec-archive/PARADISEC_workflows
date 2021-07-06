@@ -22,6 +22,8 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
+
+
 ## Improving communication access for deaf and hard of hearing people 
 <br>
 
@@ -105,6 +107,9 @@ The steps outlined in the video:
 
 *See University of Melbourne’s findings on accuracy of MS Teams auto-captioning:* [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning) 
 <br>
+
+{: .note }
+Note: Things to keep in mind 
 
 > **Things to keep in mind with AI auto-captioning**
 >

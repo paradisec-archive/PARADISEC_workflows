@@ -116,12 +116,12 @@ The steps outlined in the video:
 * **CART** *(Communication Access Real-Time Translation)*** or **STTR** *(Speech-to-Text Relay)* is a service where a trained stenographer is either on-site or at a remote location listening to the speech and types the captions in real time. This is the method used to create transcripts of live court proceedings. However, some CART or STTR services (often for remote captions) are provided via re-speaking technologies, where a person listens to the speech and respeaks it more clearly for the AI recognition technology, which creates the captions. Stenography is a far more accurate method for live captioning.
 * Zoom has a feature which allows someone designated by the host to type in what is being said, and this can be seen as closed captions to anyone in the meeting who wishes to view it.
 
-| Things to keep in mind with live-captioning | 
-| :--- |
-| CART or STTR option will have increased the quality of your transcriptions, but it will be costly, as you are paying for a trained service provider to type in captions during your event |
-| CART or STTR can be provided by an on-site captioner or remotely. Remote caption services are often cheaper. However, you need to weigh up the benefits for the people requiring access for the meeting |
-| It is a good idea to talk with the people requiring access to work out the best solution for the specific context |
-| Deaf and hard of hearing participants are often excluded from participating in discussions or question/answer sessions when using captions. This is because there is a delay between what is spoken and what is captioned, and/or when there is no option for deaf and hard of hearing participants to respond via typing text, and/or when they prefer to sign rather than type text. Remember there will be a delay and check if anyone relying on captions needs clarification or wants to contribute |
+>**Things to keep in mind with live-captioning**
+>
+>1. CART or STTR option will have increased the quality of your transcriptions, but it will be costly, as you are paying for a trained service provider to type in captions during your event
+> 2. CART or STTR can be provided by an on-site captioner or remotely. Remote caption services are often cheaper. However, you need to weigh up the benefits for the people requiring access for the meeting
+>3. It is a good idea to talk with the people requiring access to work out the best solution for the specific context
+>4. Deaf and hard of hearing participants are often excluded from participating in discussions or question/answer sessions when using captions. This is because there is a delay between what is spoken and what is captioned, and/or when there is no option for deaf and hard of hearing participants to respond via typing text, and/or when they prefer to sign rather than type text. Remember there will be a delay and check if anyone relying on captions needs clarification or wants to contribute
 <br>
 
 ### Providing interpreters who can work between signed and spoken languages

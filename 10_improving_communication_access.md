@@ -45,7 +45,6 @@ Responses can vary, but it is common to receive a response such as, *“Sorry, w
 Some of these responses may feel reasonable from an institutional and bureaucratic perspective, but it does not feel reasonable from a personal and individual one. The prevailing ideology is that communication access is too expensive, which means that deafness and deaf or hard of hearing people are treated as financially unsustainable. This is exhausting and harmful to both the deaf person and the academy as a whole. Over time, the cumulative effect is that deaf people and sign languages are not welcome in academic spaces. If the deaf academic or deaf participant is Aboriginal or Torres Strait Islander or from any other underrepresented group who has not historically participated in academia, these issues will be compounded by other barriers resulting from structural racism and other forms of systemic oppression. The result will be that deaf and hard of hearing signing people do not participate and everyone misses out. 
 
 As academics committed to equitable and democratic scholarship, we need to consider the impact that various institutional practices and norms can have on different people who want to participate. Many barriers can be removed by understanding what different forms of discrimination look like and how they can be avoided. This working guide is not exhaustive, as it focuses only on communication access for deaf and hard of hearing people. It is important to recognise that facilitating communication access is not just a response to one individual at one meeting or event. In time, many people will benefit as barriers are removed and the space becomes more equitable.
-
 <br>
 <hr style="border:1px solid grey">
 <br>
@@ -89,6 +88,7 @@ The steps outlined in the video:
 <br>
 <hr style="border:1px solid grey">
 <br>
+
 ##### Options for live captioning of online event
 
 ###### Captions by AI -Artificial Intelligence

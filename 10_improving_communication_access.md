@@ -23,7 +23,6 @@ H6{color:White !important;}
 </style>
 
 
-
 ## Improving communication access for deaf and hard of hearing people 
 <br>
 
@@ -108,8 +107,9 @@ The steps outlined in the video:
 *See University of Melbourne’s findings on accuracy of MS Teams auto-captioning:* [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning) 
 <br>
 
-{: .note }
-Note: Things to keep in mind 
+{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
+
+{% include callout.html content="**Important information**: This is my callout. It has a border on the left whose color you define by passing a type parameter. I typically use this style of callout when I have more information that I want to share, often spanning multiple paragraphs. <br/><br/>Here I am starting a new paragraph, because I have lots of information to share. You may wonder why I'm using line breaks instead of paragraph tags. This is because Kramdown processes the Markdown here as a span rather than a div (for whatever reason). Be grateful that you can be using Markdown at all inside of HTML. That's usually not allowed in Markdown syntax, but it's allowed here." type="primary" %}
 
 > **Things to keep in mind with AI auto-captioning**
 >
@@ -117,12 +117,6 @@ Note: Things to keep in mind
 > 2. AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful
 > 3. AI software may have subscriptions that are not covered by your institution
 <br>
-
-{{box op="start" cssClass="boxed noteBox"}}
-**Note!**
-
-This is something important to keep in mind.
-{{box op="end"}}
 
 
 ###### Live human captioning during online meeting

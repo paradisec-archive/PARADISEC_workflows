@@ -47,7 +47,6 @@ Some of these responses may feel reasonable from an institutional and bureaucrat
 As academics committed to equitable and democratic scholarship, we need to consider the impact that various institutional practices and norms can have on different people who want to participate. Many barriers can be removed by understanding what different forms of discrimination look like and how they can be avoided. This working guide is not exhaustive, as it focuses only on communication access for deaf and hard of hearing people. It is important to recognise that facilitating communication access is not just a response to one individual at one meeting or event. In time, many people will benefit as barriers are removed and the space becomes more equitable.
 <br>
 <hr style="border:1px solid grey">
-<br>
 
 ### Captioning options to improve accessibility of your audio-visual content
 
@@ -87,7 +86,6 @@ The steps outlined in the video:
 </p>
 <br>
 <hr style="border:1px solid grey">
-<br>
 
 ##### Options for live captioning of online event
 

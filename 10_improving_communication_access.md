@@ -84,7 +84,7 @@ The steps outlined in the video:
 <p align="center">
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/MQMdm6BYAJo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </p>
-<br>
+
 <hr style="border:1px solid grey">
 
 ##### Options for live captioning of online event

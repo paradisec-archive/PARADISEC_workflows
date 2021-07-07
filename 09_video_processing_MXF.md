@@ -25,7 +25,7 @@ nav_order: 9
 
 **_This page outlines how to create lossless JPEG2000 .MXF videos using Adobe Media Encoder (CC 2018 or later). This is for digital-to-digital transcoding. Contact PARADISEC if you have analog material to digitise._**
 
-*[PARADISEC](https://paradisec.org) adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/).*
+*[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
 ### Define Encoding Settings - Making an Encoding Preset
 The first thing we need to do is select the settings that we can use each time we want to create a lossless J2K .MXF video. To do this, we need to create an Encoding Preset. Go to the top Media Encoder CC menu to “Presets” and then select “Create Encoding Preset”. A new Preset window will open up. Look at the image below to see the settings you should choose. Each will be explained below.
@@ -55,7 +55,7 @@ Because we selected the **JPEG 2000 MXF OP1a** format above, the video codec wil
 
 Make certain **Match Source** is selected, this will automatically tick all the boxes below (if they are not already), retaining the same settings as those of the original file for the following fields *Width*, *Height*, *Frame Rate*, *Field Order*, and *Aspect [ratio]*.
 
-*Chroma* should be set to **YUV 4:2:2** with a *depth* of **8-bit**. In the rare case your original video has a colour depth of 10-bit, select the **10-bit** option. To determine the bit depth of a video, use [MediaInfo](https://mediaarea.net/en/MediaInfo); the file’s bit depth is listed in the MediaInfo metadata output report.
+*Chroma* should be set to **YUV 4:2:2** with a *depth* of **8-bit**. In the rare case your original video has a colour depth of 10-bit, select the **10-bit** option. To determine the bit depth of a video, use [MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"}; the file’s bit depth is listed in the MediaInfo metadata output report.
 
 > **Note:** If you are using CC2018: Set the Broadcast Profile to Level 6 (Lossless). This determines the maximum sampling and bit rates for the output file. You can see all the drop down choices offered below:
 
@@ -129,7 +129,7 @@ Once you have checked the file metadata with MediaInfo, you will need to play th
 
 > **Note:** VLC can open and play .MXF files, but the playback is always jumpy, so you cannot determine if it is the player or your transcoding that is the source of the jumpy playback. This is not acceptable for our workflow. 
 
-I suggest using Telestream's [Switch player](http://www.telestream.net/switch/overview.htm). You can get a free trial, but the price for the basic player is under AU$15. With the basic license, the viewer will show the Switch watermark in the upper right corner of the video during playback of .MXF files, but this has no bearing on its functionality for our task, playback. Switch is not to be used in any transcoding or editing capacity.
+I suggest using Telestream's [Switch player](http://www.telestream.net/switch/overview.htm){:target="_blank"}. You can get a free trial, but the price for the basic player is under AU$15. With the basic license, the viewer will show the Switch watermark in the upper right corner of the video during playback of .MXF files, but this has no bearing on its functionality for our task, playback. Switch is not to be used in any transcoding or editing capacity.
 
 <p align="center">
   <img width="500" src="images/Switch-mxf.png" alt="Screenshot of Telestrea's Switch media player">
@@ -142,19 +142,17 @@ You can see in the upper left corner that there is some quality reporting. Pay s
 ---
 
 ### Explanation of the Specifications used to create lossless MXF
-* **JPEG 2000 MXF OP1a** is the MXF (Material Exchage Format) Operational Pattern 1a (OP1a), with lossles JPEG 2000 in a generic container *(for more information see the Federal Agencies Digital Guidelines Initiative [FADGI](http://www.digitizationguidelines.gov/guidelines/MXF_app_spec.html))* 
+* **JPEG 2000 MXF OP1a** is the MXF (Material Exchage Format) Operational Pattern 1a (OP1a), with lossles JPEG 2000 in a generic container *(for more information see the Federal Agencies Digital Guidelines Initiative [FADGI](http://www.digitizationguidelines.gov/guidelines/MXF_app_spec.html){:target="_blank"})* 
 
-* **YUV 4:2:2** with a depth of **8 bit** is the *Chroma Subsampling* suggested by IASA for born-digital .MXF. **Y** (or often **Y′**) stands for the *luma*, or *brightness*, *component*; **U** and **V** are the two *colour components*. YUV colour encoding takes into consideration human perception thus creating an output that has masked any human-noticable distortions *(for more information see [YUV](https://en.wikipedia.org/wiki/YUV))*.
+* **YUV 4:2:2** with a depth of **8 bit** is the *Chroma Subsampling* suggested by IASA for born-digital .MXF. **Y** (or often **Y′**) stands for the *luma*, or *brightness*, *component*; **U** and **V** are the two *colour components*. YUV colour encoding takes into consideration human perception thus creating an output that has masked any human-noticable distortions *(for more information see [YUV](https://en.wikipedia.org/wiki/YUV){:target="_blank"})*.
 
-* **4:2:2** denotes the *vertical* and *horizontal subsampling* *(for more information read Charles Poynton's work on Chroma subsampling [HERE](https://poynton.ca/PDFs/Chroma_subsampling_notation.pdf))*.
+* **4:2:2** denotes the *vertical* and *horizontal subsampling* *(for more information read Charles Poynton's work on Chroma subsampling [HERE](https://poynton.ca/PDFs/Chroma_subsampling_notation.pdf){:target="_blank"})*.
 
 * **8-bits** per channel is typically the *bit depth* for many of the original .MOV, .MTS, .AVI, .MP4, etc. video files we handle. Using a 10-bit depth would needlessly increase the file-size while adding no improved quality.
 
 * **Broadcast profile** determines the maximum sampling and bit rates of the output file. **Level 6 lossless (L6)** is 520 Msamples/s and 1600Mbits/s. **Level 7 lossless (L7)** is 520 Msamples /s and and unspecified Max Bitrate.
 
-* For further information of the **Media Encoder export settings** mentioned above look [HERE](https://helpx.adobe.com/au/media-encoder/using/export-settings-reference.html).
-
-[Return to top of page](https://paradisec-archive.github.io/video_processing-MXF/)
+* For further information of the **Media Encoder export settings** mentioned above look [HERE](https://helpx.adobe.com/au/media-encoder/using/export-settings-reference.html){:target="_blank"}.
 
 
 [Back to top](#)

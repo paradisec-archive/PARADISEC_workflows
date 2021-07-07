@@ -27,9 +27,9 @@ nav_order: 11
 
 <span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 
-Content for this document was last updated 22 December 2020. Previous iterations of our Operations Manual (prior to implementation of the Nabu catalogue) are available from the downloads section of our website [https://www.paradisec.org.au/](http://www.paradisec.org.au/downloads.html).
+Content for this document was last updated 22 December 2020. Previous iterations of our Operations Manual (prior to implementation of the Nabu catalogue) are available from the downloads section of our website [https://www.paradisec.org.au/](http://www.paradisec.org.au/downloads.html){:target="_blank"}.
 
-For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au), or write to us at:<br><br>
+For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au){:target="_blank"}, or write to us at:<br><br>
 **PARADISEC <br>
 Sydney Conservatorium of Music, C41 <br>
 University of Sydney, 2006 <br>
@@ -85,7 +85,7 @@ Assign Persistent Identifier (PI) – if depositor already has a consistent nami
 
 Where depositor cannot enter own metadata, enter records manually or batch import records from a spreadsheet
 
-* **For batch import of new records:** ensure all metadata is inserted into the PARADISEC basic metadata import spreadsheet located at http://www.paradisec.org.au/downloads.html (only those fields listed in the spreadsheet can be imported, and no changes should be made to fields or
+* **For batch import of new records:** ensure all metadata is inserted into the PARADISEC basic metadata import spreadsheet located at http://www.paradisec.org.au/downloads.html{:target="_blank"} (only those fields listed in the spreadsheet can be imported, and no changes should be made to fields or
 headings in the spreadsheet, metadata should only be added to existing fields)
   * Open Nabu and click on the Dashboard tab
   * Click on ‘Upload metadata file’ button
@@ -113,7 +113,7 @@ When tapes returned, note date in ‘tracking’ field of Item, Archive Informat
 #### Prepare tapes for ingestion (Audio)
 * Assess tape condition – treat mouldy items according to the below procedure *(wear a mask and latex gloves as protective gear)*
 * Dehumidify in vacuum oven if necessary, with separate batches for mould-affected items
-* If necessary, advice regarding duration of treatment and temperature can be found at [NFSA](http://nfsa.gov.au/) and also within the IASA [TC-04 Guidelines](www.iasaweb.org/tc04/audio-preservation)
+* If necessary, advice regarding duration of treatment and temperature can be found at [NFSA](http://nfsa.gov.au/){:target="_blank"} and also within the IASA [TC-04 Guidelines](www.iasaweb.org/tc04/audio-preservation){:target="_blank"}
 * If mouldy remove any visible growths first with cotton bud or pad and solution of isopropyl and cetramide
 * If sticky shed is present no special prior treatment is needed
 * Clean and prepare for ingestion
@@ -181,7 +181,7 @@ When tapes returned, note date in ‘tracking’ field of Item, Archive Informat
 
 * check that mandatory metadata fields (PI, title, date created, country, collector) are in Nabu catalogue, if not, add them. If you are unsure of what information to enter into the catalogue, liaise with Admin
 
-* Before adding files to Nabu, all mac users must ensure they delete any hidden files (they start with a . e.g. ‘.DS_Store’) so they do not cause errors, and also delete them immediately from the ‘Processing Area\forDobbin’ folder if they appear in there during the process of copying files across. To do this all Mac users must switch on viewing of invisible or hidden files. Instructions can be found here: [http://www.macworld.co.uk/how-to/macsoftware/how-show-hidden-files-in-mac-os-x-finder-funter-3520878/](http://www.macworld.co.uk/how-to/macsoftware/how-show-hidden-files-in-mac-os-x-finder-funter-3520878/)
+* Before adding files to Nabu, all mac users must ensure they delete any hidden files (they start with a . e.g. ‘.DS_Store’) so they do not cause errors, and also delete them immediately from the ‘Processing Area\forDobbin’ folder if they appear in there during the process of copying files across. To do this all Mac users must switch on viewing of invisible or hidden files. Instructions can be found here: [http://www.macworld.co.uk/how-to/macsoftware/how-show-hidden-files-in-mac-os-x-finder-funter-3520878/](http://www.macworld.co.uk/how-to/macsoftware/how-show-hidden-files-in-mac-os-x-finder-funter-3520878/){:target="_blank"}
 
 * place files in **parapd00470.srv.sydney.edu.au\Processing Area\forDobbin**, this will trigger Nabu to create matching .imp and .id3 xml export files (see below section *Dobbin Processes for BWF generation* for details). Otherwise, if more work will be undertaken at a later time, files should be placed on the server in **parapd00470.srv.sydney.edu.au\Processing Area\waitingArea**.
 
@@ -206,7 +206,7 @@ When tapes returned, note date in ‘tracking’ field of Item, Archive Informat
 
 #### Ingestion of photographic slides
 
-The process for ingesting slides and digital image capture is documented in Paradisec Operations Manual 2011, and the appended Austech manual [http://www.paradisec.org.au/downloads.html](http://www.paradisec.org.au/downloads.html). Contact [PARADISEC staff](mailto:admin@paradisec.org.au) for further details.
+The process for ingesting slides and digital image capture is documented in Paradisec Operations Manual 2011, and the appended Austech manual [http://www.paradisec.org.au/downloads.html](http://www.paradisec.org.au/downloads.html){:target="_blank"}. Contact [PARADISEC staff](mailto:admin@paradisec.org.au){:target="_blank"} for further details.
 
 #### Digital text
 

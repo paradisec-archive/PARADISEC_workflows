@@ -44,22 +44,22 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 |***Drive*** | 8xDVD +/-RW 9.5mm Optical Disk Drive |
 |***Full-size Tower*** | SSF (Small Form Factor) will not accomodate necessary soundcard |
 
-#### Soundcard: [RME HDSPe AIO Pro](https://www.rme-audio.de/hdspe-aio-pro.html)
+#### Soundcard: [RME HDSPe AIO Pro](https://www.rme-audio.de/hdspe-aio-pro.html){:target="_blank"}
 <p align="center">
   <img width="500" src="images/RME-Soundcard.jpg">
 </p>
 
-#### AD/DA Convertor: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html)
+#### AD/DA Convertor: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html){:target="_blank"}
 <p align="center">
   <img width="500" src="images/RME.jpg">
 </p>
 
-#### Audio cassette player: [Tascam 122 mk II](https://tascam.com/downloads/tascam/324/122mkIII_TECHDOC.pdf)
+#### Audio cassette player: [Tascam 122 mk II](https://tascam.com/downloads/tascam/324/122mkIII_TECHDOC.pdf){:target="_blank"}
 <p align="center">
   <img width="500" src="images/tascam_112_MKII_1.jpg">
 </p>
 
-#### Reel-to-reel tape player: [Revox C270](https://www.reeltoreel.nl/studer/Public/Products/Revox/Revox_C270/Revox_C270_Op_E.pdf)
+#### Reel-to-reel tape player: [Revox C270](https://www.reeltoreel.nl/studer/Public/Products/Revox/Revox_C270/Revox_C270_Op_E.pdf){:target="_blank"}
 <p align="center">
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
@@ -183,10 +183,10 @@ Press the button with the dot on it, far right. This will open the following rec
 <br>
 <hr style="border:1px solid grey">
 ### Additional Resources
-[Pragmatic Audiovisual Preservation](http://doi.org/10.7207/twr20-10) (2021) Ashley Blewer
+[Pragmatic Audiovisual Preservation](http://doi.org/10.7207/twr20-10){:target="_blank"} (2021) Ashley Blewer
 
-[IASA Technical Committee, Guidelines on the Production and Preservation of Digital Audio Objects](https://www.iasa-web.org/tc04/audio-preservation) (2009, 2nd ed.) ed. by Kevin Bradley.
+[IASA Technical Committee, Guidelines on the Production and Preservation of Digital Audio Objects](https://www.iasa-web.org/tc04/audio-preservation){:target="_blank"} (2009, 2nd ed.) ed. by Kevin Bradley.
 
-[Sound Directions: Best Practice for Audio Preservation](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml) (2007) Mike Casey & Bruce Gordon
+[Sound Directions: Best Practice for Audio Preservation](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml){:target="_blank"} (2007) Mike Casey & Bruce Gordon
 
 [Back to top](#)

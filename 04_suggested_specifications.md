@@ -21,7 +21,7 @@ nav_order: 4
 </p>
 
 <p align="center">
-  <img height="100" src="images/lumetri_scope.gif">
+  <img width="200" src="images/lumetri_scope.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 5 July 2021</span>

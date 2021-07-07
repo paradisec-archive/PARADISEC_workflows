@@ -22,7 +22,7 @@ nav_order: 3
 </p>
 
 <p align="center">
-  <img width="300" src="images/banner-notebooks.jpg">
+  <img width="500" src="images/banner-notebooks.jpg">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 7 July 2021</span>

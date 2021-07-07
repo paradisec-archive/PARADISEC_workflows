@@ -169,6 +169,22 @@ This involves sharing any preparation materials with the confirmed interpreting 
 4. *Receiving invoices and paying interpreters* <br>
 If you are covering the cost of interpreters and managing the finances of the event, you will receive an invoice from each interpreter after the event. You will need to pay this within the specified period. Late payments can damage professional relationships with interpreters.
 
+### Services and Tools
+* Expression Australia (Auslan interpreting, captioning, notetaking,transcription): [https://www.expression.com.au/services/interpreting-and-captioning](https://www.expression.com.au/services/interpreting-and-captioning)
+* The Deaf Society (Auslan interpreting): [https://deafsociety.org.au/](https://deafsociety.org.au/)
+* Ai-Media(Live CART captioning org): [https://www.ai-media.tv/](https://www.ai-media.tv/)
+* Otter.ai (AI captioning tool): [https://otter.ai/](https://otter.ai/)
+
+
+### Other Helpful Links
+* DCAL Remote Working guidelines for working with sign language interpreters on Zoom, etc: [https://www.ucl.ac.uk/dcal/remote-working-guidelines](https://www.ucl.ac.uk/dcal/remote-working-guidelines)
+* Automatic closed captioning with Zoom in use at the University College London: [https://www.ucl.ac.uk/teaching-learning/news/2021/mar/zoom-licence-renewed-automatic-closed-captions-and-transcriptions-added](https://www.ucl.ac.uk/teaching-learning/news/2021/mar/zoom-licence-renewed-automatic-closed-captions-and-transcriptions-added)
+* University of Melbourne articles on Auto-Captioning:
+    * [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning)
+    * [https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-closed-captions](https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-closed-captions)
+* Ai-Media Blog offers many informative posts including closed captioning how-to, tips for being Deaf-aware, what is Audism: [https://www.ai-media.tv/ai-media-blog/](https://www.ai-media.tv/ai-media-blog/)
+* Great example of commitment to accessibility at Griffith University: [https://www.griffith.edu.au/accessibility/creating-accessible-learning-environments/auslan-interpreters-and-captioning-for-events](https://www.griffith.edu.au/accessibility/creating-accessible-learning-environments/auslan-interpreters-and-captioning-for-events)
+* Another example of how to create accessible events from University College London: [https://www.ucl.ac.uk/equality-diversity-inclusion/equality-areas/disability-equality/tips-checklist-making-events-accessible](https://www.ucl.ac.uk/equality-diversity-inclusion/equality-areas/disability-equality/tips-checklist-making-events-accessible)
 
 
 [Back to top](#)

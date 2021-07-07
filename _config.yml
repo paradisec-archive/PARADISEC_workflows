@@ -7,6 +7,8 @@ search_enabled: true
 search.previews: 3
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
+
+# Back to the top link
 back_to_top: true
 back_to_top_text: "Back to top"
 

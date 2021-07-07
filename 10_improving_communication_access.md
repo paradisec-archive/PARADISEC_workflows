@@ -108,14 +108,12 @@ The steps outlined in the video:
 <br>
 
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note: Things to keep in mind:</b> <br/><br/> 1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise <br/><br/> 2. AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful <br/><br/> 3. AI software may have subscriptions that are not covered by your institution"</div>
-
-
-> **Things to keep in mind with AI auto-captioning**
->
-> 1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise
-> 2. AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful
-> 3. AI software may have subscriptions that are not covered by your institution
+```
+**Things to keep in mind with AI auto-captioning** <br>
+1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise <br>
+2. AI captioned output will have many mistakes, perhaps even so many that the content is no longer accurate or useful <br>
+3. AI software may have subscriptions that are not covered by your institution
+```
 <br>
 
 

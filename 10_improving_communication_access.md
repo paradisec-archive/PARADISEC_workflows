@@ -109,6 +109,15 @@ The steps outlined in the video:
 
 {% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 
+<div class="panel panel-info">
+**Note**
+{: .panel-heading}
+<div class="panel-body">
+
+NOTE DESCRIPTION - jcm
+</div>
+</div>
+
 ```
 **Things to keep in mind with AI auto-captioning** <br>
 1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise <br>

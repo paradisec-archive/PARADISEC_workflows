@@ -160,7 +160,7 @@ As explained above, interpreters can be booked to provide access for signing dea
 
 <hr style="border:1px solid grey">
 
-#### There are four steps and responsibilities involved in finding, booking and working with interpreters:
+#### Steps & responsibilities involved in finding, booking & working with interpreters
 
 1. *Determining what communication access is required* <br>
 This includes finding out what language services are needed, e.g., Auslan/English interpreters, ASL/English interpreters, or some other language pair. Even if you are not organising and paying for the interpreting specifically, as the organiser of the event you will need to facilitate how communication access is provided, and this includes working with the interpreters to ensure the event runs effectively. Some large events, e.g., international conferences, may have different interpreting teams and language pairs. Often these events will require a designated Interpreter Coordinator to liaise between all and ensure cohesive service delivery.

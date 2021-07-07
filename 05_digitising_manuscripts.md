@@ -271,3 +271,5 @@ Your export settings for archiving with PARADISEC should be the following:
 
 ### Additional resources
 Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747) Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138
+
+[Back to top](#)

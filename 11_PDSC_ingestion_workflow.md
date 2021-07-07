@@ -353,3 +353,6 @@ when starting the Remote Shooting window, you need to choose the folder that the
 * If taking a lot of photographs of papers of a uniform size, drawing pencil dots on the backing cardboard to line up the paper speeds up the process. Folded-over post-it notes are a good way to stick down curling paper.
 * If you want to make a very small adjustment to the zoom, it is easier to adjust the height of the camera tripod than adjusting the zoom on the computer.
 * A suggestion for making copying books easier: if it were possible to make the automatic page numbering ‘odd’ or ‘even’, then every second page could be copied. This would be useful when photographing books because you could photograph all the left-hand pages and then all the right-hand pages, and you would only have to turn the page while keeping the book in place, rather than having to move it after taking each photograph.
+
+
+[Back to top](#)

@@ -189,3 +189,4 @@ Press the button with the dot on it, far right. This will open the following rec
 
 [Sound Directions: Best Practice for Audio Preservation](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml) (2007) Mike Casey & Bruce Gordon
 
+[Back to top](#)

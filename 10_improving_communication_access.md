@@ -135,3 +135,6 @@ The steps outlined in the video:
 ### Providing interpreters who can work between signed and spoken languages
 
 There are many different situations in which you may need to book sign language interpreters. You may have invited a deaf academic from Australia or overseas. You may have received a request from a deaf member of the public to attend a seminar or event. You may be hosting an event on a topic related to deafness, deaf people and sign language and seek to make it accessible for the wider deaf community. Different situations may require different processes for booking sign language interpreters.
+
+
+[Back to top](#)

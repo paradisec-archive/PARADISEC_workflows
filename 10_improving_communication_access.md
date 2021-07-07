@@ -75,7 +75,7 @@ Below is a video that instructs you in creating captions for media using YouTube
 
 <hr style="border:1px solid blue">
 **Note:**
-More information, including a .pdf version of the step-by-step process, can be found here: [Creating Captions Guidelines](https://www.dynamicsoflanguage.edu.au/news-and-media/latest-headlines/article/?id=new-guidelines-for-improving-communication-access)
+More information, including a .pdf version of the step-by-step process, can be found here: [Creating Captions Guidelines](https://www.dynamicsoflanguage.edu.au/news-and-media/latest-headlines/article/?id=new-guidelines-for-improving-communication-access){:target="_blank"}
 <hr style="border:1px solid blue">
 The steps outlined in the video:
 

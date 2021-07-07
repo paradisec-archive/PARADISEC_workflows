@@ -64,7 +64,7 @@ As academics committed to equitable and democratic scholarship, we need to consi
 * Pre-recorded videos presented at a conference can be captioned prior to sending to conference organisers. Making a captioned version available would greatly improve access to your content.
 2. **Live captioning and/or interpreting:** When deaf or hard of hearing colleagues want to access and participate in live lectures, meetings, seminars, or workshops, you should make sure they have access to one or both of the following *(these services may be provided by the participant’s home institution, but this should not be assumed, as affiliation does not guarantee access)*:
 * **Live captions or transcriptions (onsite or remote):** Captions or transcriptions created by a human which can be done onsite or remotely. One method is referred to as *STTR (Speech-to-Text Relay)* in Australia and the UK. Another method is *CART (Communication Access Real-Time Translation)* in the USA. Both terms refer to the same output. The methods used to achieve either may be different, e.g., stenograph versus respeaking, which can affect the quality of captions produced. The output may be presented as captions or a transcription projected onto a screen, and/or sent directly to the laptop of the participant. However, it is important to realise that deaf and hard of hearing participants are often excluded from participating in discussions or question/answer sessions when using captions. This is because there is a delay between what is spoken and what is captioned, and/or when there is no option for deaf and hard of hearing participants to respond via typing text, and/or when they prefer to sign rather than type text. Moderators need to be aware there will be a delay, and check if anyone relying on captions needs clarification or wants to contribute.
-* **Sign language interpreters:** Qualified sign language interpreters can be booked to provide access for signing deaf people who use interpreters. A major benefit is that interpreters facilitate two-way interaction in real time, enabling everyone to access each other. Captions will only work one-way between people with sensorial asymmetries, e.g., between people who do not sign and deaf people who do not speak. Sign language interpreting is a very personal process and quality can vary widely. It is a good idea to liaise directly with the deaf person to find outwhat language, service and interpreters they prefer to use. See [below](https://paradisec-archive.github.io/PARADISEC_workflows/10_improving_communication_access.html#providing-interpreters-who-can-work-between-signed-and-spoken-languages) for more information on booking and working with sign language interpreters.
+* **Sign language interpreters:** Qualified sign language interpreters can be booked to provide access for signing deaf people who use interpreters. A major benefit is that interpreters facilitate two-way interaction in real time, enabling everyone to access each other. Captions will only work one-way between people with sensorial asymmetries, e.g., between people who do not sign and deaf people who do not speak. Sign language interpreting is a very personal process and quality can vary widely. It is a good idea to liaise directly with the deaf person to find outwhat language, service and interpreters they prefer to use, [see below](#providing-interpreters-who-can-work-between-signed-and-spoken-languages) for more information on booking and working with sign language interpreters.
 
 
 #### How to caption pre-recorded content
@@ -99,17 +99,17 @@ The steps outlined in the video:
 
 * **Zoom** does have the option for the host of a meeting to engage the live captioning AI tool; **however**, this is dependent upon your institution’s license with Zoom. *At this time, ANU is in negotiations with Zoom to secure a new license, which would include this feature. Check with your versions of Zoom and if it is not a feature you can use, contact your institution’s IT department (those responsible for Zoom) or your Accessibility Services team and lodge a request. This is no guarantee you will get this feature-but providing feedback to your institution will be helpful.*
 
-*For more information on how this works:* [https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription)
+*For more information on how this works:* [https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription){:target="_blank"}
 
 
 * **Zoom + Otter.ai** is another method of live transcribing during a meeting, using artificial intelligence. Zoom allows for 3rd party software to perform auto-generated transcripts; this occurs in a separate text box, not as captions within the video window. If your institution does not provide this software to staff, there is a subscription for use. Otter’s Business Plan includes live captions for Zoom.
 
-*See University of Melbourne’s findings on accuracy of Otter.ai’s auto-transcripts:* [https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-automatically-generated-transcripts](https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-automatically-generated-transcriptsg)
+*See University of Melbourne’s findings on accuracy of Otter.ai’s auto-transcripts:* [https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-automatically-generated-transcripts](https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-automatically-generated-transcriptsg){:target="_blank"}
 
 
 * **Microsoft Teams** also has a live captioning feature for meetings held within the MS Teams App.
 
-*See University of Melbourne’s findings on accuracy of MS Teams auto-captioning:* [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning) 
+*See University of Melbourne’s findings on accuracy of MS Teams auto-captioning:* [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning){:target="_blank"}
 <br>
 
 <br>
@@ -156,7 +156,7 @@ As explained above, interpreters can be booked to provide access for signing dea
 * Depending on the situation, some deaf participants may be able to cover the cost of interpreting with their own funds. However, this cannot be assumed as it varies so widely according to country and individual. If the person has recourse to funds, they will usually tell you upfront. If there is no recourse to funds, you will need to arrange a budget. This may be via the central University body, Department or some other means. If you are organising a conference and there is no budget for communication access, you need to consider why this is the case.
 * It is important to work with interpreters who are registered with NAATI or equivalent professional bodies of the country of origin. Please check that the interpreters you are booking are registered professionals.
 * Sign language interpreters typically work in pairs. In Australia, the minimum cost will be for two interpreters for a two-hour assignment, although you can of course book two interpreters for shorter or longer durations. The interpreting team will switch roles every 15-20 minutes to assist with the cognitive labour of simultaneous interpreting. Some interpreters will accept bookings to work solo for up to one hour, as long as breaks are included and carefully monitored. However, this is usually negotiated on a case-by-case basis and only for small, one-to-one meetings, for example. It is not usually possible for dense academic presentations.
-* Consider how different contexts (e.g.,in-person versus virtual) can enhance or oppress communication between non-signing and signing people (who must visually attend to the interpreter while they are signing, and therefore cannot look at other things at the same time). The Deafness Cognition and Language (DCAL) research centre at UCL has published these helpful guidelines on managing online events that involve deaf signing people, sign language interpreters and/or captions: [https://www.ucl.ac.uk/dcal/remote-working-guidelines](https://www.ucl.ac.uk/dcal/remote-working-guidelines)
+* Consider how different contexts (e.g.,in-person versus virtual) can enhance or oppress communication between non-signing and signing people (who must visually attend to the interpreter while they are signing, and therefore cannot look at other things at the same time). The Deafness Cognition and Language (DCAL) research centre at UCL has published these helpful guidelines on managing online events that involve deaf signing people, sign language interpreters and/or captions: [https://www.ucl.ac.uk/dcal/remote-working-guidelines](https://www.ucl.ac.uk/dcal/remote-working-guidelines){:target="_blank"}
 
 <hr style="border:1px solid grey">
 
@@ -177,21 +177,21 @@ If you are covering the cost of interpreters and managing the finances of the ev
 <hr style="border:1px solid grey">
 
 ### Services and Tools
-* Expression Australia (Auslan interpreting, captioning, notetaking,transcription): [https://www.expression.com.au/services/interpreting-and-captioning](https://www.expression.com.au/services/interpreting-and-captioning)
-* The Deaf Society (Auslan interpreting): [https://deafsociety.org.au/](https://deafsociety.org.au/)
-* Ai-Media(Live CART captioning org): [https://www.ai-media.tv/](https://www.ai-media.tv/)
-* Otter.ai (AI captioning tool): [https://otter.ai/](https://otter.ai/)
+* Expression Australia (Auslan interpreting, captioning, notetaking,transcription): [https://www.expression.com.au/services/interpreting-and-captioning](https://www.expression.com.au/services/interpreting-and-captioning){:target="_blank"}
+* The Deaf Society (Auslan interpreting): [https://deafsociety.org.au/](https://deafsociety.org.au/){:target="_blank"}
+* Ai-Media(Live CART captioning org): [https://www.ai-media.tv/](https://www.ai-media.tv/){:target="_blank"}
+* Otter.ai (AI captioning tool): [https://otter.ai/](https://otter.ai/){:target="_blank"}
 
 
 ### Other Helpful Links
-* DCAL Remote Working guidelines for working with sign language interpreters on Zoom, etc: [https://www.ucl.ac.uk/dcal/remote-working-guidelines](https://www.ucl.ac.uk/dcal/remote-working-guidelines)
-* Automatic closed captioning with Zoom in use at the University College London: [https://www.ucl.ac.uk/teaching-learning/news/2021/mar/zoom-licence-renewed-automatic-closed-captions-and-transcriptions-added](https://www.ucl.ac.uk/teaching-learning/news/2021/mar/zoom-licence-renewed-automatic-closed-captions-and-transcriptions-added)
+* DCAL Remote Working guidelines for working with sign language interpreters on Zoom, etc: [https://www.ucl.ac.uk/dcal/remote-working-guidelines](https://www.ucl.ac.uk/dcal/remote-working-guidelines){:target="_blank"}
+* Automatic closed captioning with Zoom in use at the University College London: [https://www.ucl.ac.uk/teaching-learning/news/2021/mar/zoom-licence-renewed-automatic-closed-captions-and-transcriptions-added](https://www.ucl.ac.uk/teaching-learning/news/2021/mar/zoom-licence-renewed-automatic-closed-captions-and-transcriptions-added){:target="_blank"}
 * University of Melbourne articles on Auto-Captioning:
-    * [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning)
-    * [https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-closed-captions](https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-closed-captions)
-* Ai-Media Blog offers many informative posts including closed captioning how-to, tips for being Deaf-aware, what is Audism: [https://www.ai-media.tv/ai-media-blog/](https://www.ai-media.tv/ai-media-blog/)
-* Great example of commitment to accessibility at Griffith University: [https://www.griffith.edu.au/accessibility/creating-accessible-learning-environments/auslan-interpreters-and-captioning-for-events](https://www.griffith.edu.au/accessibility/creating-accessible-learning-environments/auslan-interpreters-and-captioning-for-events)
-* Another example of how to create accessible events from University College London: [https://www.ucl.ac.uk/equality-diversity-inclusion/equality-areas/disability-equality/tips-checklist-making-events-accessible](https://www.ucl.ac.uk/equality-diversity-inclusion/equality-areas/disability-equality/tips-checklist-making-events-accessible)
+    * [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning){:target="_blank"}
+    * [https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-closed-captions](https://www.unimelb.edu.au/accessibility/tutorials/zoom/zoom-meetings-and-closed-captions){:target="_blank"}
+* Ai-Media Blog offers many informative posts including closed captioning how-to, tips for being Deaf-aware, what is Audism: [https://www.ai-media.tv/ai-media-blog/](https://www.ai-media.tv/ai-media-blog/){:target="_blank"}
+* Great example of commitment to accessibility at Griffith University: [https://www.griffith.edu.au/accessibility/creating-accessible-learning-environments/auslan-interpreters-and-captioning-for-events](https://www.griffith.edu.au/accessibility/creating-accessible-learning-environments/auslan-interpreters-and-captioning-for-events){:target="_blank"}
+* Another example of how to create accessible events from University College London: [https://www.ucl.ac.uk/equality-diversity-inclusion/equality-areas/disability-equality/tips-checklist-making-events-accessible](https://www.ucl.ac.uk/equality-diversity-inclusion/equality-areas/disability-equality/tips-checklist-making-events-accessible){:target="_blank"}
 
 
 [Back to top](#)

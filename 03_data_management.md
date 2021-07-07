@@ -22,10 +22,10 @@ nav_order: 3
 </p>
 
 <p align="center">
-  <img height="200" src="images/banner-notebooks.jpg">
+  <img width="300" src="images/banner-notebooks.jpg">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 7 July 2021</span>
 
 Most of this information is geared toward preparing your collection for [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/){:target="_blank"}, but some of the organisational concepts can be applied to depositing with other archives such as [The Endangered Language Archive (ELAR)](https://elar.soas.ac.uk/){:target="_blank"} or [The Language Archive (TLA)](https://archive.mpi.nl/tla/){:target="_blank"}.
 

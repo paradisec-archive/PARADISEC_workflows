@@ -26,7 +26,7 @@ nav_order: 2
 This page is dedicated to helping you begin the process of getting your materials organised and eventually archived with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures).
 
 ### STEP 1: Sign up as a user with PARADISEC
-Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open-access collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.
+Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open-access collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page. *Read more about PARADISEC's Conditions of Access [here](https://www.paradisec.org.au/deposit/access-conditions/){:target="_blank"}*.
 
 You also need to sign up with PARADISEC if you wish to deposit material to the archive. 
 
@@ -39,22 +39,16 @@ The process of signing up is simple- go to the PARASDISEC catalog web page: [htt
 
 Click on the link in your email to confirm. 
 
-Congratulations, you are now a PARADISEC user! It is recommended that you browse the collections held in PARADISEC so that you can investigate the different ways collections can be organised. Below are a some examples:
-* ***PhD thesis:*** [OE1](https://dx.doi.org/10.4225/72/58949afab6af0){:target="_blank"} is a collection of narratives and wordlists that the depositor used in writing their PhD thesis. This includes the segmented audio files that are linked to the exemplar utterances within the thesis.
-* ***Field methods course:*** The [MEU1](https://dx.doi.org/10.26278/5e00d67b8be35){:target="_blank"} collection holds all recordings generated during a field methods course. Note how the different type of events (classroom recordings vs breakout sessions) are kept together by the nature of the item names.
+Congratulations, you are now a PARADISEC user! It is recommended that you browse the collections held in PARADISEC so that you can investigate the different ways collections can be organised. Below are some examples:
+* ***PhD thesis:*** [OE1](https://dx.doi.org/10.4225/72/58949afab6af0){:target="_blank"} is a collection of narratives and wordlists that the depositor used in writing their PhD thesis. This includes segmented audio files that are linked to the exemplar utterances within the thesis.
+* ***Field methods course:*** The [MEU1](https://dx.doi.org/10.26278/5e00d67b8be35){:target="_blank"} collection holds all recordings generated during a Linguistics field methods course. Note how the different type of events (classroom recordings vs breakout sessions) are kept together by the nature of the item names.
 * ***Separate collections for each language/dialect/variety:*** Explore two of this depositor's 27 collections, [SDM42](https://catalog.paradisec.org.au/collections/SDM42){:target="_blank"} and [SDM45](http://catalog.paradisec.org.au/collections/SDM45){:target="_blank"}. Each of these collections feature one language variety. There is no limit as to how many collections you can create.
-* ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0){:target="_blank"} collection, the depositor has included recordings of over 25 languages, collected since 2010. This collection is still growing! 
+* ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0){:target="_blank"} collection, the depositor has included recordings of over 25 languages within the one collection. This collection is still growing! 
 
 
 ### STEP 2: Contact PARADISEC to help you create a new collection
 
-Only PARADISEC administrators can create a collection in the catalog.  When you are ready for us to create a collection, contact the PARADISEC administration at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"}. To begin with you will need to provide us with the following information:
-
-* Collection ID
-* A brief title of your collection
-* A more detailed description of your collection
-* Funding body (if applicable) (e.g. ARC, ELDP, etc.)
-* Grant identifier (if applicable) (e.g. CoEDL = CE140100041 or Wellsprings = FL130100111)
+Only PARADISEC administrators can create a collection in the catalog.  When you are ready for us to create a collection, contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"}.
 
 
 #### Preliminary exploration of your files
@@ -68,28 +62,46 @@ Once you have decided upon which files you would like to archive, come up with a
 *Example collection IDs: **JM1, JCM4, OE1, MEU1, etc.** <br>
 The digit is required and it distinguishes your collection from that of someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. **JM1, JM2... JM85***.
 
+Summary of information needed when you are ready to contact PARADISEC:
+
+* Collection ID (we will help you come up with this)
+* A brief title of your collection
+* A more detailed description of your collection
+* Funding body (if applicable) (e.g. ARC, ELDP, etc.)
+* Grant identifier (if applicable) (e.g. CoEDL = CE140100041 or Wellsprings = FL130100111)
+
 ### STEP 3: Organise materials to be sent to collection
 
 #### PARADISEC's metadata spreadsheet
 
 PARADISEC has created a spreadsheet that allows us to automatically create the catalog metadata for items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx){:target="_blank"}. *(If the .xlsx file does not download automatically, then right-click on the link to save the file).* Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
 
-Once your collection has been created, and has been populated with the metadata for your items, you can edit you collection information directly via the catalog pages. You can add details such as:
+Once your collection has been created and has been populated with the metadata for your items, you can edit you collection by adding further information directly via the catalog pages. You can add details such as:
 
 * your institutional affiliation
 * alternate names of the language(s)
-* you can set the map by zooming in on the map feature and selecting an area, or set it automatically by selecting the country or language
+* you can refine the map by zooming in on the map feature and selecting an area, or set it automatically by selecting the country or language
 * you can define/change access conditions
 * you can even assign editor privileges to a colleague or research assistant to help you update the collection's metadata
 
 #### PARADISEC's file naming conventions
 
-Now comes the thrilling task of making sure your files are named appropriately. Getting your file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items (recording events) within your collection. 
+Now comes the thrilling task of making sure your files are named appropriately. Getting your *archival* file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items (recording events) within your collection. 
 
 **ANATOMY OF A PARADISEC FILE NAME**<br>
 Say you have, for example, a file that you named ***20150908‐wordlist‐01.wav*** while in the field. This in‐field naming convention includes the date in ISO format (YYYYMMDD). The (‐wordlist) marks this as being from a session involving wordlist elicitation. The (‐01) indicates that this is the first track of the session. You will have your own conventions. 
 
-The name ***20150908‐wordlist‐01.wav*** does not fit with the PARADISEC naming conventions. First of all, there needs to be a collection ID followed by a hyphen, and then only two more parts separated by hyphens: CollectionID-ItemID‐ContentFile.
+The name ***20150908‐wordlist‐01.wav*** does not fit with the PARADISEC naming conventions.
+
+<hr style="border:2px solid blue">
+**TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension
+
+| Coll ID  |  Item ID  | Content  |  Extension  |
+|  :----:  |   :----:   | :----:  | :----:  |
+| JCM01 | 20150908_wordlist | 01 | .wav |
+
+> **Note:** No spaces or special characters are allowed in your file names, and only the two hyphens seen above are allowed. Underscores are fine. File names should not exceed 30 characters, excluding file extensions.
+<hr style="border:2px solid blue">
 
 1. **CollectionID** is your PARADISEC collection ID and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by the CoEDL Data Manager or a PARADISEC administrator. This ID is created when you set up a collection in  PARADISEC. Mine could be JCM1
 
@@ -99,13 +111,6 @@ The name ***20150908‐wordlist‐01.wav*** does not fit with the PARADISEC nami
 
 >**Note:** Even if your item contains only one file, and thus does not need to be differentiated from other files in the item, you still need to have this third part of the file name. You could use -00, -01, -wordlist01, -original, etc.
 
-  **TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension
-
-| Coll ID  |  Item ID  | Content  |  Extension  |
-|  :----:  |   :----:   | :----:  | :----:  |
-| JCM01 | 20150908_wordlist | 01 | .wav |
-
-> **Note:** No spaces or special characters are allowed in your file names, and only the two hyphens seen above are allowed. Underscores are fine. File names should not exceed 30 characters, excluding file extensions.
 
 #### PARADISEC's deposit form
 

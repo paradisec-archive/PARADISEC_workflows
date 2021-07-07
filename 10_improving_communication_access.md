@@ -71,7 +71,12 @@ As academics committed to equitable and democratic scholarship, we need to consi
 ##### Creating captions using YouTube
 
 <br>
-Below is a video that instructs you in creating captions for media using YouTube's AI (Artificial Intelligence) process *as a starting point*.
+Below is a video that instructs you in creating captions for media using YouTube's AI (Artificial Intelligence) process *as a starting point*. 
+
+<hr style="border:1px solid blue">
+**Note:**
+More information, including a .pdf version of the step-by-step process, can be found here: [Creating Captions Guidelines](https://www.dynamicsoflanguage.edu.au/news-and-media/latest-headlines/article/?id=new-guidelines-for-improving-communication-access)
+<hr style="border:1px solid blue">
 The steps outlined in the video:
 
    * Upload video to your YouTube page (you need to have a YouTube account)

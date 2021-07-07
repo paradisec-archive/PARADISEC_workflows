@@ -109,10 +109,10 @@ The steps outlined in the video:
 
 <br>
 <hr style="border:1px solid blue">
-> **NOTE: Things to keep in mind with AI auto-captioning**
-> 1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise
-> 2. AI captioned output will have many mistakes, perhaps even so many that > the content is no longer accurate or useful
-> 3. AI software may have subscriptions that are not covered by your institution
+>     **NOTE: Things to keep in mind with AI auto-captioning**
+>     1. For it to be useful, you should have a good microphone, the speaker needs clear pronunciation, the participants need to observe good sequential turn taking, and there should be limited background noise
+>     2. AI captioned output will have many mistakes, perhaps even so many that > the content is no longer accurate or useful
+>     3. AI software may have subscriptions that are not covered by your institution
 <hr style="border:1px solid blue">
 <br>
 
@@ -124,10 +124,10 @@ The steps outlined in the video:
 <br>
 <hr style="border:1px solid blue">
 > **NOTE: Things to keep in mind with live-captioning**
-> 1. CART or STTR option will have increased the quality of your transcriptions, but it will be costly, as you are paying for a trained service provider to type in captions during your event
-> 2. CART or STTR can be provided by an on-site captioner or remotely. Remote caption services are often cheaper. However, you need to weigh up the benefits for the people requiring access for the meeting
-> 3. It is a good idea to talk with the people requiring access to work out the best solution for the specific context
-> 4. Deaf and hard of hearing participants are often excluded from participating in discussions or question/answer sessions when using captions. This is because there is a delay between what is spoken and what is captioned, and/or when there is no option for deaf and hard of hearing participants to respond via typing text, and/or when they prefer to sign rather than type text. Remember there will be a delay and check if anyone relying on captions needs clarification or wants to contribute
+>     1. CART or STTR option will have increased the quality of your transcriptions, but it will be costly, as you are paying for a trained service provider to type in captions during your event
+>     2. CART or STTR can be provided by an on-site captioner or remotely. Remote caption services are often cheaper. However, you need to weigh up the benefits for the people requiring access for the meeting
+>     3. It is a good idea to talk with the people requiring access to work out the best solution for the specific context
+>     4. Deaf and hard of hearing participants are often excluded from participating in discussions or question/answer sessions when using captions. This is because there is a delay between what is spoken and what is captioned, and/or when there is no option for deaf and hard of hearing participants to respond via typing text, and/or when they prefer to sign rather than type text. Remember there will be a delay and check if anyone relying on captions needs clarification or wants to contribute
 <hr style="border:1px solid blue">
 <br>
 

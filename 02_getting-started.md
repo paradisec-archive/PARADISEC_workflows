@@ -89,9 +89,7 @@ Once your collection has been created and has been populated with the metadata f
 Now comes the thrilling task of making sure your files are named appropriately. Getting your *archival* file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items (recording events) within your collection. 
 
 **ANATOMY OF A PARADISEC FILE NAME**<br>
-Say you have, for example, a file that you named ***20150908‐wordlist‐01.wav*** while in the field. This in‐field naming convention includes the date in ISO format (YYYYMMDD). The (‐wordlist) marks this as being from a session involving wordlist elicitation. The (‐01) indicates that this is the first track of the session. You will have your own conventions. 
-
-The name ***20150908‐wordlist‐01.wav*** does not fit with the PARADISEC naming conventions.
+Our system requires all files to adhere to specific file-naming conventions. This section will step you through the required parts of the filenames.
 
 <hr style="border:2px solid blue">
 **TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension

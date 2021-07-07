@@ -21,12 +21,12 @@ nav_order: 2
   <img width="500" src="images/PARADISEC-banner.jpg">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 7 July 2021</span>
 
-This page is dedicated to helping you begin the seemingly overwhelming process of getting your materials organised and eventually archived with [PARADISEC](https://www.paradisec.org.au/) (Pacific and Regional Archive for Digital Sources in Engangered Cultures).
+This page is dedicated to helping you begin the process of getting your materials organised and eventually archived with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures).
 
 ### STEP 1: Sign up as a user with PARADISEC
-Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.
+Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open-access collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.
 
 You also need to sign up with PARADISEC if you wish to deposit material to the archive. 
 
@@ -111,7 +111,7 @@ The name ***20150908‐wordlist‐01.wav*** does not fit with the PARADISEC nami
 
 And lastly, you need to fill out a [deposit form](http://www.paradisec.org.au/PDSCdeposit.pdf){:target="_blank"} that provides PARADISEC with your contact information, access conditions for your collection, including any restrictions. Fill in the form, sign it, scan or photograph it, and email it back to us. We keep this digital record with your collection.
 
-### STEP 4: Sending your files to PARADISEC
+### STEP 4: Send your files to PARADISEC
 
 If you are planing to archive digital files with PARADISEC, and your institution is part of the Australian Access Federation (AAF), you can sign up for a [Cloudstor](https://cloudstor.aarnet.edu.au/){:target="_blank"} account. Once you do, you get 1TB of free storage available to you instantly. You can also send us OneDrive, Dropbox, Google Drive links. These options are the best means to transfer files to PARADISEC. If you do not use any of those cloud storage options, but would like to transfer your files this way, contact [PARADISEC](mailto:admin@paradisec.au.org){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"} and we can create a Cloudstor folder for you to use for transferring files to us.
 

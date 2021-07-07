@@ -31,19 +31,6 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * the equipment is portable and can easily be set up in most environments, including remote field locations with tricky power options
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
-### Key Topics Covered in this Workflow
-* [Target format of images to be archived in PARADISEC](#target-format-of-images-to-be-archived-in-paradisec)
-* [Cameras used in this workflow](#cameras)
-* [Tripods and photo stands used in this workflow](#tripods-and-photo-stands)
-* [Suggested setup for using a **tripod**](#Setting-up-the-tripod-with-reversable-centre-post)
-* [Suggested setup for using a **shelf clamp**](#Setting-up-the-shelf-clamp)
-* [Suggested setup for using a **photostand**](#Setting-up-the-photo-stand) 
-* [About EOS Utility software](#eos-utility)
-* [About Adobe Bridge software](#adobe-bridge)
-* [Workflow for remote capture using EOS Utility](#workflow-for-remote-capture)
-* [Post-production processing with Adobe Bridge](#post-production-processing-of-images)
-* [Additional resources](#additional-resources)
-
 
 ### Target format of images to be archived in PARADISEC
 Before discussing the details of equipment we use in this workflow, here are the target file formats for image capture and archiving and the quality standards we request. Adhering to these high standards may be difficult in some situations; please try to aim for these as best you can.
@@ -55,7 +42,7 @@ Before discussing the details of equipment we use in this workflow, here are the
 | Bits/Channel | 16 bit           | 8 bit          | 8 bit        |
 | Colour mode | RGB (Adobe RGB (1998) | RGB       | RGB           |
 
-> **Note:** The above 72 DPI *(dots per inch)* figure for the raw image is not very revealing as to the image quality compared to the 400 or 300 DPI figures. Image quality actually has more to do with pixel dimension. If you wish to read up on why DPI can be a tricky standard, take a look at this article: [The myth of DPI](http://www.rideau-info.com/photos/mythdpi.html). There will be more about target image sizes (pixel dimension) below in the section on workflow and remote capture settings.
+> **Note:** The above 72 DPI *(dots per inch)* figure for the raw image is not very revealing as to the image quality compared to the 400 or 300 DPI figures. Image quality actually has more to do with pixel dimension. If you wish to read up on why DPI can be a tricky standard, take a look at this article: [The myth of DPI](http://www.rideau-info.com/photos/mythdpi.html){:target="_blank"}. There will be more about target image sizes (pixel dimension) below in the section on workflow and remote capture settings.
 
 In the end, we would only need the **.tif** version from you for the archive. Our system automatically creates the access **.jpg**. If you are archiving images of notes or a field journal, it is a good idea to also provide a single **.pdf** of the images digitally bound together. For this, you should use compressed .jpgs rather than .tifs, which will keep the size of the .pdf manageable.
 
@@ -65,19 +52,19 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 
 | Equipment | Description and links to more details |
 | :----- | :----- |
-| Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B) *(compact digital camera)* and [Canon EOS 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html) *(DSLR)* |
-| Photo stand | [Kaiser Reprokid](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5360) | 
-| Tripod with Reversable centre post | [Velbon Sherpa 803R Pro Tripod](https://www.ana-photo.com/Product/Velbon/VELBON-SHERPA-800R803R.html) |
-| Shelf clamp | [Velbon Clamp Kit II](https://velbon.net/product/accessories/clampk.html) |
-| Software for remote capture | [EOS Utility](https://www.canon.com.au/cameras/eos-700d/support) *(for compatible Canon cameras)* |
-| Software for post-production editing | [Adobe Bridge](https://www.adobe.com/au/products/bridge.html) |
+| Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B){:target="_blank"} *(compact digital camera)* and [Canon EOS 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html){:target="_blank"} *(DSLR)* |
+| Photo stand | [Kaiser Reprokid](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5360){:target="_blank"} | 
+| Tripod with Reversable centre post | [Velbon Sherpa 803R Pro Tripod](https://www.ana-photo.com/Product/Velbon/VELBON-SHERPA-800R803R.html){:target="_blank"} |
+| Shelf clamp | [Velbon Clamp Kit II](https://velbon.net/product/accessories/clampk.html){:target="_blank"} |
+| Software for remote capture | [EOS Utility](https://www.canon.com.au/cameras/eos-700d/support){:target="_blank"} *(for compatible Canon cameras)* |
+| Software for post-production editing | [Adobe Bridge](https://www.adobe.com/au/products/bridge.html){:target="_blank"} |
 
 > **NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software. 
 
 #### Cameras
 
 ##### Canon PowerShot G12
-This Canon camera was purchased in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual) of the firmware. I have not done this hack; See below for a simple workflow for image capture without tethering your camera to a computer. The PowerShot G12 features an articulated LCD screen. This means you can rotate it so that your target image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
+This Canon camera was purchased in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual){:target="_blank"} of the firmware. I have not done this hack; See below for a simple workflow for image capture without tethering your camera to a computer. The PowerShot G12 features an articulated LCD screen. This means you can rotate it so that your target image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
 
 <p align="center">
   <img width="300" src="images/img-cap-PowerShotG12.JPG">
@@ -128,7 +115,7 @@ Below are two configurations with the shelf clamp. The image on the left is with
  
 
 ##### Kaiser Reprokid Photo Stand
-The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so one does not need to figure out where to attach any lighting. The vertical post is ruled so you can retrieve the distance of the lens to the target, or just make note of the camera placement for quick set up the next time you shoot. The base is a hard plastic grey surface so I use black matte card stock under my items. You can place a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales) on the base if you need this level of size or colour precision in your image capture.
+The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so one does not need to figure out where to attach any lighting. The vertical post is ruled so you can retrieve the distance of the lens to the target, or just make note of the camera placement for quick set up the next time you shoot. The base is a hard plastic grey surface so I use black matte card stock under my items. You can place a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales){:target="_blank"} on the base if you need this level of size or colour precision in your image capture.
 
 <p align="center">
   <img width="300" src="images/img-cap-photo-stand.JPG">
@@ -150,18 +137,18 @@ The downside to using a photo stand is the cost. Pricing for these can be expens
 
 #### EOS Utility 
 ***For remote capture: Use Canon's EOS Utility with a compatible Canon camera***<br>
-Remote capturing images directly to your computer can speed up your task of taking photos, especially if you set up a good workflow. There are many tethering tools available. I have chosen EOS Utility because it came with my Canon EOS 700D, it was free, and it serves our purpose. Here is an article from [Tether Tools (2020)](https://tethertools.com/blog/what-tethering-software-is-available/) that discuss other tethering software that is currently on the market.
+Remote capturing images directly to your computer can speed up your task of taking photos, especially if you set up a good workflow. There are many tethering tools available. I have chosen EOS Utility because it came with my Canon EOS 700D, it was free, and it serves our purpose. Here is an article from [Tether Tools (2020)](https://tethertools.com/blog/what-tethering-software-is-available/){:target="_blank"} that discuss other tethering software that is currently on the market.
 
 If you are planning to use a Canon camera that is compatible with the EOS Utility software, here are the links:
-* [EOS Utility for PCs](https://www.canon.com.au/support/sims-content?pid=74c2eb672e2946a7b940f86e2c9e2461&cid=3E70ECD154334FBD866C212BDC988F56&ctype=ap) 
-* [EOS Utility for Macs](https://www.canon.com.au/support/sims-content?pid=0a6e29c7259d4fa8938b3bb591ebb372&cid=A5B1C6A24B9D464DBCFE41EEE51ECAD3&ctype=ap)
+* [EOS Utility for PCs](https://www.canon.com.au/support/sims-content?pid=74c2eb672e2946a7b940f86e2c9e2461&cid=3E70ECD154334FBD866C212BDC988F56&ctype=ap){:target="_blank"} 
+* [EOS Utility for Macs](https://www.canon.com.au/support/sims-content?pid=0a6e29c7259d4fa8938b3bb591ebb372&cid=A5B1C6A24B9D464DBCFE41EEE51ECAD3&ctype=ap){:target="_blank"}
 
 > **Note:** The link to the PC version is for EOS Utility 3, which is not compatible with my EOS 700D camera; however, with this installation both EOS Utility 2 and EOS Utility 3 are installed. The version that I am using is 2.14.20.0.
 
 
 #### Adobe Bridge
 ***For image preview and processing, use Adobe Bridge***<br> 
-As you capture the images, it is important to check their quality before you get too far into your task. But even at the end of the day, when if you have collected hundreds of photos, you may realise that they would be better cropped, or that the lighting was too warm and you would like to cool down the colours, you can use Adobe Bridge to do this as a batch process. Adobe Bridge is available for free. You do not need to pay for it, but you do need to sign up with Adobe. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html).
+As you capture the images, it is important to check their quality before you get too far into your task. But even at the end of the day, when if you have collected hundreds of photos, you may realise that they would be better cropped, or that the lighting was too warm and you would like to cool down the colours, you can use Adobe Bridge to do this as a batch process. Adobe Bridge is available for free. You do not need to pay for it, but you do need to sign up with Adobe. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html){:target="_blank"}.
 
 
 ### Workflow for remote capture
@@ -231,7 +218,7 @@ As you capture the images, it is important to check their quality before you get
 
 *The following instructions are based on Adobe Bridge CC 2021. Many of the functions are similar to the previous versions, with slight adjustments to the interface and workspaces.*
 
-> **Note:** If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red)
+> **Note:** If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red){:target="_blank"}
 
 You will be making small batch adjustments to the colour or lighting if necessary; this will be best if you restrict your editing to one notebook at a time as the colour of the paper may differ from notebook to notebook. Also, if you had to reshoot a page, or you accidentally shot a page twice, you will need to delete an image and rename your files.
 
@@ -270,6 +257,6 @@ Your export settings for archiving with PARADISEC should be the following:
 <hr style="border:1px solid grey">
 
 ### Additional resources
-Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747) Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138
+Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747){:target="_blank"} Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138
 
 [Back to top](#)

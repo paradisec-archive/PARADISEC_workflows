@@ -81,3 +81,5 @@ These technical workflows and archiving guides are designed to help people with 
 * General tips for improving communication access 
 * Ideas for captioning video presentations, both during and after an event
 * Tips on organising & working with a sign language interpreter
+
+[Back to top](#)

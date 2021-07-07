@@ -169,7 +169,6 @@ This involves sharing any preparation materials with the confirmed interpreting 
 4. *Receiving invoices and paying interpreters* <br>
 If you are covering the cost of interpreters and managing the finances of the event, you will receive an invoice from each interpreter after the event. You will need to pay this within the specified period. Late payments can damage professional relationships with interpreters.
 
-<br>
 <hr style="border:1px solid grey">
 
 ### Services and Tools

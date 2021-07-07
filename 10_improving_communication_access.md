@@ -135,13 +135,15 @@ The steps outlined in the video:
 
 There are many different situations in which you may need to book sign language interpreters. You may have invited a deaf academic from Australia or overseas. You may have received a request from a deaf member of the public to attend a seminar or event. You may be hosting an event on a topic related to deafness, deaf people and sign language and seek to make it accessible for the wider deaf community. Different situations may require different processes for booking sign language interpreters.
 
-**Sign language interpreters:** Qualified sign language interpreters work to simultaneously interpret between a spoken language (e.g., English) and a signed language (e.g., Auslan). They are language professionals akin to spoken language interpreters who work between two spoken languages. They have undertaken extensive training in language and interpreting. Some have also undertaken training in translation, although translation is historically the domain of deaf interpretersand translators.
+#### Sign language interpreters
+
+Qualified sign language interpreters work to simultaneously interpret between a spoken language (e.g., English) and a signed language (e.g., Auslan). They are language professionals akin to spoken language interpreters who work between two spoken languages. They have undertaken extensive training in language and interpreting. Some have also undertaken training in translation, although translation is historically the domain of deaf interpretersand translators.
 
 However, there is a key difference: interpreting between two spoken languages is usually done consecutively, whereas interpreting between a spoken and signed language is done simultaneously. It is important to recognise this because the demands of the interaction will be different and there is a higher chance for miscommunications that remain invisible to non-signers. 
 
 As explained above, interpreters can be booked to provide access for signing deaf people who work with sign language interpreters to access spoken language events and enable non-signing speakers to access them in return. This is the major benefit of working with sign language interpreters ahead of captions: they facilitate two-way interaction in real time, enabling everyone to access each other. Unless the event moderator is very careful to ensure two-way participation (see above), captions will often only work one-way between people with sensorial asymmetries, e.g., between people who do not know the sign language and deaf people who do not have speech privilege, and only as long as both share the same written language of the captions.
 
-Sign language interpreting is a very personal process and quality can vary widely. Interpreters may or may not be active members of the community to which the deaf participants belong. Here are some general guidelines:
+**Sign language interpreting is a very personal process and quality can vary widely. Interpreters may or may not be active members of the community to which the deaf participants belong. Here are some general guidelines:**
 
 * It is a good idea and collegial to liaise directly with the deaf participants to find out what service and interpreters they prefer to use. Sometimes they may prefer to organise and book their own interpreters, but this cannot be assumed. It may not be an option for the person.
 * It requires working far in advance than you may be used to, up to one month in advance, preferably earlier for large events and/or niche topics including academic presentations, which is a very specialised interpreting domain. Leaving it two weeks before the event will probably mean there are no interpreters available. Interpreters for academic situations often require preparation materials minimum two weeks in advance of the event to do their job effectively (see below).
@@ -152,7 +154,7 @@ Sign language interpreting is a very personal process and quality can vary widel
 
 <hr style="border:1px solid grey">
 
-There are four steps and responsibilities involved in finding, booking and working with interpreters:
+#### There are four steps and responsibilities involved in finding, booking and working with interpreters:
 
 1. *Determining what communication access is required* <br>
 This includes finding out what language services are needed, e.g., Auslan/English interpreters, ASL/English interpreters, or some other language pair. Even if you are not organising and paying for the interpreting specifically, as the organiser of the event you will need to facilitate how communication access is provided, and this includes working with the interpreters to ensure the event runs effectively. Some large events, e.g., international conferences, may have different interpreting teams and language pairs. Often these events will require a designated Interpreter Coordinator to liaise between all and ensure cohesive service delivery.

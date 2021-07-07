@@ -107,6 +107,7 @@ The steps outlined in the video:
 *See University of Melbourne’s findings on accuracy of MS Teams auto-captioning:* [https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning](https://www.unimelb.edu.au/accessibility/video-conferencing-for-hearing-impaired-staff/auto-captioning) 
 <br>
 
+{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 
 ```
 **Things to keep in mind with AI auto-captioning** <br>

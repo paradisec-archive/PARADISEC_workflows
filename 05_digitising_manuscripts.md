@@ -14,6 +14,14 @@ nav_order: 5
 {:toc}
 </details>
 
+<style>
+H5{color:White !important;}
+</style>
+
+<style>
+H6{color:White !important;}
+</style>
+
 
 ## Image Capture and Post-production Editing Workflows for PARADISEC Archive
 

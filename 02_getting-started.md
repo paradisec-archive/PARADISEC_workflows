@@ -72,6 +72,8 @@ Summary of information needed when you are ready to contact PARADISEC:
 
 ### STEP 3: Organise materials to be sent to collection
 
+*This section is an introduction to metadata and data management. For a deeper exploration into these topics, please visit the [Metadata & Data Management](#metadata--data-management) page.*
+
 #### PARADISEC's metadata spreadsheet
 
 PARADISEC has created a spreadsheet that allows us to automatically create the catalog metadata for items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx){:target="_blank"}. *(If the .xlsx file does not download automatically, then right-click on the link to save the file).* Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.

@@ -75,8 +75,8 @@ The LaMeta metadata export lends itself for archiving with [ELAR](https://elar.s
 
 ### Additional Resources
 
-Hatton, John, Gary Holton, Mandana Seyfeddinipur, Nick Thieberger. 2021. Lameta [software] https://github.com/onset/laMETA/releases
+Hatton, John, Gary Holton, Mandana Seyfeddinipur, Nick Thieberger. 2021. Lameta [software] [https://github.com/onset/laMETA/releases](https://github.com/onset/laMETA/releases){:target="_blank"}
 
-Thieberger, N. and Berez, A. (2011). Linguistic Data Management. In N. Thieberger (Ed.), *The Oxford Handbook of Linguistic Fieldwork*. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199571888.013.0005
+Thieberger, N. and Berez, A. (2011). Linguistic Data Management. In N. Thieberger (Ed.), *The Oxford Handbook of Linguistic Fieldwork*. Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780199571888.013.0005](https://doi.org/10.1093/oxfordhb/9780199571888.013.0005){:target="_blank"}
 
 [Back to top](#)

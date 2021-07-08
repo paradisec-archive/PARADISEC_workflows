@@ -27,7 +27,7 @@ nav_order: 1
 
 These technical workflows and archiving guides are designed to help people with different goals and different skill levels. If there is a topic you want to know about, but the information is not contained on these pages, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au){:target="_blank"} and we will do our best to help. 
 
-*Development of this documentation was generously funded by the [ARC Centre of Excellence for the Dynamics of Language (CoEDL)](https://www.dynamicsoflanguage.edu.au/){:target="_blank"}*
+*Development of this documentation was generously funded by the [ARC Centre of Excellence for the Dynamics of Language](https://www.dynamicsoflanguage.edu.au/){:target="_blank"}(CoEDL)*
 <br>
 <hr style="border:1px solid grey">
 *If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order.*

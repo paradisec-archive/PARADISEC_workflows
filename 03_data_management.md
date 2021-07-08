@@ -38,13 +38,27 @@ Writing a DMP will help you reflect upon what type of data you will be collectin
 
 It is becoming more frequent that funding institutions require that you submit a DMP along with your application. You may also need a letter of suport from your chosen repository. Should you choose PARADISEC as your archive, we can review your DMP, offer feedback, and provide you with a letter of support if we agree that your plan and materials are a good fit for our archive.
 
-**ARDC (Australian Research Data Commons)** offers Australian institutional data management resources [here](https://projects.ands.org.au/policy.php){:target="_blank"} and international resources [here](https://ardc.edu.au/resources/working-with-data/datamanagement/data-management-plans/){:target="_blank"}.
+**ARDC** (Australian Research Data Commons) offers Australian institutional data management resources [here](https://projects.ands.org.au/policy.php){:target="_blank"} and international resources [here](https://ardc.edu.au/resources/working-with-data/datamanagement/data-management-plans/){:target="_blank"}.
 
 
 #### File naming
+As mentioned 
+Here are some **general suggestions** for naming your files:
+* do not use spaces or any special characters, other that hyphens (-) or underscores (_)
+* for the **date** use the form **YYYYMMDD**
+* 
 
+For **PARADISEC** we have specific file naming rules. 
+<br>
+<hr style="border:2px solid blue">
+[CollectionID] - [ItemID] - [ContentFile] . file extension
+
+| Coll ID  |  Item ID  | Content  |  Extension  |
+|  :----:  |   :----:   | :----:  | :----:  |
+| JCM01 | 20150908_wordlist | 01 | .wav |
 
 #### File & directory organisation
+During your fieldtrip or data collection phase, it is a good idea to determine how you will organise your directory before you collect your data.
 
 #### Preparing for archiving 
 

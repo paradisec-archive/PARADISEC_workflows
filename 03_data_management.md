@@ -62,7 +62,7 @@ At this time there are two metadata tools that we are supporting. Follow the lin
 </p>
 
 #### LaMeta
-This free software will allow you to create metadata files via a simple graphical interface. Follow this [link](https://github.com/onset/laMETA/releases){:target="_blank"} to download the latest version. If you need guidance using LaMeta, take a look at this helpful [blog from ELAR](https://elararchive.org/blog/2020/04/30/introducing-lameta/){:target="_blank"}.
+This free software will allow you to create metadata files using a simple graphical interface. Follow this [link](https://github.com/onset/laMETA/releases){:target="_blank"} to download the latest version. If you need guidance using LaMeta, take a look at this helpful [blog from ELAR](https://elararchive.org/blog/2020/04/30/introducing-lameta/){:target="_blank"}.
 
 The LaMeta metadata export lends itself for archiving with [ELAR](https://elar.soas.ac.uk/){:target="_blank"}, creating .imdi metadata files (XML); however, there is an option to export the project metadata as a CSV that is formatted for PARADISEC. This function is in the early stages and your export may require some cleaning up.
 

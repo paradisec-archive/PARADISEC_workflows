@@ -72,7 +72,7 @@ Summary of information needed when you are ready to contact PARADISEC:
 
 ### STEP 3: Organise materials to be sent to collection
 
-*This section is an introduction to metadata and data management. For a deeper exploration into these topics, please visit the [Metadata & Data Management](https://paradisec-archive.github.io/PARADISEC_workflows/03_data_management.html#metadata--data-management) page.*
+*This section is an introduction to metadata and data management. For a deeper exploration into these topics, please visit the [Metadata & Data Management](https://paradisec-archive.github.io/PARADISEC_workflows/03_data_management.html){:target="_blank"} page.*
 
 #### PARADISEC's metadata spreadsheet
 

@@ -25,13 +25,24 @@ nav_order: 3
   <img width="500" src="images/banner-notebooks.jpg">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 7 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 8 July 2021</span>
 
-Most of this information is geared toward preparing your collection for [PARADISEC (Pacific and Regional Archive for Digital Sources in Engangered Cultures)](https://www.paradisec.org.au/){:target="_blank"}, but some of the organisational concepts can be applied to depositing with other archives such as [The Endangered Language Archive (ELAR)](https://elar.soas.ac.uk/){:target="_blank"} or [The Language Archive (TLA)](https://archive.mpi.nl/tla/){:target="_blank"}.
+Most of this information is geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures), but some of the organisational concepts can be applied to depositing with other archives such as [The Endangered Language Archive (ELAR)](https://elar.soas.ac.uk/){:target="_blank"}.
+
+### Data management
+
+#### Crafting a data management plan
+
+#### File naming
+
+
+#### File & directory organisation
+
+#### Preparing for archiving 
 
 ### Metadata management tools
 
-At this time there are two metadata tools that we are supporting. LaMeta is still being improved with each new version, so some newly added features may not function as expected (such as the PARADISEC export function). Follow the links below to get the most recent versions. 
+At this time there are two metadata tools that we are supporting. Follow the links below to get the most recent versions of each.
 
 #### PARADISEC-configured Spreadsheet
  
@@ -43,11 +54,21 @@ At this time there are two metadata tools that we are supporting. LaMeta is stil
 </p>
 
 #### LaMeta
-This free software will allow you to create .imdi metadata files via a simple graphical interface. Follow this [link](https://github.com/onset/laMETA/releases){:target="_blank"} to download the latest version. If you need guidance using LaMeta, take a look at this helpful [site](https://sites.google.com/site/metadatatooldiscussion/){:target="_blank"}. The LaMeta metadata export lends itself for archiving with [ELAR](https://elar.soas.ac.uk/){:target="_blank"}; however, there is an option to export the project metadata in a CSV that is formatted for PARADISEC. This funtion is in the early stages and your export may require some cleaning up.
+This free software will allow you to create metadata files via a simple graphical interface. Follow this [link](https://github.com/onset/laMETA/releases){:target="_blank"} to download the latest version. If you need guidance using LaMeta, take a look at this helpful [blog from ELAR](https://elararchive.org/blog/2020/04/30/introducing-lameta/){:target="_blank"}.
+
+The LaMeta metadata export lends itself for archiving with [ELAR](https://elar.soas.ac.uk/){:target="_blank"}, creating .imdi metadata files (XML); however, there is an option to export the project metadata as a CSV that is formatted for PARADISEC. This function is in the early stages and your export may require some cleaning up.
+
 <p align="center">
   <img width="500" src="images/LaMeta-screenshot.jpg">
 </p>
 
+<br>
+<hr style="border:1px solid grey">
 
+### Additional Resources
+
+Hatton, John, Gary Holton, Mandana Seyfeddinipur, Nick Thieberger. 2021. Lameta [software] https://github.com/onset/laMETA/releases
+
+Thieberger, N. and Berez, A. (2011). Linguistic Data Management. In N. Thieberger (Ed.), *The Oxford Handbook of Linguistic Fieldwork*. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199571888.013.0005
 
 [Back to top](#)

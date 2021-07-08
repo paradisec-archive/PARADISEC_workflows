@@ -31,15 +31,14 @@ Much of this information is geared toward preparing your collection for archivin
 
 ### Data management
 <BR>
-
 #### Data Management Plan (DMP)
 A data management plan (DMP) is a brief explanation (up to 2 pages) outlining how you are going to store, manage, share and preserve your data during and after your project. 
 
 Writing a DMP will help you reflect upon what type of data you will be collecting, how much space you will require to house your data as you work with it, what sort of collaborative platforms you may require for your research, and your long-term plans for preserving and disseminating the data.
 
-It is becoming more frequent that funding institutions require that you submit a DMP along with your application. You may also need a letter of suport from your chosen repository. Should you choose PARADISEC as your archive, we can review your DMP, offer any feedback, and provide you with a letter of support if we agree that your plan and materials are a good fit for our archive.
+It is becoming more frequent that funding institutions require that you submit a DMP along with your application. You may also need a letter of suport from your chosen repository. Should you choose PARADISEC as your archive, we can review your DMP, offer feedback, and provide you with a letter of support if we agree that your plan and materials are a good fit for our archive.
 
-**ARDC (Australian Research Data Commons)** offers Australian institutional data management resources [here](https://projects.ands.org.au/policy.php)/{:target="_blank"} and international resources [here](https://ardc.edu.au/resources/working-with-data/datamanagement/data-management-plans/){:target="_blank"}.
+**ARDC (Australian Research Data Commons)** offers Australian institutional data management resources [here](https://projects.ands.org.au/policy.php){:target="_blank"} and international resources [here](https://ardc.edu.au/resources/working-with-data/datamanagement/data-management-plans/){:target="_blank"}.
 
 
 #### File naming

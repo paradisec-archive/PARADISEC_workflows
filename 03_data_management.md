@@ -46,7 +46,7 @@ As mentioned
 Here are some ***general suggestions*** for naming your files:
 * do not use spaces or any special characters, other that hyphens (-) or underscores (_)
 * for the **date** use the form **YYYYMMDD**
-* 
+* file name should not be longer tha 25 characters
 
 For ***PARADISEC*** we have specific file naming rules: 
 <br>

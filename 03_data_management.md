@@ -43,12 +43,12 @@ It is becoming more frequent that funding institutions require that you submit a
 
 #### File naming
 As mentioned 
-Here are some **general suggestions** for naming your files:
+Here are some ***general suggestions*** for naming your files:
 * do not use spaces or any special characters, other that hyphens (-) or underscores (_)
 * for the **date** use the form **YYYYMMDD**
 * 
 
-For **PARADISEC** we have specific file naming rules. 
+For ***PARADISEC*** we have specific file naming rules: 
 <br>
 <hr style="border:2px solid blue">
 [CollectionID] - [ItemID] - [ContentFile] . file extension

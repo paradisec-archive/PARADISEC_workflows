@@ -29,7 +29,7 @@ H6{color:White !important;}
 </p>
 
 <p align="center">
-  <img width="300" src="images/rev-rev-vox.gif">
+  <img width="500" src="images/rev-rev-vox.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 9 July 2021</span>

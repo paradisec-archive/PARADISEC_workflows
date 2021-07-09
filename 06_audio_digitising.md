@@ -73,6 +73,12 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
   <img width="500" src="images/tascam_112_MKII_1.jpg">
 </p>
 
+<hr style="border:1px solid blue">
+
+**READ MORE ABOUT** the use of cassette tape machines in [section 5.4.5](https://www.iasa-web.org/tc04/replay-equipment-professional-cassette-machines){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
+<hr style="border:1px solid blue">
+
+
 #### Reel-to-reel tape player: [Revox C270](https://www.reeltoreel.nl/studer/Public/Products/Revox/Revox_C270/Revox_C270_Op_E.pdf){:target="_blank"}
 <p align="center">
   <img width="300" src="images/ReVoxC270.jpg">

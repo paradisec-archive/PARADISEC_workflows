@@ -101,7 +101,7 @@ Having an external, stand-alone analogue/digital converter is critical so that t
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
 
-#### Reel-to-reel tape player: [Studer A807](https://www.radiomuseum.org/r/studer_audio_recorder_reproducer_a807.html){:target="_blank"}
+#### Reel-to-reel tape player: [Studer A807](https://museumofmagneticsoundrecording.org/RecordersStuderA807.html){:target="_blank"}
 <p align="center">
   <img width="300" src="images/StuderA807.jpg">
 </p>
@@ -116,7 +116,10 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 
 ### Digitising Cassette Tapes
 
-**If you have your mobile phone with you, turn it off or put it in airplane mode**
+<br>
+<hr style="border:2px solid blue">
+> ***If you have your mobile phone with you, turn it off or put it in airplane mode***
+<hr style="border:2px solid blue">
 
 1.	Turn on computer and login with your ANU UDS credentials
 

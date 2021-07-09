@@ -78,7 +78,10 @@ A new soundcard needed to be added to the DELL tower to provide us with the nece
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
 
+<hr style="border:1px solid blue">
+
 **READ MORE ABOUT** the use of reel-to-reel machines [in section 5.4.4](https://www.iasa-web.org/tc04/replay-equipment-professional-reel-machines){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
+<hr style="border:1px solid blue">
 
 ### Software
 
@@ -178,8 +181,10 @@ Press the button with the dot on it, far right. This will open the following rec
   <img width="300" src="images/TASCAM-AzimuthAdjustment.jpg">
 </p>
 
-**READ MORE ABOUT Azimuth adjustments in [section 5.4.12](https://www.iasa-web.org/tc04/corrections-errors-misaligned-recording-equipment){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
+<hr style="border:1px solid blue">
 
+**READ MORE ABOUT** Azimuth adjustments in [section 5.4.12](https://www.iasa-web.org/tc04/corrections-errors-misaligned-recording-equipment){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
+<hr style="border:1px solid blue">
 
 15.	Look at the PHASESCOPE as you turn the screw to the left and to the right. Because you will be mostly digitising one-sided tapes, you want the line to be straight and along the Y-axis (vertical). If you were to digitise a reel-to-reel tape that is recorded on both sides, both sides are digitised simultaneously. As a result, there will be more of an X -shape of lines, representing each output of the tape.
   

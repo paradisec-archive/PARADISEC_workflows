@@ -256,6 +256,10 @@ The phase scope will look a bit like an X if there are two mono tracks on the ta
 
 Adjust for the 
 
+When the tape is coming to the end, watch closely and stop playback when the magnetic tape finishes passing along the heads and the leader tape appears (usually red). Then stop recording via WaveLab.
+
+Press z-loc to rewind the tape back onto original reel.
+
 DO NOT HIT REWIND. Uze the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautious way to treat the tape
 
 

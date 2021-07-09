@@ -241,11 +241,17 @@ Reset the counter so that it reads 00.00.00.
 
 Now follow the same WaveLab instructions as above for testing the volumes of the output
 
+Check the speed of the playback. If it sounds too slow or too fast, cycle through the choices of 3.75, 7.5 or 15. If these do not appear to create the right speed, make note and we may need to adjust once audio is digitised.
+
+To adjust the output volume, make sure the UNCAL light is on. This means the audio volume is uncalibrated and you can adjust volume as needed using the CH1 and CH2 REP/SYNC LEVEL
+
 Adjust the azimuth
 
 Once everything has been checked and adjusted. stop the reel from playing.
 
 DO NOT HIT REWIND. Uze the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautios way to treat the tape
+
+
 
 <br>
 <hr style="border:1px solid grey">

@@ -57,7 +57,7 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
   <img width="500" src="images/RME-Soundcard.jpg">
 </p>
 
-A new soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections and meet the high-level specifications set by our industry's peak-body: [IASA](https://www.iasa-web.org/about-iasa){:target="_blank"}, the International Association of Sound and Audiovisual Archives 
+A new soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections and meet the high-level specifications set by our industry's peak-body: [IASA](https://www.iasa-web.org/about-iasa){:target="_blank"} (the International Association of Sound and Audiovisual Archives). 
  >* D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU & SPDIF)
  >* up to 192kHz/24-bit, balanced stereo in/output
  >* a high quality digital audio stream synchronisation mechanism

@@ -67,7 +67,7 @@ A new soundcard needed to be added to the DELL tower to provide us with the nece
 <p align="center">
   <img width="500" src="images/RME.jpg">
 </p>
-Having an external, stand-alone analogue/digital converter is critical so that the following specifications can be met (see IASA link below for the precise specifications for each):
+Having an external, stand-alone analogue/digital converter is critical so that the following specifications can be met (see IASA link below for the precise parameters for each):
 
  > * Total Harmonic Distortion + Noise
  > * Dynamic Range (Signal to Noise)

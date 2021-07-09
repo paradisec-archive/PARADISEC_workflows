@@ -65,7 +65,7 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 A new soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections. The connectivity features we require for our set-up:
 * D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU & SPDIF). This cable will have two XLR plugs at the other end
 * allows for up to 192kHz/24-bit, balanced stereo in/output
-*(There many other technical specifications outlined on the RME
+
 
 
 #### Audio cassette player: [Tascam 122 mk II](https://tascam.com/downloads/tascam/324/122mkIII_TECHDOC.pdf){:target="_blank"}
@@ -78,7 +78,7 @@ A new soundcard needed to be added to the DELL tower to provide us with the nece
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
 
-**Important information on the use of reel-to-reel machines can be found [in section 5.4.4](https://www.iasa-web.org/tc04/replay-equipment-professional-reel-machines){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
+**READ MORE ABOUT** the use of reel-to-reel machines [in section 5.4.4](https://www.iasa-web.org/tc04/replay-equipment-professional-reel-machines){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
 
 ### Software
 
@@ -177,6 +177,8 @@ Press the button with the dot on it, far right. This will open the following rec
 <p align="center">
   <img width="300" src="images/TASCAM-AzimuthAdjustment.jpg">
 </p>
+
+**READ MORE ABOUT Azimuth adjustments in [section 5.4.12](https://www.iasa-web.org/tc04/corrections-errors-misaligned-recording-equipment){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
 
 
 15.	Look at the PHASESCOPE as you turn the screw to the left and to the right. Because you will be mostly digitising one-sided tapes, you want the line to be straight and along the Y-axis (vertical). If you were to digitise a reel-to-reel tape that is recorded on both sides, both sides are digitised simultaneously. As a result, there will be more of an X -shape of lines, representing each output of the tape.

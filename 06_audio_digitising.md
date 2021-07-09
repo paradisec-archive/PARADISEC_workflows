@@ -57,14 +57,28 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
   <img width="500" src="images/RME-Soundcard.jpg">
 </p>
 
- >A new soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections. The connectivity features we require for our set-up:
- >* D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU & SPDIF). This cable will have two XLR plugs at the other end
- >* allows for up to 192kHz/24-bit, balanced stereo in/output
+ >A new soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections and high-level . The features we require for our set-up:
+ >* D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU & SPDIF)
+ >* up to 192kHz/24-bit, balanced stereo in/output
+ >* a high quality digital audio stream synchronisation mechanism
+ >* allow the transfer of a digital audio data stream having undergone no change or alteration
 
-#### AD/DA Convertor: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html){:target="_blank"}
+#### AD/DA Converter: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html){:target="_blank"}
 <p align="center">
   <img width="500" src="images/RME.jpg">
 </p>
+Having an external, stand-alone analogue/digital converter is critical so that the following specifications can be met (see IASA link below for the precise specifications for each):
+
+ > * Total Harmonic Distortion + Noise
+ > * Dynamic Range (Signal to Noise)
+ > * Frequency Response
+ > * Intermodulation Distortion
+ > * Amplitude Linearaity
+ > * Spurious Aharmonic Signals
+ > * International Clock Accuracy
+ > * Jitter
+ > * External Synchronisation
+
 
 <hr style="border:1px solid blue">
 
@@ -93,6 +107,7 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 <hr style="border:1px solid blue">
 
 ### Software
+The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://new.steinberg.net/wavelab/){:target="_blank"}
 
 ### Digitising Cassette Tapes
 

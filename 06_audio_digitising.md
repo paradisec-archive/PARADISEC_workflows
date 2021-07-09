@@ -227,11 +227,12 @@ Press the button with the dot on it, far right. This will open the following rec
 
 16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
 
+
 ### Digitising Reel-to-reel Tapes
 
-Put the tape reel onto the left spindle, the right is reserved for the take-up empty reel. once on the spindle, lift spindle from the top and turn it so that the tabs can lock down the reel.
+1. Put the tape reel onto the left spindle, the right is reserved for the take-up empty reel. once on the spindle, lift top of the spindle and turn it so that the tabs can lock down the reel.
 
-Make sure tape is spooling off to the left of the reel
+2. Make sure tape is spooling off to the left of the reel
 
 Bring down the tape leader (the extra bit of non-magnetic tape at the beginning of the reel, usually green) and thread it through the various rollers as below. Once threaded through, flip up the head shield (this needs to be done manually with the Studer A807; the shield flips up automatically when play is engaged on the the ReVox C270 model).
 

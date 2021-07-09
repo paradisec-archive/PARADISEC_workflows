@@ -1,11 +1,11 @@
-current directory: /Users/coedl/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
-/Users/coedl/.rbenv/versions/2.7.2/bin/ruby -I /Users/coedl/.rbenv/versions/2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210707-4047-1aae47e.rb extconf.rb
+current directory: /Users/coedluser/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+/Users/coedluser/.rbenv/versions/2.7.2/bin/ruby -I /Users/coedluser/.rbenv/versions/2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210709-70914-o4ae94.rb extconf.rb
 creating Makefile
 
-current directory: /Users/coedl/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/coedluser/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
 make DESTDIR\= clean
 
-current directory: /Users/coedl/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/coedluser/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
 make DESTDIR\=
 compiling arena.c
 compiling autolink.c
@@ -20,7 +20,7 @@ In file included from ./houdini.h:9:
 ./config.h:8:9: warning: 'HAVE_STDBOOL_H' macro redefined [-Wmacro-redefined]
 #define HAVE_STDBOOL_H
         ^
-/Users/coedl/.rbenv/versions/2.7.2/include/ruby-2.7.0/x86_64-darwin18/ruby/config.h:27:9: note: previous definition is here
+/Users/coedluser/.rbenv/versions/2.7.2/include/ruby-2.7.0/x86_64-darwin18/ruby/config.h:27:9: note: previous definition is here
 #define HAVE_STDBOOL_H 1
         ^
 1 warning generated.
@@ -52,6 +52,6 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.bundle
 
-current directory: /Users/coedl/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/coedluser/Documents/GitHub/PARADISEC_workflows/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20210707-4047-4xhbvt/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20210709-70914-12xmjg/commonmarker

@@ -101,6 +101,11 @@ Having an external, stand-alone analogue/digital converter is critical so that t
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
 
+#### Reel-to-reel tape player: [Studer A807](https://www.radiomuseum.org/r/studer_audio_recorder_reproducer_a807.html){:target="_blank"}
+<p align="center">
+  <img width="300" src="images/StuderA807.jpg">
+</p>
+
 <hr style="border:1px solid blue">
 
 **READ MORE ABOUT** the use of reel-to-reel machines in [section 5.4.4](https://www.iasa-web.org/tc04/replay-equipment-professional-reel-machines){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
@@ -230,11 +235,12 @@ Press the button with the dot on it, far right. This will open the following rec
 
 ### Digitising Reel-to-reel Tapes
 
-1. Put the tape reel onto the left spindle, the right is reserved for the take-up empty reel. once on the spindle, lift top of the spindle and turn it so that the tabs can lock down the reel.
+1. Put the tape reel onto the left spindle, the right is reserved for the take-up empty reel. Make sure tape is spooling off to the left of the reel. Once on the spindle, lift top of the spindle and turn it so that the tabs can lock down the reel.
 
-2. Make sure tape is spooling off to the left of the reel
+2. Bring down the tape leader (the extra bit of non-magnetic tape at the beginning of the reel, usually green) and thread it through the various rollers as below. 
 
-Bring down the tape leader (the extra bit of non-magnetic tape at the beginning of the reel, usually green) and thread it through the various rollers as below. Once threaded through, flip up the head shield (this needs to be done manually with the Studer A807; the shield flips up automatically when play is engaged on the the ReVox C270 model).
+
+3. Once threaded through, flip up the head shield (this needs to be done manually with the Studer A807; the shield flips up automatically when play is engaged on the the ReVox C270 model).
 
 Move the reels manually along until the point where the tape leader ends and
 the magnetic tape begins almost reach the tape heads.

@@ -68,7 +68,7 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 
 <hr style="border:1px solid blue">
 
-**READ MORE ABOUT** analogue to digital converters and sound cards in [section 2.4](https://www.iasa-web.org/tc04/key-digital-principles){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects. 
+**READ MORE ABOUT** analogue to digital converters and sound cards in [sections 2.4 and 2.5](https://www.iasa-web.org/tc04/key-digital-principles){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects. 
 <hr style="border:1px solid blue">
 
 #### Audio cassette player: [Tascam 122 mk II](https://tascam.com/downloads/tascam/324/122mkIII_TECHDOC.pdf){:target="_blank"}

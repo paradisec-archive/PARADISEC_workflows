@@ -14,6 +14,14 @@ nav_order: 6
 {:toc}
 </details>
 
+<style>
+H5{color:White !important;}
+</style>
+
+<style>
+H6{color:White !important;}
+</style>
+
 
 # Audio Digitising of Analogue Tapes
 <p align="center">
@@ -24,12 +32,12 @@ nav_order: 6
   <img width="300" src="images/rev-rev-vox.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 9 July 2021</span>
 
 This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This worlflow can be modified to accommodate other organisations in their specific digitising goals.
 
 
-### Equipment
+### About the equipment
 
 #### Computer workstation
 
@@ -54,6 +62,12 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
   <img width="500" src="images/RME.jpg">
 </p>
 
+A new soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections. The connectivity features we require for our set-up:
+* D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU & SPDIF). This cable will have two XLR plugs at the other end
+* allows for up to 192kHz/24-bit, balanced stereo in/output
+*(There many other technical specifications outlined on the RME
+
+
 #### Audio cassette player: [Tascam 122 mk II](https://tascam.com/downloads/tascam/324/122mkIII_TECHDOC.pdf){:target="_blank"}
 <p align="center">
   <img width="500" src="images/tascam_112_MKII_1.jpg">
@@ -63,6 +77,8 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 <p align="center">
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
+
+**Important information on the use of reel-to-reel machines can be found [in section 5.4.4](https://www.iasa-web.org/tc04/replay-equipment-professional-reel-machines){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
 
 ### Software
 

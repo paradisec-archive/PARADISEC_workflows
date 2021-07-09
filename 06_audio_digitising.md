@@ -111,6 +111,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 
 ### Digitising Cassette Tapes
 
+**If you have your mobile phone with you, turn it off or put it in airplane mode**
 
 1.	Turn on computer and login with your ANU UDS credentials
 
@@ -249,7 +250,13 @@ Adjust the azimuth
 
 Once everything has been checked and adjusted. stop the reel from playing.
 
-DO NOT HIT REWIND. Uze the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautios way to treat the tape
+It may be the case that the tape has been recorded as mono tracks on both sides. Our system will digitise both mono tracks simultaneously. If you are using headphones, you will hear one track in one ear, playing correctly, and the second track in the other, playing backwards.
+
+The phase scope will look a bit like an X if there are two mono tracks on the tape. Adjust the azimuth as best as you can:
+
+Adjust for the 
+
+DO NOT HIT REWIND. Uze the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautious way to treat the tape
 
 
 

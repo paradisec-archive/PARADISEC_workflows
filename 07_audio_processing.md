@@ -15,7 +15,7 @@ nav_order: 7
 </details>
 
 
-## Audio processing of born-digital files
+## Processing of born-digital file-based audio
 <br>
 
 <p align="center">

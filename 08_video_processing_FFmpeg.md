@@ -1,5 +1,5 @@
 ---
-title: Video Processing - MP4 (H.264)
+title: Video Processing - Using FFmpeg
 layout: default
 published: true
 nav_order: 8
@@ -14,13 +14,13 @@ nav_order: 8
 {:toc}
 </details>
 
-## MP4 (H.264)
+## FFmpeg
 
 <p align="center">
 🚧 This page is currently under construction 🚧
 </p>
 
-***Creating .MP4 (H.264) videos with either ffmpeg or Adobe Media Encoder (CC 2018 or later)***
+
 
 <span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
 

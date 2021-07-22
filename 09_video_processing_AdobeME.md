@@ -1,5 +1,5 @@
 ---
-title: Video Processing - MXF
+title: Video Processing - Using Adobe Media Encoder
 layout: default
 published: true
 nav_order: 9
@@ -151,6 +151,10 @@ You can see in the upper left corner that there is some quality reporting. Pay s
 * **8-bits** per channel is typically the *bit depth* for many of the original .MOV, .MTS, .AVI, .MP4, etc. video files we handle. Using a 10-bit depth would needlessly increase the file-size while adding no improved quality.
 
 * **Broadcast profile** determines the maximum sampling and bit rates of the output file. **Level 6 lossless (L6)** is 520 Msamples/s and 1600Mbits/s. **Level 7 lossless (L7)** is 520 Msamples /s and and unspecified Max Bitrate.
+
+
+## MP4 (H.264) 
+
 
 * For further information of the **Media Encoder export settings** mentioned above look [HERE](https://helpx.adobe.com/au/media-encoder/using/export-settings-reference.html){:target="_blank"}.
 

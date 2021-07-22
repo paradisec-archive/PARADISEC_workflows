@@ -1,5 +1,5 @@
 ---
-title: Suggested specifications for digital capture
+title: Technical specifications for digitising & digital capture
 layout: default
 published: true
 nav_order: 4
@@ -14,7 +14,7 @@ nav_order: 4
 {:toc}
 </details>
 
-## Suggested specifications for digital capture
+## Suggested specifications for digitising & digital capture
 
 <p align="center">
 🚧 This page is currently under construction 🚧
@@ -24,7 +24,8 @@ nav_order: 4
   <img width="200" src="images/lumetri_scope.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 16 July 2021</span>
+
 
 ### Audio recordings
 

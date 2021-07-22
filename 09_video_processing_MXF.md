@@ -21,7 +21,7 @@ nav_order: 9
 
 ## MXF
 
-<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 22 July 2021</span>
 
 **_This page outlines how to create lossless JPEG2000 .MXF videos using Adobe Media Encoder (CC 2018 or later). This is for digital-to-digital transcoding. Contact PARADISEC if you have analog material to digitise._**
 

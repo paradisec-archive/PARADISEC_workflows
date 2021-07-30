@@ -57,7 +57,7 @@ To test if you have installed FFmpeg correctly, just type ```ffmpeg``` and enter
 <p align="center">
   <img width="500" src="images/ffmpeg-installed.jpg" alt="Screenshot of terminal showing installed version of FFmpeg">
 </p>
-As suggested in that final line in image above, to view the FFmpeg manual in the terminal window, type in:
+As suggested in that final line in the above image, to view the FFmpeg manual in the terminal window, type in:
 
     man ffmpeg
 

@@ -24,7 +24,7 @@ nav_order: 8
 
 <span style="font-variant:small-caps;">Last updated: 30 July 2021</span>
 
->**Note:** Always check the links to the software webpages for any substantial changes to installation instructions.
+>**💡** Always check the links to the software webpages for any substantial changes to installation instructions.
 
 *[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 

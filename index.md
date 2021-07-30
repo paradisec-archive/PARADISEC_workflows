@@ -47,6 +47,8 @@ These technical workflows and archiving guides are designed to help people with 
 <hr style="border:1px solid grey">
 *The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or instructions for those who are looking to digitise text material such as field notebooks.*
 
+*[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for audio and video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
+
 ### [Suggested specifications for digital capture](https://paradisec-archive.github.io/PARADISEC_workflows/04_suggested_specifications.html)
 * Camera settings (frame rate, file formats)
 * Audio settings (sample and bit rates) 

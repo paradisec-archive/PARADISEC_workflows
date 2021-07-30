@@ -14,20 +14,18 @@ nav_order: 8
 {:toc}
 </details>
 
-## FFmpeg
+## Video Processing with FFmpeg
 
 <p align="center">
 🚧 This page is currently under construction 🚧
 </p>
-
-
 
 <span style="font-variant:small-caps;">Last updated: 30 July 2021</span>
 
 ><span style="color:LightBlue">
 **⏸️  TIP:** Always check the links to the software webpages for any substantial changes to installation instructions.</span>
 
-*[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
+
 
 FFmpeg is an efficient and cost effective way to process video. It is done by using a command line interface (CLI), but once the workflow is set up, it is relatively simple.
 

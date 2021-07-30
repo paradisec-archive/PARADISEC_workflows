@@ -55,7 +55,7 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 To test if you have installed FFmpeg correctly, just type ```ffmpeg``` and enter. Information about the version of FFmpeg as well as enabled libraries should appear in your terminal window as seen in the image below.
 
 <p align="center">
-  <img width="300" src="images/ffmpeg-installed.jpg" alt="Screenshot of terminal showing installed version of FFmpeg">
+  <img width="500" src="images/ffmpeg-installed.jpg" alt="Screenshot of terminal showing installed version of FFmpeg">
 </p>
 To view the FFmpeg manual in the terminal window, type in:
 

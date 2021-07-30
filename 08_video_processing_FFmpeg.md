@@ -57,15 +57,15 @@ To test if you have installed FFmpeg correctly, just type ```ffmpeg``` and enter
 <p align="center">
   <img width="500" src="images/ffmpeg-installed.jpg" alt="Screenshot of terminal showing installed version of FFmpeg">
 </p>
-To view the FFmpeg manual in the terminal window, type in:
+As suggested in that final line in image above, to view the FFmpeg manual in the terminal window, type in:
 
     man ffmpeg
 
 For further help using FFmpeg, take a look at the following sites:
 
-[FFmpeg](https://ffmpeg.org/ffmpeg.html){:target="_blank"}
+⏩ [FFmpeg: https://ffmpeg.org/ffmpeg.html](https://ffmpeg.org/ffmpeg.html){:target="_blank"}
 
-[ffmprovisor](https://amiaopensource.github.io/ffmprovisr/){:target="_blank"}
+⏩ [ffmprovisor: https://amiaopensource.github.io/ffmprovisr/](https://amiaopensource.github.io/ffmprovisr/){:target="_blank"}
 
 
 #### Navigate via terminal to your working directory

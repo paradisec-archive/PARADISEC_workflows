@@ -53,7 +53,7 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 ><span style="color:LightBlue">
 **⏸️  TIP:** Check here for any updates to this installation process: [https://formulae.brew.sh/formula/ffmpeg](https://formulae.brew.sh/formula/ffmpeg)</span>
 
-To test if you have installed FFmpeg correctly, just type ffmpeg and enter. Information about the version of FFmpeg as well as enabled libraries should appear in your terminal window as seen in the image to the right.
+To test if you have installed FFmpeg correctly, just type ```ffmpeg``` and enter. Information about the version of FFmpeg as well as enabled libraries should appear in your terminal window as seen in the image to the right.
 
 To view the FFmpeg manual in the terminal window, type in:
 

@@ -67,12 +67,12 @@ These technical workflows and archiving guides are designed to help people with 
 * Resampling audio to meet PARADISEC archiving standards
 * Creating stereo track from mono track
 
-### [Video processing of videos using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html)
+### [Video processing using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html)
 * Quickly make batch changes to video or audio files
 * Transcode videos with settings not available in Adobe ME presets
 * Handle video with problematic properties
 
-### [Video processing of videos using Adobe Media Encoder](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html)
+### [Video processing using Adobe Media Encoder](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html)
 * Create lossless JPEG2000 video files for archiving with PARADISEC (archival copy)
 * Create well-formed .MP4s for archival access copies or fit-for-purpose copies
 * Handle video with problematic properties for lossless MXF format

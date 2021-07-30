@@ -23,7 +23,7 @@ nav_order: 1
 </p>
 <br>
 
-<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 30 July 2021</span>
 
 These technical workflows and archiving guides are designed to help people with different goals and different skill levels. If there is a topic you want to know about, but the information is not contained on these pages, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au){:target="_blank"} and we will do our best to help. 
 
@@ -67,13 +67,14 @@ These technical workflows and archiving guides are designed to help people with 
 * Resampling audio to meet PARADISEC archiving standards
 * Creating stereo track from mono track
 
-### [Video processing of MP4 (H.264)](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_MP4.html)
-* Create well-formed .MP4s for archival access copies or fit-for-purpose copies
-* Extract audio from video
-* Handle video with problematic properties in your attempts to make .MP4s
+### [Video processing of videos using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_MP4.html)
+* Quickly make batch changes to video or audio files
+* Transcode videos with settings not available in Adobe ME presets
+* Handle video with problematic properties
 
-### [Video processing of archival MXF](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_MXF.html)
+### [Video processing of videos using Adobe Media Encoder](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_MXF.html)
 * Create lossless JPEG2000 video files for archiving with PARADISEC (archival copy)
+* Create well-formed .MP4s for archival access copies or fit-for-purpose copies
 * Handle video with problematic properties for lossless MXF format
 <br>
 <hr style="border:1px solid grey">

@@ -18,13 +18,14 @@ nav_order: 8
 
 <p align="center">
 🚧 This page is currently under construction 🚧
+⏮️⏪▶️⏸️⏹️⏺️⏩⏯️⏏️
 </p>
 
 
 
 <span style="font-variant:small-caps;">Last updated: 30 July 2021</span>
 
->**💡** Always check the links to the software webpages for any substantial changes to installation instructions.
+>**⏸️ Tip** Always check the links to the software webpages for any substantial changes to installation instructions.
 
 *[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
@@ -39,7 +40,7 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 <span style="color:red">
-Note:</span> Check here for any updates to this installation process: [https://brew.sh/](https://brew.sh/)
+Note:</span>❗ Check here for any updates to this installation process: [https://brew.sh/](https://brew.sh/)
 
 2. Run Brew Doctor. This is a self-diagnostic tool to determine if everything is installed correctly.
 

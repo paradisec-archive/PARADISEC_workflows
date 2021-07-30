@@ -1,5 +1,5 @@
 ---
-title: Video Processing - Using Adobe Media Encoder
+title: Video Processing with Adobe Media Encoder
 layout: default
 published: true
 nav_order: 9

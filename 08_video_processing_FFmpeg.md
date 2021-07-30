@@ -1,5 +1,5 @@
 ---
-title: Video Processing - Using FFmpeg
+title: Video Processing with FFmpeg
 layout: default
 published: true
 nav_order: 8

@@ -20,7 +20,7 @@ nav_order: 8
 🚧 This page is currently under construction 🚧
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 30 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 1 August 2021</span>
 
 ><span style="color:LightBlue">
 **⏸️  TIP:** Always check the links to the software webpages for any substantial changes to installation instructions.</span>
@@ -69,16 +69,34 @@ For further help using FFmpeg, take a look at the following sites:
 
 
 #### Navigate via terminal to your working directory
+It is a good idea to set up a working directory for your video transcoding work. To use FFmpeg for this task, you'll first need to direct it to the folder containing the videos you wish to work with.
+
+Here is are a few sites that can get you started with bash so that you can navigate around your directories using the terminal: 
+* [Linux Commands - Basic Bash Command Line Tips You Should Know](https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know/)
+* [16 Must-Know Bash Commands for Data Scientists](https://towardsdatascience.com/16-must-know-bash-commands-for-data-scientists-d8263e990e0e)
+* [An A-Z Index of the Linux command line: bash + utilities](https://ss64.com/bash/)
+
+
+
+
 
 #### Transcoding .MP4 to .MP4 with **ffmpeg**
 
 ### Using **FFmpeg** on a PC
+Not all terminals are the same; Linux (what we use for FFmpeg Bash commands) does not run natively on PCs. We could run FFmpeg on the native PC terminal, but the transcoding commands would not be the same as those we use on the Mac. 
+
+
 
 #### Linux on Windows
+Thankfully, Windows 10 has created a full subsystem that you can activate allowing us to use Linux on the PC without needing a virtual machine or container. If you need help determining if you have the latest Windows update, try this site: https://www.howtogeek.com/301795/how-to-get-windows-10s-creators-update-now/.
 
 #### Activating Linux on your PC
-
+To get your computer set up to use Linux, go to Control Panel > Programs > Turn Windows Features
+On Or Off. Tick the box for “Windows Subsystem for Linux” option, and then click “OK”. Next click
+“Restart now” when prompted. This new feature won’t work until you reboot your machine.
 #### Installing Ubuntu
+
+[Microsoft Ubuntu App](https://www.microsoft.com/en-au/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab)
 
 #### Installing **ffmpeg** via Ubuntu
 

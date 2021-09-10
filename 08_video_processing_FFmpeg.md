@@ -20,10 +20,12 @@ nav_order: 8
 🚧 This page is currently under construction 🚧
 </p>
 
+*This technical guide was created as part of the archiving workflow for PARADISEC. Some of the content may not be relevant for general users.* 
+
 <span style="font-variant:small-caps;">Last updated: 1 August 2021</span>
 
 ><span style="color:LightBlue">
-**⏸️  TIP:** Always check the links to the software webpages for any substantial changes to installation instructions.</span>
+**⏸️  TIP:** Always check software webpages for any substantial changes to installation instructions.</span>
 
 
 

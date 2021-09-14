@@ -25,7 +25,9 @@ nav_order: 8
 <span style="font-variant:small-caps;">Last updated: 14 September 2021</span>
 
 <hr style="border:2px solid blue">
+><span style="color:LightBlue">
 **NOTE:** Always check software webpages for any substantial changes to installation instructions.
+</span>
 <hr style="border:2px solid blue">
 
 

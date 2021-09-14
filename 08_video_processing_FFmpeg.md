@@ -22,11 +22,11 @@ nav_order: 8
 
 *This technical guide was created as part of the archiving workflow for PARADISEC. Some of the content may not be relevant for general users.* 
 
-<span style="font-variant:small-caps;">Last updated: 1 August 2021</span>
+<span style="font-variant:small-caps;">Last updated: 10 September 2021</span>
 
-><span style="color:LightBlue">
-**⏸️  TIP:** Always check software webpages for any substantial changes to installation instructions.</span>
-
+<hr style="border:2px solid blue">
+**⏸️  NOTE:** Always check software webpages for any substantial changes to installation instructions.
+<hr style="border:2px solid blue">
 
 
 FFmpeg is an efficient and cost effective way to process video. It is done by using a command line interface (CLI), but once the workflow is set up, it is relatively simple.

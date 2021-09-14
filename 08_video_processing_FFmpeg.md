@@ -24,12 +24,6 @@ nav_order: 8
 
 <span style="font-variant:small-caps;">Last updated: 14 September 2021</span>
 
-<hr style="border:2px solid blue">
-><span style="color:LightBlue">
-**⏸️  NOTE:** Always check software webpages for any substantial changes to installation instructions.
-</span>
-<hr style="border:2px solid blue">
-
 
 FFmpeg is an efficient and cost effective way to process video. It is done by using a command line interface (CLI), but once the workflow is set up, it is relatively simple.
 
@@ -44,7 +38,7 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 
 <hr style="border:2px solid blue">
 ><span style="color:LightBlue">
-**⏸️  NOTE:** Check here for any updates to this installation process: [https://brew.sh/](https://brew.sh/)</span>
+**⏸️  NOTE:** Check here for any updates to the **Homebrew** installation process: [https://brew.sh/](https://brew.sh/)</span>
 <hr style="border:2px solid blue">
 
 2️⃣ Run Brew Doctor. This is a self-diagnostic tool to determine if everything is installed correctly.<br>
@@ -57,7 +51,7 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 
 <hr style="border:2px solid blue">
 ><span style="color:LightBlue">
-**⏸️  NOTE:** Check here for any updates to this installation process: [https://formulae.brew.sh/formula/ffmpeg](https://formulae.brew.sh/formula/ffmpeg)</span>
+**⏸️  NOTE:** Check here for any updates to the **ffmpeg** installation process: [https://formulae.brew.sh/formula/ffmpeg](https://formulae.brew.sh/formula/ffmpeg)</span>
 <hr style="border:2px solid blue">
 
 

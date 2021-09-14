@@ -26,7 +26,7 @@ nav_order: 8
 
 <hr style="border:2px solid blue">
 ><span style="color:LightBlue">
-**NOTE:** Always check software webpages for any substantial changes to installation instructions.
+**⏸️  NOTE:** Always check software webpages for any substantial changes to installation instructions.
 </span>
 <hr style="border:2px solid blue">
 
@@ -43,8 +43,8 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 <hr style="border:2px solid blue">
-<span style="color:LightBlue">
-**NOTE:** Check here for any updates to this installation process: [https://brew.sh/](https://brew.sh/)</span>
+><span style="color:LightBlue">
+**⏸️  NOTE:** Check here for any updates to this installation process: [https://brew.sh/](https://brew.sh/)</span>
 <hr style="border:2px solid blue">
 
 2️⃣ Run Brew Doctor. This is a self-diagnostic tool to determine if everything is installed correctly.<br>
@@ -53,10 +53,13 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 
 3️⃣ Install [FFmpeg](https://ffmpeg.org/){:target="_blank"}
 
-><span style="color:LightBlue">
-**⏸️  TIP:** Check here for any updates to this installation process: [https://formulae.brew.sh/formula/ffmpeg](https://formulae.brew.sh/formula/ffmpeg)</span>
-
     brew install ffmpeg
+
+<hr style="border:2px solid blue">
+><span style="color:LightBlue">
+**⏸️  NOTE:** Check here for any updates to this installation process: [https://formulae.brew.sh/formula/ffmpeg](https://formulae.brew.sh/formula/ffmpeg)</span>
+<hr style="border:2px solid blue">
+
 
 To test if you have installed FFmpeg correctly, just type ```ffmpeg``` and enter. Information about the version of FFmpeg as well as enabled libraries should appear in your terminal window as seen in the image below.
 

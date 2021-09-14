@@ -40,10 +40,12 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 
 1️⃣ Install [Homebrew](https://brew.sh/){:target="_blank"} 
 
-><span style="color:LightBlue">
-**⏸️  TIP:** Check here for any updates to this installation process: [https://brew.sh/](https://brew.sh/)</span>
-
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+<hr style="border:2px solid blue">
+<span style="color:LightBlue">
+**NOTE:** Check here for any updates to this installation process: [https://brew.sh/](https://brew.sh/)</span>
+<hr style="border:2px solid blue">
 
 2️⃣ Run Brew Doctor. This is a self-diagnostic tool to determine if everything is installed correctly.<br>
 

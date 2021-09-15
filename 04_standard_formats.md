@@ -37,6 +37,7 @@ H6{color:White !important;}
 ### Standard formats for archiving with PARADISEC
 
 **Preferred deposit formats**
+
 | Media  |  What media formats PARADISEC will accept  | 
 | :---   | :---                                        | 
 | Audio  |  .wav, .aiff, .m4a .mp3** *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)* |

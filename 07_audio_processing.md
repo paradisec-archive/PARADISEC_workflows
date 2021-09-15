@@ -36,7 +36,8 @@ H6{color:White !important;}
 
 <span style="font-variant:small-caps;">Last updated: 15 September 2021</span>
 
-## PARADISEC audio processing workflow for archiving (using Adobe Audition)
+## PARADISEC audio processing workflow for archiving
+This workflow is targeted toward born-digital audio files; however, should the need arise to adjust audio files originating from various legacy formats, this workflow will help.  
 
 ### PARADISEC audio standards
 

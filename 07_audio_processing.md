@@ -15,19 +15,23 @@ nav_order: 7
 </details>
 
 
-## Processing of born-digital file-based audio
+## Audio processing
 <br>
 
 <p align="center">
 🚧 This page is currently under construction 🚧
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 15 September 2021</span>
 
 <br>
 <p align="center">
   <img width="300" src="images/Revox_front.gif">
 </p>
 <br>
+
+PARADISEC audio processing workflow for archiving (using Adobe Audition)
+
+PARADISEC audio standards
 
 [Back to top](#)

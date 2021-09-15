@@ -41,7 +41,7 @@ H6{color:White !important;}
 | Media  |  What media formats PARADISEC will accept<sup>1</sup>   | 
 | :---   | :---                                        | 
 | Audio  |  .wav, .aiff, .m4a .mp3<sup>2</sup> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted) |
-| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<sup>1</sup> |
+| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<sup>2</sup> |
 | Images | .tif, .jpg, .png, .CR2                      |
 | Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*                                        |
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|

@@ -14,6 +14,14 @@ nav_order: 4
 {:toc}
 </details>
 
+<style>
+H5{color:White !important;}
+</style>
+
+<style>
+H6{color:White !important;}
+</style>
+
 ## Suggested specifications for digitising & digital capture
 
 <p align="center">

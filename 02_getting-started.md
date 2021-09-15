@@ -14,6 +14,13 @@ nav_order: 2
 {:toc}
 </details>
 
+<style>
+H5{color:White !important;}
+</style>
+
+<style>
+H6{color:White !important;}
+</style>
 
 ## Getting Started with PARADISEC
 

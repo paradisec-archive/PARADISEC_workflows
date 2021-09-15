@@ -14,6 +14,14 @@ nav_order: 11
 {:toc}
 </details>
 
+<style>
+H5{color:White !important;}
+</style>
+
+<style>
+H6{color:White !important;}
+</style>
+
 ## PARADISEC Ingestion Workflow Model
 <br>
 <p align="center">

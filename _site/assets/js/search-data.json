@@ -73,13 +73,13 @@
   },"12": {
     "doc": "Audio Processing",
     "title": "Other audio processing tasks",
-    "content": "Extracting audio from a video using VLC . If you want to extract the audio track from a video file. you can easily do this in two ways, both using software that is freely available: . | Using VLC | Using FFmpeg If you want to retain the same audio quality as the source video: ffmpeg -i &lt;Input.mp4&gt; &lt;Output.wav&gt; . | . Resampling audio using Audacity Manipulating audio with FFmpeg . ⬆️ Back to top . ",
+    "content": "Extracting audio from a video using VLC . If you want to extract the audio track from a video file. you can easily do this in two ways, both using software that is freely available: . Using VLC . Using FFmpeg . If you want to retain the same audio quality as the source video: . ffmpeg -i &lt;Input.mp4&gt; &lt;Output.wav&gt; . If the original video has only one channel, or has a sampling or bit rate you want to change, you can add to the above . Resampling audio using Audacity Manipulating audio with FFmpeg . ⬆️ Back to top . ",
     "url": "http://localhost:4000/07_audio_processing.html#other-audio-processing-tasks",
     "relUrl": "/07_audio_processing.html#other-audio-processing-tasks"
   },"13": {
     "doc": "Audio Processing",
     "title": "Audio Processing",
-    "content": ". | Audio processing | PARADISEC audio processing workflow for archiving (using Adobe Audition) . | PARADISEC audio standards | . | Other audio processing tasks . | Extracting audio from a video using VLC | . | . ",
+    "content": ". | Audio processing | PARADISEC audio processing workflow for archiving (using Adobe Audition) . | PARADISEC audio standards | . | Other audio processing tasks . | Extracting audio from a video using VLC . | Using VLC | Using FFmpeg | . | . | . ",
     "url": "http://localhost:4000/07_audio_processing.html",
     "relUrl": "/07_audio_processing.html"
   },"14": {

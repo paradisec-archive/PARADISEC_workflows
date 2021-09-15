@@ -14,6 +14,13 @@ nav_order: 9
 {:toc}
 </details>
 
+<style>
+H5{color:White !important;}
+</style>
+
+<style>
+H6{color:White !important;}
+</style>
 
 <p align="center">
 🚧 This page is currently under construction 🚧

@@ -14,11 +14,16 @@ nav_order: 7
 {:toc}
 </details>
 
+<style>
+H5{color:White !important;}
+</style>
+
+<style>
+H6{color:White !important;}
+</style>
 
 ## Audio processing
 <br>
-
-
 
 <br>
 <p align="center">
@@ -36,15 +41,18 @@ nav_order: 7
 ### PARADISEC audio standards
 
 ## Other audio processing tasks
+
 ### Extracting audio from a video using VLC
 If you want to extract the audio track from a video file. you can easily do this in two ways, both using software that is freely available:
-1. Using VLC
-2. Using FFmpeg
+
+#### Using VLC
+
+#### Using FFmpeg
 If you want to retain the same audio quality as the source video:
 ```
 ffmpeg -i  <Input.mp4> <Output.wav>
 ```
-
+If the original video has only one channel, or has a sampling or bit rate you want to change, you can add to the above
 
 Resampling audio using Audacity	Manipulating audio with FFmpeg
 

@@ -50,9 +50,9 @@ If you want to extract the audio track from a video file. you can easily do this
 #### Using FFmpeg
 If you want to retain the same audio quality as the source video:
 ```
-ffmpeg -i  <Input.mp4> <Output.wav>
+ffmpeg -i  <name_of_input_video.extension> <name_of_output_audio.extension>
 ```
-If the original video has only one channel, or has a sampling or bit rate you want to change, you can add to the above
+If the original video (.avi, .mts, .mp4, .mov, etc.) has only one audio channel, or has a sampling or bit rate you want to change, you can add to the above
 
 Resampling audio using Audacity	Manipulating audio with FFmpeg
 

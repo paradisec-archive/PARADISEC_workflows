@@ -61,9 +61,9 @@ H6{color:White !important;}
 | Annotations | **Archival and access copies:** Same as original *(see accepted formats above)*|
 | Lexicons | **Archival and access copies:** Same as original *(see accepted formats above)*|
 
-<sup>1</sup>*If you have a format other than those listed above, please contact me so I can advise you on what we can be done.*
+<sup>1</sup>*If you have a format other than those listed above, please contact us so we can advise you on what can be done.*
 
-<sup>2</sup>*If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats.*
+<sup>2</sup>*If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats. Look at the following section for capture suggestions*
 
 ### Suggestions for audio recorders and video cameras
 #### Audio recordings

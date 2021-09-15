@@ -38,14 +38,14 @@ H6{color:White !important;}
 
 **Preferred deposit formats**
 
-| Media  |  What media formats PARADISEC will accept  | 
+| Media  |  What media formats PARADISEC will accept   | 
 | :---   | :---                                        | 
-| Audio  |  .wav, .aiff, .m4a .mp3** *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)* |
-| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg*|
-| Images | .tif, .jpg, .png, .CR2|
-| Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*|
+| Audio  |  .wav, .aiff, .m4a .mp3** *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)*            |
+| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg* |
+| Images | .tif, .jpg, .png, .CR2                      |
+| Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*                                        |
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|
-| Lexicons |  .xml, .txt , .fwbackup *(containing no media files)*                            |
+| Lexicons |  .xml, .txt , .fwbackup *(containing no media files)*|
 
 <br>
 

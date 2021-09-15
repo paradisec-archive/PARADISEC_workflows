@@ -40,8 +40,8 @@ H6{color:White !important;}
 
 | Media  |  What media formats PARADISEC will accept   | 
 | :---   | :---                                        | 
-| Audio  |  .wav, .aiff, .m4a .mp3** *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)*            |
-| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg* |
+| Audio  |  .wav, .aiff, .m4a .mp3<sup>2</sup> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)<sup>1</sup>            |
+| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<sup>1</sup> |
 | Images | .tif, .jpg, .png, .CR2                      |
 | Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*                                        |
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|
@@ -61,9 +61,9 @@ H6{color:White !important;}
 | Annotations | **Archival and access copies:** Same as original *(see accepted formats above)*|
 | Lexicons | **Archival and access copies:** Same as original *(see accepted formats above)*|
 
-* *If you have a format other than those listed above, please contact me so I can advise you on what we can be done.*
+<sup>1</sup>*If you have a format other than those listed above, please contact me so I can advise you on what we can be done.*
 
-** *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats.*
+<sup>2</sup>*If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats.*
 
 ### Suggestions for audio recorders and video cameras
 #### Audio recordings

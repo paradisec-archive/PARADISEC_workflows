@@ -39,7 +39,8 @@ These technical workflows and archiving guides are designed to help people with 
 
 *[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for audio and video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
-### [Suggested specifications for digital capture](https://paradisec-archive.github.io/PARADISEC_workflows/04_suggested_specifications.html)
+### [Standard formats for data collection and archiving](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html)
+* Standard archival formats 
 * Camera settings (frame rate, file formats)
 * Audio settings (sample and bit rates) 
 * Microphones

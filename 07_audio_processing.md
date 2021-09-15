@@ -18,20 +18,34 @@ nav_order: 7
 ## Audio processing
 <br>
 
-<p align="center">
-🚧 This page is currently under construction 🚧
-</p>
 
-<span style="font-variant:small-caps;">Last updated: 15 September 2021</span>
 
 <br>
 <p align="center">
   <img width="300" src="images/Revox_front.gif">
 </p>
 <br>
+<p align="center">
+🚧 This page is currently under construction 🚧
+</p>
 
-PARADISEC audio processing workflow for archiving (using Adobe Audition)
+<span style="font-variant:small-caps;">Last updated: 15 September 2021</span>
 
-PARADISEC audio standards
+## PARADISEC audio processing workflow for archiving (using Adobe Audition)
 
-[Back to top](#)
+### PARADISEC audio standards
+
+## Other audio processing tasks
+### Extracting audio from a video using VLC
+If you want to extract the audio track from a video file. you can easily do this in two ways, both using software that is freely available:
+1. Using VLC
+2. Using FFmpeg
+If you want to retain the same audio quality as the source video:
+```
+ffmpeg -i  <Input.mp4> <Output.wav>
+```
+
+
+Resampling audio using Audacity	Manipulating audio with FFmpeg
+
+⬆️ [Back to top](#)

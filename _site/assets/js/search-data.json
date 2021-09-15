@@ -73,7 +73,7 @@
   },"12": {
     "doc": "Audio Processing",
     "title": "Other audio processing tasks",
-    "content": "Extracting audio from a video using VLC . If you want to extract the audio track from a video file. you can easily do this in two ways, both using software that is freely available: . Using VLC . Using FFmpeg . If you want to retain the same audio quality as the source video: . ffmpeg -i &lt;Input.mp4&gt; &lt;Output.wav&gt; . If the original video has only one channel, or has a sampling or bit rate you want to change, you can add to the above . Resampling audio using Audacity Manipulating audio with FFmpeg . ⬆️ Back to top . ",
+    "content": "Extracting audio from a video using VLC . If you want to extract the audio track from a video file. you can easily do this in two ways, both using software that is freely available: . Using VLC . Using FFmpeg . If you want to retain the same audio quality as the source video: . ffmpeg -i &lt;name_of_input_video.extension&gt; &lt;name_of_output_audio.extension&gt; . If the original video (.avi, .mts, .mp4, .mov, etc.) has only one audio channel, or has a sampling or bit rate you want to change, you can add to the above . Resampling audio using Audacity Manipulating audio with FFmpeg . ⬆️ Back to top . ",
     "url": "http://localhost:4000/07_audio_processing.html#other-audio-processing-tasks",
     "relUrl": "/07_audio_processing.html#other-audio-processing-tasks"
   },"13": {

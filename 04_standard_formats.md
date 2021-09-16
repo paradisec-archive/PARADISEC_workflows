@@ -29,7 +29,7 @@ H6{color:White !important;}
 </p>
 
 <p align="center">
-  <img height="100" src="images/rainbow-zoom.gif">
+  <img width="300" src="images/rainbow-zoom.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 16 September 2021</span>
@@ -68,10 +68,16 @@ The tables below contain the file formats we can accept from depositors and the 
 
 
 ### Suggestions for audio recorders and video cameras
+
+
 #### Audio recordings
 
 #### Video recordings
 
+<br>
+<hr style="border:1px solid grey">
+
+### Additional Resources
 
 
-[Back to top](#)
+⬆️ [Back to top](#)

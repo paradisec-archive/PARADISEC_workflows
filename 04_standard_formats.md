@@ -83,10 +83,10 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 <br>
 
 | <div style="width:130px">Video recorders</div> |  Features            |
-| :---            |  :---                |
-| Canon XA40      |                      |
-| Canon Legria    |                      |
-| Zoom Q8         |                      |
+| :---            | :---           |
+| Canon XA40      |             blah         |
+| Canon Legria    |              blah        |
+| Zoom Q8         |             blah         |
 ** Sony offers a wide range of cameras
 
 #### Recording settings

@@ -81,7 +81,7 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 ### Additional Resources
 
-Seyfeddinipur, M. (2020). [Keeping it real: Video data in language documentation and language archiving](http://hdl.handle.net/10125/24965){:target="_blank"}. Language Documentation, 14, 17.
+Seyfeddinipur, M. & Rau, F. (2020). [Keeping it real: Video data in language documentation and language archiving](http://hdl.handle.net/10125/24965){:target="_blank"}. Language Documentation, 14, 17.
 
 
 ⬆️ [Back to top](#)

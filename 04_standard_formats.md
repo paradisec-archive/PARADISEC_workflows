@@ -29,18 +29,17 @@ H6{color:White !important;}
 </p>
 
 <p align="center">
-  <img width="200" src="images/lumetri_scope.gif">
+  <img height="200" src="images/rainbow-zoom.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 15 September 2021</span>
 
 ### Standard formats for archiving with PARADISEC
-
-**Preferred deposit formats**
+The tables below contain the file formats we can accept from depositors and the final formats that go into the archive
 
 <br>
 
-| Media  |  What media formats PARADISEC will accept<sup>1</sup>   | 
+| Media  |  Media formats PARADISEC will accept<sup>1</sup>   | 
 | :---   | :---                                        | 
 | Audio  |  .wav, .aiff, .m4a .mp3<sup>2</sup> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)* |
 | Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<sup>2</sup> |
@@ -51,7 +50,7 @@ H6{color:White !important;}
 
 <br>
 
-| Media  |  What media formats are found in PARADISEC | 
+| Media  |  Final formats PARADISEC creates and archives| 
 | :---   | :---                                       | 
 | Audio  |  *Archival copy:* .wav (96kHz, 26bit)    |
 |        |  *Access copy:* .mp3 

@@ -29,10 +29,10 @@ H6{color:White !important;}
 </p>
 
 <p align="center">
-  <img height="200" src="images/rainbow-zoom.gif">
+  <img height="100" src="images/rainbow-zoom.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 15 September 2021</span>
+<span style="font-variant:small-caps;">Last updated: 16 September 2021</span>
 
 ### Standard formats for archiving with PARADISEC
 The tables below contain the file formats we can accept from depositors and the final formats that go into the archive

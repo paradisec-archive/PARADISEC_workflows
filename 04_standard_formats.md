@@ -53,15 +53,15 @@ H6{color:White !important;}
 
 | Media  |  What media formats are found in PARADISEC | 
 | :---   | :---                                       | 
-| Audio  |  **Archival copy:** .wav (96kHz, 26bit)    |
-|        |  **Access copy:** .mp3 
-| Video  |  **Archival copy:** .mxf (lossless JPEG2000)|
-|        |  **Access copy:** .mp4 (H.264)             |
-| Images |  **Archival copy:** .tif (400dpi)          |
-|        |  **Access copy:** .jpg                     |
-| Text   |  **Archival and access copies:** Same as original *(see accepted formats above)*|
-| Annotations | **Archival and access copies:** Same as original *(see accepted formats above)*|
-| Lexicons | **Archival and access copies:** Same as original *(see accepted formats above)*|
+| Audio  |  *Archival copy:* .wav (96kHz, 26bit)    |
+|        |  *Access copy:* .mp3 
+| Video  |  *Archival copy:* .mxf (lossless JPEG2000)|
+|        |  *Access copy:* .mp4 (H.264)             |
+| Images |  *Archival copy:* .tif (400dpi)          |
+|        |  *Access copy:* .jpg                     |
+| Text   |  *Archival and access copies:* Same as original *(see accepted formats above)*|
+| Annotations | *Archival and access copies:* Same as original *(see accepted formats above)*|
+| Lexicons | *Archival and access copies:* Same as original *(see accepted formats above)*|
 
 <sup>1</sup>*If you have a format other than those listed above, please contact us so we can advise you on what can be done.*
 

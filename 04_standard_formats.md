@@ -45,7 +45,7 @@ The tables below contain the file formats we accept from depositors and the fina
 | Audio  |  .wav, .aiff, .m4a .mp3<sup>1</sup> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)* |
 | Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<sup>1</sup> |
 | Images | .tif, .jpg, .png, .CR2                      |
-| Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*                                        |
+| Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*|
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|
 | Lexicons |  .xml, .txt , .pdf, .fwbackup *(containing no media files)*|
 
@@ -71,17 +71,20 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 ### Suggestions for audio recorders and video cameras
 
+#### Equipment models
 
-#### Audio recordings
+#### Recording settings
 
-#### Video recordings
+##### Audio recording
+
+##### Video recording
 
 <br>
 <hr style="border:1px solid grey">
 
 ### Additional Resources
 
-Seyfeddinipur, M. & Rau, F. (2020). [Keeping it real: Video data in language documentation and language archiving](http://hdl.handle.net/10125/24965){:target="_blank"}. Language Documentation, 14, 17.
+Seyfeddinipur, Mandana. & Rau, Felix. (2020). [Keeping it real: Video data in language documentation and language archiving](http://hdl.handle.net/10125/24965){:target="_blank"}. Language Documentation & Conservation, vol. 14.
 
 
 ⬆️ [Back to top](#)

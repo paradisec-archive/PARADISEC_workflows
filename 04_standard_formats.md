@@ -51,7 +51,7 @@ The tables below contain the file formats we accept from depositors and the fina
 
 <br>
 
-| Media  |  Final formats PARADISEC creates and archives| 
+| Media  |  Target formats PARADISEC creates and archives| 
 | :---   | :---                                       | 
 | Audio  |  *Archival copy:* .wav (96kHz, 26bit)    |
 |        |  *Access copy:* .mp3 
@@ -64,6 +64,9 @@ The tables below contain the file formats we accept from depositors and the fina
 | Lexicons | *Archival and access copies:* Same as original *(see accepted formats above)*|
 
 <sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats. Look at the following section for capture suggestions*
+
+#### Post-production processing of media
+If you would like to save money (see PARADISEC's page on [Costing a deposit](https://www.paradisec.org.au/deposit/costing-a-deposit/)) or speed up the archiving process, you may provide us with audio files that are already sampled to 96kHz/24bit or video files that are .mp4 (H.264 codec), you can refer to the following pages: [Audio procesing](https://paradisec-archive.github.io/PARADISEC_workflows/07_audio_processing.html){:target="_blank"} and [Video Processing using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}.
 
 
 ### Suggestions for audio recorders and video cameras

@@ -35,14 +35,16 @@ H6{color:White !important;}
 <span style="font-variant:small-caps;">Last updated: 16 September 2021</span>
 
 ### Standard formats for archiving with PARADISEC
-The tables below contain the file formats we can accept from depositors and the final formats that go into the archive
+The tables below contain the file formats we can accept from depositors and the final formats that go into the archive. If you have a format other than those listed, please contact us so we can advise you on what can be done.
+
+
 
 <br>
 
-| Media  |  Media formats PARADISEC will accept<sup>1</sup>   | 
+| Media  |  Media formats PARADISEC will accept   | 
 | :---   | :---                                        | 
-| Audio  |  .wav, .aiff, .m4a .mp3<sup>2</sup> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)* |
-| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<sup>2</sup> |
+| Audio  |  .wav, .aiff, .m4a .mp3<sup>1</sup> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)* |
+| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<sup>1</sup> |
 | Images | .tif, .jpg, .png, .CR2                      |
 | Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*                                        |
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|
@@ -62,9 +64,8 @@ The tables below contain the file formats we can accept from depositors and the 
 | Annotations | *Archival and access copies:* Same as original *(see accepted formats above)*|
 | Lexicons | *Archival and access copies:* Same as original *(see accepted formats above)*|
 
-<sup>1</sup>*If you have a format other than those listed above, please contact us so we can advise you on what can be done.*
+<sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats. Look at the following section for capture suggestions*
 
-<sup>2</sup>*If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats. Look at the following section for capture suggestions*
 
 ### Suggestions for audio recorders and video cameras
 #### Audio recordings

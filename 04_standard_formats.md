@@ -1,5 +1,5 @@
 ---
-title: Standard formats for data collection and archiving
+title: Standard Formats for Data Collection and Archiving
 layout: default
 published: true
 nav_order: 4
@@ -22,14 +22,14 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-## Standard formats for data collection and archiving
+## Standard Formats for Data Collection and Archiving
 
 <p align="center">
 🚧 This page is currently under construction 🚧
 </p>
 
 <p align="center">
-  <img width="300" src="images/rainbow-zoom.gif">
+  <img width="300" src="images/rainbow-zoom.xxx">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 16 September 2021</span>

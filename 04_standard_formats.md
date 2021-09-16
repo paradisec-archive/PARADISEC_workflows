@@ -35,8 +35,7 @@ H6{color:White !important;}
 <span style="font-variant:small-caps;">Last updated: 16 September 2021</span>
 
 ### Standard formats for archiving with PARADISEC
-The tables below contain the file formats we can accept from depositors and the final formats that go into the archive. If you have a format other than those listed, please contact us so we can advise you on what can be done.
-
+The tables below contain the file formats we accept from depositors and the final formats that go into the archive. If you have a format other than those listed, please contact us so we can advise you on what can be done.
 
 
 <br>
@@ -48,7 +47,7 @@ The tables below contain the file formats we can accept from depositors and the 
 | Images | .tif, .jpg, .png, .CR2                      |
 | Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*                                        |
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|
-| Lexicons |  .xml, .txt , .fwbackup *(containing no media files)*|
+| Lexicons |  .xml, .txt , .pdf, .fwbackup *(containing no media files)*|
 
 <br>
 

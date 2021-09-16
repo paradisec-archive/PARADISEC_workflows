@@ -73,8 +73,8 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 #### Equipment models
 
-|  <img width=130/> Audio recorders  |    Features        |
-| :---                               |  :---              |
+| Audio recorders | Features             |
+| :---              | :---              |
 | Zoom H5       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, powered by 2 AA batteries or USB, records to SD/SDHC cards |
 | Zoom H2N       | 44.1/48/96kHz, 16/24bit WAV; 3.5mm external mic input plus internal X/Y stereo, 2-channel and 4-channel surround, powered by 2 AA batteries or USB, records to SD/SDHC cards| 
   
@@ -82,9 +82,9 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
  <br>
 <br>
 
-| <div style="width:130px">Video recorders</div> | Features            |
-| :---            | :---           |
-| Canon XA40      |             blah         |
+| Video recorders | Features            |
+| :---            | :---                |
+| Canon XA40      | records .mp4,  (1) 3.5mm and (2) XLR mic inputs, infrared, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 730g |
 | Canon Legria    |              blah        |
 | Zoom Q8         |             blah         |
 ** Sony offers a wide range of cameras

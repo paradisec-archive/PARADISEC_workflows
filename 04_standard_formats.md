@@ -73,10 +73,10 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 #### Equipment models
 
-| Audio recorders   | Features           |
-| :---              | :---                |
-| Zoom H5           | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo, 2 XLR mic inputs *(with phantom power)*, powered by 2 AA batteries or USB, records to SDSDHC cards               |
-| Zoom H2N          | 44.1/48/96kHz, 16/24bit WAV; 3.5mm external mic input plus internal X/Y stereo, 2-channel and 4-channel surround, powered by 2 AA batteries or USB| 
+| Audio recorders        | Features                                                      |
+| :---                   | :---                                                          |
+| Zoom H5                | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo, 2 XLR mic inputs *(with phantom power)*, powered by 2 AA batteries or USB, records to SDSDHC cards          |
+| Zoom H2N               | 44.1/48/96kHz, 16/24bit WAV; 3.5mm external mic input plus internal X/Y stereo, 2-channel and 4-channel surround, powered by 2 AA batteries or USB| 
   
 *Marantz, Tascam also offer hand-held, solid-state or SD card audio recorders*
  <br>

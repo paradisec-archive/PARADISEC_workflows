@@ -46,6 +46,7 @@ H6{color:White !important;}
 | Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*                                        |
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|
 | Lexicons |  .xml, .txt , .fwbackup *(containing no media files)*|
+<br>
 
 <br>
 

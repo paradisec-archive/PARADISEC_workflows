@@ -29,7 +29,7 @@ H6{color:White !important;}
 </p>
 
 <p align="center">
-  <img width="300" src="images/rainbow-zoom.xxx">
+  <img width="300" src="images/rainbow-zoom.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 16 September 2021</span>

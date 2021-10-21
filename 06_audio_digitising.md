@@ -123,11 +123,11 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 
 1.	Turn on computer and login with your ANU UDS credentials
 
-  Resources you should find on the desktop: <br>
-  * Wavelab Pro 10.0 shortcut <br>
-  * Wavelab Pro 10.0 operations [manual](https://steinberg.help/wavelab-manuals/wavelab-pro/wavelab-pro-10/){:target="_blank"}
+   Resources you should find on the desktop: <br>
+    * Wavelab Pro 10.0 shortcut <br>
+    * Wavelab Pro 10.0 operations [manual](https://steinberg.help/wavelab-manuals/wavelab-pro/wavelab-pro-10/){:target="_blank"}
 
-2.	Turn on the RME ADI-2 PRO FS 
+2. 	Turn on the RME ADI-2 PRO FS 
 3.	Turn on and load a tape into the Tascam 122 mk II
 4.	Open the Wavelab program.
 

@@ -32,7 +32,7 @@ H6{color:White !important;}
   <img width="300" src="images/rainbow-zoom.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 16 September 2021</span>
+<span style="font-variant:small-caps;">Last updated: 22 October 2021</span>
 
 ### Standard formats for archiving with PARADISEC
 The tables below contain the file formats we accept from depositors and the final formats that go into the archive. If you have a format other than those listed, please contact us so we can advise you on what can be done.
@@ -71,30 +71,34 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 ### Suggestions for audio recorders and video cameras
 
-#### Equipment models
+#### Audio recorders: Suggested models and recording settings
 
 | Audio recorders | Features             |
 | :---              | :---              |
 | Zoom H4 Pro       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, powered by 2 AA batteries or USB, records to SD/SDHC cards |
 | Zoom H2N       | 44.1/48/96kHz, 16/24bit WAV; 3.5mm external mic input plus internal X/Y stereo, 2-channel and 4-channel surround, powered by 2 AA batteries or USB, records to SD/SDHC cards| 
-  
-*Marantz and Tascam also offer hand-held, solid-state or SD card audio recorders*
- <br>
+
+*Avoid recording in compressed formats.*
+
+
+<br>
 <br>
 
+#### Video recorders: Suggested models and recording settings
 | Video recorders | Features            |
 | :---            | :---                |
 | Canon XA50      | records .mp4 & .mxf,  (1) 3.5mm and (2) XLR mic inputs (using attached handle), infrared, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 960g (or 1435g w/ handle), can make audio adjustments with filters, attenuators, etc., records 25 and 50fps with slow & fast motion settings, white balance |
 | Canon Legria HF G50     |  records .mp4, (1) 3.5mm mic input, has Night Scene filter, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 735g can make audio adjustments with filters, attenuators, etc.,  records 25 and 50fps, with slow & fast motion settings, white balance |
 
+*Avoid recording in compressed formats.*
 
-
-#### Recording settings
-
-##### Audio recording
-
-##### Video recording
-
+* If you can, select the .mp4 (H.264) recording format with Advanced Audio Coding (AAC). This is a standard format and is well supported.
+* Record progressive formatted video (p), rather than interlaced (i)
+* A good resolution setting is the **full HD** setting of **1080p**: WIDTH 1920 pixels x HEIGHT 1080 pixels. This gives you the aspect ratio of 16:9. Other settings include: a **mid-range** definition would be **720p**: 1280x720 and also a 16:9 aspect ratio.  A **standard** definition resolution setting would be **480p**: 640x480 with the aspect ratio of 4:3. 
+* Avoid using 50 or 60 frames per second (fps) unless you are intentionally wanting to create a slow-motion effect; you could also have difficulty syncing audio from external audio recorders if you use 50 or 60 fps. A good setting would be 25 or 30 fps for something that looks like broadcast TV, 24 fps for a more cinematic look. 50 or 60 fps will look hyper-realistic (the soap opera effect).
+* Use external microphones for increased quality. Wireless lapel mics or hyper-directional "shotgun" video mics can get you "closer" to the sound and you can add wind protection to those
+* Avoid surround-sound audio settings for the camera. This will add unecessary audio tracks and will introduce problems for later processing.
+<br>
 <br>
 <hr style="border:1px solid grey">
 

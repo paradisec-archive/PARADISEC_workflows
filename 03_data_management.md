@@ -78,7 +78,7 @@ For more about PARADISEC's file naming conventions, click [here](https://paradis
 ><span style="color:LightBlue">
 >**NOTE**: You may need to change your file names when you archive your recordings in order to adhere to the requirements of the archive. You will be able to associate metadata to the recordings within the archives. It is OK that not all metadata is contained in your filenames.
 ></span>
-
+<br>
 
 #### Preparing for archiving 
 

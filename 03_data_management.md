@@ -59,7 +59,7 @@ It is becoming more frequent that funding institutions require that you submit a
 Here are some ***general suggestions*** for naming your files:
 * do not use spaces or any special characters, other that hyphens (-) or underscores (_)
 * for the **date** use the form **YYYYMMDD**
-* file name should not be longer tha 25 characters
+* file name should not be longer than 25 characters
 
 <hr style="border:2px solid blue">
 For ***PARADISEC*** we have specific file naming rules: 
@@ -71,6 +71,8 @@ For ***PARADISEC*** we have specific file naming rules:
 | JCM01 | 20150908_wordlist | 01 | .wav |
 
 <hr style="border:2px solid blue">
+
+For more about PARADISEC's file naming conventions, click [here](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html#paradisecs-file-naming-conventions){:target="_blank"}
 
 ><span style="color:LightBlue">
 >**NOTE**: You may need to change your file names when you archive your recordings in order to adhere to the requirements of the archive. You will be able to associate metadata to the recordings within the archives. It is OK that not all metadata is contained in your filenames.

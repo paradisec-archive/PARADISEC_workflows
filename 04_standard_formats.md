@@ -60,7 +60,9 @@ The tables below contain the file formats we accept from depositors and the fina
 | Annotations | *Archival and access copies:* Same as original *(see accepted formats above)*|
 | Lexicons | *Archival and access copies:* Same as original *(see accepted formats above)*|
 
+<span style="color:LightBlue">
 <sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats. Look at the following section for capture suggestions*
+</span>
 <br>
 <br>
 #### Post-production processing of media
@@ -97,7 +99,9 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 ##### Suggested video settings
 
+><span style="color:LightBlue">
 > **NOTE**: *Avoid recording in compressed formats.*
+></span>
 
 * If you can, select the .mp4 (H.264) recording format with Advanced Audio Coding (AAC). This is a standard format and is well supported.
 * Record progressive formatted video (p), rather than interlaced (i)

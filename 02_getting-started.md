@@ -42,7 +42,10 @@ You also need to sign up with PARADISEC if you wish to deposit material to the a
 </p>
 
 The process of signing up is simple- go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/){:target="_blank"}, and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, 
+
+><span style="color:LightBlue">
 >*"A message with a confirmation link has been sent to your email address. Please open the link to activate your account"*
+></span>
 
 Click on the link in your email to confirm. 
 
@@ -107,7 +110,10 @@ Our system requires all files to adhere to specific file-naming conventions. Thi
 |  :----:  |   :----:   | :----:  | :----:  |
 | JCM01 | 20150908_wordlist | 01 | .wav |
 
-> **NOTE:** No spaces or special characters are allowed in your file names, and only the two hyphens seen above are allowed. Underscores are fine. File names should not exceed 30 characters, excluding file extensions.
+><span style="color:LightBlue">
+>**NOTE:** No spaces or special characters are allowed in your file names, and only the two hyphens seen above are allowed. Underscores are fine. File names should not exceed 30 characters, excluding file extensions.
+></span>
+
 <hr style="border:2px solid blue">
 
 1. **CollectionID** is your PARADISEC collection ID and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by the CoEDL Data Manager or a PARADISEC administrator. This ID is created when you set up a collection in  PARADISEC. Mine could be JCM1
@@ -117,7 +123,9 @@ Our system requires all files to adhere to specific file-naming conventions. Thi
 3. **ContentFile** is the final necessary part to a file name. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. You can distinguish type of microphone used for an audio track in this part of the file name, e/g/ -LM (lapel mic) or -HM (for head mounted mic). So if your original file was named ***20150908‐wordlist‐01.wav***, you could try something like this: ***JCM01‐20150908_wordlist‐01.wav***
 <hr style="border:2px solid blue">
 
+><span style="color:LightBlue">
 >**NOTE:** Even if your item contains only one file, and thus does not need to be differentiated from other files in the item, you still need to have this third part of the file name. You could use -00, -01, -wordlist01, -original, etc.
+></span>
 
 <hr style="border:2px solid blue">
 

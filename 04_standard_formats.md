@@ -82,7 +82,9 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 > **NOTE**: *Avoid recording in compressed formats.*
 
-
+* Select a high sampling rate to ensure good capture of speech. A minimal choice would be to capture 48kHz, 16bit. Our archival target is 96kHz, 24 bit, but this could create file sizes that are too unwieldy for use in remote field sites with limited storage and power sources.
+* Try to collect audio tracks that are no longer than 1 hour each. This avoids having extremely large files. If your audio file becomes larger than 2GB after archival resampling has occurred (96kHz, 24bit, stereo), the archive may need to segment your files into smaller chunks. To avoid this, keep the recording to just under 1 hour. This also allows you to make sure your tracks are getting successfully written to the SD card, thus avoiding the loss of a large recording. Zoom recorders will not write the current track if the batteries die mid-recording. You will lose that data. Having recording sessions last no more than 1 hour will also allow you to have breaks for you and your consultants, avoiding task fatigue.
+* Use high quality microphones and make sure if they need to draw power, that you have checked the batteries of the microphones, or if they do not have their own power sources, that you enable phantom power on the Zoom recorders.
 <br>
 <br>
 
@@ -99,10 +101,11 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 * If you can, select the .mp4 (H.264) recording format with Advanced Audio Coding (AAC). This is a standard format and is well supported.
 * Record progressive formatted video (p), rather than interlaced (i)
-* A good resolution setting is the **full HD** setting of **1080p**: WIDTH 1920 pixels x HEIGHT 1080 pixels. This gives you the aspect ratio of 16:9. Other settings include: a **mid-range** definition would be **720p**: 1280x720 and also a 16:9 aspect ratio.  A **standard** definition resolution setting would be **480p**: 640x480 with the aspect ratio of 4:3. 
-* Avoid using 50 or 60 frames per second (fps) unless you are intentionally wanting to create a slow-motion effect; you could also have difficulty syncing audio from external audio recorders if you use 50 or 60 fps. A good setting would be 25 or 30 fps for something that looks like broadcast TV, 24 fps for a more cinematic look. 50 or 60 fps will look hyper-realistic (the soap opera effect).
+* A good resolution setting is the **full HD** setting of **1080p**: WIDTH 1920 pixels x HEIGHT 1080 pixels. This gives you the aspect ratio of 16:9. Other settings include: a **mid-range** definition of **720p**: 1280x720 with a 16:9 aspect ratio.  A **standard** definition resolution of **480p**: 640x480 with the aspect ratio of 4:3. 
+* Avoid using 50 or 60 frames per second (fps) unless you are intentionally wanting to create a slow-motion effect. A good setting would be 25 or 30 fps for something that looks like broadcast TV, 24 fps for a more cinematic look. 50 or 60 fps will look hyper-realistic (the soap opera effect). You could also have difficulty syncing audio from external audio recorders if you use 50 or 60 fps.
 * Use external microphones for increased quality. Wireless lapel mics or hyper-directional "shotgun" video mics can get you "closer" to the sound and you can add wind protection to those
 * Avoid surround-sound audio settings for the camera. This will add unecessary audio tracks and will introduce problems for later processing.
+* Try to avoid recording a video that is longer than 1 hour. This will avoid having a file that is too large to easily use whilst in the field. Also, when transcoding to archival formats, your file may become too large to archive without segmenting into smaller chunks. Having recording sessions last no more than 1 hour will also allow you to have breaks for you and your consultants, avoiding task fatigue.
 <br>
 <br>
 <hr style="border:1px solid grey">

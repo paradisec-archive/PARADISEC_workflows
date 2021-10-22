@@ -39,6 +39,15 @@ Much of this information is geared toward preparing your collection for archivin
 
 ### Data management
 
+#### Data management in the field
+Whilst in the field, you should be mindful of having good metadata for your recording sessions. This can be done in a few ways:
+* Most important: speak your metadata at the beginning of every audio and video recording, on every track, so that if there is ever an organisational catastrophe, you will be able to retreive the important metadata by reviewing the recordings. This should minimally include the date, the event or elicitation task, your name and those of your participants, and location of the recording.
+* You can create a directory structure that has date and event information in the folder names so that when you drag your files from an SD card into a folder, you will know immediately what files are associated with which event. this is a good option if you have limited power and time on the laptop must be short. If you plan to set the file names in the Zoom recorder, this can be time consuming and fleeting, as this has to be done with every battery change.
+* You can create a text file or word doc that lists each recording and all the same metadata that you speak in the recording. You can add other helpful information such as places where there is an important point in the recording, or where there is a disruption, etc.
+* You can write this information in your field notebook as you are recording and taking notes.
+* You can, and probably should do all of the above, as redundancy in metadata documentation is **never** a bad thing.
+
+
 #### Data Management Plan (DMP)
 A data management plan (DMP) is a brief explanation (up to 2 pages) outlining how you are going to store, manage, share and preserve your data during and after your project. 
 
@@ -50,7 +59,6 @@ It is becoming more frequent that funding institutions require that you submit a
 
 
 #### File naming
-As mentioned 
 Here are some ***general suggestions*** for naming your files:
 * do not use spaces or any special characters, other that hyphens (-) or underscores (_)
 * for the **date** use the form **YYYYMMDD**
@@ -64,6 +72,10 @@ For ***PARADISEC*** we have specific file naming rules:
 | Coll ID  |  Item ID  | Content  |  Extension  |
 |  :----:  |   :----:   | :----:  | :----:  |
 | JCM01 | 20150908_wordlist | 01 | .wav |
+
+><span style="color:LightBlue">
+>>**NOTE**: You may need to change your file names when you archive your recordings in order to adhere to the requirements of the archive. You will be able to associate metadata to the recordings within the archives. It is OK that not all metadata is contained in your filenames.
+</span>
 
 #### File & directory organisation
 During your fieldtrip or data collection phase, it is a good idea to determine how you will organise your directory before you collect your data.

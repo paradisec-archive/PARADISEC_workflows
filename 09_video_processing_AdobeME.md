@@ -70,8 +70,9 @@ Make certain **Match Source** is selected, this will automatically tick all the 
   <img width="500" src="images/broadcast_profile.png" alt="Broadcast profile settings from Adobe Media Encoder 2018">
 </p>
 
-> **Note:** If you are using CC2020: You need only tick the box for *Lossless Compression*; The *Maximum Bitrate* and *Broadcast Profile* automatically get set to **100,000 Mbps** and **Level 7 - 3200Mbps or Lossless**, respectively
-
+><span style="color:LightBlue">
+>**Note:** If you are using CC2020: You need only tick the box for *Lossless Compression*; The *Maximum Bitrate* and *Broadcast Profile* automatically get set to **100,000 Mbps** and **Level 7 - 3200Mbps or Lossless**, respectively
+></span>
 <p align="center">
   <img width="500" src="images/broadcast_profile_CC2020.png" alt="Broadcast profile settings from Adobe Media Encoder 2020">
 </p>
@@ -128,13 +129,17 @@ Finally, the **_compression mode_** for the .MXF **MUST** indicate it is **_loss
 
 Once you transcode the original file to an .MXF, you will need to take a look at the .MXF file metadata to determine whether or not you have created an appropriate match to the original. 
 
-> **Note:** You can do this in batches, as MediaInfo allows you to open multiple files at one time. On a Mac, you get one MediaInfo window with a dropdown menu to select which file you want to see in the active report; on Windows, separate MediaInfo windows will open for each file selected.
+><span style="color:LightBlue">
+>**Note:** You can do this in batches, as MediaInfo allows you to open multiple files at one time. On a Mac, you get one MediaInfo window with a dropdown menu to select which file you want to see in the active report; on Windows, separate MediaInfo windows will open for each file selected.
+></span>
 
 ### Using an MXF player to check the quality of your newly created file
 
 Once you have checked the file metadata with MediaInfo, you will need to play through the entire video to see if there were any issues in your transcoding process. I have created a lossless .MXF that had playback issues, so this step in the quality checking process in very important. Unfortunately, there are not many players that can handle .MXF-formatted video. You need to find a player that lets you see if there is jumpy playback, dropped frames, or any other errors. 
 
-> **Note:** VLC can open and play .MXF files, but the playback is always jumpy, so you cannot determine if it is the player or your transcoding that is the source of the jumpy playback. This is not acceptable for our workflow. 
+><span style="color:LightBlue">
+>**Note:** VLC can open and play .MXF files, but the playback is always jumpy, so you cannot determine if it is the player or your transcoding that is the source of the jumpy playback. This is not acceptable for our workflow. 
+></span>
 
 I suggest using Telestream's [Switch player](http://www.telestream.net/switch/overview.htm){:target="_blank"}. You can get a free trial, but the price for the basic player is under AU$15. With the basic license, the viewer will show the Switch watermark in the upper right corner of the video during playback of .MXF files, but this has no bearing on its functionality for our task, playback. Switch is not to be used in any transcoding or editing capacity.
 
@@ -144,7 +149,9 @@ I suggest using Telestream's [Switch player](http://www.telestream.net/switch/ov
 
 You can see in the upper left corner that there is some quality reporting. Pay special attention to the dropped frames. If there are any dropped frames, you will need to re-transcode the file. 
 
-> **Note:** If you are running other memory hungry programs in the background when you are trying to preview your .MXF with Switch, you will very likely have a report of dropped frames. You should quit all other processes while you are doing your playback reviews.
+><span style="color:LightBlue">
+>**Note:** If you are running other memory hungry programs in the background when you are trying to preview your .MXF with Switch, you will very likely have a report of dropped frames. You should quit all other processes while you are doing your playback reviews.
+></span>
 
 ---
 

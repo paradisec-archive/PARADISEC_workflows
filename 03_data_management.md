@@ -72,7 +72,7 @@ For ***PARADISEC*** we have specific file naming rules:
 | JCM01 | 20150908_wordlist | 01 | .wav |
 
 <hr style="border:2px solid blue">
-<br>
+
 ><span style="color:LightBlue">
 >**NOTE**: You may need to change your file names when you archive your recordings in order to adhere to the requirements of the archive. You will be able to associate metadata to the recordings within the archives. It is OK that not all metadata is contained in your filenames.
 ></span>

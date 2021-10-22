@@ -24,9 +24,6 @@ H6{color:White !important;}
 
 ## Standard Formats for Data Collection and Archiving
 
-<p align="center">
-🚧 This page is currently under construction 🚧
-</p>
 
 <p align="center">
   <img width="300" src="images/rainbow-zoom.gif">

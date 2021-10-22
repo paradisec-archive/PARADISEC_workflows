@@ -36,7 +36,7 @@ Much of this information is geared toward preparing your collection for archivin
 ### Data management
 
 #### Data management in the field
-Whilst in the field, you should be mindful of having good metadata for your recording sessions. This can be done in a few ways:
+Whilst in the field, you should be mindful of having good metadata for your recording sessions. This can be done in the following ways:
 * Most important: speak your metadata at the beginning of every audio and video recording, on every track, so that if there is ever an organisational catastrophe, you will be able to retreive the important metadata by reviewing the recordings. This should minimally include the date, the event or elicitation task, your name and those of your participants, and location of the recording.
 * You can create a directory structure that has date and event information in the folder names so that when you drag your files from an SD card into a folder, you will know immediately what files are associated with which event. this is a good option if you have limited power and time on the laptop must be short. If you plan to set the file names in the Zoom recorder, this can be time consuming and fleeting, as this has to be done with every battery change.
 * You can create a text file or word doc that lists each recording and all the same metadata that you speak in the recording. You can add other helpful information such as places where there is an important point in the recording, or where there is a disruption, etc.

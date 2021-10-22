@@ -23,7 +23,7 @@ H6{color:White !important;}
 </style>
 
 ## Metadata & Data Management
-
+<br>
 
 <p align="center">
   <img width="500" src="images/banner-notebooks.jpg">

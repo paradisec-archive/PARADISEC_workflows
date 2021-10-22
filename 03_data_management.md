@@ -26,14 +26,10 @@ H6{color:White !important;}
 
 
 <p align="center">
-🚧 This page is currently under construction 🚧
-</p>
-
-<p align="center">
   <img width="500" src="images/banner-notebooks.jpg">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 8 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 22 October 2021</span>
 
 Much of this information is geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures), but some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive).
 

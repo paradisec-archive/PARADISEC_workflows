@@ -41,6 +41,7 @@ Whilst in the field, you should be mindful of having good metadata for your reco
 * You can create a directory structure that has date and event information in the folder names so that when you drag your files from an SD card into a folder, you will know immediately what files are associated with which event. this is a good option if you have limited power and time on the laptop must be short. If you plan to set the file names in the Zoom recorder, this can be time consuming and fleeting, as this has to be done with every battery change.
 * You can create a text file or word doc that lists each recording and all the same metadata that you speak in the recording. You can add other helpful information such as places where there is an important point in the recording, or where there is a disruption, etc.
 * You can write this information in your field notebook as you are recording and taking notes.
+* Keep a running spreadsheet of all your recordings, events, and speakers. You can refer to this often over the course of your project.
 * You can, and probably should do all of the above, as redundancy in metadata documentation is **never** a bad thing.
 
 
@@ -73,8 +74,6 @@ For ***PARADISEC*** we have specific file naming rules:
 >>**NOTE**: You may need to change your file names when you archive your recordings in order to adhere to the requirements of the archive. You will be able to associate metadata to the recordings within the archives. It is OK that not all metadata is contained in your filenames.
 </span>
 
-#### File & directory organisation
-During your fieldtrip or data collection phase, it is a good idea to determine how you will organise your directory before you collect your data.
 
 #### Preparing for archiving 
 

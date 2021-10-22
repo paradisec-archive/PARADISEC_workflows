@@ -69,12 +69,8 @@ The tables below contain the file formats we accept from depositors and the fina
 If you would like to save money (see PARADISEC's page on [Costing a deposit](https://www.paradisec.org.au/deposit/costing-a-deposit/)) or speed up the archiving process, you may provide us with audio files that are already sampled to 96kHz/24bit or video files that are .mp4 (H.264 codec), you can refer to the following pages: [Audio procesing](https://paradisec-archive.github.io/PARADISEC_workflows/07_audio_processing.html){:target="_blank"} and [Video Processing using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}.
 
 <br>
-<br>
 
 ### Suggestions for audio recorders and video cameras
-
-<br>
-<br>
 
 #### Audio recorders: Suggested models and recording settings
 

@@ -166,4 +166,4 @@ You can see in the upper left corner that there is some quality reporting. Pay s
 * For further information of the **Media Encoder export settings** mentioned above look [HERE](https://helpx.adobe.com/au/media-encoder/using/export-settings-reference.html){:target="_blank"}.
 
 
-[Back to top](#)
+⬆️ [Back to top](#)

@@ -363,4 +363,4 @@ when starting the Remote Shooting window, you need to choose the folder that the
 * A suggestion for making copying books easier: if it were possible to make the automatic page numbering ‘odd’ or ‘even’, then every second page could be copied. This would be useful when photographing books because you could photograph all the left-hand pages and then all the right-hand pages, and you would only have to turn the page while keeping the book in place, rather than having to move it after taking each photograph.
 
 
-[Back to top](#)
+⬆️ [Back to top](#)

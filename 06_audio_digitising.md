@@ -284,4 +284,4 @@ IASA Technical Committee, [Guidelines on the Production and Preservation of Digi
 
 [Sound Directions: Best Practice for Audio Preservation](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml){:target="_blank"} (2007) Mike Casey & Bruce Gordon
 
-[Back to top](#)
+⬆️ [Back to top](#)

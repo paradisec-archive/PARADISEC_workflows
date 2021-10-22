@@ -113,4 +113,4 @@ Hatton, John, Gary Holton, Mandana Seyfeddinipur, Nick Thieberger. 2021. Lameta 
 
 Thieberger, N. and Berez, A. (2011). Linguistic Data Management. In N. Thieberger (Ed.), *The Oxford Handbook of Linguistic Fieldwork*. Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780199571888.013.0005](https://doi.org/10.1093/oxfordhb/9780199571888.013.0005){:target="_blank"}
 
-[Back to top](#)
+⬆️ [Back to top](#)

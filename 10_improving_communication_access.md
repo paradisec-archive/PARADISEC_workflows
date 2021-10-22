@@ -194,4 +194,4 @@ If you are covering the cost of interpreters and managing the finances of the ev
 * Another example of how to create accessible events from University College London: [https://www.ucl.ac.uk/equality-diversity-inclusion/equality-areas/disability-equality/tips-checklist-making-events-accessible](https://www.ucl.ac.uk/equality-diversity-inclusion/equality-areas/disability-equality/tips-checklist-making-events-accessible){:target="_blank"}
 
 
-[Back to top](#)
+⬆️ [Back to top](#)

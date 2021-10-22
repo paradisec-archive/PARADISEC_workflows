@@ -61,9 +61,8 @@ Here are some ***general suggestions*** for naming your files:
 * for the **date** use the form **YYYYMMDD**
 * file name should not be longer tha 25 characters
 
-For ***PARADISEC*** we have specific file naming rules: 
-<br>
 <hr style="border:2px solid blue">
+For ***PARADISEC*** we have specific file naming rules: 
 
 [CollectionID] - [ItemID] - [ContentFile] . file extension
 

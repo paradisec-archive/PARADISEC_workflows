@@ -75,7 +75,7 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 | Audio recorders | Features             |
 | :---              | :---              |
-| Zoom H5       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, powered by 2 AA batteries or USB, records to SD/SDHC cards |
+| Zoom H4 Pro       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, powered by 2 AA batteries or USB, records to SD/SDHC cards |
 | Zoom H2N       | 44.1/48/96kHz, 16/24bit WAV; 3.5mm external mic input plus internal X/Y stereo, 2-channel and 4-channel surround, powered by 2 AA batteries or USB, records to SD/SDHC cards| 
   
 *Marantz and Tascam also offer hand-held, solid-state or SD card audio recorders*
@@ -84,9 +84,9 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 | Video recorders | Features            |
 | :---            | :---                |
-| Canon XA40      | records .mp4,  (1) 3.5mm and (2) XLR mic inputs, infrared, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 730g |
-| Canon Legria    |              blah        |
-| Zoom Q8         |             blah         |
+| Canon XA50      | records .mp4 & .mxf  1- 3.5mm and 2- XLR mic inputs, infrared, image stabiliser, optical zoom 20x, records to 2- SD card slots, weighs 960g (or 1435g w/ handle), can make audio adjustments with filters, attenuators, etc., records 25 and 50fps with slow & fast motion settings, white balance |
+| Canon Legria HF G50     |  records .mp4, 1- 3.5mm mic input, has Night Scene filter, image stabiliser, optical zoom 20x, records to 2- SD card slots, weighs 735g can make audio adjustments with filters, attenuators, etc.,  records 25 and 50fps, with slow & fast motion settings, white balance |
+
 ** Sony offers a wide range of cameras
 
 #### Recording settings

@@ -64,11 +64,13 @@ Here are some ***general suggestions*** for naming your files:
 For ***PARADISEC*** we have specific file naming rules: 
 <br>
 <hr style="border:2px solid blue">
+
 [CollectionID] - [ItemID] - [ContentFile] . file extension
 
 | Coll ID  |  Item ID  | Content  |  Extension  |
 |  :----:  |   :----:   | :----:  | :----:  |
 | JCM01 | 20150908_wordlist | 01 | .wav |
+
 <hr style="border:2px solid blue">
 <br>
 ><span style="color:LightBlue">

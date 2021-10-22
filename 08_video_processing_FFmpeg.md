@@ -40,29 +40,26 @@ FFmpeg is an efficient and cost effective way to process video. It is done by us
 #### Installation
 If you are using a Mac, it is a bit more straight forward than the PC as Bash is a Unix shell (command language interpreter) and runs natively on Macs. To download FFmpeg, open a terminal window and first install Homebrew (command line package manager) with the following commands:
 
-1/. Install [Homebrew](https://brew.sh/){:target="_blank"} 
+1\. Install [Homebrew](https://brew.sh/){:target="_blank"} 
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
-<hr style="border:2px solid blue">
 ><span style="color:LightBlue">
 >**NOTE:** Check here for any updates to the **Homebrew** installation process: [https://brew.sh/](https://brew.sh/)
 ></span>
-<hr style="border:2px solid blue">
 
-2/. Run Brew Doctor. This is a self-diagnostic tool to determine if everything is installed correctly.<br>
+
+2\. Run Brew Doctor. This is a self-diagnostic tool to determine if everything is installed correctly.<br>
 
     brew doctor
 
-3/. Install [FFmpeg](https://ffmpeg.org/){:target="_blank"}
+3\. Install [FFmpeg](https://ffmpeg.org/){:target="_blank"}
 
     brew install ffmpeg
 
-<hr style="border:2px solid blue">
 ><span style="color:LightBlue">
 >**NOTE:** Check here for any updates to the **ffmpeg** installation process: [https://formulae.brew.sh/formula/ffmpeg](https://formulae.brew.sh/formula/ffmpeg)
 ></span>
-<hr style="border:2px solid blue">
 
 
 To test if you have installed FFmpeg correctly, just type ```ffmpeg``` and enter. Information about the version of FFmpeg as well as enabled libraries should appear in your terminal window as seen in the image below.

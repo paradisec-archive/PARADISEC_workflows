@@ -58,7 +58,7 @@ It is becoming more frequent that funding institutions require that you submit a
 #### File naming
 Here are some ***general suggestions*** for naming your files:
 * do not use spaces or any special characters, other than hyphens (-) or underscores (_)
-* for the **date** use the form **YYYYMMDD**
+* for the date use the form **YYYYMMDD**
 * file name should not be longer than 25 characters
 
 <hr style="border:2px solid blue">

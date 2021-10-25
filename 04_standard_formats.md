@@ -39,12 +39,12 @@ The tables below contain the file formats we accept from depositors and the fina
 
 | Media  |  Media formats PARADISEC will accept   | 
 | :---   | :---                                        | 
-| Audio  |  .wav, .aiff, .m4a .mp3<sup>1</sup> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival as possible will be accepted)* |
+| Audio  |  .wav, .aiff, .m4a .mp3<span style="color:LightBlue"><sup>1</sup></span> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival standard as possible will be accepted)* |
 | Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<sup>1</sup> |
-| Images | .tif, .jpg, .png, .CR2                      |
-| Text   | .txt, .xml, .html, .pdf, .rtf *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*|
+| Images <span style="color:LightBlue"><sup>2</sup></span>| .tif, .jpg, .png, .CR2                      |
+| Text   | .txt, .xml, .html, .pdf, .rtf OpenOffice formats (odf, odt etc) *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*|
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|
-| Lexicons |  .xml, .txt , .pdf, .fwbackup *(containing no media files)*|
+| Lexicons |  .xml, .txt , .pdf, .fwbackup<span style="color:LightBlue"><sup>3</sup></span> *(containing no media files)*|
 
 <br>
 

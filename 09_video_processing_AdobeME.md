@@ -26,16 +26,18 @@ H6{color:White !important;}
 🚧 This page is currently under construction 🚧
 </p>
 
-## MXF
+## Creating archival JPEG2000 MXF OP1a file
 
-<span style="font-variant:small-caps;">Last updated: 24 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 26 October 2021</span>
 
-**_This page outlines how to create lossless JPEG2000 .MXF videos using Adobe Media Encoder (CC 2018 or later). This is for digital-to-digital transcoding. Contact PARADISEC if you have analog material to digitise._**
+This page outlines how to create lossless JPEG2000 .MXF videos using Adobe Media Encoder Adobe CC 2018 or later; since 2018, Media Encoder allows for **lossless* JPEG2000 compression. This workflow is for digital-to-digital transcoding. Contact PARADISEC if you have analogue material to digitise.
+
+
 
 *[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
 ### Define Encoding Settings - Making an Encoding Preset
-The first thing we need to do is select the settings that we can use each time we want to create a lossless J2K .MXF video. To do this, we need to create an Encoding Preset. Go to the top Media Encoder CC menu to “Presets” and then select “Create Encoding Preset”. A new Preset window will open up. Look at the image below to see the settings you should choose. Each will be explained below.
+The first step is to create a profile of encoding settings to save and use each time you need to create a lossless J2K .MXF video. To create this Encoding Preset, which can be used in both Premiere and Media Encoder, open Media Encoder and go to the top menu to "**Presets**" and then select “**Create Encoding Preset**”. A new Preset window will open up. Look at the image below to see the settings you should choose. Each will be explained below.
 
 <p align="center">
   <img width="500" src="images/presets-video.jpg" alt="Screenshot of Adobe Media Encoder video presets window">
@@ -50,7 +52,7 @@ For the format, select **JPEG 2000 MXF OP1a**. Once you select this format, you 
   <img width="500" src="images/chroma_depth.png" alt="Chroma depth default options">
 </p>
 
-You can leave the new default of **RGBA 4:4:4:4 12-bit (BCs@L5)**. This value will change once we make further refinements in our settings.
+You can leave the default. This value will change once we make further refinements in our settings.
 
 Leave the remaining settings in this section as their defaults (*Comments* field left blank, *Export Video* and *Export Audio* boxes ticked).
 
@@ -60,11 +62,13 @@ Edit only settings in the Video and Audio tabs. Settings in the other tabs (Effe
 
 Because we selected the **JPEG 2000 MXF OP1a** format above, the video codec will automatically be set to **JPEG 2000** in this section. The basic video settings options will have changed to those appropriate for this format.
 
-Make certain **Match Source** is selected, this will automatically tick all the boxes below (if they are not already), retaining the same settings as those of the original file for the following fields *Width*, *Height*, *Frame Rate*, *Field Order*, and *Aspect [ratio]*.
+Make certain **Match Source** is selected, this will automatically tick all the boxes below (if they are not already), retaining the same settings as those of the original file for the following fields *Width*, *Height*, *Frame Rate*, *Field Order*, and *Aspect (ratio)*.
 
 *Chroma* should be set to **YUV 4:2:2** with a *depth* of **8-bit**. In the rare case your original video has a colour depth of 10-bit, select the **10-bit** option. To determine the bit depth of a video, use [MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"}; the file’s bit depth is listed in the MediaInfo metadata output report.
 
+><span style="color:LightBlue">
 > **Note:** If you are using CC2018: Set the Broadcast Profile to Level 6 (Lossless). This determines the maximum sampling and bit rates for the output file. You can see all the drop down choices offered below:
+></span>
 
 <p align="center">
   <img width="500" src="images/broadcast_profile.png" alt="Broadcast profile settings from Adobe Media Encoder 2018">

@@ -65,7 +65,7 @@ The tables below contain the file formats we accept from depositors and the fina
 </span>
 
 <span style="color:LightBlue">
-<sup>2</sup> *For scans of notes in colour:  300 dpi, scanning ratio: 100%, 8 bits per channel RGB, embedded ICC colour profile encouraged, OCR6 encouraged (PDF or PDF/A complies). For no colour then use grayscale (See the National Archives of Australia recommendations [here](https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/preservation-digitisation-standards#preservation-digitisation-standards))
+<sup>2</sup> *For scans of notes in colour:  300 dpi, scanning ratio: 100%, 8 bits per channel RGB, embedded ICC colour profile encouraged, OCR6 encouraged (PDF or PDF/A complies). For no colour then use grayscale (See the National Archives of Australia recommendations [here](https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/preservation-digitisation-standards#preservation-digitisation-standards){:target="_blank"})
 For photographic negative or slide scans TIF, 600 dpi, 4000 pixels on the longest side, 48 bit colour RGB or 16 bit grayscale.*
 </span>
 

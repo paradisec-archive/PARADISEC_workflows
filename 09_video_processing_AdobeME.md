@@ -67,7 +67,7 @@ Make certain **Match Source** is selected, this will automatically tick all the 
 *Chroma* should be set to **YUV 4:2:2** with a *depth* of **8-bit**. In the rare case your original video has a colour depth of 10-bit, select the **10-bit** option. To determine the bit depth of a video, use [MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"}; the file’s bit depth is listed in the MediaInfo metadata output report.
 
 ><span style="color:LightBlue">
-> **Note:** If you are using CC2018: Set the Broadcast Profile to Level 6 (Lossless). This determines the maximum sampling and bit rates for the output file. You can see all the drop down choices offered below:
+>**Note:** If you are using CC2018: Set the Broadcast Profile to **Level 7, Max Bitrate Unspecified (Lossless)**. This determines the maximum sampling and bit rates for the output file. You can see all the drop down choices offered below:
 ></span>
 
 <p align="center">
@@ -75,7 +75,7 @@ Make certain **Match Source** is selected, this will automatically tick all the 
 </p>
 
 ><span style="color:LightBlue">
->**Note:** If you are using CC2020: You need only tick the box for *Lossless Compression*; The *Maximum Bitrate* and *Broadcast Profile* automatically get set to **100,000 Mbps** and **Level 7 - 3200Mbps or Lossless**, respectively
+>**Note:** If you are using CC2020: You need only tick the box for **Lossless Compression**; The *Maximum Bitrate* and *Broadcast Profile* automatically get set to **100,000 Mbps** and **Level 7 - 3200Mbps or Lossless**, respectively
 ></span>
 <p align="center">
   <img width="500" src="images/broadcast_profile_CC2020.png" alt="Broadcast profile settings from Adobe Media Encoder 2020">

@@ -40,7 +40,7 @@ The tables below contain the file formats we accept from depositors and the fina
 | Media  |  Media formats PARADISEC will accept   | 
 | :---   | :---                                        | 
 | Audio  |  .wav, .aiff, .m4a .mp3<span style="color:LightBlue"><sup>1</sup></span> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival standard as possible will be accepted)* |
-| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<sup>1</sup> |
+| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<span style="color:LightBlue"><sup>1</sup></span> |
 | Images <span style="color:LightBlue"><sup>2</sup></span>| .tif, .jpg, .png, .CR2                      |
 | Text   | .txt, .xml, .html, .pdf, .rtf OpenOffice formats (odf, odt etc) *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*|
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|

@@ -106,8 +106,8 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 | Video recorders      | Features            |
 | :---                 | :---                |
-| Canon XA50           | records .mp4 & .mxf, (1) 3.5mm and (2) XLR mic inputs (using attached handle), infrared, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 960g (or 1435g w/ handle), records 25 and 50fps with slow & fast motion settings, white balance |
-| Canon Legria HF G50  |  records .mp4, (1) 3.5mm mic input, has Night Scene filter, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 735g, records 25 and 50fps, with slow & fast motion settings, white balance |
+| Canon XA50 <br> [Link](https://www.canon.com.au/cameras/xa50){:target="_blank"}     | records .mp4 & .mxf, (1) 3.5mm and (2) XLR mic inputs (using attached handle), infrared, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 960g (or 1435g w/ handle), records 25 and 50fps with slow & fast motion settings, white balance |
+| Canon Legria HF G50 <br> [Link](https://www.canon-europe.com/video-cameras/legria-hf-g50/){:target="_blank"} |  records .mp4, (1) 3.5mm mic input, has Night Scene filter, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 735g, records 25 and 50fps, with slow & fast motion settings, white balance |
 
 ##### Suggested video settings
 

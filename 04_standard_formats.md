@@ -96,7 +96,7 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 > **NOTE**: *Avoid recording in compressed formats.*
 ></span>
 
-* Select a high sampling rate to ensure good capture of speech. A minimal choice would be to capture 48kHz, 16bit. Our archival target is 96kHz, 24 bit, but this could create file sizes that are too unwieldy for use in remote field sites with limited storage and power sources.
+* Select a high sampling rate to ensure good capture of speech. A minimal choice would be to capture 48kHz, 16bit. Our archival target is 96kHz, 24 bit, but this could create file sizes that are too unwieldy for use in remote field sites with limited storage and limited access to power for file transfer and processing on laptop.
 * Try to collect audio tracks that are no longer than 1 hour each. This avoids having extremely large files. If your audio file becomes larger than 2GB after archival resampling has occurred (96kHz, 24bit, stereo), the archive may need to segment your files into smaller chunks. To avoid this, keep the recording to just under 1 hour. This also allows you to make sure your tracks are getting successfully written to the SD card, thus avoiding the loss of a large recording. Zoom recorders will not write the current track if the batteries die mid-recording. You will lose that data. Having recording sessions last no more than 1 hour will also allow you to have breaks for you and your consultants, avoiding task fatigue.
 * Use high quality microphones and make sure if they need to draw power, that you have checked the batteries of the microphones, or if they do not have their own power sources, that you enable phantom power on the Zoom recorders.
 <br>

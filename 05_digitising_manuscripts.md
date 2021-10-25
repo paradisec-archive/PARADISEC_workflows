@@ -228,7 +228,9 @@ As you capture the images, it is important to check their quality before you get
 
 *The following instructions are based on Adobe Bridge CC 2021. Many of the functions are similar to the previous versions, with slight adjustments to the interface and workspaces.*
 
-> **Note:** If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red){:target="_blank"}
+><span style="color:LightBlue">
+>**Note:** If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red){:target="_blank"}
+></span>
 
 You will be making small batch adjustments to the colour or lighting if necessary; this will be best if you restrict your editing to one notebook at a time as the colour of the paper may differ from notebook to notebook. Also, if you had to reshoot a page, or you accidentally shot a page twice, you will need to delete an image and rename your files.
 

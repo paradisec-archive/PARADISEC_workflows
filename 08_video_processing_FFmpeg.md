@@ -22,7 +22,7 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-## Video Processing with FFmpeg
+# Video Processing with FFmpeg
 
 <p align="center">
 🚧 This page is currently under construction 🚧
@@ -35,9 +35,9 @@ H6{color:White !important;}
 
 FFmpeg is an efficient and cost effective way to process video. It is done by using a command line interface (CLI), but once the workflow is set up, it is relatively simple.
 
-### Using **FFmpeg** on a Mac
+## Using **FFmpeg** on a Mac
 
-#### Installation
+### Installation
 If you are using a Mac, it is a bit more straight forward than the PC as Bash is a Unix shell (command language interpreter) and runs natively on Macs. To download FFmpeg, open a terminal window and first install Homebrew (command line package manager) with the following commands:
 
 1\. Install [Homebrew](https://brew.sh/){:target="_blank"} 
@@ -78,7 +78,7 @@ For further help using FFmpeg, take a look at the following sites:
 **ffmprovisor:** [https://amiaopensource.github.io/ffmprovisr/](https://amiaopensource.github.io/ffmprovisr/){:target="_blank"}
 
 
-#### Navigate via terminal to your working directory
+### Navigate via terminal to your working directory
 It is a good idea to set up a working directory for your video transcoding work. To use FFmpeg for this task, you'll first need to direct it to the folder containing the videos you wish to work with.
 
 Here is are a few sites that can get you started with bash so that you can navigate around your directories using the terminal: 
@@ -90,29 +90,29 @@ Here is are a few sites that can get you started with bash so that you can navig
 
 
 
-#### Transcoding .MP4 to .MP4 with **ffmpeg**
+### Transcoding .MP4 to .MP4 with **ffmpeg**
 
-### Using **FFmpeg** on a PC
+## Using **FFmpeg** on a PC
 Not all terminals are the same; Linux (what we use for FFmpeg Bash commands) does not run natively on PCs. We could run FFmpeg on the native PC terminal, but the transcoding commands would not be the same as those we use on the Mac. 
 
 
 
-#### Linux on Windows
+### Linux on Windows
 Thankfully, Windows 10 has created a full subsystem that you can activate allowing us to use Linux on the PC without needing a virtual machine or container. If you need help determining if you have the latest Windows update, try this site: https://www.howtogeek.com/301795/how-to-get-windows-10s-creators-update-now/.
 
-#### Activating Linux on your PC
+### Activating Linux on your PC
 To get your computer set up to use Linux, go to Control Panel > Programs > Turn Windows Features
 On Or Off. Tick the box for “Windows Subsystem for Linux” option, and then click “OK”. Next click
 “Restart now” when prompted. This new feature won’t work until you reboot your machine.
-#### Installing Ubuntu
+### Installing Ubuntu
 
 [Microsoft Ubuntu App](https://www.microsoft.com/en-au/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab)
 
-#### Installing **ffmpeg** via Ubuntu
+### Installing **ffmpeg** via Ubuntu
 
-#### Navigating to your working directory
+### Navigating to your working directory
 
-### Anatomy of the **ffmpeg** transcode command
+## Anatomy of the **ffmpeg** transcode command
 
 
 

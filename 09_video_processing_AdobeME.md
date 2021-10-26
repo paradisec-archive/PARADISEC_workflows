@@ -26,9 +26,9 @@ H6{color:White !important;}
 🚧 This page is currently under construction 🚧
 </p>
 
-## Using Adobe Media Encoder to create MXF and MP4 (H.264)
+## Using Adobe Media Encoder to create MXF and MP4 (H.264) videos
 
-### Creating archival JPEG2000 MXF OP1a video
+### Creating archival JPEG2000 MXF OP1a videos
 
 *[PARADISEC](https://paradisec.org.au){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
@@ -37,7 +37,7 @@ H6{color:White !important;}
 This page outlines how to create lossless JPEG2000 .MXF videos using Adobe Media Encoder Adobe CC 2018 or later; since 2018, Media Encoder allows for **lossless** JPEG2000 compression. This workflow is for digital-to-digital transcoding. Contact PARADISEC if you have analogue material to digitise.
 
 
-#### Define Encoding Settings - Making an Encoding Preset
+#### Define Encoding Settings: Making an Encoding Preset for JPEG2000 MXF OP1a
 The first step is to create a profile of encoding settings to save and use each time you need to create a lossless J2K .MXF video. To create this Encoding Preset, which can be used in both Premiere and Media Encoder, open Media Encoder and go to the top menu to "**Presets**" and then select “**Create Encoding Preset**”. A new Preset window will open up. Look at the image below to see the settings you should choose. Each will be explained below.
 
 ><span style="color:LightBlue">
@@ -176,8 +176,10 @@ You can see in the upper left corner that there is some quality reporting. Pay s
 * **Broadcast profile** determines the maximum sampling and bit rates of the output file. **Level 6 lossless (L6)** is 520 Msamples/s and 1600Mbits/s. **Level 7 lossless (L7)** is 520 Msamples /s and and unspecified Max Bitrate.
 
 
-### Creating MP4 (H.264) video
+### Creating MP4 (H.264) videos
 
+
+#### Define Encoding Settings: Making an Encoding Preset for MP4 (H.264)
 
 
 <br>

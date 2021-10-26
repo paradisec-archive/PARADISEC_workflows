@@ -22,7 +22,7 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-## PARADISEC Ingestion Workflow Model
+# PARADISEC Ingestion Workflow Model
 <br>
 <p align="center">
 🚧 This page is currently under construction🚧
@@ -47,9 +47,9 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 **Admin:** Sydney Director (2020: *Amanda Harris*) **Audio:** Audio Preservation Officer (2020: *Nick Fowler-Gilmore*) **PD:** Project Director (2020: *Nicholas Thieberger*) **SA:** Systems Admin (2020: *University of Sydney ICT*)
 
 
-### Pre-ingestion (audio tapes)
+## Pre-ingestion (audio tapes)
 
-#### Assess collection (Admin and PD)
+### Assess collection (Admin and PD)
 Assess whether material is suitable for accession (PD in consultation with steering committee). Suitability should consider the following conditions, though materials not meeting these criteria are not necessarily excluded from the collection:
 
 ***Rights*** <br>
@@ -69,7 +69,7 @@ Does the depositor assert ownership of the material?
   
 If collection assessed as suitable, create a collection record in Nabu Assess tape condition and prepare material for transportation accordingly
 
-#### Transportation
+### Transportation
 
 If the recordings are in bad condition (e.g. mould, rare formats, tape visibly damaged) send to Sydney (contact Admin). Transport any mouldy items in separate ziplock bags and do not pack with non-mouldy items
 
@@ -79,12 +79,12 @@ If in reasonable condition transport to nearest ingestion point, personal transp
 * Ensure against unnecessary shocks during transport
 * Transport with inventory of contents
 
-#### Receipt of materials at ingestion point (Admin)
+### Receipt of materials at ingestion point (Admin)
 * Check inventory against contents and contact depositor if any discrepancy
 * Enter date in ‘data received’ field of Nabu
 * Assess whether mould-affected and if so implement appropriate procedure (put in ziplock bags and store in cleaning room)
 
-#### Metadata
+### Metadata
 Where possible get depositors to enter own metadata in Nabu:
 * User signs up to Nabu, creating a login
 * Admin or PD assigns edit access to user
@@ -110,7 +110,7 @@ Sort all tapes in numerical order in filing cabinet, or in dirty room if mould-a
 
 When tapes returned, note date in ‘tracking’ field of Item, Archive Information and tick ‘Tapes returned to depositor’ checkbox
 
-#### Photograph tape covers and casings to capture all handwritten metadata
+### Photograph tape covers and casings to capture all handwritten metadata
 * Image files should be named with the same PI as the audio files
 * Archival copies of images should be in tiff (.tif) format, jpeg (.jpg) copies can be archived as additional access copies
 * The whole image should be captured, but in some cases it might be desirable to zoom in to the text to make sure it is fully legible in an additional image
@@ -118,7 +118,7 @@ When tapes returned, note date in ‘tracking’ field of Item, Archive Informat
 * Include a ruler in the captured image to indicate scale
 * See the Appendix at the end of this document on guidelines for image capture and also the Austehc image capture guidelines in the 2011 PARADISEC Operations Manual for more details
 
-#### Prepare tapes for ingestion (Audio)
+### Prepare tapes for ingestion (Audio)
 * Assess tape condition – treat mouldy items according to the below procedure *(wear a mask and latex gloves as protective gear)*
 * Dehumidify in vacuum oven if necessary, with separate batches for mould-affected items
 * If necessary, advice regarding duration of treatment and temperature can be found at [NFSA](http://nfsa.gov.au/){:target="_blank"} and also within the IASA [TC-04 Guidelines](www.iasaweb.org/tc04/audio-preservation){:target="_blank"}
@@ -152,9 +152,9 @@ When tapes returned, note date in ‘tracking’ field of Item, Archive Informat
 |  CD  |  CD inspector on Audiocube 3  | n/a |
 
 
-### Ingestion process
+## Ingestion process
 
-### Wavelab ingestion processes - Sydney Lab (Audio)
+## Wavelab ingestion processes - Sydney Lab (Audio)
 * Avoid internet browsing and any activity over the network during digitisation (these activities can cause interference, which may result in digital clips and unwanted errors in the signal), avoid using or turn off mobile phones or other mobile devices, including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during recording of audio. 
 
 * Reel-to-reel tapes go through Audio1 workstation (where StuderA810 is connected), cassette tapes go through either Audio1 or Audio2 workstations (both fitted with Tascam 122MKII’s cassette tape machines). Other sources, such as vinyl records, are to be connected separately as required and may, depending on how the device is connected, go through either Audio1 or Audio2 ingest stations.
@@ -194,7 +194,7 @@ When tapes returned, note date in ‘tracking’ field of Item, Archive Informat
 * place files in **parapd00470.srv.sydney.edu.au\Processing Area\forDobbin**, this will trigger Nabu to create matching .imp and .id3 xml export files (see below section *Dobbin Processes for BWF generation* for details). Otherwise, if more work will be undertaken at a later time, files should be placed on the server in **parapd00470.srv.sydney.edu.au\Processing Area\waitingArea**.
 
 
-#### Dobbin processes for BWF generation (Audio)
+### Dobbin processes for BWF generation (Audio)
 
 * NABU monitors ‘forDobbin’ directory for .wav files, and when it finds one, it writes out the metadata for the corresponding item – if the item is marked ‘Ready for metadata export’ in the Item’s Admin panel. The exported metadata files are:
   * **parapd00470.srv.sydney.edu.au\Processing Area\xml\[PID].imp.xml**
@@ -212,11 +212,11 @@ When tapes returned, note date in ‘tracking’ field of Item, Archive Informat
 
 * A script searches ‘forDobbin’ for any newly added wav files and harvests the file name, size and the audio properties and places a reference to them in the catalogue entry for that item
 
-#### Ingestion of photographic slides
+### Ingestion of photographic slides
 
 The process for ingesting slides and digital image capture is documented in Paradisec Operations Manual 2011, and the appended Austech manual [http://www.paradisec.org.au/downloads.html](http://www.paradisec.org.au/downloads.html){:target="_blank"}. Contact [PARADISEC staff](mailto:admin@paradisec.org.au){:target="_blank"} for further details.
 
-#### Digital text
+### Digital text
 
 * formatted documents, e.g. in MS Word format, need to be saved as .rtf and .pdf, .docx files can also be archived. Check each file for character encodings. Use doxillion for mass file conversions.
 
@@ -224,7 +224,7 @@ The process for ingesting slides and digital image capture is documented in Para
 
 * put the files into the ‘toNabu’ folder where a script will pick them up to send to Nabu
 
-### University of Melbourne ingestion unit
+## University of Melbourne ingestion unit
 
 This suite consists of a purpose-built computer, with a Digital Audio Denmark analogue to digital converter, a cassette player, minidisk player and reel-to-reel player. The computer has no internet connection (to prevent digital noise in the digitisation) so a hard disk is used to transport the files to another computer for transfer.
 
@@ -305,7 +305,7 @@ Take audio notes:
 
 * Save one as Side A and one as Side B * If the reel has a stereo recording on each side, there is no need to do this - just save each stereo file as Side A and B.
 
-### Restore from archive proces (SA)
+## Restore from archive proces (SA)
 
 **Restoring a file on Azoulay, which was modified or created in the last several days:**
 
@@ -325,7 +325,7 @@ Take audio notes:
 **Access to Archived files in Paradisec repository**
 individual collections list the items available as part of that collection. A label appears next to each item indicating whether access is open or closed. Users can click through to the individual files which can be streamed or downloaded directly from the catalogue. If an item has restricted conditions, the depositor may need to be contacted to request permission.
 
-### Appendix: Notes on image capture equipment
+## Appendix: Notes on image capture equipment
 * Canon Powershot G6
 * Powerbook G4
 * Camera tripod

@@ -28,7 +28,7 @@ H6{color:White !important;}
 
 ## Creating archival JPEG2000 MXF OP1a video
 
-*[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
+*[PARADISEC](https://paradisec.org.au){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
 <span style="font-variant:small-caps;">Last updated: 26 October 2021</span>
 

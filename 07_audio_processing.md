@@ -36,19 +36,19 @@ H6{color:White !important;}
 
 <span style="font-variant:small-caps;">Last updated: 15 September 2021</span>
 
-## PARADISEC audio processing workflow for archiving
+# PARADISEC audio processing workflow for archiving
 This workflow is targeted toward born-digital audio files; however, should the need arise to adjust audio files originating from various legacy formats, this workflow will help.  
 
-### PARADISEC audio standards
+## PARADISEC audio standards
 
-### Other audio processing tasks
+## Other audio processing tasks
 
-#### Extracting audio from a video
+### Extracting audio from a video
 If you want to extract the audio track from a video file. you can easily do this in two ways, both using software that is freely available:
 
-#### Using VLC
+### Using VLC
 
-#### Using FFmpeg
+### Using FFmpeg
 If you want to retain the same audio quality as the source video:
 ```
 ffmpeg -i  <name_of_input_video.extension> <name_of_output_audio.extension>

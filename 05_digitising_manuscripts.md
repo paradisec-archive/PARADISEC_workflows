@@ -23,7 +23,7 @@ H6{color:White !important;}
 </style>
 
 
-## Digitising Fieldnotes & Manuscripts
+# Digitising Fieldnotes & Manuscripts
 
 <p align="center">
   <img width="200" src="images/tripod.GIF">
@@ -40,7 +40,7 @@ This page outlines PARADISEC's approach to digitising text materials and offers 
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
 
-### Target format of images to be archived in PARADISEC
+## Target format of images to be archived in PARADISEC
 Before discussing the details of equipment we use in this workflow, here are the target file formats for image capture and archiving and the quality standards we request. Adhering to these high standards may be difficult in some situations; please try to aim for these as best you can.
 
 |           | Capture file format | Archival copy  | Access copy  |
@@ -58,7 +58,7 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 
 ----------
 
-### Equipment used in this guide
+## Equipment used in this guide
 
 | Equipment | Description and links to more details |
 | :----- | :----- |
@@ -71,16 +71,16 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 
 > **NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software. 
 
-#### Cameras
+### Cameras
 
-##### Canon PowerShot G12
+#### Canon PowerShot G12
 This Canon camera was purchased in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual){:target="_blank"} of the firmware. I have not done this hack; See below for a simple workflow for image capture without tethering your camera to a computer. The PowerShot G12 features an articulated LCD screen. This means you can rotate it so that your target image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
 
 <p align="center">
   <img width="300" src="images/img-cap-PowerShotG12.JPG">
 </p>
 
-##### Canon EOS 700D
+#### Canon EOS 700D
 This DSLR *does* allow remote capture tethering. This opens up the possibility of attaching the camera to a computer to view, focus, and capture images and store them directly on your computer, with a predertermined file-naming pattern. But you can also use the same workflow as the non-tethering compact digital camera if you do not have a computer handy at the time of digitising. This model also features an articulated LCD monitor for comfortable image viewing. Another bonus with this camera is that you can do quick zoom adjustments by manually adjusting the lens, which you cannot do with the PowerShot.
 
 <p align="center">
@@ -88,9 +88,9 @@ This DSLR *does* allow remote capture tethering. This opens up the possibility o
 </p>
 
 
-#### Tripods and photo stands
+### Tripods and photo stands
 
-##### Velbon Sherpa 803R
+#### Velbon Sherpa 803R
 This tripod was purchased about ten years ago, so it is unlikely that you would find the same model; however, the important features on this tripod are the following:
 * reversable centre post (necessary for this workflow)
 * relatively compact and lightweight
@@ -100,21 +100,21 @@ This tripod was purchased about ten years ago, so it is unlikely that you would 
   <img width="300" src="images/img-cap-tripod.JPG">
 </p>
 
-###### Setting up the tripod with reversable centre post
+##### Setting up the tripod with reversable centre post
 This is the least expensive and most versatile setup, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise any shadows. You may also try to find lights that you can clip on to the legs of your tripod or onto nearby furniture. Just be mindful that too much direct, unfiltered lighting may wash out your image. If you can place the tripod next to a light coloured wall and then shine the lights onto the wall. The reflected light may be enough to provide evenly disrtributed indirecrt lighting.
 
 <p align="center">
   <img width="300" src="images/imgcap-remote-tripod.jpg">
 </p>
 
-##### Velbon shelf clamp
+#### Velbon shelf clamp
 The Velbon tripod mentioned above came with a shelf clamp, but you can purchase a clamp separately. If you do, make sure there is a tripod post that comes with the clamp if you do not already have a tripod with a removable centre post. The link in the table above directs you to a similar model to the shelf clamp that came with the Velbon Sherpa 803R.
 
 <p align="center">
   <img width="300" src="images/img-cap-shelfclamp.JPG">
 </p>
 
-###### Setting up the shelf clamp
+##### Setting up the shelf clamp
 Using just the shelf clamp and the tripod's centre post is by far the simplest combination, especially if there is any travel involved. The only drawback is that this requires a shelf that you can clamp to. However, if you are in a very remote location you could construct something with timber, bamboo, or even a smooth, sturdy branch. Just make sure it is strong and secure enough to hold your camera and allows you to create consistant images. 
 
 Below are two configurations with the shelf clamp. The image on the left is with the Canon EOS 700D tethered to a laptop for remote capture. The image on the right is the Canon PowerShot; images are being captured to the camera's SD card. 
@@ -124,14 +124,14 @@ Below are two configurations with the shelf clamp. The image on the left is with
 </p>
  
 
-##### Kaiser Reprokid Photo Stand
+#### Kaiser Reprokid Photo Stand
 The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so one does not need to figure out where to attach any lighting. The vertical post is ruled so you can retrieve the distance of the lens to the target, or just make note of the camera placement for quick set up the next time you shoot. The base is a hard plastic grey surface so I use black matte card stock under my items. You can place a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales){:target="_blank"} on the base if you need this level of size or colour precision in your image capture.
 
 <p align="center">
   <img width="300" src="images/img-cap-photo-stand.JPG">
 </p>
 
-###### Setting up the photo stand
+##### Setting up the photo stand
 Photo stands have many benefits for image capture. This particular model has the lighting attached, as noted above you don't have to worry about where to clamp the lights. The light fixtures on this stand can move around, so if the light is too direct and overpowering, they can turn so that they are pointing away or toward the back wall. Be mindful of the cables from the lights; if you don't tie them up and out of the way, they can show up in an image, or cast a shadow on your subject.
 
 Having the camera attached to a stable, ruled post is great for keeping your set-up consistant from day to day. If you need to shift things around in your space, the entire set-up can be moved as is. Having a solid base on which to put your notebooks or documents is also a fine feature. The base on this model is a bit small. If you need to build up the base to create an expanded, level for larger notebooks to fit, perhaps place some books you may have nearby around the photostand's base to create an enlarged, even platform. Or get a piece of plywood and clamp it to the photo stand base.
@@ -143,9 +143,9 @@ The downside to using a photo stand is the cost. Pricing for these can be expens
 </p>
 
 
-### Software
+## Software
 
-#### EOS Utility 
+### EOS Utility 
 ***For remote capture: Use Canon's EOS Utility with a compatible Canon camera***<br>
 Remote capturing images directly to your computer can speed up your task of taking photos, especially if you set up a good workflow. There are many tethering tools available. I have chosen EOS Utility because it came with my Canon EOS 700D, it was free, and it serves our purpose. Here is an article from [Tether Tools (2020)](https://tethertools.com/blog/what-tethering-software-is-available/){:target="_blank"} that discuss other tethering software that is currently on the market.
 
@@ -156,12 +156,12 @@ If you are planning to use a Canon camera that is compatible with the EOS Utilit
 > **Note:** The link to the PC version is for EOS Utility 3, which is not compatible with my EOS 700D camera; however, with this installation both EOS Utility 2 and EOS Utility 3 are installed. The version that I am using is 2.14.20.0.
 
 
-#### Adobe Bridge
+### Adobe Bridge
 ***For image preview and processing, use Adobe Bridge***<br> 
 As you capture the images, it is important to check their quality before you get too far into your task. But even at the end of the day, when if you have collected hundreds of photos, you may realise that they would be better cropped, or that the lighting was too warm and you would like to cool down the colours, you can use Adobe Bridge to do this as a batch process. Adobe Bridge is available for free. You do not need to pay for it, but you do need to sign up with Adobe. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html){:target="_blank"}.
 
 
-### Workflow for remote capture
+## Workflow for remote capture
 
 *(This is specifically designed for ANU-PARADISEC workflows, but the concepts are easy enough to personalise for your own purposes)*
 
@@ -224,7 +224,7 @@ As you capture the images, it is important to check their quality before you get
 12. Remove the battery and put into the charger to charge for the next session.
 
 
-### Post-production processing of images
+## Post-production processing of images
 
 *The following instructions are based on Adobe Bridge CC 2021. Many of the functions are similar to the previous versions, with slight adjustments to the interface and workspaces.*
 
@@ -268,7 +268,7 @@ Your export settings for archiving with PARADISEC should be the following:
 <br>
 <hr style="border:1px solid grey">
 
-### Additional resources
+## Additional resources
 Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747){:target="_blank"} Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138
 
 ⬆️  [Back to top](#)

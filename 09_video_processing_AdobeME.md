@@ -26,15 +26,14 @@ H6{color:White !important;}
 🚧 This page is currently under construction 🚧
 </p>
 
-## Creating archival JPEG2000 MXF OP1a file
+## Creating archival JPEG2000 MXF OP1a video
+
+*[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
 <span style="font-variant:small-caps;">Last updated: 26 October 2021</span>
 
 This page outlines how to create lossless JPEG2000 .MXF videos using Adobe Media Encoder Adobe CC 2018 or later; since 2018, Media Encoder allows for **lossless* JPEG2000 compression. This workflow is for digital-to-digital transcoding. Contact PARADISEC if you have analogue material to digitise.
 
-
-
-*[PARADISEC](https://paradisec.org){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
 ### Define Encoding Settings - Making an Encoding Preset
 The first step is to create a profile of encoding settings to save and use each time you need to create a lossless J2K .MXF video. To create this Encoding Preset, which can be used in both Premiere and Media Encoder, open Media Encoder and go to the top menu to "**Presets**" and then select “**Create Encoding Preset**”. A new Preset window will open up. Look at the image below to see the settings you should choose. Each will be explained below.

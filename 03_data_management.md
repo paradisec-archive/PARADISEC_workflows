@@ -22,7 +22,7 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-## Metadata & Data Management
+# Metadata & Data Management
 <br>
 
 <p align="center">
@@ -33,9 +33,9 @@ H6{color:White !important;}
 
 Much of this information is geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures), but some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive).
 
-### Data management
+## Data management
 
-#### Data management in the field
+### Data management in the field
 Whilst in the field, you should be mindful of having good metadata for your recording sessions. This can be done in the following ways:
 * Most important: speak your metadata at the beginning of every audio and video recording, on every track, so that if there is ever an organisational catastrophe, you will be able to retreive the important metadata by reviewing the recordings. This should minimally include the date, the event or elicitation task, your name and those of your participants, and location of the recording.
 * You can create a directory structure that has date and event information in the folder names so that when you drag your files from an SD card into a folder, you will know immediately what files are associated with which event. this is a good option if you have limited power and time on the laptop must be short. If you plan to set the file names in the Zoom recorder, this can be time consuming and fleeting, as this has to be done with every battery change.
@@ -45,7 +45,7 @@ Whilst in the field, you should be mindful of having good metadata for your reco
 * You can, and probably should do all of the above, as redundancy in metadata documentation is **never** a bad thing.
 
 
-#### Data Management Plan (DMP)
+### Data Management Plan (DMP)
 A data management plan (DMP) is a brief explanation (up to 2 pages) outlining how you are going to store, manage, share and preserve your data during and after your project. 
 
 Writing a DMP will help you reflect upon what type of data you will be collecting, how much space you will require to house your data as you work with it, what sort of collaborative platforms you may require for your research, and your long-term plans for preserving and disseminating the data.
@@ -55,7 +55,7 @@ It is becoming more frequent that funding institutions require that you submit a
 **ARDC** (Australian Research Data Commons) offers Australian institutional data management resources [here](https://projects.ands.org.au/policy.php){:target="_blank"} and international resources [here](https://ardc.edu.au/resources/working-with-data/datamanagement/data-management-plans/){:target="_blank"}.
 
 
-#### File naming
+### File naming
 Here are some ***general suggestions*** for naming your files:
 * do not use spaces or any special characters, other than hyphens (-) or underscores (_)
 * for the date use the form **YYYYMMDD**
@@ -80,13 +80,13 @@ For more about PARADISEC's file naming conventions, click [here](https://paradis
 ></span>
 <br>
 
-#### Preparing for archiving 
+### Preparing for archiving 
 
-### Metadata management tools
+## Metadata management tools
 
 At this time there are two metadata tools that we are supporting. Follow the links below to get the most recent versions of each.
 
-#### PARADISEC-configured Spreadsheet
+### PARADISEC-configured Spreadsheet
  
  Right-click on this [link](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx){:target="_blank"} to save the PARADISEC pre-configured spreadsheet. All fields necessary to create catalog items in PARADISEC are included.
 > Note:  Rows in the PARADISEC spreadsheet are meant to capture metadata at the level of an item, or recording session. Do not list individual file information.
@@ -95,7 +95,7 @@ At this time there are two metadata tools that we are supporting. Follow the lin
   <img width="500" src="images/PARADISEC-spreadsheet.jpg">
 </p>
 
-#### LaMeta
+### LaMeta
 This free software will allow you to create metadata files using a simple graphical interface. Follow this [link](https://github.com/onset/laMETA/releases){:target="_blank"} to download the latest version. If you need guidance using LaMeta, take a look at this helpful [blog from ELAR](https://elararchive.org/blog/2020/04/30/introducing-lameta/){:target="_blank"}.
 
 The LaMeta metadata export lends itself for archiving with [ELAR](https://elar.soas.ac.uk/){:target="_blank"}, creating .imdi metadata files (XML); however, there is an option to export the project metadata as a CSV that is formatted for PARADISEC. This function is in the early stages and your export may require some cleaning up.
@@ -107,7 +107,7 @@ The LaMeta metadata export lends itself for archiving with [ELAR](https://elar.s
 <br>
 <hr style="border:1px solid grey">
 
-### Additional Resources
+## Additional Resources
 
 Hatton, John, Gary Holton, Mandana Seyfeddinipur, Nick Thieberger. 2021. Lameta [software] [https://github.com/onset/laMETA/releases](https://github.com/onset/laMETA/releases){:target="_blank"}
 

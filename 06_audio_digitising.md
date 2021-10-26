@@ -37,9 +37,9 @@ H6{color:White !important;}
 This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This workflow can be modified to accommodate other organisations in their specific digitising goals.
 
 
-### About the equipment
+## About the equipment
 
-#### Computer workstation
+### Computer workstation
 
 The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC workstation with the following specifications:
 
@@ -52,7 +52,7 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 |***Drive*** | 8xDVD +/-RW 9.5mm Optical Disk Drive |
 |***Full-size Tower*** | SSF (Small Form Factor) will not accomodate necessary soundcard |
 
-#### Soundcard: [RME HDSPe AIO Pro](https://www.rme-audio.de/hdspe-aio-pro.html){:target="_blank"}
+### Soundcard: [RME HDSPe AIO Pro](https://www.rme-audio.de/hdspe-aio-pro.html){:target="_blank"}
 <p align="center">
   <img width="500" src="images/RME-Soundcard.jpg">
 </p>
@@ -63,7 +63,7 @@ A new soundcard needed to be added to the DELL tower to provide us with the nece
  >* a high quality digital audio stream synchronisation mechanism
  >* allow the transfer of a digital audio data stream having undergone no change or alteration
 
-#### AD/DA Converter: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html){:target="_blank"}
+### AD/DA Converter: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html){:target="_blank"}
 <p align="center">
   <img width="500" src="images/RME.jpg">
 </p>
@@ -85,7 +85,7 @@ Having an external, stand-alone analogue/digital converter is critical so that t
 **READ MORE ABOUT** analogue to digital converters and sound cards in [sections 2.4 and 2.5](https://www.iasa-web.org/tc04/key-digital-principles){:target="_blank"} of **IASA**'s *TC04: Guidelines on the Production and Preservation of Digital Audio Objects*. 
 <hr style="border:1px solid blue">
 
-#### Audio cassette player: [Tascam 122 mk II](https://tascam.com/downloads/tascam/324/122mkIII_TECHDOC.pdf){:target="_blank"}
+### Audio cassette player: [Tascam 122 mk II](https://tascam.com/downloads/tascam/324/122mkIII_TECHDOC.pdf){:target="_blank"}
 <p align="center">
   <img width="500" src="images/tascam_112_MKII_1.jpg">
 </p>
@@ -96,12 +96,12 @@ Having an external, stand-alone analogue/digital converter is critical so that t
 <hr style="border:1px solid blue">
 
 
-#### Reel-to-reel tape player: [Revox C270](https://www.reeltoreel.nl/studer/Public/Products/Revox/Revox_C270/Revox_C270_Op_E.pdf){:target="_blank"}
+### Reel-to-reel tape player: [Revox C270](https://www.reeltoreel.nl/studer/Public/Products/Revox/Revox_C270/Revox_C270_Op_E.pdf){:target="_blank"}
 <p align="center">
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
 
-#### Reel-to-reel tape player: [Studer A807](https://museumofmagneticsoundrecording.org/RecordersStuderA807.html){:target="_blank"}
+### Reel-to-reel tape player: [Studer A807](https://museumofmagneticsoundrecording.org/RecordersStuderA807.html){:target="_blank"}
 <p align="center">
   <img width="300" src="images/StuderA807.jpg">
 </p>
@@ -111,10 +111,10 @@ Having an external, stand-alone analogue/digital converter is critical so that t
 **READ MORE ABOUT** the use of reel-to-reel machines in [section 5.4.4](https://www.iasa-web.org/tc04/replay-equipment-professional-reel-machines){:target="_blank"} of IASA's TC04: Guidelines on the Production and Preservation of Digital Audio Objects.
 <hr style="border:1px solid blue">
 
-### Software
+## Software
 The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://new.steinberg.net/wavelab/){:target="_blank"}
 
-### Digitising Cassette Tapes
+## Digitising Cassette Tapes
 
 <br>
 <hr style="border:2px solid blue">
@@ -236,7 +236,7 @@ Press the button with the dot on it, far right. This will open the following rec
 16\.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
 
 
-### Digitising Reel-to-reel Tapes
+## Digitising Reel-to-reel Tapes
 
 1. Put the tape reel onto the left spindle, the right is reserved for the take-up empty reel. Make sure tape is spooling off to the left of the reel. Once on the spindle, lift top of the spindle and turn it so that the tabs can lock down the reel.
 
@@ -277,7 +277,7 @@ DO NOT HIT REWIND. Uze the Z-Loc button. This will rewind the tape, slowing down
 <br>
 <hr style="border:1px solid grey">
 
-### Additional Resources
+## Additional Resources
 [Pragmatic Audiovisual Preservation](http://doi.org/10.7207/twr20-10){:target="_blank"} (2021) Ashley Blewer
 
 IASA Technical Committee, [Guidelines on the Production and Preservation of Digital Audio Objects](https://www.iasa-web.org/tc04/audio-preservation){:target="_blank"} (2009, 2nd ed.) ed. by Kevin Bradley.

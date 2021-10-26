@@ -22,7 +22,7 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-## Standard Formats for Data Collection and Archiving
+# Standard Formats for Data Collection and Archiving
 
 
 <p align="center">
@@ -31,7 +31,7 @@ H6{color:White !important;}
 
 <span style="font-variant:small-caps;">Last updated: 25 October 2021</span>
 
-### Standard formats for archiving with PARADISEC
+## Standard formats for archiving with PARADISEC
 The tables below contain the file formats we accept from depositors and the final formats that go into the archive. If you have a format other than those listed, please contact us so we can advise you on what can be done.
 
 
@@ -81,16 +81,16 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 <br>
 
-### Suggestions for audio recorders and video cameras
+## Suggestions for audio recorders and video cameras
 
-#### Audio recorders: Suggested models and recording settings
+### Audio recorders: Suggested models and recording settings
 
 | Audio recorders | Features             |
 | :---              | :---              |
 | Zoom H4 Pro <br> [Link](https://zoomcorp.com/en/jp/handy-recorders/handheld-recorders/h4n-pro/){:target="_blank"}       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, powered by 2 AA batteries or USB, records to SD/SDHC cards |
 | Zoom H2N <br> [Link](https://zoomcorp.com/en/jp/handy-recorders/handheld-recorders/h2n-handy-recorder/){:target="_blank"}      | 44.1/48/96kHz, 16/24bit WAV; 3.5mm external mic input plus internal X/Y stereo, 2-channel and 4-channel surround, powered by 2 AA batteries or USB, records to SD/SDHC cards| 
 
-##### Suggested audio settings
+#### Suggested audio settings
 
 ><span style="color:LightBlue">
 > **NOTE**: *Avoid recording in compressed formats.*
@@ -102,14 +102,14 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 <br>
 <br>
 
-#### Video recorders: Suggested models and recording settings
+### Video recorders: Suggested models and recording settings
 
 | Video recorders      | Features            |
 | :---                 | :---                |
 | Canon XA50 <br> [Link](https://www.canon.com.au/cameras/xa50){:target="_blank"}     | records .mp4 & .mxf, (1) 3.5mm and (2) XLR mic inputs (using attached handle), infrared, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 960g (or 1435g w/ handle), records 25 and 50fps with slow & fast motion settings, white balance |
 | Canon Legria HF G50 <br> [Link](https://www.canon-europe.com/video-cameras/legria-hf-g50/){:target="_blank"} |  records .mp4, (1) 3.5mm mic input, has Night Scene filter, image stabiliser, optical zoom 20x, records to (2) SD card slots, weighs 735g, records 25 and 50fps, with slow & fast motion settings, white balance |
 
-##### Suggested video settings
+#### Suggested video settings
 
 ><span style="color:LightBlue">
 > **NOTE**: *Avoid recording in compressed formats.*
@@ -126,7 +126,7 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 <br>
 <hr style="border:1px solid grey">
 
-### Additional Resources
+## Additional Resources
 
 Seyfeddinipur, Mandana. & Rau, Felix. (2020). [Keeping it real: Video data in language documentation and language archiving](http://hdl.handle.net/10125/24965){:target="_blank"}. Language Documentation & Conservation, vol. 14.
 

@@ -23,7 +23,7 @@ H6{color:White !important;}
 </style>
 
 
-## Improving communication access for deaf and hard of hearing people 
+# Improving communication access for deaf and hard of hearing people 
 <br>
 
 Developed by [Julia Miller](mailto:julia.miller@anu.edu.au){:target="_blank"} & [Gabrielle Hodge](mailto:g.hodge@ucl.ac.uk){:target="_blank"}<br>
@@ -49,7 +49,7 @@ As academics committed to equitable and democratic scholarship, we need to consi
 <br>
 <hr style="border:1px solid grey">
 
-### Captioning options to improve accessibility of your audio-visual content
+## Captioning options to improve accessibility of your audio-visual content
 
 <br>
 #### Some terms used
@@ -58,7 +58,7 @@ As academics committed to equitable and democratic scholarship, we need to consi
 * **Captions vs transcriptions**: Captions are typically presented at the bottom of the video, transcriptions can be provided in a separate file as text, of it can be displayed in a side panel, but not in the video, itself.
 
 
-#### What type of access could be offered and when?
+### What type of access could be offered and when?
 1. **Captioning pre-recorded content:**
 * When lectures, meetings, seminars, or workshopsare recorded live and with no deaf people or others needing captions presentin the audience, these presentations can becaptioned after the event and made available to the public.
 * Pre-recorded videos presented at a conference can be captioned prior to sending to conference organisers. Making a captioned version available would greatly improve access to your content.
@@ -67,8 +67,8 @@ As academics committed to equitable and democratic scholarship, we need to consi
 * **Sign language interpreters:** Qualified sign language interpreters can be booked to provide access for signing deaf people who use interpreters. A major benefit is that interpreters facilitate two-way interaction in real time, enabling everyone to access each other. Captions will only work one-way between people with sensorial asymmetries, e.g., between people who do not sign and deaf people who do not speak. Sign language interpreting is a very personal process and quality can vary widely. It is a good idea to liaise directly with the deaf person to find outwhat language, service and interpreters they prefer to use, [see below](#providing-interpreters-who-can-work-between-signed-and-spoken-languages) for more information on booking and working with sign language interpreters.
 
 
-#### How to caption pre-recorded content
-##### Creating captions using YouTube
+### How to caption pre-recorded content
+#### Creating captions using YouTube
 
 <br>
 Below is a video that instructs you in creating captions for media using YouTube's AI (Artificial Intelligence) process *as a starting point*. 
@@ -93,9 +93,9 @@ The steps outlined in the video:
 
 <hr style="border:1px solid grey">
 
-##### Options for live captioning of online event
+#### Options for live captioning of online event
 
-###### Captions by AI -Artificial Intelligence
+##### Captions by AI -Artificial Intelligence
 
 * **Zoom** does have the option for the host of a meeting to engage the live captioning AI tool; **however**, this is dependent upon your institution’s license with Zoom. *At this time, ANU is in negotiations with Zoom to secure a new license, which would include this feature. Check with your versions of Zoom and if it is not a feature you can use, contact your institution’s IT department (those responsible for Zoom) or your Accessibility Services team and lodge a request. This is no guarantee you will get this feature-but providing feedback to your institution will be helpful.*
 
@@ -121,7 +121,7 @@ The steps outlined in the video:
 <hr style="border:1px solid blue">
 <br>
 
-###### Live human captioning during online meeting
+##### Live human captioning during online meeting
 
 * **CART** *(Communication Access Real-Time Translation)*** or **STTR** *(Speech-to-Text Relay)* is a service where a trained stenographer is either on-site or at a remote location listening to the speech and types the captions in real time. This is the method used to create transcripts of live court proceedings. However, some CART or STTR services (often for remote captions) are provided via re-speaking technologies, where a person listens to the speech and respeaks it more clearly for the AI recognition technology, which creates the captions. Stenography is a far more accurate method for live captioning.
 * Zoom has a feature which allows someone designated by the host to type in what is being said, and this can be seen as closed captions to anyone in the meeting who wishes to view it.
@@ -136,11 +136,11 @@ The steps outlined in the video:
 <hr style="border:1px solid blue">
 <br>
 
-### Providing interpreters who can work between signed and spoken languages
+## Providing interpreters who can work between signed and spoken languages
 
 There are many different situations in which you may need to book sign language interpreters. You may have invited a deaf academic from Australia or overseas. You may have received a request from a deaf member of the public to attend a seminar or event. You may be hosting an event on a topic related to deafness, deaf people and sign language and seek to make it accessible for the wider deaf community. Different situations may require different processes for booking sign language interpreters.
 
-#### Sign language interpreters
+### Sign language interpreters
 
 Qualified sign language interpreters work to simultaneously interpret between a spoken language (e.g., English) and a signed language (e.g., Auslan). They are language professionals akin to spoken language interpreters who work between two spoken languages. They have undertaken extensive training in language and interpreting. Some have also undertaken training in translation, although translation is historically the domain of deaf interpretersand translators.
 
@@ -160,7 +160,7 @@ As explained above, interpreters can be booked to provide access for signing dea
 
 <hr style="border:1px solid grey">
 
-#### Steps & responsibilities involved in finding, booking & working with interpreters
+### Steps & responsibilities involved in finding, booking & working with interpreters
 
 1. *Determining what communication access is required* <br>
 This includes finding out what language services are needed, e.g., Auslan/English interpreters, ASL/English interpreters, or some other language pair. Even if you are not organising and paying for the interpreting specifically, as the organiser of the event you will need to facilitate how communication access is provided, and this includes working with the interpreters to ensure the event runs effectively. Some large events, e.g., international conferences, may have different interpreting teams and language pairs. Often these events will require a designated Interpreter Coordinator to liaise between all and ensure cohesive service delivery.
@@ -176,14 +176,14 @@ If you are covering the cost of interpreters and managing the finances of the ev
 
 <hr style="border:1px solid grey">
 
-### Services and Tools
+## Services and Tools
 * Expression Australia (Auslan interpreting, captioning, notetaking,transcription): [https://www.expression.com.au/services/interpreting-and-captioning](https://www.expression.com.au/services/interpreting-and-captioning){:target="_blank"}
 * The Deaf Society (Auslan interpreting): [https://deafsociety.org.au/](https://deafsociety.org.au/){:target="_blank"}
 * Ai-Media(Live CART captioning org): [https://www.ai-media.tv/](https://www.ai-media.tv/){:target="_blank"}
 * Otter.ai (AI captioning tool): [https://otter.ai/](https://otter.ai/){:target="_blank"}
 
 
-### Other Helpful Links
+## Other Helpful Links
 * DCAL Remote Working guidelines for working with sign language interpreters on Zoom, etc: [https://www.ucl.ac.uk/dcal/remote-working-guidelines](https://www.ucl.ac.uk/dcal/remote-working-guidelines){:target="_blank"}
 * Automatic closed captioning with Zoom in use at the University College London: [https://www.ucl.ac.uk/teaching-learning/news/2021/mar/zoom-licence-renewed-automatic-closed-captions-and-transcriptions-added](https://www.ucl.ac.uk/teaching-learning/news/2021/mar/zoom-licence-renewed-automatic-closed-captions-and-transcriptions-added){:target="_blank"}
 * University of Melbourne articles on Auto-Captioning:

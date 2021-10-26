@@ -69,11 +69,17 @@ These technical workflows and archiving guides are designed to help people with 
 * Create lossless JPEG2000 video files for archiving with PARADISEC (archival copy)
 * Create well-formed .MP4s for archival access copies or fit-for-purpose copies
 * Handle video with problematic properties for lossless MXF format
+
+### [Quality control](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html)
+* Add quality checking into your workflow
+* Explore software including [MediaArea](https://mediaarea.net/){:target="_blank"}'s open source suite of tools
+* Check both audio and video files
+
 <br>
 <hr style="border:1px solid grey">
 *CoEDL has released a set of [guidelines](http://www.dynamicsoflanguage.edu.au/publications-and-seminars/centre-publications/creating-captions-guidelines/){:target="_blank"} for improving communication access for deaf and hard of hearing people. This page offers a simple but effect workflow for integrating captioning and/or sign laguage interpreting.* 
 
-### [Improving communication access for deaf & hard of hearing people](https://paradisec-archive.github.io/PARADISEC_workflows/10_improving_communication_access.html)
+### [Improving communication access for deaf & hard of hearing people](https://paradisec-archive.github.io/PARADISEC_workflows/11_improving_communication_access.html)
 * General tips for improving communication access 
 * Ideas for captioning video presentations, both during and after an event
 * Tips on organising & working with a sign language interpreter

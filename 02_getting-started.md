@@ -22,7 +22,7 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-## Getting Started with PARADISEC
+# Getting Started with PARADISEC
 
 <p align="center">
   <img width="500" src="images/PARADISEC-banner.jpg">
@@ -32,7 +32,7 @@ H6{color:White !important;}
 
 This page is dedicated to helping you begin the process of getting your materials organised and eventually archived with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures).
 
-### STEP 1: Sign up as a user with PARADISEC
+## STEP 1: Sign up as a user with PARADISEC
 Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open-access collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page. *Read more about PARADISEC's Conditions of Access [here](https://www.paradisec.org.au/deposit/access-conditions/){:target="_blank"}*.
 
 You also need to sign up with PARADISEC if you wish to deposit material to the archive. 
@@ -56,16 +56,16 @@ Congratulations, you are now a PARADISEC user! It is recommended that you browse
 * ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0){:target="_blank"} collection, the depositor has included recordings of over 25 languages within the one collection. This collection is still growing! 
 
 
-### STEP 2: Contact PARADISEC to help you create a new collection
+## STEP 2: Contact PARADISEC to help you create a new collection
 
 Only PARADISEC administrators can create a collection in the catalog.  When you are ready for us to create a collection, contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"}.
 
 
-#### Preliminary exploration of your files
+### Preliminary exploration of your files
 
 Before you contact PARADISEC, take a look at your files and determine how you want your collection(s) presented. Do you need one collection? Or more than one? This is the time for you to reflect upon how you want your material organised in the archive.
 
-#### Information to provide to PARADISEC
+### Information to provide to PARADISEC
 
 Once you have decided upon which files you would like to archive, come up with a name and description for your collection. As for the Collection ID, PARADISEC administrators can help you come up with this- the collection ID should be a unique identifier (could be your initials in all caps and a digit, or the ISO language code).
 
@@ -80,11 +80,11 @@ Summary of information needed when you are ready to contact PARADISEC:
 * Funding body (if applicable) (e.g. ARC, ELDP, etc.)
 * Grant identifier (if applicable) (e.g. CoEDL = CE140100041 or Wellsprings = FL130100111)
 
-### STEP 3: Organise materials to be sent to collection
+## STEP 3: Organise materials to be sent to collection
 
 *This section is an introduction to metadata and data management. For a deeper exploration into these topics, please visit the [Metadata & Data Management](https://paradisec-archive.github.io/PARADISEC_workflows/03_data_management.html){:target="_blank"} page.*
 
-#### PARADISEC's metadata spreadsheet
+### PARADISEC's metadata spreadsheet
 
 PARADISEC has created a spreadsheet that allows us to automatically create the catalog metadata for items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx){:target="_blank"}. *(If the .xlsx file does not download automatically, then right-click on the link to save the file).* Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
 
@@ -96,7 +96,7 @@ Once your collection has been created and has been populated with the metadata f
 * you can define/change access conditions
 * you can even assign editor privileges to a colleague or research assistant to help you update the collection's metadata
 
-#### PARADISEC's file naming conventions
+### PARADISEC's file naming conventions
 
 Now comes the thrilling task of making sure your files are named appropriately. Getting your *archival* file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items (recording events) within your collection. 
 
@@ -127,11 +127,11 @@ Our system requires all files to adhere to specific file-naming conventions. Thi
 ></span>
 
 
-#### PARADISEC's deposit form
+### PARADISEC's deposit form
 
 And lastly, you need to fill out a [deposit form](http://www.paradisec.org.au/PDSCdeposit.pdf){:target="_blank"} that provides PARADISEC with your contact information, access conditions for your collection, including any restrictions. Fill in the form, sign it, scan or photograph it, and email it back to us. We keep this digital record with your collection.
 
-### STEP 4: Send your files to PARADISEC
+## STEP 4: Send your files to PARADISEC
 
 If you are planing to archive digital files with PARADISEC, and your institution is part of the Australian Access Federation (AAF), you can sign up for a [Cloudstor](https://cloudstor.aarnet.edu.au/){:target="_blank"} account. Once you do, you get 1TB of free storage available to you instantly. You can also send us OneDrive, Dropbox, Google Drive links. These options are the best means to transfer files to PARADISEC. If you do not use any of those cloud storage options, but would like to transfer your files this way, contact [PARADISEC](mailto:admin@paradisec.au.org){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"} and we can create a Cloudstor folder for you to use for transferring files to us.
 

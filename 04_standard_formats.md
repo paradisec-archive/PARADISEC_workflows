@@ -121,7 +121,7 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 * Avoid using 50 or 60 frames per second (fps) unless you are intentionally wanting to create a slow-motion effect. A good setting would be 25 or 30 fps for something that looks like broadcast TV, 24 fps for a more cinematic look. 50 or 60 fps will look hyper-realistic (the soap opera effect). You could also have difficulty syncing audio from external audio recorders if you use 50 or 60 fps.
 * Use external microphones for increased quality. Wireless lapel mics or hyper-directional "shotgun" video mics can get you "closer" to the sound and you can add wind protection to those
 * Avoid surround-sound audio settings for the camera. This will add unecessary audio tracks and will introduce problems for later processing.
-* Try to avoid recording a video that is longer than 1 hour. This will avoid having a file that is too large to easily use whilst in the field. Also, when transcoding to archival formats, your file may become too large to archive without segmenting into smaller chunks. Having recording sessions last no more than 1 hour will also allow you to have breaks for you and your consultants, avoiding task fatigue.
+* Try to avoid recording a video that is longer than 1 hour. Keeping your video recording track to 1 hour or less will keep the file size more manageable. Also, when transcoding to archival formats, your file may become too large to archive without segmenting into smaller chunks. Having recording sessions last no more than 1 hour will also allow you to have breaks for you and your consultants, avoiding task fatigue.
 <br>
 <br>
 <hr style="border:1px solid grey">

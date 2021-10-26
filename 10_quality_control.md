@@ -1,5 +1,5 @@
 ---
-title: Quality control: checking the quality of audio and video files
+title: Quality control - Checking the quality of audio and video files
 layout: default
 published: true
 nav_order: 10

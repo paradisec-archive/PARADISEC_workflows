@@ -52,7 +52,7 @@ Before discussing the details of equipment we use in this workflow, here are the
 
 ><span style="color:LightBlue">
 >**Note:** The above 72 DPI *(dots per inch)* figure for the raw image is not very revealing as to the image quality compared to the 400 or 300 DPI figures. Image quality actually has more to do with pixel dimension. If you wish to read up on why DPI can be a tricky standard, take a look at this article: [The myth of DPI](http://www.rideau-info.com/photos/mythdpi.html){:target="_blank"}. There will be more about target image sizes (pixel dimension) below in the section on workflow and remote capture settings.
-></scan>
+></span>
 
 In the end, we would only need the **.tif** version from you for the archive. Our system automatically creates the access **.jpg**. If you are archiving images of notes or a field journal, it is a good idea to also provide a single **.pdf** of the images digitally bound together. For this, you should use compressed .jpgs rather than .tifs, which will keep the size of the .pdf manageable.
 

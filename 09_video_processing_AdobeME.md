@@ -32,7 +32,7 @@ H6{color:White !important;}
 
 *[PARADISEC](https://paradisec.org.au){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
-<span style="font-variant:small-caps;">Last updated: 26 October 2021</span>
+<span style="font-variant:small-caps;">Last updated: 27 October 2021</span>
 
 This page outlines how to create lossless JPEG2000 .MXF videos using Adobe Media Encoder Adobe CC 2018 or later; since 2018, Media Encoder allows for **lossless** JPEG2000 compression. This workflow is for digital-to-digital transcoding. Contact PARADISEC if you have analogue material to digitise.
 

@@ -40,7 +40,11 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 
 #### Bulk output media reoprts using MediaInfo GUI on Windows
 
-Using MediaInfo GUI v21.09, open MediaInfo, then press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder, avoiding nested folders.
+Using MediaInfo GUI v21.09, open the program, then add media to explore. To do this press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder and avoid nested folders.
+
+<p align="center">
+  <img width="500" src="images/MediaInfo-03.jpg">
+</p>
 
 Once you have edited your target specifications to be output in your report, a new csv is created with this information and is saved here: C:\Users\[UserName]\AppData\Roaming\MediaInfo\Plugin\Sheet. If you need to share this with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process.
 

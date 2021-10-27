@@ -58,7 +58,7 @@ You will then be able to make your choices for the attributes you wish to export
   <img width="300" src="images/MediaInfo-02.jpg">
 </p>
 
-Once you have edited your target specifications to be output in your report, a new .csv is created with this information and is saved here: C:\Users\"YourUserName"\AppData\Roaming\MediaInfo\Plugin\Sheet. If you want to share this customisation with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process. This is what the .csv plugin looks like:
+Once you have edited your target specifications to be output in your report, a new .csv is created with this information and is saved here: C:\Users\\"YourUserName"\AppData\Roaming\MediaInfo\Plugin\Sheet. If you want to share this customisation with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process. This is what the .csv plugin looks like:
 
 <p align="center">
   <img width="300" src="images/MediaInfo-05.jpg">

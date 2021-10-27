@@ -78,11 +78,11 @@ The icon to the left with the arrow and the "i" is the export function. Alternat
 
 Click on the *Sheet* tab, select the comma from the dropdown menu for the columns separator, then name your output file and select the location where you want to save it.
 
-#### Bulk output media reports using CLI on Mac
+#### Bulk output media reports using MediaInfo App & Terminal on Mac
 
 The Mac MediaInfo app differs from the Windows version in that you cannot view sheets, or export bulk reports using the GUI. I have downloaded the app from the Mac App Store, as suggested on the MediaInfo webpage.
 
-You first need to create a .txt file that lists the specifications you want to export, and name this file *"Options.txt"*. Again, as with the Windows specifications, you will need to experiment with how they are named. Here is suggested content for *Options.txt* for video reporting:
+You first need to create a .txt file that lists the specifications you want to export, and name this file *"Options.txt"*. Again, as with the Windows specifications, you will need to experiment with how they are named. Here is some suggested content for *Options.txt* for video reporting:
 
 ```
 General;%FileName%,%Format%,%Format_Profile%,%CodecID%,%FileSize%,%Duration%,%OverallBitRate%,%FileExtension%,
@@ -99,6 +99,7 @@ Then type the following into the terminal:
 
     MediaInfo --Output=file://options.txt /Volumes/"YourDirectory" \*.* > output.csv
 
+Unfortunately, this will output a .csv without headers for the columns. My fix for this: I have a separate .csv saved with just the headers to paste in each newly exported report.
 
 
 If you are not able to install MediaInfo onto your computer, there is a web version of MediaInfo where you can create and download reports of your video files via the web browser. Your media stays safe, as nothing is actually uploaded to their servers. [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline){:target="_blank"}

@@ -40,7 +40,7 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 
 #### Bulk output media reoprts using MediaInfo GUI on Windows
 
-Using MediaInfo GUI v21.09, open the program, then add media to explore. To do this press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder and avoid nested folders.
+Using MediaInfo GUI v21.09, open the program, then add media to explore. To do this press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder and avoid nested folders. The image below shows all of the videos I have added. To get this view, go to the menu and select View, then select *sheet*.
 
 <p align="center">
   <img width="500" src="images/MediaInfo-03.jpg">

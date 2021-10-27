@@ -187,6 +187,7 @@ The **H.264/MPEG-4 AVC** is a standard format that is widely accepted (easily tr
 
 ### Define Encoding Settings: Making an Encoding Preset for MP4 (H.264)
 
+The process for creating the .MP4s is simillar to that of the .MXF as discussed above, so this section will only provide the actual settings and not 
 
 <br>
 <hr style="border:1px solid grey">

@@ -40,13 +40,38 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 
 #### Bulk output media reoprts using MediaInfo GUI on Windows
 
-Using MediaInfo GUI v21.09, open the program, then add media to explore. To do this press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder and avoid nested folders. The image below shows all of the videos I have added. To get this view, go to the menu and select View, then select *sheet*.
+Using MediaInfo GUI v21.09, open the program, then add media to explore. To do this press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder and avoid adding nested folders. The image below shows all of the videos I have added. To get this view, go to the menu and select View, then select *sheet*.
 
 <p align="center">
   <img width="500" src="images/MediaInfo-03.jpg">
 </p>
 
-Once you have edited your target specifications to be output in your report, a new csv is created with this information and is saved here: C:\Users\[UserName]\AppData\Roaming\MediaInfo\Plugin\Sheet. If you need to share this with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process.
+To choose what specification you want to export as a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*.
+
+<p align="center">
+  <img width="500" src="images/MediaInfo-01.jpg">
+</p>
+
+You will then be able to make your choices for the attributes you wish to export. Yo may need to experiment with this. I have selected the following 29 attributes to include in my report.
+
+<p align="center">
+  <img width="300" src="images/MediaInfo-02.jpg">
+</p>
+
+Once you have edited your target specifications to be output in your report, a new csv is created with this information and is saved here: C:\Users\[UserName]\AppData\Roaming\MediaInfo\Plugin\Sheet. If you need to share this with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process. This is what the plugin looks like as the .csv:
+
+<p align="center">
+  <img width="300" src="images/MediaInfo-05.jpg">
+</p>
+
+When you have saved your Custom Sheet preferences, you are ready to export. The icon to the left with the arrow and the "i" is the export function. Alternatively, you can go to Edit>Export. THis window will open, directing you to choose your export format.
+
+<p align="center">
+  <img width="400" src="images/MediaInfo-04.jpg">
+</p>
+
+Click on the *Sheet* tab, select the comma from the dropdown menu for the columns separator, Then name your output file and select the location where you want to save it.
+
 
 
 If you are not able to install MediaInfo onto your computer, there is a web version of MediaInfo where you can create and download reports of your video files via the web browser. Your media stays safe, as nothing is actually uploaded to their servers. [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline){:target="_blank"}

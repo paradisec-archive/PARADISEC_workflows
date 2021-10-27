@@ -37,6 +37,8 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 ### MediaInfo
 
 [MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} - working out easy ways to extract metadata from multiple files at one time, outputting targeted metadata highlights to extract to csv
+<br>
+<br>
 
 #### Bulk output media reoprts using MediaInfo GUI on Windows
 

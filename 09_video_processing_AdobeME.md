@@ -175,7 +175,7 @@ You can see in the upper left corner that there is some quality reporting. Pay s
 
 ><span style="color:LightBlue">
 >**Note:** If you do have a video that has a bit depth of 10, you need to create transcoded versions with the same bit depth of 10, rather than 8.
-></scan>
+></span>
 
 * **Broadcast profile** determines the maximum sampling and bit rates of the output file. **Level 7 lossless (L7)** is 520 Msamples /s and and unspecified Max Bitrate.
 

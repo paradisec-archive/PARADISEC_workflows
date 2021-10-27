@@ -78,6 +78,8 @@ The icon to the left with the arrow and the "i" is the export function. Alternat
 
 Click on the *Sheet* tab, select the comma from the dropdown menu for the columns separator, then name your output file and select the location where you want to save it.
 
+
+
 #### Bulk output media reports using MediaInfo App & Terminal on Mac
 
 The Mac MediaInfo app differs from the Windows version in that you cannot view sheets, or export bulk reports using the GUI. I have downloaded the app from the Mac App Store, as suggested on the MediaInfo webpage.

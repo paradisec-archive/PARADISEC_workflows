@@ -46,10 +46,10 @@ Using MediaInfo GUI v21.09, open the program, then add media to explore. To do t
   <img width="500" src="images/MediaInfo-03.jpg">
 </p>
 
-To choose what specifications you want to export in a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*. I have already created a few custom sheets. You can select your custom sheets here, once you create them.
+To choose what specifications you want to export in a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*. 
 
 <p align="center">
-  <img width="500" src="images/MediaInfo-01.jpg">
+  <img width="500" src="images/MediaInfo-06.jpg">
 </p>
 
 You will then be able to make your choices for the attributes you wish to export. Yo may need to experiment with this. I have selected the following 29 attributes to include in my report.
@@ -64,7 +64,14 @@ Once you have edited your target specifications to be output in your report, a n
   <img width="300" src="images/MediaInfo-05.jpg">
 </p>
 
-When you have saved your Custom Sheet preferences, you are ready to export. The icon to the left with the arrow and the "i" is the export function. Alternatively, you can go to Edit>Export. THis window will open, directing you to choose your export format.
+When you have saved your Custom Sheet choices, you are ready to export. First, go to *Preferences* again to select your custom sheet from the dropdown menu:
+
+<p align="center">
+  <img width="500" src="images/MediaInfo-01.jpg">
+</p>
+
+
+The icon to the left with the arrow and the "i" is the export function. Alternatively, you can go to Edit>Export. THis window will open, directing you to choose your export format.
 
 <p align="center">
   <img width="400" src="images/MediaInfo-04.jpg">

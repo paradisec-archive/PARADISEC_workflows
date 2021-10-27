@@ -77,9 +77,8 @@ The icon to the left with the arrow and the "i" is the export function. Alternat
 </p>
 
 Click on the *Sheet* tab, select the comma from the dropdown menu for the columns separator, then name your output file and select the location where you want to save it.
-
-
-
+<br>
+<br>
 #### Bulk output media reports using MediaInfo App & Terminal on Mac
 
 I have downloaded and installed the app from the Mac App Store, as suggested on the MediaInfo webpage. The Mac MediaInfo app differs from the Windows version in that you cannot view sheets, or export bulk reports using the GUI.
@@ -102,8 +101,8 @@ Then type the following into the terminal:
     MediaInfo --Output=file://options.txt /Volumes/"YourDirectory" \*.* > output.csv
 
 Unfortunately, this will output a .csv without headers for the columns. My fix for this: I have a separate .csv saved with just the headers to paste in each newly exported report.
-
-
+<br>
+<br>
 If you are not able to install MediaInfo onto your computer, there is a web version of MediaInfo where you can create and download reports of your video files via the web browser. Your media stays safe, as nothing is actually uploaded to their servers. [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline){:target="_blank"}
 
 ### Media Conch

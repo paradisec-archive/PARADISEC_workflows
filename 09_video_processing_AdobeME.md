@@ -28,7 +28,11 @@ H6{color:White !important;}
 
 # Using Adobe Media Encoder to create MXF and MP4 (H.264) videos
 
-## Creating archival JPEG2000 MXF OP1a videos
+><span style="color:LightBlue">
+>**Note:** For detailed information of the *Media Encoder export settings* mentioned in this workflow look [HERE](https://helpx.adobe.com/au/media-encoder/using/export-settings-reference.html){:target="_blank"}.
+></span>
+
+## Creating archival (lossless) JPEG2000 MXF OP1a videos
 
 *[PARADISEC](https://paradisec.org.au){:target="_blank"} adheres to the current best-practice standards for video archiving as set by the International Association of Sound and Audiovisual Archives [(IASA)](https://www.iasa-web.org/){:target="_blank"}.*
 
@@ -40,9 +44,6 @@ This page outlines how to create lossless JPEG2000 .MXF videos using Adobe Media
 ### Define Encoding Settings: Making an Encoding Preset for JPEG2000 MXF OP1a
 The first step is to create a profile of encoding settings to save and use each time you need to create a lossless J2K .MXF video. To create this Encoding Preset, which can be used in both Premiere and Media Encoder, open Media Encoder and go to the top menu to "**Presets**" and then select “**Create Encoding Preset**”. A new Preset window will open up. Look at the image below to see the settings you should choose. Each will be explained below.
 
-><span style="color:LightBlue">
->**Note:** For further information of the **Media Encoder export settings** mentioned in this workflow look [HERE](https://helpx.adobe.com/au/media-encoder/using/export-settings-reference.html){:target="_blank"}.
-></span>
 
 <p align="center">
   <img width="500" src="images/presets-video.jpg" alt="Screenshot of Adobe Media Encoder video presets window">

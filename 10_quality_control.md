@@ -82,7 +82,7 @@ Click on the *Sheet* tab, select the comma from the dropdown menu for the column
 
 The Mac MediaInfo app differs from the Windows version in that you cannot view sheets, or export bulk reports using the GUI. I have downloaded the app from the Mac App Store, as suggested on the MediaInfo webpage.
 
-You first need to create a .txt file that lists the specifications you want to export, and name this file *"Options.txt"*. Again, as with the Windows specifications, you will need to experiment with how they are named. Here is suggested content for Options.txt for video reporting:
+You first need to create a .txt file that lists the specifications you want to export, and name this file *"Options.txt"*. Again, as with the Windows specifications, you will need to experiment with how they are named. Here is suggested content for *Options.txt* for video reporting:
 
 ```
 General;%FileName%,%Format%,%Format_Profile%,%CodecID%,%FileSize%,%Duration%,%OverallBitRate%,%FileExtension%,
@@ -91,9 +91,9 @@ Audio;%Channel(s)%,%ChannelLayout%,%SamplingRate%,
 File_End;\r\n
 
 ```
-Place the Options.txt in the same folder as the videos you wish to examine.
+Place the *Options.txt* in the same folder as the videos you wish to examine.
 
-Open Terminal and navigate to the directory where your videos and the Options.txt is located.
+Open Terminal and navigate to the directory where your videos and the *Options.txt* is located.
 
 Then type the following into the terminal:
 

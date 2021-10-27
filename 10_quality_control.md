@@ -38,9 +38,11 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 
 [MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} - working out easy ways to extract metadata from multiple files at one time, outputting targeted metadata highlights to extract to csv
 
-Bulk output media reoprts using MediaInfo GUI on Windows
+#### Bulk output media reoprts using MediaInfo GUI on Windows
 
 Using MediaInfo GUI v21.09, open MediaInfo, then press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder, avoiding nested folders.
+
+Once you have edited your target specifications to be output in your report, a new csv is created with this information and is saved here: C:\Users\[UserName]\AppData\Roaming\MediaInfo\Plugin\Sheet. If you need to share this with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process.
 
 
 If you are not able to install MediaInfo onto your computer, there is a web version of MediaInfo where you can create and download reports of your video files via the web browser. Your media stays safe, as nothing is actually uploaded to their servers. [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline){:target="_blank"}

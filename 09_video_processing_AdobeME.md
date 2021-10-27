@@ -182,7 +182,7 @@ You can see in the upper left corner that there is some quality reporting. Pay s
 
 ## Creating MP4 (H.264) videos
 
-The **H.264/MPEG-4 AVC** is a standard format that is widely accepted (easily transcoded and decoded) and is the target streaming/access video format we archive in PARADISEC. The video format of *MPEG-4, Part 14* is the container format, *Advanced Video Coding* (AVC), also known as H.264, is the video compression standard. The target audio coding standard within the .MP4 is Advanced Audio Coding (AAC), and ***not*** Linear Pulse Code Modulation (LPCM).
+The **H.264/MPEG-4 AVC** is a standard format that is widely accepted (easily transcoded and decoded) and is the target streaming/access video format we archive in PARADISEC. The video format of *MPEG-4, Part 14* is the container format, *Advanced Video Coding* (AVC), also known as *H.264*, is the video compression standard. The target audio coding standard within the .MP4 is Advanced Audio Coding (AAC), and ***not*** Linear Pulse Code Modulation (LPCM).
 
 ### Define Encoding Settings: Making an Encoding Preset for MP4 (H.264)
 

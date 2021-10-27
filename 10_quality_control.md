@@ -46,7 +46,7 @@ Using MediaInfo GUI v21.09, open the program, then add media to explore. To do t
   <img width="500" src="images/MediaInfo-03.jpg">
 </p>
 
-To choose what specifications you want to export in a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*.
+To choose what specifications you want to export in a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*. I have already created a few custom sheets. You can select your custom sheets here, once you create them.
 
 <p align="center">
   <img width="500" src="images/MediaInfo-01.jpg">

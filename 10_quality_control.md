@@ -93,6 +93,11 @@ File_End;\r\n
 ```
 Place the Options.txt in the same folder as the videos you wish to examine.
 
+Open Terminal and navigate to the directory where your videos and the Options.txt is located.
+
+Then type the following into the terminal:
+
+    MediaInfo --Output=file://options.txt /Volumes/"YourDirectory" \*.* > output.csv
 
 If you are not able to install MediaInfo onto your computer, there is a web version of MediaInfo where you can create and download reports of your video files via the web browser. Your media stays safe, as nothing is actually uploaded to their servers. [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline){:target="_blank"}
 

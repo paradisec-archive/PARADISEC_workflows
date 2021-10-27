@@ -82,7 +82,7 @@ Click on the *Sheet* tab, select the comma from the dropdown menu for the column
 
 #### Bulk output media reports using MediaInfo App & Terminal on Mac
 
-The Mac MediaInfo app differs from the Windows version in that you cannot view sheets, or export bulk reports using the GUI. I have downloaded the app from the Mac App Store, as suggested on the MediaInfo webpage.
+I have downloaded and installed the app from the Mac App Store, as suggested on the MediaInfo webpage. The Mac MediaInfo app differs from the Windows version in that you cannot view sheets, or export bulk reports using the GUI.
 
 You first need to create a .txt file that lists the specifications you want to export, and name this file *"Options.txt"*. Again, as with the Windows specifications, you will need to experiment with how they are named. Here is some suggested content for *Options.txt* for video reporting:
 

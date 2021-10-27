@@ -174,7 +174,7 @@ You can see in the upper left corner that there is some quality reporting. Pay s
 * **8-bits** per channel is typically the *bit depth* for many of the original .MOV, .MTS, .AVI, .MP4, etc. video files we handle. Using a 10-bit depth would needlessly increase the file-size while adding no improved quality. 
 
 ><span style="color:LightBlue">
->**Note:** If you do have a video that has a bit depth of 10, you need to create transcoded versions with the same bit depth of 10, rather than 8.
+>**Note:** If you do receive a video that has a bit depth of 10, you need to create transcoded versions with the same bit depth of 10, rather than 8.
 ></span>
 
 * **Broadcast profile** determines the maximum sampling and bit rates of the output file. **Level 7 lossless (L7)** is 520 Msamples /s and and unspecified Max Bitrate.

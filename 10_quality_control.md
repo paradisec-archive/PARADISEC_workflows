@@ -46,19 +46,19 @@ Using MediaInfo GUI v21.09, open the program, then add media to explore. To do t
   <img width="500" src="images/MediaInfo-03.jpg">
 </p>
 
-To choose what specifications you want to export in a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*. 
+To choose what specifications you want to export to a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*. 
 
 <p align="center">
   <img width="500" src="images/MediaInfo-06.jpg">
 </p>
 
-You will then be able to make your choices for the attributes you wish to export. Yo may need to experiment with this. I have selected the following 29 attributes to include in my report.
+You will then be able to make your choices for the attributes you wish to export. You may need to experiment with this. I have selected the following 29 attributes to include in my report.
 
 <p align="center">
   <img width="300" src="images/MediaInfo-02.jpg">
 </p>
 
-Once you have edited your target specifications to be output in your report, a new csv is created with this information and is saved here: C:\Users\[UserName]\AppData\Roaming\MediaInfo\Plugin\Sheet. If you need to share this with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process. This is what the plugin looks like as the .csv:
+Once you have edited your target specifications to be output in your report, a new .csv is created with this information and is saved here: C:\Users\[UserName]\AppData\Roaming\MediaInfo\Plugin\Sheet. If you want to share this customisation with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process. This is what the .csv plugin looks like:
 
 <p align="center">
   <img width="300" src="images/MediaInfo-05.jpg">
@@ -70,14 +70,13 @@ When you have saved your Custom Sheet choices, you are ready to export. First, g
   <img width="500" src="images/MediaInfo-01.jpg">
 </p>
 
-
-The icon to the left with the arrow and the "i" is the export function. Alternatively, you can go to Edit>Export. THis window will open, directing you to choose your export format.
+The icon to the left with the arrow and the "i" is the export function. Alternatively, you can go to *Edit>Export* in the menu. This window will open, directing you to choose your export format.
 
 <p align="center">
   <img width="400" src="images/MediaInfo-04.jpg">
 </p>
 
-Click on the *Sheet* tab, select the comma from the dropdown menu for the columns separator, Then name your output file and select the location where you want to save it.
+Click on the *Sheet* tab, select the comma from the dropdown menu for the columns separator, then name your output file and select the location where you want to save it.
 
 
 

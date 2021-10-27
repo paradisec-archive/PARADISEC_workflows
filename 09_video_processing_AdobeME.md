@@ -49,7 +49,7 @@ The first step is to create a profile of encoding settings to save and use each 
 </p>
 
 ### Preset name and format
-First you should give the preset a meaningful name, I have chosen **Lossless J2k (8-bit)**. The main reason for this particular name is to differentiate this preset from others you might use for different workflows (I will discus why I add the distinction **8-bit** below).
+First you should give the preset a meaningful name, I have chosen **Lossless J2k (8-bit)**. The main reason for this particular name is to differentiate this preset from others you might use for different workflows, such as when you need to transcode videos with a bit depth of 10 (I will further discus **8-bit vs 10-bit** below). Most videos we receive are 8-bit.
 
 For the format, select **JPEG 2000 MXF OP1a**. Once you select this format, you are then offered these choices for the *Based on Preset* field:
 
@@ -167,13 +167,17 @@ You can see in the upper left corner that there is some quality reporting. Pay s
 ### Explanation of the Specifications used to create lossless MXF
 * **JPEG 2000 MXF OP1a** is the MXF (Material Exchage Format) Operational Pattern 1a (OP1a), with lossles JPEG 2000 in a generic container *(for more information see the Federal Agencies Digital Guidelines Initiative [FADGI](http://www.digitizationguidelines.gov/guidelines/MXF_app_spec.html){:target="_blank"})* 
 
-* **YUV 4:2:2** with a depth of **8 bit** is the *Chroma Subsampling* suggested by IASA for born-digital .MXF. **Y** (or often **Y′**) stands for the *luma*, or *brightness*, *component*; **U** and **V** are the two *colour components*. YUV colour encoding takes into consideration human perception thus creating an output that has masked any human-noticable distortions *(for more information see [YUV](https://en.wikipedia.org/wiki/YUV){:target="_blank"})*.
+* **YUV** is the *Colour-difference component* suggested by IASA for born-digital .MXF. **Y** (or often **Y′**) stands for the *luma*, or *brightness*, *component*; **U** and **V** are the two *colour components*. YUV colour encoding takes into consideration human perception thus creating an output that has masked any human-noticable distortions *(for more information see [YUV](https://en.wikipedia.org/wiki/YUV){:target="_blank"})*.
 
-* **4:2:2** denotes the *vertical* and *horizontal subsampling* *(for more information read Charles Poynton's work on Chroma subsampling [HERE](https://poynton.ca/PDFs/Chroma_subsampling_notation.pdf){:target="_blank"})*.
+* **4:2:2** is the *Chroma subsamlping* and denotes the vertical and horizontal subsampling *(for more information read Charles Poynton's work on Chroma subsampling [HERE](https://poynton.ca/PDFs/Chroma_subsampling_notation.pdf){:target="_blank"})*.
 
-* **8-bits** per channel is typically the *bit depth* for many of the original .MOV, .MTS, .AVI, .MP4, etc. video files we handle. Using a 10-bit depth would needlessly increase the file-size while adding no improved quality.
+* **8-bits** per channel is typically the *bit depth* for many of the original .MOV, .MTS, .AVI, .MP4, etc. video files we handle. Using a 10-bit depth would needlessly increase the file-size while adding no improved quality. 
 
-* **Broadcast profile** determines the maximum sampling and bit rates of the output file. **Level 6 lossless (L6)** is 520 Msamples/s and 1600Mbits/s. **Level 7 lossless (L7)** is 520 Msamples /s and and unspecified Max Bitrate.
+><span style="color:LightBlue">
+>**Note:** If you do have a video that has a bit depth of 10, you need to create transcoded versions with the same bit depth of 10, rather than 8.
+></scan>
+
+* **Broadcast profile** determines the maximum sampling and bit rates of the output file. **Level 7 lossless (L7)** is 520 Msamples /s and and unspecified Max Bitrate.
 
 
 ## Creating MP4 (H.264) videos

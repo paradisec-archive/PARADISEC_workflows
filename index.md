@@ -44,7 +44,7 @@ These technical workflows and archiving guides are designed to help people with 
 * Standard archival formats 
 * Camera settings (frame rate, file formats)
 * Audio settings (sample and bit rates) 
-* Microphones
+* Recorders
 
 ## [Digitising manuscripts & Field Notebooks](https://paradisec-archive.github.io/PARADISEC_workflows/05_digitising_manuscripts.html)
 * Photo stands/tripods and lighting
@@ -55,7 +55,8 @@ These technical workflows and archiving guides are designed to help people with 
 *If you are interested in audio-visual processing these guides can help.*
 
 ## [Audio digitising of analogue tapes](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html)
-* Digitise audio cassette tapes and reel-to-reel tapes for archiving
+* Digitising audio cassette tapes
+* Digitising reel-to-reel tapes
 
 ## [Audio procesing of born-digital files](https://paradisec-archive.github.io/PARADISEC_workflows/07_audio_processing.html)
 * Resampling audio to meet PARADISEC archiving standards
@@ -67,8 +68,8 @@ These technical workflows and archiving guides are designed to help people with 
 * Handle video with problematic properties
 
 ## [Video processing with Adobe Media Encoder](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html)
-* Create lossless JPEG2000 video files for archiving with PARADISEC (archival copy)
-* Create well-formed .MP4s for archival access copies or fit-for-purpose copies
+* Create lossless JPEG2000 .MXF video files for archiving with PARADISEC (archival copy)
+* Create well-formed .MP4s for access copies or fit-for-purpose copies
 * Handle video with problematic properties for lossless MXF format
 
 ## [Quality control](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html)

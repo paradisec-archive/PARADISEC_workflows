@@ -26,7 +26,7 @@ H6{color:White !important;}
 # Digitising Fieldnotes & Manuscripts
 
 <p align="center">
-  <img width="200" src="images/tripod.GIF">
+  <img width="300" src="images/tripod.GIF">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 5 July 2021</span>

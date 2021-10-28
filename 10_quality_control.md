@@ -29,7 +29,7 @@ H6{color:White !important;}
 </p>
 
 <p align="center">
-  <img width="250" src="images/QC-SHORT.gif">
+  <img width="300" src="images/QC-SHORT.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 28 October 2021</span>

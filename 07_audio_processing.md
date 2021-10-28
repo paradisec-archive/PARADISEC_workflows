@@ -24,15 +24,15 @@ H6{color:White !important;}
 
 # Audio processing
 <br>
+<p align="center">
+🚧 This page is currently under construction 🚧
+</p>
 
 <br>
 <p align="center">
   <img width="300" src="images/Revox_front.gif">
 </p>
 <br>
-<p align="center">
-🚧 This page is currently under construction 🚧
-</p>
 
 <span style="font-variant:small-caps;">Last updated: 15 September 2021</span>
 

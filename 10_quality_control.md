@@ -22,15 +22,15 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-<p align="center">
-  <img width="250" src="images/QC-SHORT.gif">
-</p>
+# Quality control: checking the quality of audio and video files
 
 <p align="center">
 🚧 This page is currently under construction 🚧
 </p>
 
-# Quality control: checking the quality of audio and video files
+<p align="center">
+  <img width="250" src="images/Bit-QC.gif">
+</p>
 
 <span style="font-variant:small-caps;">Last updated: 27 October 2021</span>
 

@@ -63,14 +63,14 @@ Only PARADISEC administrators can create a collection in the catalog.  When you 
 
 ### Preliminary exploration of your files
 
-Before you contact PARADISEC, take a look at your files and determine how you want your collection(s) presented. Do you need one collection? Or more than one? This is the time for you to reflect upon how you want your material organised in the archive.
+Before you contact PARADISEC, take a look at your files and determine how you want your collection(s) organised. Do you need one collection? Or more than one? This is the time for you to reflect upon how you want your material organised in the archive.
 
 ### Information to provide to PARADISEC
 
-Once you have decided upon which files you would like to archive, come up with a name and description for your collection. As for the Collection ID, PARADISEC administrators can help you come up with this- the collection ID should be a unique identifier (could be your initials in all caps and a digit, or the ISO language code).
+Once you have decided which files you would like to archive, come up with a name and description for your collection. As for the Collection ID, PARADISEC administrators can help you come up with this- the collection ID should be a unique identifier (could be your initials in all caps and a digit, or the ISO language code).
 
 *Example collection IDs: **JM1, JCM4, OE1, MEU1, etc.** <br>
-The digit is required and it distinguishes your collection from that of someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. **JM1, JM2... JM85***.
+The digit is strongly suggested as it will distinguish your collection from that of someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. **JM1, JM2... JM85***.
 
 Summary of information needed when you are ready to contact PARADISEC:
 
@@ -86,19 +86,18 @@ Summary of information needed when you are ready to contact PARADISEC:
 
 ### PARADISEC's metadata spreadsheet
 
-PARADISEC has created a spreadsheet that allows us to automatically create the catalog metadata for items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx){:target="_blank"}. *(If the .xlsx file does not download automatically, then right-click on the link to save the file).* Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
+PARADISEC has created a spreadsheet that allows us to automatically create the catalog entries for items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx){:target="_blank"}. *(If the .xlsx file does not download automatically, then right-click on the link to save the file).* Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
 
 Once your collection has been created and has been populated with the metadata for your items, you can edit you collection by adding further information directly via the catalog pages. You can add details such as:
 
 * your institutional affiliation
-* alternate names of the language(s)
 * you can refine the map by zooming in on the map feature and selecting an area, or set it automatically by selecting the country or language
 * you can define/change access conditions
 * you can even assign editor privileges to a colleague or research assistant to help you update the collection's metadata
 
 ### PARADISEC's file naming conventions
 
-Now comes the thrilling task of making sure your files are named appropriately. Getting your *archival* file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items (recording events) within your collection. 
+Now comes the thrilling task of making sure your files are named appropriately. Getting your *archival* file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items within your collection. 
 
 **ANATOMY OF A PARADISEC FILE NAME**<br>
 Our system requires all files to adhere to specific file-naming conventions. This section will step you through the required parts of the filenames.
@@ -116,24 +115,26 @@ Our system requires all files to adhere to specific file-naming conventions. Thi
 
 <hr style="border:2px solid blue">
 
-1. **CollectionID** is your PARADISEC collection ID and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by the CoEDL Data Manager or a PARADISEC administrator. This ID is created when you set up a collection in  PARADISEC. Mine could be JCM1
+1. **CollectionID** is your PARADISEC collection ID and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by a PARADISEC administrator. This ID is created when you set up a collection in PARADISEC.
 
-2. **ItemID** is your PARADISEC item ID. An item could be a cassette tape, or now in the born-digital age, it is typically an recording event containing all related files from that session- audio, video, transcriptions). You must use a terse description here. You may use an underscore ( _ ) if you need a separator; hyphens ( ‐ ) are prohibited *within* your Item ID as they are reserved PARADISEC operators. You could have speaker initials in your item name (JB), description of the task (wordlist), field site (BIMA).
+2. **ItemID** An item could be recordings from a cassette tape, or now in the born-digital age, it is typically a recording event containing all related files from that session, including audio, video, images, transcriptions, etc. You must use a terse Item ID here; Item IDs *must* be under 30 characters. You may use an underscore ( _ ) if you need a separator; hyphens ( ‐ ) are prohibited *within* your Item ID as they are PARADISEC operators. You could have speaker initials in your Item ID (ABC), name of the task (wordlist), field site (NT); however, all of that can be put into metadata fields, rather than in your file names. You could name your items 001, 002, 003, etc.
 
-3. **ContentFile** is the final necessary part to a file name. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session. You can distinguish type of microphone used for an audio track in this part of the file name, e/g/ -LM (lapel mic) or -HM (for head mounted mic). So if your original file was named ***20150908‐wordlist‐01.wav***, you could try something like this: ***JCM01‐20150908_wordlist‐01.wav***
+3. **ContentFile** is the final necessary part to a file name. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session, 01, 02, 03, etc. You could distinguish the type of microphone used for an audio track in this part of the file name, e.g. LM (lapel mic) or HM (for head mounted mic).
 
 ><span style="color:LightBlue">
->**NOTE:** Even if your item contains only one file, and thus does not need to be differentiated from other files in the item, you still need to have this third part of the file name. You could use -00, -01, -wordlist01, -original, etc.
+>**NOTE:** Even if your item contains only one file, and thus does not need to be differentiated from other files within the same item, you still need to have this third part of the file name. You could use -00, -01, -wordlist01, -original, etc.
 ></span>
 
 
 ### PARADISEC's deposit form
 
-And lastly, you need to fill out a [deposit form](http://www.paradisec.org.au/PDSCdeposit.pdf){:target="_blank"} that provides PARADISEC with your contact information, access conditions for your collection, including any restrictions. Fill in the form, sign it, scan or photograph it, and email it back to us. We keep this digital record with your collection.
+You will need to fill out a [deposit form](http://www.paradisec.org.au/PDSCdeposit.pdf){:target="_blank"} that provides PARADISEC with your contact information, access conditions for your collection, including any restrictions. Fill in the form, sign it, scan or photograph it, and email it back to us. We keep this digital record with your collection.
 
 ## STEP 4: Send your files to PARADISEC
 
 If you are planing to archive digital files with PARADISEC, and your institution is part of the Australian Access Federation (AAF), you can sign up for a [Cloudstor](https://cloudstor.aarnet.edu.au/){:target="_blank"} account. Once you do, you get 1TB of free storage available to you instantly. You can also send us OneDrive, Dropbox, Google Drive links. These options are the best means to transfer files to PARADISEC. If you do not use any of those cloud storage options, but would like to transfer your files this way, contact [PARADISEC](mailto:admin@paradisec.au.org){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"} and we can create a Cloudstor folder for you to use for transferring files to us.
+
+You can also use Dropbox, Google Drive or OneDrive.
 
 If uploading files to a cloud service is not possible due to a lack of computer access or poor internet connections, you can post a hard drive of your materials to PARADISEC at:
 

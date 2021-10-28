@@ -129,9 +129,9 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 
 2.  Turn on the RME ADI-2 PRO FS <br>
 3.	Turn on and load a tape into the Tascam 122 mk II <br>
-4.	Open the Wavelab program. <br>
-    
-    You may need to select New Project if presented with a start-up window. 
+4.	Open the Wavelab program.
+
+     You may need to select New Project if presented with a start-up window. 
 
      <p align="center">
        <img width="300" src="images/Wavelab-StartUpMenu.JPG">
@@ -143,11 +143,11 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
        <img width="500" src="images/Wavelab-MainWindow.JPG">
      </p>
 
-    Make sure the Workspace layout is the PARADISEC layout. Go to the banner menu at the top and select Workspace > Layout > PARADISEC
+     Make sure the Workspace layout is the PARADISEC layout. Go to the banner menu at the top and select Workspace > Layout > PARADISEC
 
-   <p align="center">
-   <img width="300" src="images/Wavelab-WorkspaceLayout.JPG">
-   </p>
+     <p align="center">
+     <img width="300" src="images/Wavelab-WorkspaceLayout.JPG">
+     </p>
 
 5.	Once main window opens, go up to the banner menu again and select File > New.
 

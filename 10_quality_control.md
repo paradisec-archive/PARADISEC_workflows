@@ -29,7 +29,7 @@ H6{color:White !important;}
 </p>
 
 <p align="center">
-  <img width="250" src="images/Bit-QC.gif">
+  <img width="250" src="images/QC-SHORT.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 27 October 2021</span>

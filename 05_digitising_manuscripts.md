@@ -69,7 +69,9 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 | Software for remote capture | [EOS Utility](https://www.canon.com.au/cameras/eos-700d/support){:target="_blank"} *(for compatible Canon cameras)* |
 | Software for post-production editing | [Adobe Bridge](https://www.adobe.com/au/products/bridge.html){:target="_blank"} |
 
-> **NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software. 
+><span style="color:LightBlue">
+>**NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software.
+></span>
 
 ### Cameras
 
@@ -91,7 +93,7 @@ This DSLR *does* allow remote capture tethering. This opens up the possibility o
 ### Tripods and photo stands
 
 #### Velbon Sherpa 803R
-This tripod was purchased about ten years ago, so it is unlikely that you would find the same model; however, the important features on this tripod are the following:
+This tripod was purchased over ten years ago, so it is unlikely that you would find the same model; however, the important features on this tripod are the following:
 * reversable centre post (necessary for this workflow)
 * relatively compact and lightweight
 * spirit level (not necessary, but nice to have)

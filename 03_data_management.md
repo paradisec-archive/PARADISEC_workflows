@@ -80,8 +80,6 @@ For more about PARADISEC's file naming conventions, click [here](https://paradis
 ></span>
 <br>
 
-### Preparing for archiving 
-
 ## Metadata management tools
 
 At this time there are two metadata tools that we are supporting. Follow the links below to get the most recent versions of each.

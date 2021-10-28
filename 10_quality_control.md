@@ -23,6 +23,10 @@ H6{color:White !important;}
 </style>
 
 <p align="center">
+  <img width="250" src="images/QC-SHORT.gif">
+</p>
+
+<p align="center">
 🚧 This page is currently under construction 🚧
 </p>
 

@@ -125,7 +125,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
    
       Resources you should find on the desktop:
       * Wavelab Pro 10.0 shortcut
-      * Wavelab Pro 10.0 [operations manual](https://steinberg.help/wavelab-manuals/wavelab-pro/wavelab-pro-10/){:target="_blank"} <br>
+      * Wavelab Pro 10.0 [operations manual](https://steinberg.help/wavelab-manuals/wavelab-pro/wavelab-pro-10/){:target="_blank"} <br> <br>
 
 2.  Turn on the RME ADI-2 PRO FS <br>
 3.	Turn on and load a tape into the Tascam 122 mk II <br>

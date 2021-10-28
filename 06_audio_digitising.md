@@ -123,7 +123,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 
 1.	Turn on computer and login with your ANU UDS credentials
    
-      Resources you should find on the desktop: <br>
+      Resources you should find on the desktop:
       * Wavelab Pro 10.0 shortcut <br>
       * Wavelab Pro 10.0 [operations manual](https://steinberg.help/wavelab-manuals/wavelab-pro/wavelab-pro-10/){:target="_blank"}
 

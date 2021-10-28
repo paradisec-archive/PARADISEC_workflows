@@ -117,7 +117,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 ## Digitising Cassette Tapes
 
 ><span style="color:LightBlue"> 
->**Note:** Avoid internet browsing and any activity over the network during digitisation *(these activities can cause interference, which may result in digital clips and unwanted errors in the signal)*, avoid using or turn off mobile phones or other mobile devices, including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during recording of audio.
+>**Note:** Avoid internet browsing and any activity over the network during digitisation *(these activities can cause interference, which may result in digital clips and unwanted errors in the signal)*. Avoid using or turn off mobile phones or other mobile devices, including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during recording of audio.
 ></span>
 
 

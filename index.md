@@ -33,7 +33,6 @@ These technical workflows and archiving guides are designed to help people with 
 * File naming requirements for PARADISEC
 * Metadata entry with PARADISEC-formatted spreadsheets
 * Metadata entry with LaMeta
-
 <br>
 <hr style="border:1px solid grey">
 *The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or instructions for those who are looking to digitise text material such as field notebooks.*
@@ -76,7 +75,6 @@ These technical workflows and archiving guides are designed to help people with 
 * Add quality checking into your workflow
 * Explore software including [MediaArea](https://mediaarea.net/){:target="_blank"}'s open source suite of tools
 * Check both audio and video files
-
 <br>
 <hr style="border:1px solid grey">
 *CoEDL has released a set of [guidelines](http://www.dynamicsoflanguage.edu.au/publications-and-seminars/centre-publications/creating-captions-guidelines/){:target="_blank"} for improving communication access for deaf and hard of hearing people. This page offers a simple but effect workflow for integrating captioning and/or sign laguage interpreting.* 

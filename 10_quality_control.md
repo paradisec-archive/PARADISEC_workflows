@@ -32,7 +32,7 @@ H6{color:White !important;}
   <img width="250" src="images/QC-SHORT.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 27 October 2021</span>
+<span style="font-variant:small-caps;">Last updated: 28 October 2021</span>
 
 ## MediaArea tools for QC (quality checking/quality control)
 

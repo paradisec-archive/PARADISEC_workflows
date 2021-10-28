@@ -26,7 +26,7 @@ H6{color:White !important;}
 
 
 <p align="center">
-  <img width="300" src="images/rainbow-zoom.gif">
+  <img height="300" src="images/rainbow-zoom.gif">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 25 October 2021</span>

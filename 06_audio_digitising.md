@@ -275,7 +275,7 @@ DO NOT HIT REWIND. Uze the Z-Loc button. This will rewind the tape, slowing down
 ## Additional Resources
 [Pragmatic Audiovisual Preservation](http://doi.org/10.7207/twr20-10){:target="_blank"} (2021) Ashley Blewer
 
-IASA Technical Committee, [Guidelines on the Production and Preservation of Digital Audio Objects](https://www.iasa-web.org/tc04/audio-preservation){:target="_blank"} (2009, 2nd ed.) ed. by Kevin Bradley.
+IASA Technical Committee, [Guidelines on the Production and Preservation of Digital Audio Objects](https://www.iasa-web.org/tc04/audio-preservation){:target="_blank"} (2009, 2nd ed.) ed. by Kevin Bradley. *(Standards, Recommended Practices and Strategies, IASA-TC 04)*. International Association of Sound and Audiovisual Archives.
 
 [Sound Directions: Best Practice for Audio Preservation](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml){:target="_blank"} (2007) Mike Casey & Bruce Gordon
 

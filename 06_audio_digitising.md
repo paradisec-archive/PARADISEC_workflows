@@ -121,15 +121,15 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 > ***If you have your mobile phone with you, turn it off or put it in airplane mode***
 <hr style="border:2px solid blue">
 
-1	Turn on computer and login with your ANU UDS credentials
+1.	Turn on computer and login with your ANU UDS credentials
 
    Resources you should find on the desktop: <br>
     * Wavelab Pro 10.0 shortcut <br>
     * Wavelab Pro 10.0 [operations manual](https://steinberg.help/wavelab-manuals/wavelab-pro/wavelab-pro-10/){:target="_blank"}
 
-2 Turn on the RME ADI-2 PRO FS <br>
-3	Turn on and load a tape into the Tascam 122 mk II <br>
-4	Open the Wavelab program. <br>
+2. Turn on the RME ADI-2 PRO FS <br>
+3.	Turn on and load a tape into the Tascam 122 mk II <br>
+4.	Open the Wavelab program. <br>
 
 
  You may need to select New Project if presented with a start-up window. 
@@ -150,19 +150,19 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
   <img width="300" src="images/Wavelab-WorkspaceLayout.JPG">
  </p>
 
-5	Once main window opens, go up to the banner menu again and select File > New.
+5.	Once main window opens, go up to the banner menu again and select File > New.
 
  <p align="center">
   <img width="300" src="images/Wavelab-MenuNewFile.jpg">
  </p>
 
-6	Another window pops up asking you to select the template. Select PARADISEC.
+6.	Another window pops up asking you to select the template. Select PARADISEC.
 
   <p align="center">
   <img width="300" src="images/Wavelab-FileTemplate.JPG">
-</p>
+ </p>
 
-7	A new timeline will appear in the AUDIOEDITOR window located in the lower half of the main window. In this window, select the ANALYZE tab along the top.
+7.	A new timeline will appear in the AUDIOEDITOR window located in the lower half of the main window. In this window, select the ANALYZE tab along the top.
   Make sure to tick the radio button next to Audio Input
   
   <p align="center">
@@ -171,7 +171,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 
  From the meter tabs in the upper right quadrant of the main window, grab the PHASESCOPE and drag it out to create a popped-out, larger window.
 
-8	look to the buttons on the bottom of the window
+8.	look to the buttons on the bottom of the window
   
  <p align="center">
   <img width="300" src="images/Wavelab-buttons.JPG">
@@ -183,29 +183,29 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
   <img width="500" src="images/Wavelab-Record-Phase.JPG">
  </p>
 
-9	In Method tab under File to Create, select Named file from the drop down menu, then type in the file name you want to assign this file. Select the target location, E:\DigitisedFiles for the output files.
+9.	In Method tab under File to Create, select Named file from the drop down menu, then type in the file name you want to assign this file. Select the target location, E:\DigitisedFiles for the output files.
 
-10	Play the tape as a means to test the levels audio levels to recording. These can be seen in the Recording window. Play for a minute or so, making sure the signal stays below -12.00 dB. 
+10.	Play the tape as a means to test the levels audio levels to recording. These can be seen in the Recording window. Play for a minute or so, making sure the signal stays below -12.00 dB. 
   
  <p align="center">
   <img width="500" src="images/Wavelab-RecordingLevels.JPG">
  </p>
 
-11	If the signal on the tape is too loud, you should adjust this on the TASCAM using the OUTPUT dial on the far right of the tape machine. The dial should be on 8 to begin with. Make adjustments from there.
+11.	If the signal on the tape is too loud, you should adjust this on the TASCAM using the OUTPUT dial on the far right of the tape machine. The dial should be on 8 to begin with. Make adjustments from there.
   
  <p align="center">
   <img width="300" src="images/TASCAM-Output.JPG">
  </p>
 
-12	Once you adjust the volume, press the Reset button underneath the audio levels back in Wavelab so that you can confirm you have adjusted the audio adequately.
+12.	Once you adjust the volume, press the Reset button underneath the audio levels back in Wavelab so that you can confirm you have adjusted the audio adequately.
   
  <p align="center">
   <img width="300" src="images/Wavelab-Monitor-Reset.JPG">
  </p>
 
-13	As you are previewing the tape, you can see that the PHASESCOPE is also actively monitoring the audio. We will use this scope to help guide us in our Azimuth adjustment. 
+13.	As you are previewing the tape, you can see that the PHASESCOPE is also actively monitoring the audio. We will use this scope to help guide us in our Azimuth adjustment. 
     
-14	You can find the Azimuth screw on the TASCAM machine in the gap right above where the word STOP button. It is the screw to the left of the heads. Use the supplied tiny screwdriver.
+14.	You can find the Azimuth screw on the TASCAM machine in the gap right above where the word STOP button. It is the screw to the left of the heads. Use the supplied tiny screwdriver.
   
  <p align="center">
   <img width="300" src="images/TASCAM-AzimuthAdjustment.jpg">
@@ -216,7 +216,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
  **READ MORE ABOUT** Azimuth adjustments in [section 5.4.12](https://www.iasa-web.org/tc04/corrections-errors-misaligned-recording-equipment){:target="_blank"} of **IASA**'s *TC04: Guidelines on the Production and Preservation of Digital Audio Objects*.
  <hr style="border:1px solid blue">
 
-15	Look at the PHASESCOPE as you turn the screw to the left and to the right. Because you will be mostly digitising one-sided tapes, you want the line to be straight and along the Y-axis (vertical). If you were to digitise a reel-to-reel tape that is recorded on both sides, both sides are digitised simultaneously. As a result, there will be more of an X -shape of lines, representing each output of the tape.
+15.	Look at the PHASESCOPE as you turn the screw to the left and to the right. Because you will be mostly digitising one-sided tapes, you want the line to be straight and along the Y-axis (vertical). If you were to digitise a reel-to-reel tape that is recorded on both sides, both sides are digitised simultaneously. As a result, there will be more of an X -shape of lines, representing each output of the tape.
   
  <p align="center">
   <img width="300" src="images/Wavelab-PHASESCOPE-AtRest.JPG">
@@ -230,7 +230,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
   <img width="300" src="images/Wavelab-PHASESCOPE-PostAdjustment.JPG">
  </p>
 
-16	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
+16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
 
 
 ## Digitising Reel-to-reel Tapes

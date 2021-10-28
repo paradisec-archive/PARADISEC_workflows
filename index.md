@@ -30,9 +30,10 @@ These technical workflows and archiving guides are designed to help people with 
 * File formats we accept
 
 ## [Metadata & Data management](https://paradisec-archive.github.io/PARADISEC_workflows/03_data_management.html)
+* File naming requirements for PARADISEC
 * Metadata entry with PARADISEC-formatted spreadsheets
 * Metadata entry with LaMeta
-* File naming requirements for PARADISEC
+
 <br>
 <hr style="border:1px solid grey">
 *The following guides offer suggestions for when you are creating content for archiving. This includes suggested camera/audio recorder settings when you are recording in the field, or instructions for those who are looking to digitise text material such as field notebooks.*

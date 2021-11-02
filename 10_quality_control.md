@@ -121,6 +121,7 @@ Unfortunately, this will output a .csv without headers for the columns. My fix f
 <br>
 <br>
 If you are not able to install MediaInfo onto your computer, there is a web version of MediaInfo where you can create and download reports of your video files via the web browser. Your media stays safe, as nothing is actually uploaded to their servers. [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline){:target="_blank"}
+<br>
 
 ### Media Conch
 

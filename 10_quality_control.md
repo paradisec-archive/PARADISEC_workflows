@@ -149,7 +149,7 @@ Here are the results from the MXF policy check.
   <img width="500" src="images/MXF-MediaConchPolicyResults.png">
 </p>
 
-Media Conch also allows you to view MediaInfo report within the program as well as the more technical [Media Trace report](https://mediaarea.net/MediaTrace){:target="_blank"}.
+Media Conch also allows you to view MediaInfo report within the program as well as the more technical [Media Trace](https://mediaarea.net/MediaTrace){:target="_blank"}report.
 
 ### QC Tools
 

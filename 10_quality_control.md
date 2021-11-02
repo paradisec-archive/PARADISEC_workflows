@@ -137,7 +137,7 @@ This is the description of the checks this policy is performing:
   <img width="500" src="images/MP4-MediaConchPublicPolicy.png">
 </p>
 
-Here is another example I created for PARADISEC, to determine if the MXF has conformed to all of our target parameters. This checks if the MXF is lossless and has the expected colour space and chroma subsampling of YUV 4:2:2, and has a bit depth of 8, etc. Policy checking can be done across multiple files at once. 
+Here is a policy I created for PARADISEC, to determine if the MXF has conformed to all of our target parameters. This checks if the MXF is lossless and has the expected colour space and chroma subsampling of YUV 4:2:2, and has a bit depth of 8, etc. Policy checking can be done across multiple files at once. 
 
 <p align="center">
   <img width="500" src="images/MXF-MediaConchPolicy.png">

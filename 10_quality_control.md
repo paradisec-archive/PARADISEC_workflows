@@ -176,10 +176,10 @@ as well as in the **player mode**
 </p>
 
 Filters shown in player mode are:
-* **Value highlight**
-* **Normal**
-* **Bit Plane (10 slices)**
-* **Waveform**
+* **Value highlight** selected range of values highlighted, allows for targeted broadcast ranges
+* **Normal** the typical video image playback
+* **Bit Plane (10 slices)** shows bit depth- in this image you can see the last two bits are empty, as this is an 8-bit video
+* **Waveform** shows Y (brightness) and UV (colour) levels, inthis case all three are overlayed 
 
 
 

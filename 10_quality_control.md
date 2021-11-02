@@ -161,15 +161,6 @@ Media Conch also allows you to view MediaInfo reports within the program as well
 
 [QC Tools](https://mediaarea.net/QCTools){:target="_blank"} offers tools that allow users to investigate the quality of digitised videos using filters and analytical tools. You can select various filters in the **graph mode** as seen in the image below. 
 
-Filters shown are: 
-* **YUV DIFF** YUV differences plotted together
-* **TOUT** temproal outliers
-* **VREP** vertical line repetition
-* **BRNG** pixels outside of broadcast range
-* **Active Bit Depth** the active bits (1-10)
-* **Fields Compared MSE** mean square error in differences between fields 1 and 2 (less problematic for born-digital video)
-* **Audio Levels** channels 1 and 2 min and max audio levels
-
 <p align="center">
   <img width="500" src="images/QCTools-graph.png">
 </p>
@@ -181,12 +172,7 @@ as well as in the **player mode**
   <img width="500" src="images/QCTools-player.png">
 </p>
 
-Filters shown in player mode are:
-* **Value highlight** selected range of values highlighted, allows for targeted broadcast ranges
-* **Normal** the typical video image playback
-* **Bit Plane (10 slices)** shows bit depth- in this image you can see the last two bits are empty, as this is an 8-bit video
-* **Waveform** shows Y (brightness) and UV (colour) levels, inthis case all three are overlayed 
-
+Visit this [QCTools page](https://mediaarea.net/QCTools/Playback_Filters) for descriptions of their playback filters.
 
 
 ### BWF MetaEdit

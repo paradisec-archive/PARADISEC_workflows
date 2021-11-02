@@ -32,7 +32,7 @@ H6{color:White !important;}
   <img width="300" src="images/QC-SHORT.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 28 October 2021</span>
+<span style="font-variant:small-caps;">Last updated: 02 November 2021</span>
 
 ## MediaArea tools for QC (quality checking/quality control)
 
@@ -40,7 +40,13 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 
 ### MediaInfo
 
-[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} - working out easy ways to extract metadata from multiple files at one time, outputting targeted metadata highlights to extract to csv
+[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is a tool which allows you to look at the structural metadata of media files. Information on how to install the right version is found on the MediaInfo site. 
+
+<p align="center">
+  <img width="500" src="images/MediaInfoComparison.jpg">
+</p>
+
+working out easy ways to extract metadata from multiple files at one time, outputting targeted metadata highlights to extract to csv
 <br>
 <br>
 
@@ -52,19 +58,19 @@ Using MediaInfo GUI v21.09, open the program, then add media to explore. To do t
   <img width="500" src="images/MediaInfo-03.jpg">
 </p>
 
-To choose what specifications you want to export to a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*. 
+To select what specifications you want to export to a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*. 
 
 <p align="center">
   <img width="500" src="images/MediaInfo-06.jpg">
 </p>
 
-You will then be able to make your choices for the attributes you wish to export. You may need to experiment with this. I have selected the following 29 attributes to include in my report.
+You will then be able to make your choices for the attributes you wish to export. You may need to experiment with this. I have selected the following 29 attributes to include in my report. You'll notice the three categories of metadata: General, Video, Audio. These correlate to the sections of metadata found in the MediaInfo reports. 
 
 <p align="center">
   <img width="300" src="images/MediaInfo-02.jpg">
 </p>
 
-Once you have edited your target specifications to be output in your report, a new .csv is created with this information and is saved here: C:\Users\\"YourUserName"\AppData\Roaming\MediaInfo\Plugin\Sheet. If you want to share this customisation with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process. This is what the .csv plugin looks like:
+Once you have edited your target specifications to be output in your report, a new .csv is created with this information and is saved here: C:\Users\\"YourUserName"\AppData\Roaming\MediaInfo\Plugin\Sheet. If you want to share this customisation with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process. This is what the content of that .csv plugin:
 
 <p align="center">
   <img width="300" src="images/MediaInfo-05.jpg">
@@ -76,7 +82,7 @@ When you have saved your Custom Sheet choices, you are ready to export. First, g
   <img width="500" src="images/MediaInfo-01.jpg">
 </p>
 
-The icon to the left with the arrow and the "i" is the export function. Alternatively, you can go to *Edit>Export* in the menu. This window will open, directing you to choose your export format.
+The icon to the left with the arrow and the "i" is the export function. Alternatively, you can go to *File>Export* in the menu. This window will open, directing you to choose your export format.
 
 <p align="center">
   <img width="400" src="images/MediaInfo-04.jpg">

@@ -40,7 +40,7 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 
 ### MediaInfo
 
-[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is a tool which allows you to look at the structural metadata of media files. Information on how to install the right version is found on the MediaInfo site. 
+[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is a tool which allows you to look at the structural metadata of media files. Information on how to install the right version is found on the MediaInfo site. Below is a comparison of how MediaInfo presents the metadata information on a PC and on a Mac, both using **Tree** view.
 
 <p align="center">
   <img width="500" src="images/MediaInfoComparison.jpg">
@@ -64,7 +64,7 @@ To select what specifications you want to export to a csv, go to Options>Prefere
   <img width="500" src="images/MediaInfo-06.jpg">
 </p>
 
-You will then be able to make your choices for the attributes you wish to export. You may need to experiment with this. I have selected the following 29 attributes to include in my report. You'll notice the three categories of metadata: General, Video, Audio. These correlate to the sections of metadata found in the MediaInfo reports. 
+You will then be able to make your choices for the attributes you wish to export. You may need to experiment with this. I have selected the following 29 attributes to include in my report. You'll notice the three categories of metadata: General, Video, Audio. These correlate to the sections of metadata found in the MediaInfo reports as seen in the comparison image above. 
 
 <p align="center">
   <img width="300" src="images/MediaInfo-02.jpg">

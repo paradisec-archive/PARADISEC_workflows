@@ -149,11 +149,31 @@ Here are the results from the MXF policy check.
   <img width="500" src="images/MXF-MediaConchPolicyResults.png">
 </p>
 
-Media Conch also allows you to view MediaInfo report within the program as well as the more technical [Media Trace](https://mediaarea.net/MediaTrace){:target="_blank"}report, which presents the binary architecture of the files as defined by MediaInfo.
+Media Conch also allows you to view MediaInfo reports within the program as well as the more technical [Media Trace](https://mediaarea.net/MediaTrace){:target="_blank"}reports, which present the binary architecture of the files as defined by MediaInfo.
 
 ### QC Tools
 
-[QC Tools](https://mediaarea.net/QCTools){:target="_blank"} - lets you apply different filters to perform quality checking over video files. Still trying to see if this will show us all we need to determine if a MXF is well-formed. Will update.
+[QC Tools](https://mediaarea.net/QCTools){:target="_blank"} offers tools that allow users to investigate the quality of digitised videos using filters and analytical tools. You can select various filters in the **graph mode** as seen in the image below. 
+
+Filters shown are: 
+* **YUV DIFF** YUV differences plotted together
+* **TOUT** temproal outliers
+* **VREP** vertical line repetition
+* **BRNG** pixels outside of broadcast range
+* **Active Bit Depth** the active bits (1-10)
+* **Fields Compared MSE** mean square error in differences between fields 1 and 2 (less problematic for born-digital video)
+* **Audio Levels** channels 1 and 2 min and max audio levels
+
+<p align="center">
+  <img width="500" src="images/QCTools-graph.png">
+</p>
+
+
+as well as in the **player mode**
+
+<p align="center">
+  <img width="500" src="images/QCTools-player.png">
+</p>
 
 ### BWF MetaEdit
 

@@ -125,7 +125,7 @@ If you are not able to install MediaInfo onto your computer, there is a web vers
 
 ### Media Conch
 
-[Media Conch](https://mediaarea.net/MediaConch){:target="_blank"} is a tool which enables you to view batch MediaInfo reports, as well as the more technical Media Trace reports. You can create *policies* that checks your media against certain parameters, determining if the metadata fits your specific needs. Below public  policy that checks if an .mp4 video has H.264 encoding or not. You can find this public policy on the *Public Policy* tab within the app.
+[Media Conch](https://mediaarea.net/MediaConch){:target="_blank"} is a tool which enables you to view batch MediaInfo reports. You can create *policies* that checks your media against certain parameters, determining if the metadata fits your specific needs. Below public  policy that checks if an .mp4 video has H.264 encoding or not. You can find this public policy on the *Public Policy* tab within the app.
 
 <p align="center">
   <img width="500" src="images/MP4-Policy.png">
@@ -137,24 +137,19 @@ This is the description of the checks this policy is performing:
   <img width="500" src="images/MP4-MediaConchPublicPolicy.png">
 </p>
 
-Here is another example I created for PARADISEC, to determine if the MXF has conformed to all of our target parameters and is ready for the next stage of our visual quality checking.
-
+Here is another example I created for PARADISEC, to determine if the MXF has conformed to all of our target parameters. This checks if the MXF is lossless and has the expected colour space and chroma subsampling of YUV 4:2:2, and has a bit depth of 8, etc. Policy checking can be done across multiple files at once. 
 
 <p align="center">
   <img width="500" src="images/MXF-MediaConchPolicy.png">
 </p>
 
+Here are the results from the MXF policy check.
 
 <p align="center">
   <img width="500" src="images/MXF-MediaConchPolicyResults.png">
 </p>
 
-
-
-
-
-
- is the MXF lossless and conforms to our standards of YUV 4:2:0 or 4:2:2, bit depth of 8, etc. We can create a "policy" of items we would like to bulk check. This tool also allows you to view MediaInfo report within the Media Conch program. Also allows you to look at [Media Trace report](https://mediaarea.net/MediaTrace){:target="_blank"}, which I still need to explore.
+Media Conch also allows you to view MediaInfo report within the program as well as the more technical [Media Trace report](https://mediaarea.net/MediaTrace){:target="_blank"}.
 
 ### QC Tools
 

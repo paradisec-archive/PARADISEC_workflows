@@ -126,16 +126,28 @@ If you are not able to install MediaInfo onto your computer, there is a web vers
 ### Media Conch
 
 [Media Conch](https://mediaarea.net/MediaConch){:target="_blank"} is a tool which enables you to view batch MediaInfo reports, as well as the more technical Media Trace reports. You can create *policies* that checks your media against certain parameters, determining if the metadata fits your specific needs. Below public  policy that checks if an .mp4 video has H.264 encoding or not. You can find this public policy on the *Public Policy* tab within the app.
+
 <p align="center">
-  <img width="300" src="images/MP4-Policy.png">
+  <img width="500" src="images/MP4-Policy.png">
 </p>
 
 This is the description of the checks this policy is performing: 
 
 <p align="center">
-  <img width="300" src="images/MP4-MediaConchPublicPolicy.png">
+  <img width="500" src="images/MP4-MediaConchPublicPolicy.png">
 </p>
 
+Here is another example I created for PARADISEC, to determine if the MXF has conformed to all of our target parameters and is ready for the next stage of our visual quality checking.
+
+
+<p align="center">
+  <img width="500" src="images/MXF-MediaConchPolicy.png">
+</p>
+
+
+<p align="center">
+  <img width="500" src="images/MXF-MediaConchPolicyResults.png">
+</p>
 
 
 

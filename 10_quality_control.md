@@ -40,17 +40,19 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 
 ### MediaInfo
 
-[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is a tool which allows you to look at the structural metadata of media files. Information on how to install the right version is found on the MediaInfo site. Below is a comparison of how MediaInfo presents the metadata information on a PC and on a Mac, both using **Tree** view.
+[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is a tool which allows you to look at a summary of the structural metadata of media files. Below is a comparison of how MediaInfo presents the metadata information on a PC and on a Mac, both using **Tree** view.
 
 <p align="center">
   <img width="600" src="images/MediaInfoComparison.jpg">
 </p>
 
-working out easy ways to extract metadata from multiple files at one time, outputting targeted metadata highlights to extract to csv
+You can look at multiple files at one time using the app, but be warned- if you highlight and then select open with MediaInfo on a PC, each metadata report will open a new window. On a Mac, you get one open window, but you can select which file to view from a dropdown menu in the address bar. The next section will help if explain another option to view multiple file reports without having to look at one report at a time.
 <br>
 <br>
 
 #### Bulk output media reoprts using MediaInfo GUI on Windows
+
+*This section outlines a means to extract metadata from multiple files at one time, outputting targeted metadata highlights to a csv.*
 
 Using MediaInfo GUI v21.09, open the program, then add media to explore. To do this press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder and avoid adding nested folders. The image below shows all of the videos I have added. To get this view, go to the menu and select View, then select *sheet*.
 

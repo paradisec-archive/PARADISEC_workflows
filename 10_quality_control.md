@@ -175,6 +175,14 @@ as well as in the **player mode**
   <img width="500" src="images/QCTools-player.png">
 </p>
 
+Filters shown in player mode are:
+* **Value highlight**
+* **Normal**
+* **Bit Plane (10 slices)**
+* **Waveform**
+
+
+
 ### BWF MetaEdit
 
 [BWF MetaEdit](https://mediaarea.net/BWFMetaEdit){:target="_blank"} - allows up to view and edit BEXT chunks in BWF audio files

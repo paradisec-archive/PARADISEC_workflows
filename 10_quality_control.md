@@ -43,7 +43,7 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 [MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is a tool which allows you to look at the structural metadata of media files. Information on how to install the right version is found on the MediaInfo site. Below is a comparison of how MediaInfo presents the metadata information on a PC and on a Mac, both using **Tree** view.
 
 <p align="center">
-  <img width="500" src="images/MediaInfoComparison.jpg">
+  <img width="600" src="images/MediaInfoComparison.jpg">
 </p>
 
 working out easy ways to extract metadata from multiple files at one time, outputting targeted metadata highlights to extract to csv

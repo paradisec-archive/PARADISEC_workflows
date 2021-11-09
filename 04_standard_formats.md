@@ -130,5 +130,6 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 Seyfeddinipur, Mandana. & Rau, Felix. (2020). [Keeping it real: Video data in language documentation and language archiving](http://hdl.handle.net/10125/24965){:target="_blank"}. Language Documentation & Conservation, vol. 14.
 
+Federal Agencies Digitization Guidelines Initiative (FADGI). (2014) [Creating and Archiving Born Digital Video, Part III: High Level Recommended Practices](http://www.digitizationguidelines.gov/guidelines/FADGI_BDV_p3_20141202.pdf){:target="_blank"}. The FADGI Audio-Visual Working Group, ver. 1.1, 2 December 2014.
 
 ⬆️ [Back to top](#)

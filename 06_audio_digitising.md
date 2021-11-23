@@ -201,9 +201,9 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
        <img width="300" src="images/Wavelab-Monitor-Reset.JPG">
      </p>
 
-13.	As you are previewing the tape, you can see that the PHASESCOPE is also actively monitoring the audio. We will use this scope to help guide us in our Azimuth adjustment. 
+13.	As you are previewing the tape, you can see that the PHASESCOPE is also actively monitoring the audio. We will use this scope to help guide us in our **Azimuth adjustment**. 
     
-14.	You can find the Azimuth screw on the TASCAM machine in the gap right above where the word STOP button. It is the screw to the left of the heads. Use the supplied tiny screwdriver.
+14.	You can find the Azimuth screw on the TASCAM machine in the gap right above the STOP button. It is the screw to the left of the heads. Use the supplied tiny screwdriver.
   
      <p align="center">
        <img width="300" src="images/TASCAM-AzimuthAdjustment.jpg">

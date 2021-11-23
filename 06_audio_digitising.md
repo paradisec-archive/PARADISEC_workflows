@@ -96,12 +96,12 @@ Having an external, stand-alone analogue/digital converter is critical so that t
 <hr style="border:1px solid blue">
 
 
-### Reel-to-reel tape player: [Revox C270](https://www.reeltoreel.nl/studer/Public/Products/Revox/Revox_C270/Revox_C270_Op_E.pdf){:target="_blank"}
+### Reel-to-reel tape player: [Revox C270](https://cloudstor.aarnet.edu.au/plus/s/0KI2utmHztYAsDA){:target="_blank"}
 <p align="center">
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
 
-### Reel-to-reel tape player: [Studer A807](https://www.reeltoreel.nl/studer/Public/Products/Recording_Analog/A807_MkII/Manuals/A807MkII_Op_E.pdf){:target="_blank"}
+### Reel-to-reel tape player: [Studer A807](https://cloudstor.aarnet.edu.au/plus/s/zSVf4KCzr2e0evR){:target="_blank"}
 <p align="center">
   <img width="300" src="images/StuderA807.jpg">
 </p>

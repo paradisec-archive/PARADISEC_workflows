@@ -67,7 +67,7 @@
   },"11": {
     "doc": "Standard Formats for Data Collection and Archiving",
     "title": "Standard Formats for Data Collection and Archiving",
-    "content": ". Last updated: 25 October 2021 . ",
+    "content": ". Last updated: 09 November 2021 . ",
     "url": "http://localhost:4000/04_standard_formats.html#standard-formats-for-data-collection-and-archiving",
     "relUrl": "/04_standard_formats.html#standard-formats-for-data-collection-and-archiving"
   },"12": {
@@ -85,7 +85,7 @@
   },"14": {
     "doc": "Standard Formats for Data Collection and Archiving",
     "title": "Additional Resources",
-    "content": "Seyfeddinipur, Mandana. &amp; Rau, Felix. (2020). Keeping it real: Video data in language documentation and language archiving. Language Documentation &amp; Conservation, vol. 14. ⬆️ Back to top . ",
+    "content": "Seyfeddinipur, Mandana. &amp; Rau, Felix. (2020). Keeping it real: Video data in language documentation and language archiving. Language Documentation &amp; Conservation, vol. 14. Federal Agencies Digitization Guidelines Initiative (FADGI). (2014). Creating and Archiving Born Digital Video, Part III: High Level Recommended Practices. The FADGI Audio-Visual Working Group, v1.1, 2 December 2014. ⬆️ Back to top . ",
     "url": "http://localhost:4000/04_standard_formats.html#additional-resources",
     "relUrl": "/04_standard_formats.html#additional-resources"
   },"15": {
@@ -145,13 +145,13 @@
   },"24": {
     "doc": "Audio Digitising",
     "title": "Audio Digitising of Analogue Tapes",
-    "content": "🚧 This page is currently under construction 🚧 . Last updated: 28 October 2021 . This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This workflow can be modified to accommodate other organisations in their specific digitising goals. ",
+    "content": "🚧 This page is currently under construction 🚧 . Last updated: 16 November 2021 . This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This workflow can be modified to accommodate other organisations in their specific digitising goals. ",
     "url": "http://localhost:4000/06_audio_digitising.html#audio-digitising-of-analogue-tapes",
     "relUrl": "/06_audio_digitising.html#audio-digitising-of-analogue-tapes"
   },"25": {
     "doc": "Audio Digitising",
     "title": "About the equipment",
-    "content": "Computer workstation . The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC workstation with the following specifications: . | SPECIFICATION | DETAILS | . | Memory | 32GB (4x8GB) | . | Processor | Intel Core i7-10700 (8-core, 16MB cache, 2.9GHz to 4.8GHz, 65W) | . | Drive | M.2 512GB Class 35 Solid State Drive | . | Drive | 2.5in 1TB 7200 Hard Disk Drive | . | Drive | 8xDVD +/-RW 9.5mm Optical Disk Drive | . | Full-size Tower | SSF (Small Form Factor) will not accomodate necessary soundcard | . Soundcard: RME HDSPe AIO Pro . A new soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections and meet the high-level specifications set by our industry’s peak-body: IASA (the International Association of Sound and Audiovisual Archives). | D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU &amp; SPDIF) | up to 192kHz/24-bit, balanced stereo in/output | a high quality digital audio stream synchronisation mechanism | allow the transfer of a digital audio data stream having undergone no change or alteration | . AD/DA Converter: RME ADI-2 PRO FS . Having an external, stand-alone analogue/digital converter is critical so that the following specifications can be met (see IASA link below for the precise parameters for each): . | Total Harmonic Distortion + Noise | Dynamic Range (Signal to Noise) | Frequency Response | Intermodulation Distortion | Amplitude Linearaity | Spurious Aharmonic Signals | International Clock Accuracy | Jitter | External Synchronisation | . READ MORE ABOUT analogue to digital converters and sound cards in sections 2.4 and 2.5 of IASA’s TC04: Guidelines on the Production and Preservation of Digital Audio Objects. Audio cassette player: Tascam 122 mk II . READ MORE ABOUT the use of cassette tape machines in section 5.4.5 of IASA’s TC04: Guidelines on the Production and Preservation of Digital Audio Objects. Reel-to-reel tape player: Revox C270 . Reel-to-reel tape player: Studer A807 . READ MORE ABOUT the use of reel-to-reel machines in section 5.4.4 of IASA’s TC04: Guidelines on the Production and Preservation of Digital Audio Objects. ",
+    "content": "Computer workstation . The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC workstation with the following specifications: . | SPECIFICATION | DETAILS | . | Memory | 32GB (4x8GB) | . | Processor | Intel Core i7-10700 (8-core, 16MB cache, 2.9GHz to 4.8GHz, 65W) | . | Drive | M.2 512GB Class 35 Solid State Drive | . | Drive | 2.5in 1TB 7200 Hard Disk Drive | . | Drive | 8xDVD +/-RW 9.5mm Optical Disk Drive | . | Full-size Tower | SSF (Small Form Factor) will not accomodate necessary soundcard | . Soundcard: RME HDSPe AIO Pro . A new soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections and meet the high-level specifications set by our industry’s peak-body: IASA (the International Association of Sound and Audiovisual Archives). | D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU &amp; SPDIF) | up to 192kHz/24-bit, balanced stereo in/output | a high quality digital audio stream synchronisation mechanism | allow the transfer of a digital audio data stream having undergone no change or alteration | . AD/DA Converter: RME ADI-2 PRO FS . Having an external, stand-alone analogue/digital converter is critical so that the following specifications can be met (see IASA link below for the precise parameters for each): . | Total Harmonic Distortion + Noise | Dynamic Range (Signal to Noise) | Frequency Response | Intermodulation Distortion | Amplitude Linearaity | Spurious Aharmonic Signals | International Clock Accuracy | Jitter | External Synchronisation | . READ MORE ABOUT analogue to digital converters and sound cards in sections 2.4 and 2.5 of IASA’s TC04: Guidelines on the Production and Preservation of Digital Audio Objects. Audio cassette player: Tascam 122 mk III . READ MORE ABOUT the use of cassette tape machines in section 5.4.5 of IASA’s TC04: Guidelines on the Production and Preservation of Digital Audio Objects. Reel-to-reel tape player: Revox C270 . Reel-to-reel tape player: Studer A807 . READ MORE ABOUT the use of reel-to-reel machines in section 5.4.4 of IASA’s TC04: Guidelines on the Production and Preservation of Digital Audio Objects. ",
     "url": "http://localhost:4000/06_audio_digitising.html#about-the-equipment",
     "relUrl": "/06_audio_digitising.html#about-the-equipment"
   },"26": {
@@ -181,7 +181,7 @@
   },"30": {
     "doc": "Audio Digitising",
     "title": "Audio Digitising",
-    "content": ". | Audio Digitising of Analogue Tapes . | About the equipment . | Computer workstation | Soundcard: RME HDSPe AIO Pro | AD/DA Converter: RME ADI-2 PRO FS | Audio cassette player: Tascam 122 mk II | Reel-to-reel tape player: Revox C270 | Reel-to-reel tape player: Studer A807 | . | Software | Digitising Cassette Tapes | Digitising Reel-to-reel Tapes | Additional Resources | . | . ",
+    "content": ". | Audio Digitising of Analogue Tapes . | About the equipment . | Computer workstation | Soundcard: RME HDSPe AIO Pro | AD/DA Converter: RME ADI-2 PRO FS | Audio cassette player: Tascam 122 mk III | Reel-to-reel tape player: Revox C270 | Reel-to-reel tape player: Studer A807 | . | Software | Digitising Cassette Tapes | Digitising Reel-to-reel Tapes | Additional Resources | . | . ",
     "url": "http://localhost:4000/06_audio_digitising.html",
     "relUrl": "/06_audio_digitising.html"
   },"31": {

@@ -131,7 +131,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 3.	Turn on and load a tape into the Tascam 122 mk III <br>
 4.	Open the Wavelab program.
 
-     You may need to select *New Project* if presented with a start-up window. 
+     You may need to select **New Project** if presented with a start-up window. 
 
      <p align="center">
        <img width="300" src="images/Wavelab-StartUpMenu.JPG">
@@ -161,7 +161,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
        <img width="300" src="images/Wavelab-FileTemplate.JPG">
      </p>
 
-7.	A new timeline will appear in the AUDIOEDITOR window located in the lower half of the main window. In this window, select the ANALYZE tab along the top. Make sure to tick the radio button next to Audio Input
+7.	A new timeline will appear in the AUDIOEDITOR window located in the lower half of the main window. In this window, select the ANALYZE tab along the top. Make sure to tick the radio button next to **Audio Input**
   
      <p align="center">
        <img width="500" src="images/Wavelab-AudioInput.JPG">
@@ -181,7 +181,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
        <img width="500" src="images/Wavelab-Record-Phase.JPG">
      </p>
 
-9.	In Method tab under File to Create, select Named file from the drop down menu, then type in the file name you want to assign this file. Select the target location, E:\DigitisedFiles for the output files.
+9.	In *Method tab* under *File to Create*, select **Named file** from the drop down menu, then type in the file name you want to assign this file. Select the target location, E:\DigitisedFiles for the output files.
 
 10.	Play the tape as a means to test the levels audio levels to recording. These can be seen in the Recording window. Play for a minute or so, making sure the signal stays below -12.00 dB. 
   

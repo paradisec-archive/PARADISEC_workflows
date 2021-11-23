@@ -131,7 +131,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 3.	Turn on and load a tape into the Tascam 122 mk III <br>
 4.	Open the Wavelab program.
 
-     You may need to select New Project if presented with a start-up window. 
+     You may need to select *New Project* if presented with a start-up window. 
 
      <p align="center">
        <img width="300" src="images/Wavelab-StartUpMenu.JPG">

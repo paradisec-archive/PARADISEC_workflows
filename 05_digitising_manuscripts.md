@@ -37,7 +37,7 @@ This page outlines PARADISEC's approach to digitising text materials and offers 
 * items that are very fragile or have different shapes are easily accomodated with less handling
 * this method will capture very high quality images with correct colour representation
 * the equipment is portable and can easily be set up in most environments, including remote field locations with tricky power options
-* depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
+* depending on your equipment choices, this can be the least expensive option, yet will still create high quality output
 
 
 ## Target format of images to be archived in PARADISEC

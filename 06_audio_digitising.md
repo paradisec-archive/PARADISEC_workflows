@@ -63,7 +63,7 @@ A new soundcard needed to be added to the DELL tower to provide us with the nece
  >* a high quality digital audio stream synchronisation mechanism
  >* allow the transfer of a digital audio data stream having undergone no change or alteration
 
-### AD/DA Converter: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html){:target="_blank"}
+### AD/DA Converter: [RME ADI-2 PRO FS R Black Edition](https://www.rme-audio.de/adi-2-pro-fs-be.html){:target="_blank"}
 <p align="center">
   <img width="500" src="images/RME.jpg">
 </p>

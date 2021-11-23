@@ -183,7 +183,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 
 9.	In *Method tab* under *File to Create*, select **Named file** from the drop down menu, then type in the file name you want to assign this file. Select the target location, E:\DigitisedFiles for the output files.
 
-10.	Play the tape as a means to test the levels audio levels to recording. These can be seen in the Recording window. Play for a minute or so, making sure the signal stays below -12.00 dB. 
+10.	Play the tape as a means to test the levels audio levels to recording. These can be seen in the Recording window. Play for a minute or so, making sure the signal stays **below -12.00 dB**. 
   
      <p align="center">
        <img width="500" src="images/Wavelab-RecordingLevels.JPG">

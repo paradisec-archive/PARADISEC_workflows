@@ -214,20 +214,30 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
      **READ MORE ABOUT** Azimuth adjustments in [section 5.4.12](https://www.iasa-web.org/tc04/corrections-errors-misaligned-recording-equipment){:target="_blank"} of **IASA**'s *TC04: Guidelines on the Production and Preservation of Digital Audio Objects*.
      <hr style="border:1px solid blue">
 
-15.	Look at the PHASESCOPE as you turn the screw to the left and to the right. Because you will be mostly digitising one-sided tapes, you want the line to be straight and along the Y-axis (vertical). If you were to digitise a reel-to-reel tape that is recorded on both sides, both sides are digitised simultaneously. As a result, there will be more of an X -shape of lines, representing each output of the tape.
+15.	Confirm the PHASESCOPE is active. There will be a gently moving circle of random noise *(see image below)*. 
   
      <p align="center">
        <img width="300" src="images/Wavelab-PHASESCOPE-AtRest.JPG">
      </p>
-   
-     <p align="center">
-       <img width="300" src="images/Wavelab-PHASESCOPE-PreAdjustment.JPG">
-     </p>
-   
+
+     Play the tape. Once the signal is clearly coming through, turn the screw to the left and to the right, using your ears and the phasescope to help you determine the clearest signal. If the tape is a mono tape with the same signal on both channels, aim to get the line as vertically straight as possible *(see image below)*. <br>
+
      <p align="center">
        <img width="300" src="images/Wavelab-PHASESCOPE-PostAdjustment.JPG">
      </p>
 
+     If the tape you are digitising is recorded as mono, but there is signal only in one channel, you will see the line is at a 45° angle, leaning toward the left or the right, depending upon which track the mono signal was recorded on (*see image below)*. <br>
+
+     <p align="center">
+       <img width="300" src="images/Azimuth01_1.jpg">
+     </p>
+
+     Many tapes we receive were recorded as mono, but on both sides of the tape. We digitise these two tracks simultaneously. As a result, there will be an X shape for representing both mono tracks. As the audio for both tracks is playing simultaneously (one track will play normally, the other will be reversed), you will rely more on the phasescpoe to adjust the azimuth *(see image below)*. <br>
+
+     <p align="center">
+       <img width="300" src="images/Azimuth02_1.jpg">
+     </p>
+   
 16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
 
 

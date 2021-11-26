@@ -32,7 +32,7 @@ H6{color:White !important;}
   <img width="500" src="images/rev-rev-vox.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 25 November 2021</span>
+<span style="font-variant:small-caps;">Last updated: 26 November 2021</span>
 
 This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This workflow can be modified to accommodate other organisations in their specific digitising goals.
 
@@ -220,11 +220,35 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
        <img width="300" src="images/Wavelab-PHASESCOPE-AtRest.JPG">
      </p>
 
-     Play the tape. Once the signal is clearly coming through, turn the screw to the left and to the right, using your ears and the phasescope to help you determine the clearest signal. If the tape is a mono tape with the same signal on both channels, aim to get the line as vertically straight as possible *(see image below)*. <br>
+     Play the tape. Once the signal is clearly coming through, turn the screw to the left and to the right, using your ears and the phasescope to help you determine the clearest signal. If the tape is a cassette tape the same signal will be on both channels. Aim to get the line as vertically straight as possible *(see image below)*. <br>
 
      <p align="center">
        <img width="300" src="images/Wavelab-PHASESCOPE-PostAdjustment.JPG">
      </p>
+
+   
+16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
+
+
+## Digitising Reel-to-reel Tapes
+
+1. Put the tape reel onto the left spindle, the right is reserved for the take-up empty reel. Make sure tape is spooling off to the left of the reel. Once on the spindle, lift top of the spindle and turn it so that the tabs can lock down the reel.
+
+2. Bring down the tape leader (the extra bit of non-magnetic tape at the beginning of the reel, usually green) and thread it through the various rollers as below. 
+
+
+3. Once threaded through, if digitising on the Studer, flip up the head shield. The shield flips up automatically when play is engaged on the the ReVox.
+
+4. Move the reels manually along until the point where the tape leader ends and
+the magnetic tape begins almost reach the tape heads.
+
+5. Reset the counter so that it reads 00.00.00.
+
+6. Follow the same WaveLab instructions as above for testing the volumes of the output. To adjust the output volume, make sure the UNCAL light is on. This means the audio volume is uncalibrated and you can adjust volume as needed using the CH1 and CH2 REP/SYNC LEVEL
+
+7. Check the speed of the playback. If it sounds too slow or too fast, cycle through the choices of 3.75, 7.5 or 15. If these do not appear to create the right speed, make note and we may need to adjust once audio is digitised.
+
+8. Adjust the azimuth for opem reel tapes
 
      If the tape you are digitising is recorded as mono, but there is signal only in one channel, you will see the line is at a 45° angle, leaning toward the left or the right, depending upon which track the mono signal was recorded on (*see image below)*. <br>
 
@@ -237,45 +261,22 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
      <p align="center">
        <img width="300" src="images/Azimuth02_1.jpg">
      </p>
-   
-16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
 
+9. Once everything has been checked and adjusted. stop the reel from playing.
 
-## Digitising Reel-to-reel Tapes
+10. Get WaveLab set up to record the track, following the instructions as outlined above (specifically: step 16).
 
-1. Put the tape reel onto the left spindle, the right is reserved for the take-up empty reel. Make sure tape is spooling off to the left of the reel. Once on the spindle, lift top of the spindle and turn it so that the tabs can lock down the reel.
+      ><span style="color:LightBlue">
+      **NOTE:** It may be the case that the tape has been recorded as mono tracks on both sides. Our system will digitise both mono tracks simultaneously. If you are using headphones, you will hear one track in one ear, playing correctly, and the second track in the other, playing backwards.
+      ></span>
 
-2. Bring down the tape leader (the extra bit of non-magnetic tape at the beginning of the reel, usually green) and thread it through the various rollers as below. 
+11. When the tape is coming to the end, watch closely and stop playback when the magnetic tape finishes passing along the heads and the leader tape appears (usually red). Then stop the recording in WaveLab.
 
+12. Press z-loc to rewind the tape back onto original reel.
 
-3. Once threaded through, flip up the head shield (this needs to be done manually with the Studer A807; the shield flips up automatically when play is engaged on the the ReVox C270 model).
-
-Move the reels manually along until the point where the tape leader ends and
-the magnetic tape begins almost reach the tape heads.
-
-Reset the counter so that it reads 00.00.00.
-
-Now follow the same WaveLab instructions as above for testing the volumes of the output
-
-Check the speed of the playback. If it sounds too slow or too fast, cycle through the choices of 3.75, 7.5 or 15. If these do not appear to create the right speed, make note and we may need to adjust once audio is digitised.
-
-To adjust the output volume, make sure the UNCAL light is on. This means the audio volume is uncalibrated and you can adjust volume as needed using the CH1 and CH2 REP/SYNC LEVEL
-
-Adjust the azimuth
-
-Once everything has been checked and adjusted. stop the reel from playing.
-
-It may be the case that the tape has been recorded as mono tracks on both sides. Our system will digitise both mono tracks simultaneously. If you are using headphones, you will hear one track in one ear, playing correctly, and the second track in the other, playing backwards.
-
-The phase scope will look a bit like an X if there are two mono tracks on the tape. Adjust the azimuth as best as you can:
-
-Adjust for the 
-
-When the tape is coming to the end, watch closely and stop playback when the magnetic tape finishes passing along the heads and the leader tape appears (usually red). Then stop recording via WaveLab.
-
-Press z-loc to rewind the tape back onto original reel.
-
-DO NOT HIT REWIND. Uze the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautious way to treat the tape
+     ><span style="color:LightBlue">
+      **NOTE:** DO NOT HIT REWIND. Use the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautious way to treat the tape
+     ></span>
 
 
 

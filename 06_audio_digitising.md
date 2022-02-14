@@ -235,13 +235,13 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 1. Put the tape reel onto the left spindle, the right is reserved for the take-up empty reel. Make sure tape is spooling off to the left of the reel. Once on the spindle, lift top of the spindle and turn it so that the tabs can lock down the reel.
 
     <p align="center">
-       <img width="300" src="images/ThreadingTapeR2R.jpg">
+       <img width="500" src="images/ThreadingTapeR2R.jpg">
      </p>
 
 2. Bring down the tape leader (the extra bit of non-magnetic tape at the beginning of the reel, usually green) and thread it through the various rollers as below. 
 
     <p align="center">
-       <img width="300" src="images/ThreadingTapeR2R-2.jpg">
+       <img width="500" src="images/ThreadingTapeR2R-2.jpg">
      </p>
 
 3. Once threaded through, if digitising on the Studer, flip up the head shield. The shield flips up automatically when play is engaged on the the ReVox.
@@ -258,13 +258,13 @@ the magnetic tape begins almost reach the tape heads.
 8. Adjust the azimuth for opem reel tapes. The hex nut is located directly above the tape heas as seen in image below:
 
     <p align="center">
-       <img width="300" src="images/AdjustingAzimuth-R2R.jpg">
+       <img width="500" src="images/AdjustingAzimuth-R2R.jpg">
      </p>
 
      If the tape you are digitising is recorded as mono, but there is signal only in one channel, you will see the line is at a 45° angle, leaning toward the left or the right, depending upon which track the mono signal was recorded on (*see image below)*. <br>
 
      <p align="center">
-       <img width="300" src="images/Azimuth01_1.jpg">
+       <img width="500" src="images/Azimuth01_1.jpg">
      </p>
 
      Many tapes we receive were recorded as mono, but on both sides of the tape. We digitise these two tracks simultaneously. As a result, there will be an X shape for representing both mono tracks. As the audio for both tracks is playing simultaneously (one track will play normally, the other will be reversed), you will rely more on the phasescpoe to adjust the azimuth *(see image below)*. <br>

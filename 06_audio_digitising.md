@@ -32,7 +32,7 @@ H6{color:White !important;}
   <img width="500" src="images/rev-rev-vox.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 26 November 2021</span>
+<span style="font-variant:small-caps;">Last updated: 15 February 2022</span>
 
 This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This workflow can be modified to accommodate other organisations in their specific digitising goals.
 

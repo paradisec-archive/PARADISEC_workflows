@@ -2,7 +2,7 @@
 title: Workflow - ANU Unit
 layout: default
 published: true
-nav_order: 12
+nav_order: 13
 ---
 
 <details closed markdown="block">
@@ -22,7 +22,7 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-# PARADISEC-ANU Workflow
+# PARADISEC Workflow - The Australian National University
 <br>
 <p align="center">
 🚧 This page is currently under construction🚧
@@ -35,16 +35,13 @@ H6{color:White !important;}
 
 <span style="font-variant:small-caps;">Last updated: 21 July 2022</span>
 
-Content for this document was last updated 22 December 2020. Previous iterations of our Operations Manual (prior to implementation of the Nabu catalogue) are available from the downloads section of our website [https://www.paradisec.org.au/](http://www.paradisec.org.au/downloads.html){:target="_blank"}.
+
 
 For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au){:target="_blank"}, or write to us at:<br><br>
 **PARADISEC <br>
 Sydney Conservatorium of Music, C41 <br>
 University of Sydney, 2006 <br>
 Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
-
-***Role terms used in this document*** <br>
-**Admin:** Sydney Director (2020: *Amanda Harris*) **Audio:** Audio Preservation Officer (2020: *Nick Fowler-Gilmore*) **PD:** Project Director (2020: *Nicholas Thieberger*) **SA:** Systems Admin (2020: *University of Sydney ICT*)
 
 
 ## Pre-ingestion (audio tapes)
@@ -131,7 +128,7 @@ When tapes returned, note date in ‘tracking’ field of Item, Archive Informat
 * Clean using slow spool and specialist equipment (cotton pads and isopropyl/cetramide solution); also clean flange (spool) separately
 * Perform a second slow spool to repack tape
 
-**Cassette and DAT** <br>
+**Cassette** <br>
 * Replace splices if necessary (cassette)
 * Fast forward and rewind to minimise print-through (cassette) and to repack tape (cassette and DAT)
 * If mouldy, bag up separately, to avoid cross-contamination, shelve in PARADISEC's *Dirty Room* and minimise time in *Ingestion Room*, replay on designated *dirty* cassette machine
@@ -154,7 +151,7 @@ When tapes returned, note date in ‘tracking’ field of Item, Archive Informat
 
 ## Ingestion process
 
-## Wavelab ingestion processes - Sydney Lab (Audio)
+## Wavelab ingestion processes - (Audio)
 * Avoid internet browsing and any activity over the network during digitisation (these activities can cause interference, which may result in digital clips and unwanted errors in the signal), avoid using or turn off mobile phones or other mobile devices, including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during recording of audio. 
 
 * Reel-to-reel tapes go through Audio1 workstation (where StuderA810 is connected), cassette tapes go through either Audio1 or Audio2 workstations (both fitted with Tascam 122MKII’s cassette tape machines). Other sources, such as vinyl records, are to be connected separately as required and may, depending on how the device is connected, go through either Audio1 or Audio2 ingest stations.

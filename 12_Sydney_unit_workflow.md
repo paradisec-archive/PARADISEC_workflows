@@ -224,7 +224,6 @@ The process for ingesting slides and digital image capture is documented in Para
 
 * put the files into the ‘toNabu’ folder where a script will pick them up to send to Nabu
 
-## University of Melbourne ingestion unit
 
 This suite consists of a purpose-built computer, with a Digital Audio Denmark analogue to digital converter, a cassette player, minidisk player and reel-to-reel player. The computer has no internet connection (to prevent digital noise in the digitisation) so a hard disk is used to transport the files to another computer for transfer.
 

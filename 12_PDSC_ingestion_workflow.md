@@ -1,5 +1,5 @@
 ---
-title: PARADISEC Internal Ingestion Model
+title: Workflow - Sydney Audio Ingestion Model
 layout: default
 published: true
 nav_order: 12
@@ -33,7 +33,7 @@ H6{color:White !important;}
   <img width="500" src="images/Reel-BW-gh-page.jpg" alt="PARADISEC-reel-to-reel">
   </p>
 
-<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 21 July 2022</span>
 
 Content for this document was last updated 22 December 2020. Previous iterations of our Operations Manual (prior to implementation of the Nabu catalogue) are available from the downloads section of our website [https://www.paradisec.org.au/](http://www.paradisec.org.au/downloads.html){:target="_blank"}.
 

@@ -2,7 +2,7 @@
 title: Workflow - Sydney Audio Ingestion Model
 layout: default
 published: true
-nav_order: 12
+nav_order: 13
 ---
 
 <details closed markdown="block">
@@ -22,7 +22,7 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-# PARADISEC Ingestion Workflow Model
+# PARADISEC-Sydney Audio Ingestion Model
 <br>
 <p align="center">
 🚧 This page is currently under construction🚧

@@ -2,7 +2,7 @@ title: PARADISEC Workflows
 description: PARADISEC technical workflows and archiving guides 
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
-color_scheme: dark
+color_scheme: light
 search_enabled: true
 search.previews: 3
 search_tokenizer_separator: /[\s/]+/

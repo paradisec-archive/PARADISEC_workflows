@@ -58,7 +58,7 @@ callouts level: loud
 #     color: red
     
 #h1: {: .text-blue-000}
-#color_scheme: "dark"
+#color_scheme: "light"
 #theme: "just-the-docs"
 
 

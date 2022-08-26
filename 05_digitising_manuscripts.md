@@ -69,7 +69,7 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 | Software for remote capture | [EOS Utility](https://www.canon.com.au/cameras/eos-700d/support){:target="_blank"} *(for compatible Canon cameras)* |
 | Software for post-production editing | [Adobe Bridge](https://www.adobe.com/au/products/bridge.html){:target="_blank"} |
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software.
 ></span>
 

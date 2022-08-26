@@ -43,7 +43,7 @@ You also need to sign up with PARADISEC if you wish to deposit material to the a
 
 The process of signing up is simple- go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/){:target="_blank"}, and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, 
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >*"A message with a confirmation link has been sent to your email address. Please open the link to activate your account"*
 ></span>
 
@@ -109,7 +109,7 @@ Our system requires all files to adhere to specific file-naming conventions. Thi
 |  :----:  |   :----:   | :----:  | :----:  |
 | JCM01 | 20150908_wordlist | 01 | .wav |
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**NOTE:** No spaces or special characters are allowed in your file names, and only the two hyphens seen above are allowed. Underscores are fine. File names should not exceed 30 characters, excluding file extensions.
 ></span>
 
@@ -121,7 +121,7 @@ Our system requires all files to adhere to specific file-naming conventions. Thi
 
 3. **ContentFile** is the final necessary part to a file name. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session, 01, 02, 03, etc. You could distinguish the type of microphone used for an audio track in this part of the file name, e.g. LM (lapel mic) or HM (for head mounted mic).
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**NOTE:** Even if your item contains only one file, and thus does not need to be differentiated from other files within the same item, you still need to have this third part of the file name. You could use -00, -01, -wordlist01, -original, etc.
 ></span>
 

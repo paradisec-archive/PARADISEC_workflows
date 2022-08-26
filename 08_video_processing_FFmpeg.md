@@ -44,7 +44,7 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**NOTE:** Check here for any updates to the **Homebrew** installation process: [https://brew.sh/](https://brew.sh/)
 ></span>
 
@@ -57,7 +57,7 @@ If you are using a Mac, it is a bit more straight forward than the PC as Bash is
 
     brew install ffmpeg
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**NOTE:** Check here for any updates to the **ffmpeg** installation process: [https://formulae.brew.sh/formula/ffmpeg](https://formulae.brew.sh/formula/ffmpeg)
 ></span>
 

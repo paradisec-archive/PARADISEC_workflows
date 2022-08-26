@@ -39,12 +39,12 @@ The tables below contain the file formats we accept from depositors and the fina
 
 | Media  |  Media formats PARADISEC will accept   | 
 | :---   | :---                                        | 
-| Audio  |  .wav, .aiff, .m4a .mp3<span style="color:LightBlue"><sup>1</sup></span> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival standard as possible will be accepted)* |
-| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<span style="color:LightBlue"><sup>1</sup></span> |
-| Images <span style="color:LightBlue"><sup>2</sup></span>| .tif, .jpg, .png, .CR2                      |
+| Audio  |  .wav, .aiff, .m4a .mp3<span style="color:DarkBlue"><sup>1</sup></span> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival standard as possible will be accepted)* |
+| Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<span style="color:DarkBlue"><sup>1</sup></span> |
+| Images <span style="color:DarkBlue"><sup>2</sup></span>| .tif, .jpg, .png, .CR2                      |
 | Text   | .txt, .xml, .html, .pdf, .rtf OpenOffice formats (odf, odt etc) *(.doc/.docx should be converted to .rtf/.pdf, .xls/.xlsx to .csv prior to submission)*|
 | Annotations | .eaf, .cha, .xml, .txt, .srt, .trs, .TextGrid|
-| Lexicons |  .xml, .txt , .pdf, .fwbackup<span style="color:LightBlue"><sup>3</sup></span> *(containing no media files)*|
+| Lexicons |  .xml, .txt , .pdf, .fwbackup<span style="color:DarkBlue"><sup>3</sup></span> *(containing no media files)*|
 
 <br>
 
@@ -60,16 +60,16 @@ The tables below contain the file formats we accept from depositors and the fina
 | Annotations | *Archival and access copies:* Same as original *(see accepted formats above)*|
 | Lexicons | *Archival and access copies:* Same as original *(see accepted formats above)*|
 
-<span style="color:LightBlue">
+<span style="color:DarkBlue">
 <sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats. Look at the following section for capture suggestions*
 </span>
 
-<span style="color:LightBlue">
+<span style="color:DarkBlue">
 <sup>2</sup> *If you choose to scan, rather than photograph your notes: Colour option: 300 dpi, scanning ratio: 100%, 8 bits per channel RGB, embedded ICC colour profile encouraged, OCR6 encouraged (PDF or PDF/A complies). Grayscale options: See the National Archives of Australia recommendations [here](https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/preservation-digitisation-standards#preservation-digitisation-standards){:target="_blank"}
 For photographic negative or slide scans TIF, 600 dpi, 4000 pixels on the longest side, 48 bit colour RGB or 16 bit grayscale.*
 </span>
 
-<span style="color:LightBlue">
+<span style="color:DarkBlue">
 <sup>3</sup> *Fieldworks (FLEx) files need to be exported to xml (one for the lexicon and one for the text). If you have bundled sound and image files into the FLEx project, they need to be separated as they are typically not in an archival format. We can archive a fwbackup file if it contains only text in xml format (its native format) , but not if it contains audio and images.*
 </span>
 
@@ -92,7 +92,7 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 #### Suggested audio settings
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 > **NOTE**: *Avoid recording in compressed formats.*
 ></span>
 
@@ -111,7 +111,7 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 
 #### Suggested video settings
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 > **NOTE**: *Avoid recording in compressed formats.*
 ></span>
 

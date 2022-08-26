@@ -116,7 +116,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 
 ## Digitising Cassette Tapes
 
-><span style="color:LightBlue"> 
+><span style="color:DarkBlue"> 
 >**Note:** Avoid internet browsing and any activity over the network during digitisation *(these activities can cause interference, which may result in digital clips and unwanted errors in the signal)*. Avoid using mobile phones or other mobile devices (better yet, turn them off), including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during recording of audio.
 ></span>
 
@@ -277,7 +277,7 @@ the magnetic tape begins almost reach the tape heads.
 
 10. Get WaveLab set up to record the track, following the instructions as outlined above (specifically: step 16).
 
-      ><span style="color:LightBlue">
+      ><span style="color:DarkBlue">
       **NOTE:** It may be the case that the tape has been recorded as mono tracks on both sides. Our system will digitise both mono tracks simultaneously. If you are using headphones, you will hear one track in one ear, playing correctly, and the second track in the other, playing backwards.
       ></span>
 
@@ -285,7 +285,7 @@ the magnetic tape begins almost reach the tape heads.
 
 12. Press z-loc to rewind the tape back onto original reel.
 
-     ><span style="color:LightBlue">
+     ><span style="color:DarkBlue">
       **NOTE:** DO NOT HIT REWIND. Use the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautious way to treat the tape
      ></span>
 

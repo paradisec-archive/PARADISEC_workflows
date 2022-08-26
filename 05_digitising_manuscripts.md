@@ -50,7 +50,7 @@ Before discussing the details of equipment we use in this workflow, here are the
 | Bits/Channel | 16 bit           | 8 bit          | 8 bit        |
 | Colour mode | RGB (Adobe RGB (1998) | RGB       | RGB           |
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**Note:** The above 72 DPI *(dots per inch)* figure for the raw image is not very revealing as to the image quality compared to the 400 or 300 DPI figures. Image quality actually has more to do with pixel dimension. If you wish to read up on why DPI can be a tricky standard, take a look at this article: [The myth of DPI](http://www.rideau-info.com/photos/mythdpi.html){:target="_blank"}. There will be more about target image sizes (pixel dimension) below in the section on workflow and remote capture settings.
 ></span>
 
@@ -230,7 +230,7 @@ As you capture the images, it is important to check their quality before you get
 
 *The following instructions are based on Adobe Bridge CC 2021. Many of the functions are similar to the previous versions, with slight adjustments to the interface and workspaces.*
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**Note:** If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red){:target="_blank"}
 ></span>
 

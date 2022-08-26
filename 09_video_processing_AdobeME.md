@@ -28,7 +28,7 @@ H6{color:White !important;}
 
 # Using Adobe Media Encoder to create MXF and MP4 (H.264) videos
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**Note:** For detailed information of the *Media Encoder export settings* mentioned in this workflow look [HERE](https://helpx.adobe.com/au/media-encoder/using/export-settings-reference.html){:target="_blank"}.
 ></span>
 
@@ -72,7 +72,7 @@ Make certain **Match Source** is selected, this will automatically tick all the 
 
 *Chroma* should be set to **YUV 4:2:2** with a *depth* of **8-bit**. In the rare case your original video has a colour depth of 10-bit, select the **10-bit** option. To determine the bit depth of a video, use [MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"}; the file’s bit depth is listed in the MediaInfo metadata output report.
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**Note:** If you are using **CC2018**: Set the Broadcast Profile to *Level 7, Max Bitrate Unspecified (Lossless)*. This determines the maximum sampling and bit rates for the output file. You can see all the drop down choices offered below:
 ></span>
 
@@ -80,7 +80,7 @@ Make certain **Match Source** is selected, this will automatically tick all the 
   <img width="500" src="images/broadcast_profile.png" alt="Broadcast profile settings from Adobe Media Encoder 2018">
 </p>
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**Note:** If you are using **CC2020**: You need only tick the box for *Lossless Compression*; The Maximum Bitrate and Broadcast Profile automatically get set to *100,000 Mbps* and *Level 7 - 3200Mbps or Lossless*, respectively
 ></span>
 <p align="center">
@@ -139,7 +139,7 @@ Finally, the **_compression mode_** for the .MXF **MUST** indicate it is **_loss
 
 Once you transcode the original file to an .MXF, you will need to take a look at the .MXF file metadata to determine whether or not you have created an appropriate match to the original. 
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**Note:** You can do this in batches, as MediaInfo allows you to open multiple files at one time. On a Mac, you get one MediaInfo window with a dropdown menu to select which file you want to see in the active report; on Windows, separate MediaInfo windows will open for each file selected.
 ></span>
 
@@ -147,7 +147,7 @@ Once you transcode the original file to an .MXF, you will need to take a look at
 
 Once you have checked the file metadata with MediaInfo, you will need to play through the entire video to see if there were any issues in your transcoding process. I have created a lossless .MXF that had playback issues, so this step in the quality checking process in very important. Unfortunately, there are not many players that can handle .MXF-formatted video. You need to find a player that lets you see if there is jumpy playback, dropped frames, or any other errors. 
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**Note:** VLC can open and play .MXF files, but the playback is always jumpy, so you cannot determine if it is the player or your transcoding that is the source of the jumpy playback. This is not acceptable for our workflow. 
 ></span>
 
@@ -159,7 +159,7 @@ I suggest using Telestream's [Switch player](http://www.telestream.net/switch/ov
 
 You can see in the upper left corner that there is some quality reporting. Pay special attention to the dropped frames. If there are any dropped frames, you will need to re-transcode the file. 
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**Note:** If you are running other memory hungry programs in the background when you are trying to preview your .MXF with Switch, you will very likely have a report of dropped frames. You should quit all other processes while you are doing your playback reviews.
 ></span>
 
@@ -174,7 +174,7 @@ You can see in the upper left corner that there is some quality reporting. Pay s
 
 * **8-bits** per channel is typically the *bit depth* for many of the original .MOV, .MTS, .AVI, .MP4, etc. video files we handle. Using a 10-bit depth would needlessly increase the file-size while adding no improved quality. 
 
-><span style="color:LightBlue">
+><span style="color:DarkBlue">
 >**Note:** If you do receive a video that has a bit depth of 10, you need to create transcoded versions with the same bit depth of 10, rather than 8.
 ></span>
 

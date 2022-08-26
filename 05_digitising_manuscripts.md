@@ -29,7 +29,7 @@ H6{color:White !important;}
   <img width="300" src="images/tripod.GIF">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 5 July 2021</span>
+<span style="font-variant:small-caps;">Last updated: 26 August 2022</span>
 
 This page outlines PARADISEC's approach to digitising text materials and offers guidance in the post-production processing of the resulting images prior to archiving. The majority of our fieldnotes, papers, and notebook digitisation is done with high resolution photography, not scanning. Here are some reasons why we choose to use photography rather than scanning:
 
@@ -76,7 +76,7 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 ### Cameras
 
 #### Canon PowerShot G12
-This Canon camera was purchased in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual){:target="_blank"} of the firmware. I have not done this hack; See below for a simple workflow for image capture without tethering your camera to a computer. The PowerShot G12 features an articulated LCD screen. This means you can rotate it so that your target image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
+This Canon camera was purchased in 2010 and it is still fully functional in 2022. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual){:target="_blank"} of the firmware. I have not done this hack; See below for a simple workflow for image capture without tethering your camera to a computer. The PowerShot G12 features an articulated LCD screen. This means you can rotate it so that your target image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
 
 <p align="center">
   <img width="300" src="images/img-cap-PowerShotG12.JPG">

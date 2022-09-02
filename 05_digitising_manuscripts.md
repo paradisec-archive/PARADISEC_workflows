@@ -271,7 +271,12 @@ Your export settings for archiving with PARADISEC should be the following:
      <img width="400" src="images/img-Bridge-export-options.JPG">
     </p>
 
- 
+## Creating access copies of your archival images
+After you have edited and correctly named your archival .tif files, you can create lower resolution access copies as .jpg files. These are easier to share as a smaller-sized file and offer fewer problems in opening with general photo viewing programs. Import all .tif images into bridge, engage the Camera Raw function for batch processing. Alter your export settings to create a much reduced image file (set quality to low or medium, 200 dpi, etc.).
+
+It is also a good idea to create a .pdf of your image files bundled together in a single document. Create one .pdf per notebook, binder or folder. You can use Acrobat's ***Combine Files*** tool along with the lower resolution .jpg versions of your images so that the .pdf is not too large a document.  You can also reduced the size  of the .pdf if your initial one is still very large.
+
+
 <br>
 <hr style="border:1px solid grey">
 
@@ -296,6 +301,7 @@ Your export settings for archiving with PARADISEC should be the following:
      <img width="500" src="images/Darktable-screenshot.png">
     </p>
 
+* There are other .pdf creating options available other than Adobe Acrobat DC such as downloadable programs like [PDF24](https://www.pdf24.org/en/){:target="_blank"} or via a web interface like [Online2pdf](https://online2pdf.com/){:target="_blank"}, although this latter option, like most online pdf creators, has file size and number restrictions. 
 
 ## Additional resources
 Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747){:target="_blank"} Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138

@@ -70,13 +70,18 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 | Software for post-production editing | [Adobe Bridge](https://www.adobe.com/au/products/bridge.html){:target="_blank"} |
 
 ><span style="color:DarkBlue">
->**NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software. To see a larger version of the photos found on this website, right-click on the image and select the option **Open Image in New Tab**  
+>**NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software.  
 ></span>
 
 ### Cameras
 
 #### Canon PowerShot G12
 This Canon camera was purchased in 2010 and it is still fully functional in 2022. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual){:target="_blank"} of the firmware. I have not done this hack; See below for a simple workflow for image capture without tethering your camera to a computer. The PowerShot G12 features an articulated LCD screen. This means you can rotate it so that your target image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
+
+><span style="color:DarkBlue">
+>**NOTE:** To see a larger version of the photos found on this website, right-click on the image and select the option ***Open Image in New Tab***
+></span>
+
 
 <p align="center">
   <img width="300" src="images/img-cap-PowerShotG12.JPG">

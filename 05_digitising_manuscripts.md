@@ -29,7 +29,7 @@ H6{color:White !important;}
   <img width="300" src="images/tripod.GIF">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 26 August 2022</span>
+<span style="font-variant:small-caps;">Last updated: 02 September 2022</span>
 
 This page outlines PARADISEC's approach to digitising text materials and offers guidance in the post-production processing of the resulting images prior to archiving. The majority of our fieldnotes, papers, and notebook digitisation is done with high resolution photography, not scanning. Here are some reasons why we choose to use photography rather than scanning:
 
@@ -160,7 +160,7 @@ If you are planning to use a Canon camera that is compatible with the EOS Utilit
 
 ### Adobe Bridge
 ***For image preview and processing, use Adobe Bridge***<br> 
-As you capture the images, it is important to check their quality before you get too far into your task. But even at the end of the day, when if you have collected hundreds of photos, you may realise that they would be better cropped, or that the lighting was too warm and you would like to cool down the colours, you can use Adobe Bridge to do this as a batch process. Adobe Bridge is available for free. You do not need to pay for it, but you do need to sign up with Adobe. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html){:target="_blank"}.
+As you capture the images, it is important to check their quality before you get too far into your task. But even at the end of the day, when if you have collected hundreds of photos, you may realise that they would be better cropped, or that the lighting was too warm and you would like to cool down the colours, you can use Adobe Bridge to do this as a batch process. Bridge does offer a free download option; however, in order to use the Camera Raw function to edit your .CR2 files, you need to have a subscription to Photoshop. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html){:target="_blank"}.
 
 
 ## Workflow for remote capture
@@ -269,6 +269,20 @@ Your export settings for archiving with PARADISEC should be the following:
  
 <br>
 <hr style="border:1px solid grey">
+
+## Low-cost Options
+
+### Hardware
+Using a tripod with lights that you can clip onto something offers the least expensive setup. And if you cannot afford an SLR, a digital camera such as the Canon PowerShot G12 mentioned above can certainly perform very well and meet archival standards. 
+
+### Software
+The camera tethering software comes works with Canon cameras and is free. If you cannot afford a camera that works with tethering software, you can just capture to your camera's SD card and do your file management, including file nameing all in your post-production editing.
+
+Post production of raw images (.CR2) can be done with the free raw image processing program [RawTherapee](https://www.rawtherapee.com/){:target="_blank"}, replacing the costly Adobe Bridge option outlined above. This includes bulk processing of images.
+
+   <p align="center">
+     <img width="500" src="images/RawTherapee-screenshot.png">
+    </p>
 
 ## Additional resources
 Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747){:target="_blank"} Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138

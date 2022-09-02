@@ -83,7 +83,7 @@ This Canon camera was purchased in 2010 and it is still fully functional in 2022
 </p>
 
 #### Canon EOS 700D
-This DSLR *does* allow remote capture tethering. This opens up the possibility of attaching the camera to a computer to view, focus, and capture images and store them directly on your computer, with a predertermined file-naming pattern. But you can also use the same workflow as the non-tethering compact digital camera if you do not have a computer handy at the time of digitising. This model also features an articulated LCD monitor for comfortable image viewing. Another bonus with this camera is that you can do quick zoom adjustments by manually adjusting the lens, which you cannot do with the PowerShot.
+This DSLR ***does*** allow remote capture tethering. This opens up the possibility of attaching the camera to a computer to view, focus, and capture images and store them directly on your computer, with a predertermined file-naming pattern. But you can also use the same workflow as the non-tethering compact digital camera if you do not have a computer handy at the time of digitising. This model also features an articulated LCD monitor for comfortable image viewing. Another bonus with this camera is that you can do quick zoom adjustments by manually adjusting the lens, which you cannot do with the PowerShot.
 
 <p align="center">
   <img width="300" src="images/img-cap-EOS700D.JPG">
@@ -274,7 +274,7 @@ Your export settings for archiving with PARADISEC should be the following:
 
 ### Hardware
 * Using a tripod with lights that you can clip onto a shelf, the tripod legs, or even the back of a chair offers a less expensive setup than using a photo stand. 
-* If you cannot afford an SLR, a compact digital camera similar to the Canon PowerShot G12 mentioned above can certainly perform very well and meet archival standards.
+* If you cannot afford an DSLR, a compact digital camera similar to the Canon PowerShot G12 mentioned above can certainly perform very well and meet archival standards.
 * If you are not going to use tethering for image capture, try to find a camera that has an articulated LCD screen, not a fixed screen. This will allow you to move the viewfinder to a position to easily see the image before you shoot. You can see an articulated screen in the photo of the Cannon PowerShot above, within the section introducing the [Velbon shelf clamp](https://paradisec-archive.github.io/PARADISEC_workflows/05_digitising_manuscripts.html#velbon-shelf-clamp).
 
 ### Software

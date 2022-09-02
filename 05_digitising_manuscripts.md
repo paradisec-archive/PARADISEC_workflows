@@ -272,7 +272,7 @@ Your export settings for archiving with PARADISEC should be the following:
     </p>
 
 ## Creating access copies of your archival images
-After you have edited and correctly named your archival .tif files, you can create lower resolution access copies as .jpg files. These are easier to share as a smaller-sized file and offer fewer problems in opening with general photo viewing programs. Import all .tif images into bridge, engage the Camera Raw function for batch processing. Alter your export settings to create a much reduced image file (set quality to low or medium, 200 dpi, etc.).
+After you have edited and correctly named your archival .tif files, you can create lower resolution access copies as .jpg files. These are easier to share as a smaller-sized file and offer fewer problems in opening with general photo viewing programs. Import all .tif images into bridge, engage the Camera Raw function for batch processing. Alter your export settings to create a much reduced image file (set quality to low or medium, 300-200 dpi, etc.).
 
 It is also a good idea to create a .pdf of your image files bundled together in a single document. Create one .pdf per notebook, binder or folder. You can use Acrobat's ***Combine Files*** tool along with the lower resolution .jpg versions of your images so that the .pdf is not too large a document.  You can also reduced the size  of the .pdf if your initial one is still very large.
 

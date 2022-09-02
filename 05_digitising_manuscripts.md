@@ -273,7 +273,7 @@ Your export settings for archiving with PARADISEC should be the following:
 ## Low-cost Options
 
 ### Hardware
-* Using a tripod with lights that you can clip onto something offers the least expensive setup. 
+* Using a tripod with lights that you can clip onto a shelf, the tripod legs, or even the back of a chair offers a less expensive setup than using a photo stand. 
 * If you cannot afford an SLR, a compact digital camera similar to the Canon PowerShot G12 mentioned above can certainly perform very well and meet archival standards.
 * If you are not going to use tethering for image capture, try to find a camera that has an articulated LCD screen, not a fixed screen. This will allow you to move the viewfinder to a position to easily see the image before you shoot. You can see an articulated screen in the photo of the Cannon PowerShot above, within the section introducing the [Velbon shelf clamp](https://paradisec-archive.github.io/PARADISEC_workflows/05_digitising_manuscripts.html#velbon-shelf-clamp).
 

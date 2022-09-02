@@ -285,6 +285,13 @@ Your export settings for archiving with PARADISEC should be the following:
      <img width="500" src="images/RawTherapee-screenshot.png">
     </p>
 
+* Another **free** open-source raw image editing tool is [Darktable](https://www.darktable.org/){:target="_blank"}, which also allows for batch editing, though this process is a bit more complicated than in Bridge or RawTherapee.
+
+<p align="center">
+     <img width="500" src="images/Darktable-screenshot.png">
+    </p>
+
+
 ## Additional resources
 Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747){:target="_blank"} Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138
 

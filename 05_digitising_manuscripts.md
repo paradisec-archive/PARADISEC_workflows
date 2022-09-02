@@ -70,7 +70,7 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 | Software for post-production editing | [Adobe Bridge](https://www.adobe.com/au/products/bridge.html){:target="_blank"} |
 
 ><span style="color:DarkBlue">
->**NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software.
+>**NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software. To see a larger version of the photos found on this website, right-click on the image and select the option **Open Image in New Tab**  
 ></span>
 
 ### Cameras

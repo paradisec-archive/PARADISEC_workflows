@@ -23,7 +23,8 @@ These technical workflows and archiving guides are designed to help people with 
 *If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order.*
 
 ## [Getting started with PARADISEC](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html)
-* How to become a PARADISEC user
+* How to become a PARADISEC ***user***
+* How to become a PARADISEC ***depositor***
 * How to start a collection
 * Archiving materials that come from analogue sources vs archiving born-digital materials
 * File-naming for PARADISEC

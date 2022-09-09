@@ -47,21 +47,24 @@ The process of signing up is simple- go to the PARASDISEC catalog web page: [htt
 
 Click on the link in your email to confirm. 
 
-Congratulations, you are now a PARADISEC user! It is recommended that you browse the collections held in PARADISEC so that you can investigate the different ways collections can be organised. Below are some examples:
-* ***PhD thesis:*** [OE1](https://dx.doi.org/10.4225/72/58949afab6af0){:target="_blank"} is a collection of narratives and wordlists that the depositor used in writing their PhD thesis. This includes segmented audio files that are linked to the exemplar utterances within the thesis.
-* ***Field methods course:*** The [MEU1](https://dx.doi.org/10.26278/5e00d67b8be35){:target="_blank"} collection holds all recordings generated during a Linguistics field methods course. Note how the different type of events (classroom recordings vs breakout sessions) are kept together by the nature of the item names.
-* ***Separate collections for each language/dialect/variety:*** Explore two of this depositor's 27 collections, [SDM42](https://catalog.paradisec.org.au/collections/SDM42){:target="_blank"} and [SDM45](http://catalog.paradisec.org.au/collections/SDM45){:target="_blank"}. Each of these collections feature one language variety. There is no limit as to how many collections you can create.
-* ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0){:target="_blank"} collection, the depositor has included recordings of over 25 languages within the one collection. This collection is still growing! 
+Congratulations, you are now a PARADISEC user! 
 
 As a user you can access data in an open-access collection after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page. *Read more about PARADISEC's Conditions of Access [here](https://www.paradisec.org.au/deposit/access-conditions/){:target="_blank"}*.
 
 
 ## How to become a PARADISEC depositor
 
-### STEP 1: To become a PARADISEC depositor, you need to first become a PARADISEC user. 
+### STEP 1: Sign up to become a PARADISEC user
 
-Follow the above instructions and then when you are ready for us to create a collection, contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"}, because only PARADISEC administrators can create a collection in the catalog.
+Follow the above instructions and become a PARADISEC user. Once you have done so, it is recommended that you browse the collections held in PARADISEC so that you can investigate the different ways collections can be organised. Here are some examples of different collections:
 
+* ***PhD thesis:*** [OE1](https://dx.doi.org/10.4225/72/58949afab6af0){:target="_blank"} is a collection of narratives and wordlists that the depositor used in writing their PhD thesis. This includes segmented audio files that are linked to the exemplar utterances within the thesis.
+* ***Field methods course:*** The [MEU1](https://dx.doi.org/10.26278/5e00d67b8be35){:target="_blank"} collection holds all recordings generated during a Linguistics field methods course. Note how the different type of events (classroom recordings vs breakout sessions) are kept together by the nature of the item names.
+* ***Separate collections for each language/dialect/variety:*** Explore two of this depositor's 27 collections, [SDM42](https://catalog.paradisec.org.au/collections/SDM42){:target="_blank"} and [SDM45](http://catalog.paradisec.org.au/collections/SDM45){:target="_blank"}. Each of these collections feature one language variety. There is no limit as to how many collections you can create.
+* ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0){:target="_blank"} collection, the depositor has included recordings of over 25 languages within the one collection. This collection is still growing! 
+
+### STEP 2: Contact PARADISEC
+Once you are ready for us to create a collection, contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"}, because only PARADISEC administrators can create a collection in the catalog.
 
 #### Preliminary exploration of your files
 

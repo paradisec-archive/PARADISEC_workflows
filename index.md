@@ -24,14 +24,13 @@ These technical workflows and archiving guides are designed to help people with 
 
 ## [Getting started with PARADISEC](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html)
 * How to become a PARADISEC ***user***
-* How to become a PARADISEC ***depositor***
-* How to start a collection
+* How to become a PARADISEC ***depositor*** (How to start a new collection with PARADISEC)
 * Archiving materials that come from analogue sources vs archiving born-digital materials
-* File-naming for PARADISEC
+* File-naming requirements for PARADISEC
 * File formats we accept
 
 ## [Metadata & Data management](https://paradisec-archive.github.io/PARADISEC_workflows/03_data_management.html)
-* File naming requirements for PARADISEC
+* File-naming requirements for PARADISEC
 * Metadata entry with PARADISEC-formatted spreadsheets
 * Metadata entry with LaMeta
 <br>

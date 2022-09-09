@@ -25,7 +25,7 @@ H6{color:White !important;}
 # Getting Started with PARADISEC
 
 <p align="center">
-  <img width="500" src="images/PARADISEC-banner.jpg">
+  <img width="700" src="images/PARADISEC-banner.jpg">
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 09 September 2022</span>

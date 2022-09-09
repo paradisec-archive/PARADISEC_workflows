@@ -30,12 +30,10 @@ H6{color:White !important;}
 
 <span style="font-variant:small-caps;">Last updated: 28 October 2021</span>
 
-This page is dedicated to helping you begin the process of getting your materials organised and eventually archived with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures).
+This page outlines how to view/access materials in the archive as a general **PARADISEC user** as well as how to begin the process of getting your materials organised and eventually archived with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures) as a **PARADISEC depositor**.
 
-## STEP 1: Sign up as a user with PARADISEC
-Signing up with PARADISEC means you become a PARADISEC user. As a user you can access data in an open-access collections after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page. *Read more about PARADISEC's Conditions of Access [here](https://www.paradisec.org.au/deposit/access-conditions/){:target="_blank"}*.
-
-You also need to sign up with PARADISEC if you wish to deposit material to the archive. 
+## How to become a PARADISEC user
+In order to view items in the PARADISEC archive, you need to first ***sign up*** and become a PARADISEC user. 
 
 <p align="center">
   <img width="500" src="images/PDSC-Workflow-signin.jpg">
@@ -55,10 +53,12 @@ Congratulations, you are now a PARADISEC user! It is recommended that you browse
 * ***Separate collections for each language/dialect/variety:*** Explore two of this depositor's 27 collections, [SDM42](https://catalog.paradisec.org.au/collections/SDM42){:target="_blank"} and [SDM45](http://catalog.paradisec.org.au/collections/SDM45){:target="_blank"}. Each of these collections feature one language variety. There is no limit as to how many collections you can create.
 * ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0){:target="_blank"} collection, the depositor has included recordings of over 25 languages within the one collection. This collection is still growing! 
 
+As a user you can access data in an open-access collection after agreeing to PARADISEC’s conditions of access, or you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page. *Read more about PARADISEC's Conditions of Access [here](https://www.paradisec.org.au/deposit/access-conditions/){:target="_blank"}*.
 
-## STEP 2: Contact PARADISEC to help you create a new collection
 
-Only PARADISEC administrators can create a collection in the catalog.  When you are ready for us to create a collection, contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"}.
+## How to become a PARADISEC depositor
+
+To become a PARADISEC depositor, you need to first become a PARADISEC user. Follow the above instructions and then when you are ready for us to create a collection, contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"}, because only PARADISEC administrators can create a collection in the catalog.
 
 
 ### Preliminary exploration of your files

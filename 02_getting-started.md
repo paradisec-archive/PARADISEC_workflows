@@ -30,7 +30,7 @@ H6{color:White !important;}
 
 <span style="font-variant:small-caps;">Last updated: 09 September 2022</span>
 
-This page outlines how to view/access materials in the archive as a general **PARADISEC user** as well as how to begin the process of getting your materials organised and eventually archived with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures) as a **PARADISEC depositor**.
+This page outlines how to view/access materials in the archive as a general **PARADISEC user** as well as how to become a **PARADISEC depositor**.
 
 ## How to become a PARADISEC user
 In order to view items in the PARADISEC archive, you need to first ***sign up*** and become a PARADISEC user. 

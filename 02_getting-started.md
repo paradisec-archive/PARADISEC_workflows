@@ -128,11 +128,11 @@ Our system requires all files to adhere to specific file-naming conventions. Thi
 ></span>
 
 
-#### PARADISEC's deposit form
+### STEP 4: Fill out a PARADISEC deposit form for each collection you are creating
 
 You will need to fill out a [deposit form](http://www.paradisec.org.au/PDSCdeposit.pdf){:target="_blank"} that provides PARADISEC with your contact information, access conditions for your collection, including any restrictions. Fill in the form, sign it, scan or photograph it, and email it back to us. We keep this digital record with your collection.
 
-### STEP 4: Send your files to PARADISEC
+### STEP 5: Send your files to PARADISEC
 
 If you are planing to archive digital files with PARADISEC, and your institution is part of the Australian Access Federation (AAF), you can sign up for a [Cloudstor](https://cloudstor.aarnet.edu.au/){:target="_blank"} account. Once you do, you get 1TB of free storage available to you instantly. You can also send us OneDrive, Dropbox, Google Drive links. These options are the best means to transfer files to PARADISEC. If you do not use any of those cloud storage options, but would like to transfer your files this way, contact [PARADISEC](mailto:admin@paradisec.au.org){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"} and we can create a Cloudstor folder for you to use for transferring files to us.
 

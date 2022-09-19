@@ -48,7 +48,7 @@ Click on the link in your email to confirm.
 Congratulations, you are now a PARADISEC user! 
 
 <p>
-  <img src="images/OPEN-final.png" style="display:inline-block; padding-right:10px; width:50px;">As a registered user you can access data in collections having <span style="color:Green"> OPEN ACCESS</span> once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.
+  <img src="images/OPEN-final.png" style="display:inline-block; padding-right:10px; width:50px;">As a registered user you can access data in collections having <span style="color:Green"><b>OPEN ACCESS</b></span> once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.
 </p>
 
 <p>

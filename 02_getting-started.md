@@ -47,17 +47,17 @@ Click on the link in your email to confirm.
 
 Congratulations, you are now a PARADISEC user! 
 
-<p><img src="images/OPEN-final.png"
-style="display:inline-block; padding-right:10px; width:75px; height:42px;">As a user you can access data in collections having <span style="color:Green">**OPEN ACCESS**</span> once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.</p>
-
-<p align="left">
-  <img width="75" src="images/OPEN-final.png">
+<p>
+  <img src="images/OPEN-final.png" style="display:inline-block; padding-right:10px; width:50px; height:20px;">As a registered user you can access data in collections having OPEN ACCESS once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.
 </p>
 
- As a user you can access data in collections having <span style="color:Green">**OPEN ACCESS**</span> once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.
+<p align="left">
+  <img width="50" src="images/OPEN-final.png">
+</p>
+ As a registered user you can access data in collections having <span style="color:Green">**OPEN ACCESS**</span> once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.
 
 <p align="left">
-  <img width="75" src="images/CLOSED-final.png">
+  <img width="50" src="images/CLOSED-final.png">
 If the collection has <span style="color:Red"> **CLOSED ACCESS**</span>, you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.
 </p>
 

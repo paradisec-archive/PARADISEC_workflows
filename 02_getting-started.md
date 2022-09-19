@@ -52,7 +52,7 @@ Congratulations, you are now a PARADISEC user!
 </p>
 
 <p>
-  <img src="images/CLOSED-final.png" style="display:inline-block; padding-right:10px; width:50px; height:25px;">If the collection has <span style="color:Red">CLOSED ACCESS</span>, you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.
+  <img src="images/CLOSED-final.png" style="display:inline-block; padding-right:10px; width:50px; height:25px;">If the collection has <span style="color:Red"><b>CLOSED ACCESS</span></b>, you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page.
 </p>
 
 *Read more about PARADISEC's Conditions of Access [here](https://www.paradisec.org.au/deposit/access-conditions/){:target="_blank"}*.

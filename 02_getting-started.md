@@ -53,8 +53,13 @@ Congratulations, you are now a PARADISEC user!
 
  As a user you can access data in collections having <span style="color:Green">**OPEN ACCESS**</span> once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.
 
-As a user you can access data in collections having <span style="color:Green">**OPEN ACCESS**</span> 
-once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access. If the collection has <span style="color:Red"> **CLOSED ACCESS**</span>, you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page. *Read more about PARADISEC's Conditions of Access [here](https://www.paradisec.org.au/deposit/access-conditions/){:target="_blank"}*.
+<p align="left">
+  <img width="100" src="images/CLOSED-final.png">
+</p>
+
+If the collection has <span style="color:Red"> **CLOSED ACCESS**</span>, you may send a request to access data that has restrictions on viewing by following instructions provided by the collector on their catalog page. 
+
+*Read more about PARADISEC's Conditions of Access [here](https://www.paradisec.org.au/deposit/access-conditions/){:target="_blank"}*.
 
 
 ## How to become a PARADISEC depositor

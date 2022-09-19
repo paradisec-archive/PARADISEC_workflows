@@ -67,22 +67,20 @@ Once you are ready for us to create a collection, contact the PARADISEC admin te
 
 #### Preliminary exploration of your files
 
-Before you contact PARADISEC, take a look at your files and determine how you want your collection(s) organised. Do you need one collection? Or more than one? This is the time for you to reflect upon how you want your material organised in the archive.
+Before you contact PARADISEC, take a look at your files and determine how you want your collection(s) organised. Do you need one collection? Or more than one? This is the time for you to reflect upon how you want your material organised in the archive. What file formats do you have?
 
 #### Information to provide to PARADISEC
 
 Once you have decided which files you would like to archive, come up with a name and description for your collection. As for the Collection ID, PARADISEC administrators can help you come up with this- the collection ID should be a unique identifier (could be your initials in all caps and a digit, or the ISO language code).
 
 *Example collection IDs: **JM1, JCM4, OE1, MEU1, etc.** <br>
-The digit is strongly suggested as it will distinguish your collection from that of someone with the same initials (John Mansfield, Julia Miller, etc), but also allows for multiple collections, should you require, e.g. **JM1, JM2... JM85***.
 
 Summary of information needed when you are ready to contact PARADISEC:
 
 * Collection ID (we will help you come up with this)
 * A brief title of your collection
 * A more detailed description of your collection
-* Funding body (if applicable) (e.g. ARC, ELDP, etc.)
-* Grant identifier (if applicable) (e.g. CoEDL = CE140100041 or Wellsprings = FL130100111)
+* Funding body (if applicable) (e.g. ARC, ELDP, etc.) and grant identifier (if applicable) (e.g. CoEDL = CE140100041 or Wellsprings = FL130100111)
 
 ### STEP 3: Organise materials to be sent to collection
 
@@ -95,13 +93,13 @@ PARADISEC has created a spreadsheet that allows us to automatically create the c
 Once your collection has been created and has been populated with the metadata for your items, you can edit you collection by adding further information directly via the catalog pages. You can add details such as:
 
 * your institutional affiliation
-* you can refine the map by zooming in on the map feature and selecting an area, or set it automatically by selecting the country or language
-* you can define/change access conditions
-* you can even assign editor privileges to a colleague or research assistant to help you update the collection's metadata
+* a more precise map by manually editing your rectangular selection, or set it automatically by selecting the country or language
+* you can change access conditions to individual items
+* you can even assign editor privileges to a colleague or research assistant who may be helping you enrich the collection's metadata
 
 #### PARADISEC's file naming conventions
 
-Now comes the thrilling task of making sure your files are named appropriately. Getting your *archival* file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items within your collection. 
+Getting your *archival* file names in order should come *after* you have created your collection and *after* you have settled on the organisation of your items within your collection, because the collection and item IDs make up part of your file names.
 
 **ANATOMY OF A PARADISEC FILE NAME**<br>
 Our system requires all files to adhere to specific file-naming conventions. This section will step you through the required parts of the filenames.

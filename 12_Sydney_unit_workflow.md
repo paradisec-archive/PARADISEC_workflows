@@ -1,5 +1,5 @@
 ---
-title: Workflow - Sydney Unit
+title: Workflow - Sydney Unit (USyd)
 layout: default
 published: true
 nav_order: 12

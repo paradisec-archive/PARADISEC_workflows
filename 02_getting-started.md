@@ -28,7 +28,7 @@ H6{color:White !important;}
   <img width="700" src="images/PARADISEC-banner.jpg">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 19 September 2022</span>
+<span style="font-variant:small-caps;">Last updated: 28 September 2022</span>
 
 ## How to become a PARADISEC user
 In order to view items in the PARADISEC archive, you need to first ***sign up*** and become a PARADISEC user. 

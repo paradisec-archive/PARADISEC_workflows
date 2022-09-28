@@ -261,8 +261,8 @@ p { margin-top: 1em; margin-bottom: 1em; }
 
 a { color: #7253ed; text-decoration: none; }
 
-a:not([class]) { text-decoration: none; background-image: linear-gradient(#eeebee 0%, #eeebee 100%); background-repeat: repeat-x; background-position: 0 100%; background-size: 1px 1px; }
-a:not([class]):hover { background-image: linear-gradient(rgba(114, 83, 237, 0.45) 0%, rgba(114, 83, 237, 0.45) 100%); background-size: 1px 1px; }
+a:not([class]) { text-decoration: underline; text-decoration-color: #eeebee; text-underline-offset: 2px; }
+a:not([class]):hover { text-decoration-color: rgba(114, 83, 237, 0.45); }
 
 code { font-family: "SFMono-Regular", menlo, consolas, monospace; font-size: 0.75em; line-height: 1.4; }
 
@@ -581,7 +581,7 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 .highlight .table-wrapper { padding: 0; margin: 0; border: 0; box-shadow: none; }
 .highlight .table-wrapper td, .highlight .table-wrapper pre { font-size: 11px !important; min-width: 0; padding: 0; background-color: #f5f6fa; border: 0; }
 @media (min-width: 31.25rem) { .highlight .table-wrapper td, .highlight .table-wrapper pre { font-size: 12px !important; } }
-.highlight .table-wrapper td.gl { padding-right: 0.75rem; }
+.highlight .table-wrapper td.gl { width: 1em; padding-right: 0.75rem; }
 .highlight .table-wrapper pre { margin: 0; line-height: 2; }
 
 .code-example, .listingblock > .title { padding: 0.75rem; margin-bottom: 0.75rem; overflow: auto; border: 1px solid #eeebee; border-radius: 4px; }

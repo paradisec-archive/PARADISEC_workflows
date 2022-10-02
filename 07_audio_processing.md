@@ -70,11 +70,11 @@ Resampling audio using Audacity	Manipulating audio with FFmpeg
 
 ## Additional resources
 
-Prentice, W. and Gaustad, L. (eds.). (2017). **IASA-TC03: The Safeguarding of the Audio Heritage: Ethics, Principles and Preservation Strategy**, 4th edition (IASA Technical Publications IASA-TC03; Technical Committee Standards, Recommended Practices, and Strategies, p. 21). International Association of Sound Archives and Audiovisual Archives. [https://www.iasa-web.org/tc03/ethics-principles-preservation-strategy]( https://www.iasa-web.org/tc03/ethics-principles-preservation-strategy)
+Prentice, W. and Gaustad, L. (eds.). (2017). **IASA-TC03: The Safeguarding of the Audio Heritage: Ethics, Principles and Preservation Strategy**, 4th edition (IASA Technical Publications IASA-TC03; Technical Committee Standards, Recommended Practices, and Strategies, p. 21). International Association of Sound Archives and Audiovisual Archives. [https://www.iasa-web.org/tc03/ethics-principles-preservation-strategy]( https://www.iasa-web.org/tc03/ethics-principles-preservation-strategy){:target="_blank"}
 
-IASA-TC04: Guidelines on the production and preservation on digital audio objects: Standards, recommended practices and strategies, 2nd edition (IASA Technical Publications IASA-TC04; Technical Committee Standards, Recommended Practices, and Strategies, p. 156). (2009). International Association of Sound and Audiovisual. https://www.iasa-web.org/tc04/audio-preservation 
+Bradley, K. (ed.). (2009). **IASA-TC04: Guidelines on the production and preservation on digital audio objects: Standards, recommended practices and strategies**, 2nd edition (IASA Technical Publications IASA-TC04; Technical Committee Standards, Recommended Practices, and Strategies, p. 156).  International Association of Sound and Audiovisual. [https://www.iasa-web.org/tc04/audio-preservation](https://www.iasa-web.org/tc04/audio-preservation){:target="_blank"}
 
-IASA-TC05: Handling and Storage of Audio and Video Carriers. Dietrich Schüller and Albrecht Häfner (eds.). First edition. (2014). https://www.iasa-web.org/handling-storage-tc05 
+Schüller, D. and Häfner, A. (eds.). (2014). **IASA-TC05: Handling and Storage of Audio and Video Carriers**. First edition. [https://www.iasa-web.org/handling-storage-tc05](https://www.iasa-web.org/handling-storage-tc05). {:target="_blank"}
 
 ⬆️ [Back to top](#)
 

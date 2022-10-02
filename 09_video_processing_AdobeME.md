@@ -196,6 +196,7 @@ The process for creating the .MP4s is simillar to that of the .MXF as discussed 
 
 ## Additional resources
 
+Fleischhauer, C., & Bradley, K. (2019). **IASA-TC06: Guidelines for the Preservation of Video Recordings**, v2019 (IASA Technical Publications IASA-TC06; Technical Committee Standards, Recommended Practices, and Strategies, p. 336). International Association of Sound and Audiovisual Archives. [https://www.iasa-web.org/tc06/guidelines-preservation-video-recordings](https://www.iasa-web.org/tc06/guidelines-preservation-video-recordings).{:target="_blank"}
 
 ⬆️ [Back to top](#)
 

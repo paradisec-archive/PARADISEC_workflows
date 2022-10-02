@@ -37,7 +37,9 @@ In order to view items in the PARADISEC archive, you need to first ***sign up***
   <img width="500" src="images/PDSC-Workflow-signin.jpg">
 </p>
 
-The process of signing up is simple; however, you do need to have an email address.  Go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/){:target="_blank"}, and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, 
+The process of signing up is simple; however, you do need to have an email address. If you do not have an email account, [contact us](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html#contact-us) at PARADISEC and we can help you.
+
+ Go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/){:target="_blank"}, and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, 
 
 ><span style="color:DarkBlue">
 >*"A message with a confirmation link has been sent to your email address. Please open the link to activate your account"*
@@ -46,8 +48,6 @@ The process of signing up is simple; however, you do need to have an email addre
 Click on the link in your email to confirm. 
 
 Congratulations, you are now a PARADISEC user! 
-
-If you do not have an email account, [contact us](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html#contact-us) at PARADISEC and we can help you.
 
 <p>
   <img src="images/OPEN-final.png" style="display:inline-block; padding-right:10px; width:50px;">As a registered user you can access data in collections having <span style="color:Green"><b>OPEN ACCESS</b></span> once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.

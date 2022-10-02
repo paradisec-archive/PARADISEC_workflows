@@ -24,9 +24,6 @@ H6{color:White !important;}
 
 
 # Audio Digitising of Analogue Tapes
-<p align="center">
-           🚧 This page is currently under construction 🚧        
-</p>
 
 <p align="center">
   <img width="500" src="images/rev-rev-vox.gif">
@@ -302,3 +299,5 @@ IASA Technical Committee, [Guidelines on the Production and Preservation of Digi
 [Sound Directions: Best Practice for Audio Preservation](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml){:target="_blank"} (2007) Mike Casey & Bruce Gordon
 
 ⬆️ [Back to top](#)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>{:target="_blank"}.

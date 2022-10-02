@@ -134,3 +134,5 @@ Seyfeddinipur, Mandana. & Rau, Felix. (2020). [Keeping it real: Video data in la
 Federal Agencies Digitization Guidelines Initiative (FADGI). (2014). [Creating and Archiving Born Digital Video, Part III: High Level Recommended Practices](http://www.digitizationguidelines.gov/guidelines/FADGI_BDV_p3_20141202.pdf){:target="_blank"}. The FADGI Audio-Visual Working Group, v1.1, 2 December 2014.
 
 ⬆️ [Back to top](#)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>{:target="_blank"}.

@@ -34,7 +34,7 @@ H6{color:White !important;}
 </p>
 <br>
 
-<span style="font-variant:small-caps;">Last updated: 24 May 2022</span>
+<span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
 
 ## PARADISEC audio processing workflow for archiving
 This workflow is targeted toward born-digital audio files; however, should the need arise to adjust audio files originating from various legacy formats, this workflow will help.  
@@ -64,3 +64,5 @@ If the original video (.avi, .mts, .mp4, .mov, etc.) has only one audio channel,
 Resampling audio using Audacity	Manipulating audio with FFmpeg
 
 ⬆️ [Back to top](#)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>{:target="_blank"}.

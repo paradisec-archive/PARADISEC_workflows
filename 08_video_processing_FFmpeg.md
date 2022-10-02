@@ -30,7 +30,7 @@ H6{color:White !important;}
 
 *This technical guide was created as part of the archiving workflow for PARADISEC. Some of the content may not be relevant for general users.* 
 
-<span style="font-variant:small-caps;">Last updated: 15 September 2021</span>
+<span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
 
 
 FFmpeg is an efficient and cost effective way to process video. It is done by using a command line interface (CLI), but once the workflow is set up, it is relatively simple.
@@ -117,3 +117,5 @@ On Or Off. Tick the box for “Windows Subsystem for Linux” option, and then c
 
 
 ⬆️ [Back to top](#)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>{:target="_blank"}.

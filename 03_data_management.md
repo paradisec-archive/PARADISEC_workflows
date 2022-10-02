@@ -31,7 +31,7 @@ H6{color:White !important;}
 
 <span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
 
-Much of the information on this page is geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures); some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive). However, the data management advice can be helpful even during your data collection phase.
+The information below regarding Metadata tools is mostly geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures); some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive). However, the data management advice is designed to help you think about data organisation prior to archiving during your data collection phase.
 
 ## Data management
 
@@ -113,3 +113,5 @@ Hatton, John, Gary Holton, Mandana Seyfeddinipur, Nick Thieberger. 2021. Lameta 
 Thieberger, N. and Berez, A. (2011). Linguistic Data Management. In N. Thieberger (Ed.), *The Oxford Handbook of Linguistic Fieldwork*. Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780199571888.013.0005](https://doi.org/10.1093/oxfordhb/9780199571888.013.0005){:target="_blank"}
 
 ⬆️ [Back to top](#)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>{:target="_blank"}.

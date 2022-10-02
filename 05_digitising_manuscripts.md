@@ -305,7 +305,7 @@ It is also a good idea to create a .pdf of your image files bundled together in 
 <hr style="border:1px solid grey">
 
 ## Additional resources
-Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747){:target="_blank"} Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138
+Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) **Remote Capture: Digitising Documentary Heritage in Challenging Locations**. Open Book Publishers, Open Field Guides Series, vol. I [https://doi:10.11647/OBP.0138](https://www.openbookpublishers.com/books/10.11647/obp.0138){:target="_blank"}
 
 ⬆️  [Back to top](#)
 

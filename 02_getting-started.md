@@ -155,13 +155,5 @@ The University of Sydney <br>
 NSW 2006 AUSTRALIA <br>
 Phone: +61 2 9351 1279*** <br>
 
-Or to the CoEDL Data Manager at:
-
-***ATTN: CoEDL Data Manager <br>
-The ARC Centre of Excellence for the Dynamics of Language <br>
-College of Asia Pacific <br>
-The Australian National University <br>
-Coombs Building, 9 Fellows Road <br>
-Acton 2601 ACT AUSTRALIA*** <br>
 
 ⬆️ [Back to top](#)

@@ -172,7 +172,7 @@ as well as in the **player mode**
   <img width="500" src="images/QCTools-player.png">
 </p>
 
-Visit this [QCTools page](https://mediaarea.net/QCTools/Playback_Filters) for descriptions of their playback filters.
+Visit this [QCTools page](https://mediaarea.net/QCTools/Playback_Filters){:target="_blank"} for descriptions of their playback filters.
 
 
 ### BWF MetaEdit

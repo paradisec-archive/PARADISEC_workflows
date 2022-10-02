@@ -72,19 +72,18 @@ Follow the above instructions and become a PARADISEC user. Once you have done so
 * ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0){:target="_blank"} collection, the depositor has included recordings of over 25 languages within the one collection. This collection is still growing! 
 
 ### STEP 2: Contact PARADISEC
-Once you are ready to create a collection, contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"}.
 
-#### Preliminary exploration of your files
+Once you have completed the tasks outlined below contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} to get a collection started.
 
-Before you contact PARADISEC, take a look at your files and determine how you want your material organised. Do you need one collection? Or more than one? Make note of the different file formats you have.
+#### Take a quick look at what you are intending to archive
+
+ * How you want your material organised? 
+ * Do you need one collection? Or more than one?
+ * Make note of the different file formats you have.
 
 #### Information to provide to PARADISEC
 
-Once you have decided which files you would like to archive, come up with a name and description for your collection. As for the Collection ID, PARADISEC administrators can help you come up with this- the collection ID should be a unique identifier (could be your initials in all caps and a digit, or the ISO language code).
-
-*Example collection IDs:* ***JM1, JCM4, OE1, MEU1, etc.*** <br>
-
-Summary of information needed when you are ready to contact PARADISEC:
+Below is a list of information you'll need to provide PARADISEC when you are ready to start a collection:
 
 * A brief title of your collection
 * A more detailed description of your collection

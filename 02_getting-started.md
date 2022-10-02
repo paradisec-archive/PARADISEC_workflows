@@ -64,7 +64,7 @@ Congratulations, you are now a PARADISEC user!
 
 ### STEP 1: Sign up to become a PARADISEC user and explore the archive
 
-Follow the above instructions and become a PARADISEC user. Once you have done so, it is recommended that you browse the collections held in PARADISEC so that you can observe the different ways they can be organised. Here are some examples of different collections:
+Follow the above instructions and become a PARADISEC user. Once you have done so, it is recommended that you browse the collections held in PARADISEC so that you can explore the different ways they can be organised. Here are some examples of different collections:
 
 * ***PhD thesis:*** [OE1](https://dx.doi.org/10.4225/72/58949afab6af0){:target="_blank"} is a collection of narratives and wordlists that the depositor used in writing their PhD thesis. This includes segmented audio files that are linked to the exemplar utterances within the thesis.
 * ***Field methods course:*** The [MEU1](https://dx.doi.org/10.26278/5e00d67b8be35){:target="_blank"} collection holds all recordings generated during a Linguistics field methods course. Note how the different type of events (classroom recordings vs breakout sessions) are kept together by the nature of the item names.

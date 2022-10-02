@@ -286,7 +286,7 @@ the magnetic tape begins almost reach the tape heads.
       **NOTE:** DO NOT HIT REWIND. Use the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautious way to treat the tape
      ></span>
 
-
+## Low-cost Options
 
 <br>
 <hr style="border:1px solid grey">

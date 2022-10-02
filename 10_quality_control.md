@@ -183,6 +183,10 @@ Visit this [QCTools page](https://mediaarea.net/QCTools/Playback_Filters) for de
 
 ## Other tools
 
+<br>
+<hr style="border:1px solid grey">
+
+## Additional resources
 
 ⬆️ [Back to top](#)
 

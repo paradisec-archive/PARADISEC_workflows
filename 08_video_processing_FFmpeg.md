@@ -114,7 +114,12 @@ On Or Off. Tick the box for “Windows Subsystem for Linux” option, and then c
 
 ## Anatomy of the **ffmpeg** transcode command
 
+## Low-cost Options
 
+<br>
+<hr style="border:1px solid grey">
+
+## Additional resources
 
 ⬆️ [Back to top](#)
 

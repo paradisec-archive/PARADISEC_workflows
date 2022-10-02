@@ -189,12 +189,12 @@ The **H.264/MPEG-4 AVC** is a standard format that is widely accepted (easily tr
 
 The process for creating the .MP4s is simillar to that of the .MXF as discussed above, so this section will only provide the actual settings and not 
 
+## Low-cost Options
+
 <br>
 <hr style="border:1px solid grey">
 
 ## Additional resources
-
-
 
 
 ⬆️ [Back to top](#)

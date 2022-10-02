@@ -292,11 +292,11 @@ the magnetic tape begins almost reach the tape heads.
 <hr style="border:1px solid grey">
 
 ## Additional Resources
-Blewer, A. (2020). **Pragmatic Audiovisual Preservation**, DPC Technology Watch Report, p. 45. Digital Preservation Coalition. [https://doi.org/10.7207/twr20-10](https://doi.org/10.7207/twr20-10){:target="_blank"}
+Blewer, A. (2020). **Pragmatic Audiovisual Preservation**, DPC Technology Watch Report, p. 45. Digital Preservation Coalition. [https://doi.org/10.7207/twr20-10](https://doi.org/10.7207/twr20-10){:target="_blank"}.
 
 Bradley, K. (ed.). (2009). **IASA-TC04: Guidelines on the production and preservation on digital audio objects: Standards, recommended practices and strategies**, 2nd edition (IASA Technical Publications IASA-TC04; Technical Committee Standards, Recommended Practices, and Strategies, p. 156).  International Association of Sound and Audiovisual. [https://www.iasa-web.org/tc04/audio-preservation](https://www.iasa-web.org/tc04/audio-preservation){:target="_blank"}
 
-Casey, M., & Gordon, B. (2007). **Sound Directions: Best Practices for Audio Preservation**. Sound Directions. [http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml){:target="_blank"}
+Casey, M., & Gordon, B. (2007). **Sound Directions: Best Practices for Audio Preservation**. Sound Directions. [http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml){:target="_blank"}.
 
 ⬆️ [Back to top](#)
 

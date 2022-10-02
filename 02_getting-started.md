@@ -28,7 +28,7 @@ H6{color:White !important;}
   <img width="700" src="images/PARADISEC-banner.jpg">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 28 September 2022</span>
+<span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
 
 ## How to become a PARADISEC user
 In order to view items in the PARADISEC archive, you need to first ***sign up*** and become a PARADISEC user. 
@@ -46,6 +46,8 @@ The process of signing up is simple; however, you do need to have an email addre
 Click on the link in your email to confirm. 
 
 Congratulations, you are now a PARADISEC user! 
+
+If you do not have an email account, [contact us](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started/Contact_Us.html) at PARADISEC and we can help you.
 
 <p>
   <img src="images/OPEN-final.png" style="display:inline-block; padding-right:10px; width:50px;">As a registered user you can access data in collections having <span style="color:Green"><b>OPEN ACCESS</b></span> once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.
@@ -146,10 +148,12 @@ You can also use Dropbox, Google Drive or OneDrive.
 
 If uploading files to a cloud service is not possible due to a lack of computer access or poor internet connections, you can post a hard drive of your materials to PARADISEC at:
 
+#### Contact Us
 ***PARADISEC <br>
 Room 3019, Sydney Conservatorium of Music C41 <br>
 The University of Sydney <br>
-NSW 2006 AUSTRALIA*** <br>
+NSW 2006 AUSTRALIA <br>
+Phone: +61 2 9351 1279*** <br>
 
 Or to the CoEDL Data Manager at:
 

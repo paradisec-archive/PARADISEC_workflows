@@ -115,7 +115,7 @@ Open Terminal and navigate to the directory where your videos and the *Options.t
 
 Then type the following into the terminal:
 
-    MediaInfo --Output=file://options.txt /Volumes/"YourDirectory" \*.* > output.csv
+    MediaInfo --Output=file://options.txt /Volumes/"YourDirectory" \*.\* > output.csv
 
 Unfortunately, this will output a .csv without headers for the columns. My fix for this: I have a separate .csv saved with just the headers to paste in each newly exported report.
 <br>

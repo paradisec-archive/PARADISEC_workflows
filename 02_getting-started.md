@@ -72,7 +72,7 @@ Follow the above instructions and become a PARADISEC user. Once you have done so
 * ***Many languages in one collection:*** In the [DD1](https://dx.doi.org/10.4225/72/56E8248563EE0){:target="_blank"} collection, the depositor has included recordings of over 25 languages within the one collection. This collection is still growing! 
 
 ### STEP 2: Contact PARADISEC
-Once you are ready for us to create a collection, contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} or the [CoEDL Data Manager](mailto:julia.miller@anu.edu.au){:target="_blank"}, because only PARADISEC administrators can create a collection in the catalog.
+Once you are ready for us to create a collection, contact the PARADISEC admin team at [admin@paradisec.org.au](mail.to:admin@paradisec.org.au){:target="_blank"} because only PARADISEC administrators can create a collection in the catalog.
 
 #### Preliminary exploration of your files
 

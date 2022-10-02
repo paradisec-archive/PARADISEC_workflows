@@ -37,9 +37,9 @@ In order to view items in the PARADISEC archive, you need to first ***sign up***
   <img width="500" src="images/PDSC-Workflow-signin.jpg">
 </p>
 
-The process of signing up is simple; however, you need to have an email address. If you do not have an email account, [contact us](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html#contact-us) at PARADISEC and we can help you.
+The process of signing up on our website is simple; however, you need to have an email address. If you do not have an email account, [contact us](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html#contact-us) at PARADISEC and we can help you.
 
- Go to the PARASDISEC catalog web page: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/){:target="_blank"}, and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account, 
+ Go to the PARASDISEC catalog website: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/){:target="_blank"}, and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account: 
 
 ><span style="color:DarkBlue">
 >*"A message with a confirmation link has been sent to your email address. Please open the link to activate your account"*

@@ -47,7 +47,7 @@ Click on the link in your email to confirm.
 
 Congratulations, you are now a PARADISEC user! 
 
-If you do not have an email account, [contact us](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started/Contact_Us.html) at PARADISEC and we can help you.
+If you do not have an email account, [contact us](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html#/contact-us.html) at PARADISEC and we can help you.
 
 <p>
   <img src="images/OPEN-final.png" style="display:inline-block; padding-right:10px; width:50px;">As a registered user you can access data in collections having <span style="color:Green"><b>OPEN ACCESS</b></span> once you sign in. Each new open-access collection you visit, you will need to agree to PARADISEC’s conditions of access.

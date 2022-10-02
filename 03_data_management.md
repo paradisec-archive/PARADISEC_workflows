@@ -29,9 +29,9 @@ H6{color:White !important;}
   <img width="500" src="images/banner-notebooks.jpg">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 22 October 2021</span>
+<span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
 
-Much of this information is geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures), but some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive).
+Much of the information on this page is geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures); some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive), or even if you haven't yet set a plan for archiving.
 
 ## Data management
 

@@ -31,7 +31,7 @@ H6{color:White !important;}
 
 <span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
 
-Much of the information on this page is geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures); some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive), or even if you haven't yet set a plan for archiving.
+Much of the information on this page is geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures); some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive). However, the data management advice can be helpful even during your data collection phase.
 
 ## Data management
 

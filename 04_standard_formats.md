@@ -29,7 +29,7 @@ H6{color:White !important;}
   <img height="300" src="images/rainbow-zoom.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 09 November 2021</span>
+<span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
 
 ## Standard formats for archiving with PARADISEC
 The tables below contain the file formats we accept from depositors and the final formats that go into the archive. If you have a format other than those listed, please contact us so we can advise you on what can be done.
@@ -37,7 +37,7 @@ The tables below contain the file formats we accept from depositors and the fina
 
 <br>
 
-| Media  |  Media formats PARADISEC will accept   | 
+| Media  |  Media formats PARADISEC accepts   | 
 | :---   | :---                                        | 
 | Audio  |  .wav, .aiff, .m4a .mp3<span style="color:DarkBlue"><sup>1</sup></span> *(96khz, 24bit is our archival target; however 48khz, 24bit, or as close to the archival standard as possible will be accepted)* |
 | Video  |  .mts (AVCHD), .avi, .mov, .m4v, .dv, .mpg<span style="color:DarkBlue"><sup>1</sup></span> |
@@ -76,8 +76,9 @@ For photographic negative or slide scans TIF, 600 dpi, 4000 pixels on the longes
 
 <br>
 <br>
+
 #### Processing your own media
-If you would like to save money (see PARADISEC's page on [Costing a deposit](https://www.paradisec.org.au/deposit/costing-a-deposit/)) or speed up the archiving process, you may provide us with audio files that are already sampled to 96kHz/24bit or video files that are .mp4 (H.264 codec), you can refer to the following pages: [Audio processing](https://paradisec-archive.github.io/PARADISEC_workflows/07_audio_processing.html){:target="_blank"} and [Video Processing using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}.
+If you would like to save money (see PARADISEC's page on [Costing a deposit](https://www.paradisec.org.au/deposit/costing-a-deposit/) or speed up the archiving process, you may provide us with audio files that are already sampled to 96kHz/24bit or video files that are .mp4 (H.264 codec), you can refer to the following pages: [Audio processing](https://paradisec-archive.github.io/PARADISEC_workflows/07_audio_processing.html){:target="_blank"} and [Video Processing using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}.
 
 <br>
 

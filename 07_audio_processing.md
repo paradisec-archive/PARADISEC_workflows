@@ -70,6 +70,12 @@ Resampling audio using Audacity	Manipulating audio with FFmpeg
 
 ## Additional resources
 
+Prentice, W. and Gaustad, L. (eds.). (2017). **IASA-TC03: The Safeguarding of the Audio Heritage: Ethics, Principles and Preservation Strategy**, 4th edition (IASA Technical Publications IASA-TC03; Technical Committee Standards, Recommended Practices, and Strategies, p. 21). International Association of Sound Archives and Audiovisual Archives. [https://www.iasa-web.org/tc03/ethics-principles-preservation-strategy]( https://www.iasa-web.org/tc03/ethics-principles-preservation-strategy)
+
+IASA-TC04: Guidelines on the production and preservation on digital audio objects: Standards, recommended practices and strategies, 2nd edition (IASA Technical Publications IASA-TC04; Technical Committee Standards, Recommended Practices, and Strategies, p. 156). (2009). International Association of Sound and Audiovisual. https://www.iasa-web.org/tc04/audio-preservation 
+
+IASA-TC05: Handling and Storage of Audio and Video Carriers. Dietrich Schüller and Albrecht Häfner (eds.). First edition. (2014). https://www.iasa-web.org/handling-storage-tc05 
+
 ⬆️ [Back to top](#)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>{:target="_blank"}.

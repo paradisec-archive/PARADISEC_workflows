@@ -30,7 +30,7 @@ H6{color:White !important;}
 
 
 <p align="center">
-  <img width="500" src="images/Reel-BW-gh-page.jpg" alt="PARADISEC-reel-to-reel">
+  <img width="700" src="images/Reel-BW-gh-page.jpg" alt="PARADISEC-reel-to-reel">
   </p>
 
 <span style="font-variant:small-caps;">Last updated: 21 July 2022</span>

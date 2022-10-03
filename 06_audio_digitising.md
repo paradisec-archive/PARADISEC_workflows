@@ -310,7 +310,7 @@ Both of these options allow you to capture a stereo audio file at 96kHz/24bit an
 ### Equipment
 
 #### Alternative to the AD/DA Converter
-As a stand-in for the digital converter mentioned above, you can use an audio recorder. Zoom recording devices are great tools to use in data collection, and if you already have one, you can also use it for digitising.  
+As a stand-in for the digital converter mentioned above, you can use an audio recorder. Zoom recording devices are great tools to use in data collection, and if you already have one, you can also use it for digitising. The Zoom offers an audio interface (Audio I/F) which connects to a computer via USB. 
 
 | Audio recorder | Features             |
 | :---              | :---              |
@@ -319,23 +319,29 @@ As a stand-in for the digital converter mentioned above, you can use an audio re
 
 To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. 
 
-Pictured below ia a Panasonic shoe-box style tape player connected to a Zoom H4N Pro (cable configueation: 3.5mm headphone jack output from the Panasonic to an input mic of the Zoom H4N Pro using a 6.35mm phone adapter). The Zoom is then attached to a laptop via the Audio I/F USB interface of the Zoom device. This allowed me to use the Wavepad software to record the audio. This option is limited to 44 or 48kHz sampling rates.
+Pictured below ia a Panasonic shoe-box style tape player connected to a Zoom H4N Pro (cable configueation: 3.5mm headphone jack output from the Panasonic to an input mic of the Zoom H4N Pro using a 6.35mm phone adapter). The Zoom is then attached to a laptop via the Audio I/F USB option. Recording was done using Wavepad software. This configuration with the Zoom only allows a 44.1kHz or 48kHz sampling rate. 
 
 
   <p align="center">
        <img width="500" src="images/lowcost-digi-shoebox-tape-player.jpg">
      </p>
 
-The other playback device I found was a Marantz field recorder. This had two output options, a 6.35mm phone jack and RCA output.
+Below is a Marantz field recorder. This had two output options, a 6.35mm phone jack and RCA output. 
 
   <p align="center">
        <img width="500" src="images/lowcost-digi-marantz.jpg">
      </p>
 
+The RCA oputput (using an RCA to 3.5mm) and the same Zoom USB-to-laptop-and-Wavepad configuration as above also yielded a mono recording. 
+
+Connecting the Marantz to the Zoom H4N Pro to record directly to the SD card, rather than using Wavepad yielded a stereo recording. For this, the output 6.35mm phone jack for the Marantz is configured for stereo. This was then connected to the 3.5mm mic input on the back of the Zoom H4N Pro. This mic input is also stereo. The audio was recorded as a stereo 96Khz, 24bit .wav file.
+
+  <p align="center">
+       <img width="500" src="images/direct-to-zoom-FINAL.jpg">
+     </p>
 
 
-
-Both of these devices have output jacks for headphones. The Panasonic output is 3.5mm and is configured for mono output only. If you are using a tape player that has a mono headphone jack, ***you will not capture the stereo content of the cassette***. There are various ways you can **simulate** a stereo signal, including copying the content of the one channel into a second channel. This is NOT true stereo and will sound a bit flat as compared to the original stereo signal.
+Remember, if you are using a tape player that has a mono headphone jack, ***you will not capture the stereo content of the cassette***. There are various ways you can **simulate** a stereo signal, including copying the content of the one channel into a second channel. This is NOT true stereo and will sound a bit flat as compared to the original stereo signal.
 
 Another option is to do as above- copy the contents of one channel into a second channel, then select one of these channels and add an off-set of 25-40ms to it. Esentially, you are shifting one channel to play slightly later than the other channel. You perceive a richer signal then when the two identical channels are synchronised. This phenomenon os called the Has effect. To read more about the **Haas effect** follow the links [here](http://www.benvesco.com/blog/mixing/2008/turn-a-mono-track-into-rich-stereo/){:target="_blank"} and [here](https://en.wikipedia.org/wiki/Precedence_effect){:target="_blank"}. Again, this is NOT true stereo.
 

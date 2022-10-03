@@ -308,12 +308,24 @@ Steinberg Wavelab is a very powerful studio software for audio capture and editi
 Both of these options allow you to capture a stereo audio file at 96kHz/24bit and do post-production on the files you have created, cutting off long silences at the beginning or end of the files, boosting the audio gain if volume is too low, etc.
 
 ### Equipment
+
+#### Alternative to the AD/DA Converter
+As a stand-in for the digital converter mentioned above, you can use an audio recorder. Zoom recording devices are great tools to use in data collection, and if you already have one, you can also use it for digitising.  
+
+| Audio recorder | Features             |
+| :---              | :---              |
+| Zoom H4N Pro <br> [Link](https://zoomcorp.com/en/jp/handy-recorders/handheld-recorders/h4n-pro/){:target="_blank"}       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, 3.5mm mic input, powered by 2 AA batteries or USB, records to SD/SDHC cards |
+
+
 To be able to digitise a tape, you need to find a playback device. These are increasingly getting harder to source. I managed to locate a Panasonic shoe-box style tape player and a Marantz field recorder to trial a digitising set-up.
 
 Both of these devices have an 3.5mm output jack for headphones. The Panasonic output is configured for mono output only. If you are using a tape player that has a mono headphone jack, you will not capture the stereo content of the cassette. There are various ways you can simulate a stereo signal, including copying the content of the one channel into a second channel. This is NOT true stereo and will sound a bit flat as compared to the original stereo signal.
 
 Another option is to do as above, but selection one of the channels and adding an off-set of 25-40ms. to one of the channels. To read more about the **Haas effect** follow the links [here](http://www.benvesco.com/blog/mixing/2008/turn-a-mono-track-into-rich-stereo/){:target="_blank"} and [here](https://en.wikipedia.org/wiki/Precedence_effect){:target="_blank"}.
 
+><span style="color:DarkBlue">
+>**Note:** This is ***NOT*** archival practice. However, if you are wanting to make available tapes to language communities, this can add a richness that you would not be able to get if your equipment did not have a stereo output.
+></span>
 
 
 

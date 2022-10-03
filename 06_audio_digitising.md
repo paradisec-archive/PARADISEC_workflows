@@ -289,7 +289,26 @@ the magnetic tape begins almost reach the tape heads.
 ## Low-cost Options
 The equipment and software mentioned above have been selected to adhere to best practice in digital preservation and archiving as set out by IASA. However, it is very a costly set-up. Below are some options for audio cassette digitising that recognise the need for standards, but also recognise that preservation (and access to the tape content) is paramount.
 
-### 
+### Software
+Steinberg Wavelab is a very powerful studio software for audio capture and editing. However there are a couple of free options that are available for both audio recording and editing that are also easy to use: 
+
+* [NCH Wavepad](https://www.nch.com.au/wavepad/index.html)
+
+    <p align="center">
+       <img width="500" src="images/wavepad.jpg">
+     </p>
+
+
+* [Ocenaudio](https://www.ocenaudio.com/en/startpage)
+
+    <p align="center">
+       <img width="500" src="images/ocenaudio.jpg">
+     </p>
+
+Both of these options allow you to capture the ausio signal at 96kHz/24bit. You can also do pot-production on the files you have created, cutting off long silences at the beginning or end of the files, boosting the audio gain if volume is too low, etc.
+
+###
+
 
 <br>
 <hr style="border:1px solid grey">

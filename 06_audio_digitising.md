@@ -312,7 +312,9 @@ To be able to digitise a tape, you need to find a playback device. These are inc
 
 Both of these devices have an 3.5mm output jack for headphones. The Panasonic output is configured for mono output only. If you are using a tape player that has a mono headphone jack, you will not capture the stereo content of the cassette. There are various ways you can simulate a stereo signal, including copying the content of the one channel into a second channel. This is NOT true stereo and will sound a bit flat as compared to the original stereo signal.
 
-Another option is to do as above, but selection one of the channels and adding an off-set
+Another option is to do as above, but selection one of the channels and adding an off-set of 25-40ms. to one of the channels. To read more about the **Haas effect** follow the links [here](http://www.benvesco.com/blog/mixing/2008/turn-a-mono-track-into-rich-stereo/){:target="_blank"} and [here](https://en.wikipedia.org/wiki/Precedence_effect){:target="_blank"}.
+
+
 
 
 

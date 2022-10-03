@@ -319,14 +319,17 @@ As a stand-in for the digital converter mentioned above, you can use an audio re
 
 To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. I managed to locate a Panasonic shoe-box style tape player and a Marantz field recorder to trial a digitising set-up.
 
-Both of these devices have an 3.5mm output jack for headphones. The Panasonic output is configured for mono output only. If you are using a tape player that has a mono headphone jack, you will not capture the stereo content of the cassette. There are various ways you can simulate a stereo signal, including copying the content of the one channel into a second channel. This is NOT true stereo and will sound a bit flat as compared to the original stereo signal.
+Both of these devices have output jacks for headphones. The Panasonic output is 3.5mm and is configured for mono output only. If you are using a tape player that has a mono headphone jack, ***you will not capture the stereo content of the cassette***. There are various ways you can **simulate** a stereo signal, including copying the content of the one channel into a second channel. This is NOT true stereo and will sound a bit flat as compared to the original stereo signal.
 
-Another option is to do as above, but selection one of the channels and adding an off-set of 25-40ms. to one of the channels. To read more about the **Haas effect** follow the links [here](http://www.benvesco.com/blog/mixing/2008/turn-a-mono-track-into-rich-stereo/){:target="_blank"} and [here](https://en.wikipedia.org/wiki/Precedence_effect){:target="_blank"}.
+Another option is to do as above- copy the contents of one channel into a second channel, then select one of these channels and add an off-set of 25-40ms to it. Esentially, you are shifting one channel to play slightly later than the other channel. You perceive a richer signal then when the two identical channels are synchronised. This phenomenon os called the Has effect. To read more about the **Haas effect** follow the links [here](http://www.benvesco.com/blog/mixing/2008/turn-a-mono-track-into-rich-stereo/){:target="_blank"} and [here](https://en.wikipedia.org/wiki/Precedence_effect){:target="_blank"}. Again, this is NOT true stereo.
 
 ><span style="color:DarkBlue">
->**Note:** This is ***NOT*** archival practice. However, if you are wanting to make available tapes to language communities, this can add a richness that you would not be able to get if your equipment did not have a stereo output.
+>**Note:** These interventions are ***NOT*** archival practice. However, if you are wanting to make available tapes to language communities, this can add a richness that you would not be able to get if your equipment did not have a stereo output.
 ></span>
 
+  <p align="center">
+       <img width="500" src="images/lowcost-digi-shoebox-tape-player.jpg">
+     </p>
 
 
 

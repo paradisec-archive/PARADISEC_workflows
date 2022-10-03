@@ -278,7 +278,7 @@ the magnetic tape begins almost reach the tape heads.
       **NOTE:** As previously mentioned, it may be that the tape has been recorded as mono tracks on both sides. Our system will digitise both mono tracks simultaneously. If you are using headphones, you will hear one track in one ear, playing correctly, and the second track in the other ear, playing backwards.
       ></span>
 
-11. When the tape is coming to the end, watch closely and stop playback when the magnetic tape finishes passing along the heads and the leader tape appears (usually red). Then stop the recording in WaveLab.
+11. When the tape is coming to the end, watch closely and stop playback when the magnetic tape finishes passing along the heads and the trailer tape appears (usually red). Then stop the recording in WaveLab.
 
 12. Press z-loc to rewind the tape back onto original reel.
 
@@ -287,6 +287,9 @@ the magnetic tape begins almost reach the tape heads.
      ></span>
 
 ## Low-cost Options
+The equipment and software mentioned above have been selected to adhere to best practice in digital preservation and archiving as set out by IASA. However, it is very a costly set-up. Below are some options for audio cassette digitising that recognise the need for standards, but also recognise that preservation (and access to the tape content) is paramount.
+
+### 
 
 <br>
 <hr style="border:1px solid grey">

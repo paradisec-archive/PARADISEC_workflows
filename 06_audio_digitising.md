@@ -261,7 +261,7 @@ the magnetic tape begins almost reach the tape heads.
      If the tape you are digitising is recorded as mono, and there is signal only in one channel, you will see the line is at a 45° angle, leaning toward the left or the right, depending upon which track the mono signal was recorded on (*see image below*). <br>
 
      <p align="center">
-       <img width="500" src="images/Azimuth01_1.jpg">
+       <img width="300" src="images/Azimuth01_1.jpg">
      </p>
 
      Many tapes we receive were recorded as mono, with a different mono track on each side of the tape. We digitise these two tracks simultaneously. As a result, there will be an X shape for representing both mono tracks. As the audio for both tracks is playing simultaneously (one track will play normally, the other will be reversed), you will rely more on the phasescope to adjust the azimuth *(see image below)*. <br>
@@ -307,7 +307,8 @@ Steinberg Wavelab is a very powerful studio software for audio capture and editi
 
 Both of these options allow you to capture the ausio signal at 96kHz/24bit. You can also do pot-production on the files you have created, cutting off long silences at the beginning or end of the files, boosting the audio gain if volume is too low, etc.
 
-###
+### Equipment
+
 
 
 <br>

@@ -309,8 +309,8 @@ Both of these options allow you to capture a stereo audio file at 96kHz/24bit an
 
 ### Equipment
 
-#### Alternative to the AD/DA Converter: Zoom H4N Pro Audio Recorder
-As a stand-in for the digital converter mentioned above, you can use an audio recorder. Zoom recording devices are great tools to use in data collection, and if you already have one, you can also use it for digitising. The Zoom offers an audio interface (Audio I/F) which connects to a computer via USB. 
+#### Alternative to the AD/DA Converter
+As a stand-in for the digital converter mentioned above, you can use an audio recorder. The **Zoom H4N Pro** recording devices are great and rugged tools to use for digitising as well as field recorders. The Zoom offers an audio interface (Audio I/F) which connects to a computer via USB. 
 
 | Audio recorder | Features             |
 | :---              | :---              |

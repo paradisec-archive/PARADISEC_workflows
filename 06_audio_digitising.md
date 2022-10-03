@@ -29,12 +29,12 @@ H6{color:White !important;}
   <img width="500" src="images/rev-rev-vox.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 02 October 2023</span>
+<span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
 
-This page outlines the technical workflow for audio digitising of cassette and reel-to-reel tapes for the PARADISEC unit based at the Australian National University. This workflow can be modified to accommodate other organisations in their specific digitising goals.
+This page outlines the technical workflow for digitising cassette and reel-to-reel tapes for the PARADISEC. This workflow can be modified to accommodate other organisations in their specific digitising goals.
 
 
-## About the equipment
+## Current configuration of the equipment
 
 ### Computer workstation
 
@@ -54,7 +54,7 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
   <img width="500" src="images/RME-Soundcard.jpg">
 </p>
 
-A new soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections and meet the high-level specifications set by our industry's peak-body: [IASA](https://www.iasa-web.org/about-iasa){:target="_blank"} (the International Association of Sound and Audiovisual Archives). 
+A soundcard needed to be added to the DELL tower to provide us with the necessary input and output connections and meet the high-level specifications set by our industry's peak-body: [IASA](https://www.iasa-web.org/about-iasa){:target="_blank"} (the International Association of Sound and Audiovisual Archives). 
  >* D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU & SPDIF)
  >* up to 192kHz/24-bit, balanced stereo in/output
  >* a high quality digital audio stream synchronisation mechanism
@@ -114,7 +114,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
 ## Digitising Cassette Tapes
 
 ><span style="color:DarkBlue"> 
->**Note:** Avoid internet browsing and any activity over the network during digitisation *(these activities can cause interference, which may result in digital clips and unwanted errors in the signal)*. Avoid using mobile phones or other mobile devices (better yet, turn them off), including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during recording of audio.
+>**Note:** Avoid internet browsing and any activity over the network during digitisation *(these activities can cause interference, which may result in digital clips and unwanted errors in the signal)*. Avoid using mobile phones or other mobile devices (better yet, turn them off or leave them outside of the studio), including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during the digitising process.
 ></span>
 
 
@@ -211,7 +211,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
      **READ MORE ABOUT** Azimuth adjustments in [section 5.4.12](https://www.iasa-web.org/tc04/corrections-errors-misaligned-recording-equipment){:target="_blank"} of **IASA**'s *TC04: Guidelines on the Production and Preservation of Digital Audio Objects*.
      <hr style="border:1px solid blue">
 
-15.	Confirm the PHASESCOPE is active. There will be a gently moving circle of random noise *(see image below)*. 
+15.	Confirm the PHASESCOPE is active. There will be a gently moving cluster of random noise *(see image below)*. 
   
      <p align="center">
        <img width="300" src="images/Wavelab-PHASESCOPE-AtRest.JPG">
@@ -224,7 +224,7 @@ The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://ne
      </p>
 
    
-16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
+16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can stop the machine if the tape breaks, preventing further damage to the tape. 
 
 
 ## Digitising Reel-to-reel Tapes
@@ -252,25 +252,25 @@ the magnetic tape begins almost reach the tape heads.
 
 7. Check the speed of the playback. If it sounds too slow or too fast, cycle through the choices of 3.75, 7.5 or 15. If these do not appear to create the right speed, make note and we may need to adjust once audio is digitised.
 
-8. Adjust the azimuth for opem reel tapes. The hex nut is located directly above the tape heas as seen in image below:
+8. Adjust the azimuth for open reel tapes. The hex nut is located directly above the tape head as seen in image below:
 
     <p align="center">
        <img width="500" src="images/AdjustingAzimuth-R2R.jpg">
      </p>
 
-     If the tape you are digitising is recorded as mono, but there is signal only in one channel, you will see the line is at a 45° angle, leaning toward the left or the right, depending upon which track the mono signal was recorded on (*see image below)*. <br>
+     If the tape you are digitising is recorded as mono, and there is signal only in one channel, you will see the line is at a 45° angle, leaning toward the left or the right, depending upon which track the mono signal was recorded on (*see image below*). <br>
 
      <p align="center">
        <img width="500" src="images/Azimuth01_1.jpg">
      </p>
 
-     Many tapes we receive were recorded as mono, but on both sides of the tape. We digitise these two tracks simultaneously. As a result, there will be an X shape for representing both mono tracks. As the audio for both tracks is playing simultaneously (one track will play normally, the other will be reversed), you will rely more on the phasescpoe to adjust the azimuth *(see image below)*. <br>
+     Many tapes we receive were recorded as mono, with a different mono track on each side of the tape. We digitise these two tracks simultaneously. As a result, there will be an X shape for representing both mono tracks. As the audio for both tracks is playing simultaneously (one track will play normally, the other will be reversed), you will rely more on the phasescope to adjust the azimuth *(see image below)*. <br>
 
      <p align="center">
        <img width="300" src="images/Azimuth02_1.jpg">
      </p>
 
-9. Once everything has been checked and adjusted. stop the reel from playing.
+9. Once everything has been checked and adjusted, stop the reel from playing.
 
 10. Get WaveLab set up to record the track, following the instructions as outlined above (specifically: step 16).
 

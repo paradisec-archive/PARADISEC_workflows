@@ -317,7 +317,9 @@ As a stand-in for the digital converter mentioned above, you can use an audio re
 | Zoom H4N Pro <br> [Link](https://zoomcorp.com/en/jp/handy-recorders/handheld-recorders/h4n-pro/){:target="_blank"}       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, 3.5mm mic input, powered by 2 AA batteries or USB, records to SD/SDHC cards |
 
 
-To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. I managed to locate a Panasonic shoe-box style tape player and a Marantz field recorder to trial a digitising set-up.
+To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. 
+
+Pictured below ia a Panasonic shoe-box style tape player connected to a Zoom H4N Pro (cable configueation: 3.5mm headphone jack output from the Panasonic to an input mic of the Zoom H4N Pro using a 6.35mm phone adapter). The Zoom is then attached to a laptop via the Audio I/F USB interface of the Zoom device. This allowed me to use the Wavepad software to record the audio. This option is limited to 44 or 48kHz sampling rates.
 
 
   <p align="center">

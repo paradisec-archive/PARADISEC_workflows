@@ -305,9 +305,14 @@ Steinberg Wavelab is a very powerful studio software for audio capture and editi
        <img width="500" src="images/ocenaudio.jpg">
      </p>
 
-Both of these options allow you to capture the ausio signal at 96kHz/24bit. You can also do pot-production on the files you have created, cutting off long silences at the beginning or end of the files, boosting the audio gain if volume is too low, etc.
+Both of these options allow you to capture a stereo audio file at 96kHz/24bit and do post-production on the files you have created, cutting off long silences at the beginning or end of the files, boosting the audio gain if volume is too low, etc.
 
 ### Equipment
+To be able to digitise a tape, you need to find a playback device. These are increasingly getting harder to source. I managed to locate a Panasonic shoe-box style tape player and a Marantz field recorder to trial a digitising set-up.
+
+Both of these devices have an 3.5mm output jack for headphones. The Panasonic output is configured for mono output only. If you are using a tape player that has a mono headphone jack, you will not capture the stereo content of the cassette. There are various ways you can simulate a stereo signal, including copying the content of the one channel into a second channel. This is NOT true stereo and will sound a bit flat as compared to the original stereo signal.
+
+Another option is to do as above, but selection one of the channels and adding an off-set
 
 
 

@@ -58,7 +58,7 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 
 ----------
 
-## Equipment used in this guide
+## Equipment mentioned in this guide
 
 | Equipment | Description and links to more details |
 | :----- | :----- |
@@ -282,7 +282,7 @@ It is also a good idea to create a .pdf of your image files bundled together in 
 
 ### Hardware
 * Using a tripod with lights that you can clip onto a shelf, the tripod legs, or even the back of a chair offers a less expensive setup than using a photo stand. 
-* If you cannot afford an DSLR, a compact digital camera similar to the Canon PowerShot G12 mentioned above can certainly perform very well and meet archival standards.
+* If you cannot afford an DSLR, a mirrorless, fixed lens, compact digital camera similar to the Canon PowerShot G12 mentioned above can certainly perform very well and meet archival standards.
 * If you are not going to use tethering for image capture, try to find a camera that has an articulated LCD screen, not a fixed screen. This will allow you to move the viewfinder to a position to easily see the image before you shoot. You can see an articulated screen in the photo of the Cannon PowerShot above, within the section introducing the [Velbon shelf clamp](https://paradisec-archive.github.io/PARADISEC_workflows/05_digitising_manuscripts.html#velbon-shelf-clamp).
 
 ### Software

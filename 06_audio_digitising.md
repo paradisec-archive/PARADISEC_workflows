@@ -29,9 +29,9 @@ H6{color:White !important;}
   <img width="500" src="images/rev-rev-vox.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 24 May 2022</span>
+<span style="font-variant:small-caps;">Last updated: 02 October 2023</span>
 
-This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This workflow can be modified to accommodate other organisations in their specific digitising goals.
+This page outlines the technical workflow for audio digitising of cassette and reel-to-reel tapes for the PARADISEC unit based at the Australian National University. This workflow can be modified to accommodate other organisations in their specific digitising goals.
 
 
 ## About the equipment

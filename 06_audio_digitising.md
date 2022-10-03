@@ -309,14 +309,14 @@ Both of these options allow you to capture a stereo audio file at 96kHz/24bit an
 
 ### Equipment
 
-#### Alternative to the AD/DA Converter
+#### Alternative to the AD/DA Converter: Zoom H4N Pro Audio Recorder
 As a stand-in for the digital converter mentioned above, you can use an audio recorder. Zoom recording devices are great tools to use in data collection, and if you already have one, you can also use it for digitising. The Zoom offers an audio interface (Audio I/F) which connects to a computer via USB. 
 
 | Audio recorder | Features             |
 | :---              | :---              |
 | Zoom H4N Pro <br> [Link](https://zoomcorp.com/en/jp/handy-recorders/handheld-recorders/h4n-pro/){:target="_blank"}       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, 3.5mm mic input, powered by 2 AA batteries or USB, records to SD/SDHC cards |
 
-
+#### Using alternative tape playback devices
 To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. 
 
 Pictured below ia a Panasonic shoe-box style tape player connected to a Zoom H4N Pro (cable configueation: 3.5mm headphone jack output from the Panasonic to an input mic of the Zoom H4N Pro using a 6.35mm phone adapter). The Zoom is then attached to a laptop via the Audio I/F USB option. Recording was done using Wavepad software. This configuration with the Zoom only allows a 44.1kHz or 48kHz sampling rate. 
@@ -341,13 +341,10 @@ Connecting the Marantz to the Zoom H4N Pro to record directly to the SD card, ra
      </p>
 
 
-Remember, if you are using a tape player that has a mono headphone jack, ***you will not capture the stereo content of the cassette***. There are various ways you can **simulate** a stereo signal, including copying the content of the one channel into a second channel. This is NOT true stereo and will sound a bit flat as compared to the original stereo signal.
+Remember, if you are using a tape player that has a mono headphone jack, ***you will not capture the stereo content of the cassette***. You may try a Walkman-style tape player as this will have a stereo headphone output. 
 
-Another option is to do as above- copy the contents of one channel into a second channel, then select one of these channels and add an off-set of 25-40ms to it. Esentially, you are shifting one channel to play slightly later than the other channel. You perceive a richer signal then when the two identical channels are synchronised. This phenomenon os called the Has effect. To read more about the **Haas effect** follow the links [here](http://www.benvesco.com/blog/mixing/2008/turn-a-mono-track-into-rich-stereo/){:target="_blank"} and [here](https://en.wikipedia.org/wiki/Precedence_effect){:target="_blank"}. Again, this is NOT true stereo.
+Always clean and test your equipment before playing the tape you are intending to digitise. It is best to get the device serviced prior to use.
 
-><span style="color:DarkBlue">
->**Note:** These interventions are ***NOT*** archival practice. However, if you are wanting to make available tapes to language communities, this can add a richness that you would not be able to get if your equipment did not have a stereo output.
-></span>
 
 <br>
 <hr style="border:1px solid grey">

@@ -45,9 +45,9 @@ Whilst in the field, you should be mindful of having good metadata for your reco
 * You can create a directory structure that has date and event information in the folder names so that when you drag your files from an SD card into a folder, you will know immediately what files are associated with which event. this is a good option if you have limited power and thus limited time on the laptop. You could set the file names in the Zoom recorder; however, this can be time consuming and fleeting, as this has to be done with every battery change.
 * Create a text file or word doc that lists each recording and all the same metadata that you speak in the recording. You can add other helpful information such as places where there is an important point in the recording, or where there is a disruption, etc.
 * Write all relevant metadata in your field notebook as you are recording and taking notes.
-* Use LaMeta (see [below](https://paradisec-archive.github.io/PARADISEC_workflows/03_data_management.html#lameta)) in the field to build your metadta database as you collect your recordings.
+* Use LaMeta (see [below](https://paradisec-archive.github.io/PARADISEC_workflows/03_data_management.html#lameta)) in the field to build your metadata database as you collect your recordings.
 * Keep a running spreadsheet of all your recordings, events, and speakers. You can refer to this often over the course of your project.
-* You can, and probably should do all of the above, as redundancy in metadata documentation is **never** a bad thing.
+* You can, and probably should, do all of the above; redundancy in metadata documentation is **never** a bad thing.
 
 
 ### Data Management Plan (DMP)

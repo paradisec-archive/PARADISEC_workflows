@@ -23,7 +23,7 @@ H6{color:White !important;}
 </style>
 
 
-# Audio Digitising of Analogue Tapes
+# Audio Digitising - Cassette and Reel-to-reel Tapes
 
 <p align="center">
   <img width="500" src="images/rev-rev-vox.gif">

@@ -29,7 +29,7 @@ H6{color:White !important;}
   <img width="500" src="images/rev-rev-vox.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
+<span style="font-variant:small-caps;">Last updated: 03 October 2022</span>
 
 This page outlines the technical workflow for digitising cassette and reel-to-reel tapes for the PARADISEC. This workflow can be modified to accommodate other organisations in their specific digitising goals.
 

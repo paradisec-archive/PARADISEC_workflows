@@ -290,7 +290,7 @@ the magnetic tape begins almost reach the tape heads.
 The equipment and software mentioned above have been selected to adhere to best practice in digital preservation and archiving as set out by IASA. However, it is very a costly set-up. Below are some options for audio cassette digitising that recognise the need for standards, but also recognise that preservation (and access to the tape content) is paramount.
 
 ### Software
-Steinberg Wavelab is a very powerful studio software for audio capture and editing. However there are a couple of free options that are available for both audio recording and editing that are also easy to use: 
+Steinberg WaveLab is a very powerful studio software for audio capture and editing. However there are a couple of free options that are available for both audio recording and editing that are also easy to use: 
 
 * [NCH Wavepad](https://www.nch.com.au/wavepad/index.html)
 
@@ -316,17 +316,17 @@ As a stand-in for the digital converter mentioned above, you can use an audio re
 | :---              | :---              |
 | Zoom H4N Pro <br> [Link](https://zoomcorp.com/en/jp/handy-recorders/handheld-recorders/h4n-pro/){:target="_blank"}       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, 3.5mm mic input, powered by 2 AA batteries or USB, records to SD/SDHC cards |
 
-#### Using alternative tape playback devices
-To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. 
+#### Portable cassette players
+To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. If you are not able to purchase a professional tape machine, some smaller, less-expensive portable models may be used. Be aware, you may not get the same quality, especialy as you will not be able to adjust the azimuth on these smaller units.
 
-Pictured below ia a Panasonic shoe-box style tape player connected to a Zoom H4N Pro (cable configueation: 3.5mm headphone jack output from the Panasonic to an input mic of the Zoom H4N Pro using a 6.35mm phone adapter). The Zoom is then attached to a laptop via the Audio I/F USB option. Recording was done using Wavepad software. This configuration with the Zoom only allows a 44.1kHz or 48kHz sampling rate. 
+Pictured below ia a **Panasonic RQ-2102 Slim Line** shoe-box style tape player connected to a Zoom H4N Pro (cable configueation: 3.5mm headphone jack output from the Panasonic to an input mic of the Zoom H4N Pro using a 6.35mm phone adapter). The Zoom is then attached to a laptop via the Audio I/F USB option. Recording was done using Wavepad software. This configuration with the Zoom only allows a 44.1kHz or 48kHz sampling rate. 
 
 
   <p align="center">
        <img width="500" src="images/lowcost-digi-shoebox-tape-player.jpg">
      </p>
 
-Below is a Marantz field recorder. This had two output options, a 6.35mm phone jack and RCA output. 
+Below is a **Marantz CP-230** portable stereo cassette deck. This player has two output options, a 6.35mm phone jack and RCA output. 
 
   <p align="center">
        <img width="500" src="images/lowcost-digi-marantz.jpg">
@@ -343,7 +343,7 @@ Connecting the Marantz to the Zoom H4N Pro to record directly to the SD card, ra
 
 Remember, if you are using a tape player that has a mono headphone jack, ***you will not capture the stereo content of the cassette***. You may try a Walkman-style tape player as this will have a stereo headphone output. 
 
-Always clean and test your equipment before playing the tape you are intending to digitise. It is best to get the device serviced prior to use.
+Always clean and test your equipment before playing the tape you are intending to digitise. It is best to get the device serviced prior to use. Try out your entire workflow on stereo practice tapes to determine the best configuration for your project. 
 
 
 <br>

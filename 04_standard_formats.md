@@ -61,7 +61,7 @@ The tables below contain the file formats we accept from depositors and the fina
 | Lexicons | *Archival and access copies:* Same as original *(see accepted formats above)*|
 
 <span style="color:DarkBlue">
-<sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they are lossy, compressed formats. Look at the following section for capture suggestions*
+<sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they tend to be lossy formats. Look at the [following section](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#suggestions-for-audio-recorders-and-video-cameras)for capture suggestions*
 </span>
 
 <span style="color:DarkBlue">

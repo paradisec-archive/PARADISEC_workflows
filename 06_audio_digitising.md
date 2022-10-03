@@ -317,7 +317,7 @@ As a stand-in for the digital converter mentioned above, you can use an audio re
 | Zoom H4N Pro <br> [Link](https://zoomcorp.com/en/jp/handy-recorders/handheld-recorders/h4n-pro/){:target="_blank"}       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, 3.5mm mic input, powered by 2 AA batteries or USB, records to SD/SDHC cards |
 
 
-To be able to digitise a tape, you need to find a playback device. These are increasingly getting harder to source. I managed to locate a Panasonic shoe-box style tape player and a Marantz field recorder to trial a digitising set-up.
+To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. I managed to locate a Panasonic shoe-box style tape player and a Marantz field recorder to trial a digitising set-up.
 
 Both of these devices have an 3.5mm output jack for headphones. The Panasonic output is configured for mono output only. If you are using a tape player that has a mono headphone jack, you will not capture the stereo content of the cassette. There are various ways you can simulate a stereo signal, including copying the content of the one channel into a second channel. This is NOT true stereo and will sound a bit flat as compared to the original stereo signal.
 

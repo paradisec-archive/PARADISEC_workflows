@@ -29,7 +29,7 @@ H6{color:White !important;}
   <img width="300" src="images/tripod.GIF">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 02 September 2022</span>
+<span style="font-variant:small-caps;">Last updated: 03 September 2022</span>
 
 This page outlines PARADISEC's approach to digitising text materials and offers guidance in the post-production processing of the resulting images prior to archiving. The majority of our fieldnotes, papers, and notebook digitisation is done with high resolution photography, not scanning. Here are some reasons why we choose to use photography rather than scanning:
 

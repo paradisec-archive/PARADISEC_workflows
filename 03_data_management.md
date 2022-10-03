@@ -31,16 +31,21 @@ H6{color:White !important;}
 
 <span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
 
-The information below regarding Metadata tools is mostly geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures); some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive). However, the data management advice is designed to help you think about data organisation prior to archiving during your data collection phase.
+The information below regarding the **metadata tools** is mostly geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures). 
+
+Some of the organisational concepts can be applied to depositing with other archives such as [ELAR](https://elar.soas.ac.uk/){:target="_blank"} (The Endangered Language Archive). 
+
+The **data management** information below can help you organise your files prior to archiving, but it can also help you keep organised during your data collection phase (fieldwork).
 
 ## Data management
 
 ### Data management in the field
 Whilst in the field, you should be mindful of having good metadata for your recording sessions. This can be done in the following ways:
-* Most important: speak your metadata at the beginning of every audio and video recording, on every track, so that if there is ever an organisational catastrophe, you will be able to retreive the important metadata by reviewing the recordings. This should minimally include the date, the event or elicitation task, your name and those of your participants, and location of the recording.
-* You can create a directory structure that has date and event information in the folder names so that when you drag your files from an SD card into a folder, you will know immediately what files are associated with which event. this is a good option if you have limited power and time on the laptop must be short. If you plan to set the file names in the Zoom recorder, this can be time consuming and fleeting, as this has to be done with every battery change.
-* You should also create a text file or word doc that lists each recording and all the same metadata that you speak in the recording. You can add other helpful information such as places where there is an important point in the recording, or where there is a disruption, etc.
-* You can write this information in your field notebook as you are recording and taking notes.
+* Speak your metadata at the beginning of every audio and video recording, on every track; if there is ever an organisational catastrophe, you will be able to retreive the important metadata by reviewing the recordings. This should include the date, the event or elicitation task, your name and those of your participants, and location of the recording.
+* You can create a directory structure that has date and event information in the folder names so that when you drag your files from an SD card into a folder, you will know immediately what files are associated with which event. this is a good option if you have limited power and thus limited time on the laptop. You could set the file names in the Zoom recorder; however, this can be time consuming and fleeting, as this has to be done with every battery change.
+* Create a text file or word doc that lists each recording and all the same metadata that you speak in the recording. You can add other helpful information such as places where there is an important point in the recording, or where there is a disruption, etc.
+* Write all relevant metadata in your field notebook as you are recording and taking notes.
+* Use LaMeta (see [below](https://paradisec-archive.github.io/PARADISEC_workflows/03_data_management.html#lameta)) in the field to build your metadta database as you collect your recordings.
 * Keep a running spreadsheet of all your recordings, events, and speakers. You can refer to this often over the course of your project.
 * You can, and probably should do all of the above, as redundancy in metadata documentation is **never** a bad thing.
 

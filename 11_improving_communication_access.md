@@ -26,7 +26,7 @@ H6{color:White !important;}
 # Improving communication access for deaf and hard of hearing people 
 <br>
 
-Developed by [Julia Miller](mailto:julia.miller@anu.edu.au){:target="_blank"} & [Gabrielle Hodge](mailto:g.hodge@ucl.ac.uk){:target="_blank"}<br>
+Developed by [Julia Miller](mailto:julia.miller@anu.edu.au){:target="_blank"} & [Gabrielle Hodge](mailto:gabrielle@gabriellehodge.com){:target="_blank"}<br>
 *With thanks to Ida Rogers, Joshua Sealy and the CoEDL Executive Committee*
 
 <p align="center">

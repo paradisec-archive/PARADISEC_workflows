@@ -25,10 +25,9 @@ H6{color:White !important;}
 
 # Improving communication access for deaf and hard of hearing people 
 <br>
-
-Developed by [Julia Miller](mailto:julia.miller@anu.edu.au){:target="_blank"} & [Gabrielle Hodge](mailto:gabrielle@gabriellehodge.com){:target="_blank"}<br>
-*With thanks to Ida Rogers, Joshua Sealy and the CoEDL Executive Committee*<br>
-For more information from Gabrielle Hodge on research projects with deaf people and communities, on teaching language & education professionals, or on mentoring deaf and hard of hearing students, please visit this site: [https://www.gabriellehodge.com/](https://www.gabriellehodge.com/){:target="_blank"}<br>
+Developed by [Julia Miller](mailto:julia.miller@anu.edu.au){:target="_blank"} & [Gabrielle Hodge](mailto:gabrielle@gabriellehodge.com){:target="_blank"}<br><br>
+*With thanks to Ida Rogers, Joshua Sealy and the CoEDL Executive Committee*<br><br>
+For more information from Gabrielle Hodge on research projects with deaf people & communities, on teaching language & education professionals, or on mentoring deaf & hard of hearing students, please visit this site: [https://www.gabriellehodge.com/](https://www.gabriellehodge.com/){:target="_blank"}<br>
 
 
 <p align="center">

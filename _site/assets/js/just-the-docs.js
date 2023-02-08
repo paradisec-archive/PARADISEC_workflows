@@ -69,6 +69,7 @@ function initSearch() {
         this.metadataWhitelist = ['position']
 
         for (var i in docs) {
+          
           this.add({
             id: i,
             title: docs[i].title,
@@ -474,7 +475,7 @@ jtd.onReady(function(){
 
     copyButton.addEventListener('click', function () {
       if(timeout === null) {
-        var code = codeBlock.querySelector('pre:not(.lineno)').innerText;
+        var code = (codeBlock.querySelector('pre:not(.lineno, .highlight)') || codeBlock.querySelector('code')).innerText;
         window.navigator.clipboard.writeText(code);
 
         copyButton.innerHTML = svgCopied;

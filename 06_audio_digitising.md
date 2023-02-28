@@ -29,7 +29,7 @@ H6{color:White !important;}
   <img width="500" src="images/rev-rev-vox.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 03 October 2022</span>
+<span style="font-variant:small-caps;">Last updated: 28 February 2023</span>
 
 This page outlines the technical workflow for digitising cassette and reel-to-reel tapes for the PARADISEC archive. This workflow can be modified to accommodate other organisations in their specific digitising goals.
 
@@ -58,7 +58,7 @@ A soundcard needed to be added to the DELL tower to provide us with the necessar
  >* D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU & SPDIF)
  >* up to 192kHz/24-bit, balanced stereo in/output
  >* a high quality digital audio stream synchronisation mechanism
- >* allows the transfer of a digital audio data stream having undergone no change or alteration
+ >* allows the transfer of a digital audio data stream that has undergone no change or alteration
 
 ### AD/DA Converter: [RME ADI-2 PRO FS R Black Edition](https://www.rme-audio.de/adi-2-pro-fs-be.html){:target="_blank"}
 <p align="center">

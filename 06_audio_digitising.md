@@ -58,7 +58,7 @@ A soundcard needed to be added to the DELL tower to provide us with the necessar
  >* D-sub 9-pin socket (for the Digital Breakout Cable: AES/EBU & SPDIF)
  >* up to 192kHz/24-bit, balanced stereo in/output
  >* a high quality digital audio stream synchronisation mechanism
- >* allow the transfer of a digital audio data stream having undergone no change or alteration
+ >* allows the transfer of a digital audio data stream having undergone no change or alteration
 
 ### AD/DA Converter: [RME ADI-2 PRO FS R Black Edition](https://www.rme-audio.de/adi-2-pro-fs-be.html){:target="_blank"}
 <p align="center">

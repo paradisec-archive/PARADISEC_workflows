@@ -98,7 +98,7 @@ Having an external, stand-alone analogue/digital converter is critical so that t
   <img width="300" src="images/ReVoxC270.jpg">
 </p>
 
-### Reel-to-reel tape player: [Studer A807](https://cloudstor.aarnet.edu.au/plus/s/zSVf4KCzr2e0evR){:target="_blank"}
+### Reel-to-reel tape player: [Studer A807](https://drive.google.com/file/d/15-hqlzBIdQObkkfjgmb7ucFFZ7Zi_R08/view?usp=sharing){:target="_blank"}
 <p align="center">
   <img width="300" src="images/StuderA807.jpg">
 </p>

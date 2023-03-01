@@ -81,7 +81,7 @@ If you have a single file:
    ffmpeg -i FileName.MOV; -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac FileName.MP4
 
 
-### To transcode .DV to .MP4 (H.264)
+### To transcode problematic .MOV to .MP4 (H.264)
 
 **SCENARIO:** Sometimes we receive older, problematic video formats. In this case we had multiple .MOV videos that would not play in QuickTime and could not be opened by Adobe Media Encoder. After a first-pass it was found that some files had audio in only one channel, sometimes left, sometimes right. Also, these were interlaced video and the target was to be progressive. 
 

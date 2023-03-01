@@ -59,6 +59,22 @@ As suggested in that final line in the above image, to view the FFmpeg manual in
 2\. Installation on Windows
 * Download executable file: [FFmpeg](https://ffmpeg.org/download.html#build-windows){:target="_blank"}
 
+## Some helpful FFmpeg 'recipes' for using FFmpeg on a Mac
+
+### To transcode .MOV to .MP4 (H.246)
+
+If you have multiple .MOV files you want to transcode:
+
+Place all .MOV files in one folder and navigate to that folder in Terminal. Then type (or copy) this code into the Terminal:
+
+```
+for i in *.MOV; do ffmpeg -i “$i” -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac “$(basename “$i” .MOV)”.mp4 ; done
+```
+
+
+If you have a single file:
+
+
 Helpful sites for installation on Windows: 
 * [How to install FFmpeg](https://www.hostinger.com/tutorials/how-to-install-ffmpeg){:target="_blank"}
 * [How to install FFmpeg on Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/){:target="_blank"}

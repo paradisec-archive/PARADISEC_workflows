@@ -85,7 +85,7 @@ If you have a single file:
 
 **SCENARIO:** Sometimes we receive older, problematic video formats. In this case we had multiple .MOV videos that would not play in QuickTime and could not be opened by Adobe Media Encoder. After a first-pass it was found that some files had audio in only one channel, sometimes left, sometimes right. Also, these were interlaced video and the target was to be progressive. 
 
-*If audio in LEFT Channel only* (use: -af "pan=stereo|FL=FL|FR=FL):
+*If audio in LEFT Channel only* (use: -af "pan=stereo|FL=FL|FR=FL"):
 
     for  i in *.mov; do ffmpeg -i "$i" -af "pan=stereo|FL=FL|FR=FL" -c:v libx264 -b:v 50M -vf "yadif,format=yuv420p" "$(basename "$i" .mov)".mp4  ; done
 

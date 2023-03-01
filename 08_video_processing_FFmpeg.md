@@ -81,8 +81,24 @@ If you have a single file:
 | :---      | :---         |
 | for i in *.MOV | points to all of the input files in that directory that are .MOV |
 | do ffmpeg     |  activates ffmpeg |
-| -i “$i” |specifically states that for each input file, a variable is created using $ in
-order to reference it, and “ ” to retain the original filename  |
+| -i “$i” |specifically states that for each input file, a variable is created using $ in order to reference it, and “ ” to retain the original filename  |
+
+Essentially, these parts say that for every input file in the current directory that is .MOV, we are going
+to do something to them using ffmpeg and that their individual names should be retained for future
+reference (i.e. in the output name).
+
+| Command   | Result       |
+| :---      | :---         |
+| -c:v libx264      | -c:v is used to make a change to the video codec of the input file; our
+selected encoder is libx264. This will create an H.264/MPEG-4 AVC
+file, which is the standard .MP4 format for PARADISEC and generally
+speaking is an industry standard**       |
+| -pix_fmt yuv420p     | -pix_fmt is used to make a change to the chroma and depth of the input file; our selection is yuv420p. This is the YUV planar colour space with 4:2:0 chroma subsampling. Our chosen encoder libx264 uses chroma/depth subsampling parameters that will yield the closest match to the input file (4:4:4, 4:2:2, or 4:2:0). QuickTime and other players may not be able to decode H.264 files that aren’t 4:2:0, so we overtly specify this in our command       |
+| -preset veryslow     | This sets the preset speed to one of the slowest speeds to create a very high quality compression        |
+| -crf 18     | The CRF (Constant Rate Factor) for transcoding H.264, 8-bit files using the libx264 encoder is on a scale of 0-51, where 0 is the best and 51 is the worst. If a CRF level isn’t specified, then the default 23 is used. 18 is considered to be virtually visually lossless        |
+| -c:a aac     | -c:a aac is used to re-encode the audio using the AAC audio codec. Note: if you are creating an .MP4, you cannot use the PCM (Pulse-Code Modulation) audio codec        |
+|“$(basename “$i” .MOV)”.mp4     | ormat extension, .mp4.        |
+
 
 Helpful sites for installation on Windows: 
 * [How to install FFmpeg](https://www.hostinger.com/tutorials/how-to-install-ffmpeg){:target="_blank"}

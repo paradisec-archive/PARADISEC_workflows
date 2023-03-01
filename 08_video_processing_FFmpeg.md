@@ -37,7 +37,6 @@ FFmpeg is an efficient and cost effective way to process video. It is done by us
 
 
 ## Installation options
-If you are using a Mac, it is a bit more straight forward than the PC as Bash is a Unix shell (command language interpreter) and runs natively on Macs. To download FFmpeg, open a terminal window and first install Homebrew (command line package manager) with the following commands:
 
 1\. Installation links fo Mac:
 * Download source code: [FFmpeg](https://ffmpeg.org/download.html#build-mac){:target="_blank"} 
@@ -47,7 +46,7 @@ Because this can be a tricky process to install, here are some helpful sites:
 * [How to install FFmpeg](https://www.hostinger.com/tutorials/how-to-install-ffmpeg){:target="_blank"}
 * [Installing ffmpeg and ffprobe on macOS manually](https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/){:target="_blank"}
 
-To test if you have installed FFmpeg correctly, just type ```ffmpeg``` in Terminal and enter. Information about the version of FFmpeg as well as enabled libraries should appear in your terminal window as seen in the image below.
+To test if you have installed FFmpeg correctly, just type ```ffmpeg``` in Terminal and hit Return. Information about the version of FFmpeg as well as enabled libraries should appear in your terminal window as seen in the image below.
 
 <p align="center">
   <img width="500" src="images/ffmpeg-installed.jpg" alt="Screenshot of terminal showing installed version of FFmpeg">
@@ -67,9 +66,9 @@ If you have multiple .MOV files you want to transcode:
 
 Place all .MOV files in one folder and navigate to that folder in Terminal. Then type (or copy) this code into the Terminal:
 
-```
-for i in *.MOV; do ffmpeg -i “$i” -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac “$(basename “$i” .MOV)”.mp4 ; done
-```
+
+    for i in *.MOV; do ffmpeg -i “$i” -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac “$(basename “$i” .MOV)”.mp4 ; done
+
 
 
 If you have a single file:

@@ -63,7 +63,7 @@ Helpful sites for installation on Windows:
 * [How to install FFmpeg on Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/){:target="_blank"}
 
 
-## Some helpful FFmpeg 'recipes' for using FFmpeg on a Mac
+## Some helpful 'recipes' for using FFmpeg on a Mac
 
 ### To transcode .MOV to .MP4 (H.246)
 

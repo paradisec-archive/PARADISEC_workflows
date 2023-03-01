@@ -73,6 +73,16 @@ Place all .MOV files in one folder and navigate to that folder in Terminal. Then
 
 If you have a single file:
 
+### Anatomy of the FFmpeg transcode command
+
+    for i in *.MOV; do ffmpeg -i “$i” -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac “$(basename “$i” .MOV)”.mp4 ; done
+
+| Command   | Result       |
+| :---      | :---         |
+| for i in *.MOV | points to all of the input files in that directory that are .MOV |
+| do ffmpeg     |  activates ffmpeg |
+| -i “$i” |specifically states that for each input file, a variable is created using $ in
+order to reference it, and “ ” to retain the original filename  |
 
 Helpful sites for installation on Windows: 
 * [How to install FFmpeg](https://www.hostinger.com/tutorials/how-to-install-ffmpeg){:target="_blank"}

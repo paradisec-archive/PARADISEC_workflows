@@ -77,7 +77,9 @@ Place all .MOV files in one folder and navigate to that folder in Terminal. Then
 
 If you have a single file:
 
+
    ffmpeg -i FileName.MOV; -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac FileName.MP4
+
 
 ### To transcode .DV to .MP4 (H.264)
 

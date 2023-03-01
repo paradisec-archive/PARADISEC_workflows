@@ -79,8 +79,11 @@ If you have a single file:
 
    ffmpeg -i FileName.MOV; -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac FileName.MP4
 
+### To transcode .DV to .MP4 (H.264)
 
-### Anatomy of the FFmpeg transcode command
+Sometimes we receive older, problematic video formats. In this case we had a .dv video that would not play in QuickTime and could not be opened by Adobe Media Encoder. After a first-pass 
+
+## Anatomy of the FFmpeg transcode command
 
     for i in *.MOV; do ffmpeg -i “$i” -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac “$(basename “$i” .MOV)”.mp4 ; done
 

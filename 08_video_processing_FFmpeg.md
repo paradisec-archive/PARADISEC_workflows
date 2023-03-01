@@ -78,7 +78,7 @@ Place all .MOV files in one folder and navigate to that folder in Terminal. Then
 If you have a single file:
 
 
-   ffmpeg -i FileName.MOV; -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac FileName.MP4
+    ffmpeg -i FileName.MOV; -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac FileName.MP4
 
 
 ### To transcode problematic .MOV to .MP4 (H.264)
@@ -88,6 +88,13 @@ If you have a single file:
 *If audio in LEFT Channel only* (use: -af "pan=stereo|FL=FL|FR=FL):
 
     for  i in *.mov; do ffmpeg -i "$i" -af "pan=stereo|FL=FL|FR=FL" -c:v libx264 -b:v 50M -vf "yadif,format=yuv420p" "$(basename "$i" .mov)".mp4  ; done
+
+*Addressing horizontal lines due to interlaced -> progressive transcoding* (use: -vf "yadif):
+
+    for i in *.mov; do ffmpeg -i "$i" -c:a aac -c:v libx264 -b:v 10M -vf "yadif,format=yuv420p" "$(basename "$i" .mov)".mp4  ; done
+
+
+
 
 
 

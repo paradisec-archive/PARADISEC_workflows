@@ -89,7 +89,7 @@ If you have a single file:
 
     for  i in *.mov; do ffmpeg -i "$i" -af "pan=stereo|FL=FL|FR=FL" -c:v libx264 -b:v 50M -vf "yadif,format=yuv420p" "$(basename "$i" .mov)".mp4  ; done
 
-*Addressing horizontal lines due to interlaced -> progressive transcoding* (use: -vf "yadif):
+*Addressing horizontal lines due to interlaced -> progressive transcoding* (use: -vf "yadif,format=yuv420p"):
 
     for i in *.mov; do ffmpeg -i "$i" -c:a aac -c:v libx264 -b:v 10M -vf "yadif,format=yuv420p" "$(basename "$i" .mov)".mp4  ; done
 

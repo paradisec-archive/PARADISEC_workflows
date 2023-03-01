@@ -58,6 +58,11 @@ As suggested in that final line in the above image, to view the FFmpeg manual in
 2\. Installation on Windows
 * Download executable file: [FFmpeg](https://ffmpeg.org/download.html#build-windows){:target="_blank"}
 
+Helpful sites for installation on Windows: 
+* [How to install FFmpeg](https://www.hostinger.com/tutorials/how-to-install-ffmpeg){:target="_blank"}
+* [How to install FFmpeg on Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/){:target="_blank"}
+
+
 ## Some helpful FFmpeg 'recipes' for using FFmpeg on a Mac
 
 ### To transcode .MOV to .MP4 (H.246)
@@ -97,12 +102,10 @@ speaking is an industry standard**       |
 | -preset veryslow     | This sets the preset speed to one of the slowest speeds to create a very high quality compression        |
 | -crf 18     | The CRF (Constant Rate Factor) for transcoding H.264, 8-bit files using the libx264 encoder is on a scale of 0-51, where 0 is the best and 51 is the worst. If a CRF level isn’t specified, then the default 23 is used. 18 is considered to be virtually visually lossless        |
 | -c:a aac     | -c:a aac is used to re-encode the audio using the AAC audio codec. Note: if you are creating an .MP4, you cannot use the PCM (Pulse-Code Modulation) audio codec        |
-|“$(basename “$i” .MOV)”.mp4     | ormat extension, .mp4.        |
+|“$(basename “$i” .MOV)”.mp4     | “$(basename “$i” .MOV)”.mp4 ensures that all input .MOV files will keep their original names, but will gain the new format extension, .mp4        |
 
 
-Helpful sites for installation on Windows: 
-* [How to install FFmpeg](https://www.hostinger.com/tutorials/how-to-install-ffmpeg){:target="_blank"}
-* [How to install FFmpeg on Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/){:target="_blank"}
+
 
 
 

@@ -100,8 +100,6 @@ If you have a single file:
 
 
 
-
-
 ## Anatomy of the FFmpeg transcode command
 
     for i in *.MOV; do ffmpeg -i “$i” -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac “$(basename “$i” .MOV)”.mp4 ; done

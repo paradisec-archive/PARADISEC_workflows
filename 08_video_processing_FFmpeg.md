@@ -71,12 +71,10 @@ If you have multiple .MOV files you want to transcode:
 
 Place all .MOV files in one folder and navigate to that folder in Terminal. Then type (or copy) this code into the Terminal:
 
-
     for i in *.MOV; do ffmpeg -i “$i” -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac “$(basename “$i” .MOV)”.mp4 ; done
 
 
 If you have a single file:
-
 
     ffmpeg -i FileName.MOV; -c:v libx264 -pix_fmt yuv420p -preset veryslow -crf 18 -c:a aac FileName.MP4
 

@@ -125,15 +125,6 @@ If you have a single file:
 
 
 
-For further help using FFmpeg, take a look at the following sites:
-
-**FFmpeg:** [https://ffmpeg.org/ffmpeg.html](https://ffmpeg.org/ffmpeg.html){:target="_blank"}
-
-**ffmprovisor:** [https://amiaopensource.github.io/ffmprovisr/](https://amiaopensource.github.io/ffmprovisr/){:target="_blank"}
-
-
-
-
 <br>
 <hr style="border:1px solid grey">
 

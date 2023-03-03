@@ -30,7 +30,7 @@ H6{color:White !important;}
 
 *This technical guide was created as part of the archiving workflow for PARADISEC. Some of the content may not be relevant for general users.* 
 
-<span style="font-variant:small-caps;">Last updated: 02 March 2023</span>
+<span style="font-variant:small-caps;">Last updated: 03 March 2023</span>
 
 
 FFmpeg is an efficient and cost effective way to process video. It is done by using a command line interface (CLI), but once the workflow is set up, it is relatively simple.
@@ -85,13 +85,15 @@ If you have a single file:
 
 **SCENARIO:** Sometimes we receive older, problematic video formats. In this case we had multiple .MOV videos that would not play in QuickTime and could not be opened by Adobe Media Encoder. After a first-pass it was found that some files had audio in only one channel, sometimes left, sometimes right. Also, these were interlaced video and the target was to be progressive. 
 
-*If audio in LEFT Channel only* 
+#### If audio in LEFT Channel only
 
--af "pan=stereo|FL=FL|FR=FL")
+**-af "pan=stereo|FL=FL|FR=FL"**
   
     for  i in *.mov; do ffmpeg -i "$i" -af "pan=stereo|FL=FL|FR=FL" -c:v libx264 -b:v 50M -vf "yadif,format=yuv420p" "$(basename "$i" .mov)".mp4  ; done
 
-*Addressing horizontal lines due to interlaced -> progressive transcoding* (use this video filter: -vf "yadif,format=yuv420p"):
+#### Addressing horizontal lines due to interlaced -> progressive transcoding
+
+**-vf "yadif,format=yuv420p"**
 
     for i in *.mov; do ffmpeg -i "$i" -c:a aac -c:v libx264 -b:v 10M -vf "yadif,format=yuv420p" "$(basename "$i" .mov)".mp4  ; done
 

@@ -47,6 +47,7 @@ HandBrake is a free, open source video transcoder that you can use on a Mac, Win
 * [Installing HandBrake's GUI](https://handbrake.fr/downloads.php){:target="_blank"} 
 * [Installing HandBrakeCLI](https://handbrake.fr/downloads2.php){:target="_blank"}
 
+Instructions for downloading and installing HandBrake can be found [here](https://handbrake.fr/docs/en/1.6.0/get-handbrake/download-and-install.html){:target="_blank"}.
 
 ### To transcode .MOV to .MP4 (H.246)
 

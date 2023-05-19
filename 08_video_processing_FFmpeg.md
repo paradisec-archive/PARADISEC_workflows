@@ -25,6 +25,10 @@ H6{color:White !important;}
 # Video Processing with FFmpeg
 
 <p align="center">
+  <img width="200" src="images/ffmpeg.gif">
+</p>
+
+<p align="center">
 🚧 This page is currently under construction 🚧
 </p>
 

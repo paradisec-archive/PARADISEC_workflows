@@ -49,7 +49,10 @@ HandBrake is a free, open source video transcoder that you can use on a Mac, Win
 
 Instructions for downloading and installing HandBrake can be found [here](https://handbrake.fr/docs/en/1.6.0/get-handbrake/download-and-install.html){:target="_blank"}.
 
-### To transcode .MOV to .MP4 (H.246)
+## Transcoding tasks
+Below are possible scenarios and workflows for using HandBrake for transcoding your digital videos.
+
+### To transcode .MOV/.AVI/.MTS/.M4V/.MKV/.WEBM/.FLV/.MPG/.MPEG/.MXF, etc to .MP4 (H.246)
 
 
 
@@ -80,7 +83,7 @@ Instructions for downloading and installing HandBrake can be found [here](https:
 
  **HandBrake Documentation:**<br>[https://handbrake.fr/docs/](https://handbrake.fr/docs/){:target="_blank"}
  
- **Helpful information on deinterlacing, YADIF, BWDIF, decomb, etc.:** [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter/){:target="_blank"}, from:<br>
+ **Helpful information on deinterlacing, YADIF, BWDIF, decomb, etc.** [here](https://www.dr-lex.be/info-stuff/videotips.html#deinter/){:target="_blank"}. From:<br>
  Thomas. Alexander. (2023) **Video Encoding Tips** [https://www.dr-lex.be/info-stuff/videotips.html](https://www.dr-lex.be/info-stuff/videotips.html){:target="_blank"}.
 
 

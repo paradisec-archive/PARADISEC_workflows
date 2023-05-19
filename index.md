@@ -66,6 +66,11 @@ These technical workflows and archiving guides are designed to help people with 
 * Transcode videos with settings not available in Adobe ME presets
 * Handle video with problematic properties
 
+## [Video processing with HandBrake](https://paradisec-archive.github.io/PARADISEC_workflows/08.5_video_processing_HandBrake.html)
+* Free, open source video transcoding tool
+* Uses FFMpeg libraries "under the hood"
+* Simple GUI with many presets to choose or customise
+
 ## [Video processing with Adobe Media Encoder](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html)
 * Create lossless JPEG2000 .MXF video files for archiving with PARADISEC (archival copy)
 * Create well-formed .MP4s for access copies or fit-for-purpose copies

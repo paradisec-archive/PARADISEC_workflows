@@ -91,7 +91,7 @@ If you have a single file:
 
 **-af "pan=stereo\|FL=FL\|FR=FL"**
   
-    for  i in *.mov; do ffmpeg -i "$i" -af "pan=stereo\|FL=FL\|FR=FL" -c:v libx264 -b:v 50M -vf "yadif,format=yuv420p" "$(basename "$i" .mov)".mp4  ; done
+    for  i in *.mov; do ffmpeg -i "$i" -af "pan=stereo \|FL=FL \|FR=FL" -c:v libx264 -b:v 50M -vf "yadif,format=yuv420p" "$(basename "$i" .mov)".mp4  ; done
 
 
 #### Addressing horizontal lines due to interlaced -> progressive transcoding

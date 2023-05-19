@@ -77,9 +77,9 @@ HandBrake is a free, open source video transcoder that you can use on a Mac, Win
 
 ## Additional resources
 
- **HandBrake Documentation**<br>[https://handbrake.fr/docs/](https://handbrake.fr/docs/){:target="_blank"}
+ **HandBrake Documentation:**<br>[https://handbrake.fr/docs/](https://handbrake.fr/docs/){:target="_blank"}
  
- **Helpful information on deinterlacing, YADIF, BWDIF, decomb, etc.**: [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter/){:target="_blank"}, from:<br>
+ **Helpful information on deinterlacing, YADIF, BWDIF, decomb, etc.:** [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter/){:target="_blank"}, from:<br>
  Thomas. Alexander. (2023) **Video Encoding Tips** [https://www.dr-lex.be/info-stuff/videotips.html](https://www.dr-lex.be/info-stuff/videotips.html){:target="_blank"}.
 
 

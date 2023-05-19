@@ -30,10 +30,10 @@ H6{color:White !important;}
 
 *This technical guide was created as part of the archiving workflow for PARADISEC. Some of the content may not be relevant for general users.* 
 
-<span style="font-variant:small-caps;">Last updated: 03 March 2023</span>
+<span style="font-variant:small-caps;">Last updated: 19 May 2023</span>
 
 
-FFmpeg is an efficient and cost effective way to process video. It is done by using a command line interface (CLI), but once the workflow is set up, it is relatively simple.
+FFmpeg is an efficient and cost-effective way to process video. It is done by using a command line interface (CLI), but once the workflow is set up, it is relatively simple.
 
 
 ## Installation options

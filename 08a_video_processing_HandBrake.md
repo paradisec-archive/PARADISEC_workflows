@@ -39,7 +39,7 @@ H6{color:White !important;}
 <span style="font-variant:small-caps;">Last updated: 19 May 2023</span>
 
 
-HandBrake is a free, open source video transcoder that you canuse on a Mac, Windows, and Linux. 
+HandBrake is a free, open source video transcoder that you can use on a Mac, Windows, and Linux. 
 
 
 ## Installation options
@@ -79,8 +79,8 @@ HandBrake is a free, open source video transcoder that you canuse on a Mac, Wind
 
  **HandBrake Documentation**<br>[https://handbrake.fr/docs/](https://handbrake.fr/docs/){:target="_blank"}
  
- **Helpful information on Interlaced vs Progressive**:<br>
- Thomas. Alexander. (2023) **Video Encoding Tips** [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter/){:target="_blank"}
+ **Helpful information on deinterlacing, YADIF, BWDIF, decomb, etc.**: [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter/){:target="_blank"}, from:<br>
+ Thomas. Alexander. (2023) **Video Encoding Tips** [https://www.dr-lex.be/info-stuff/videotips.html](https://www.dr-lex.be/info-stuff/videotips.html){:target="_blank"}.
 
 
 

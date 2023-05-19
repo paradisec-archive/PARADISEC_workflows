@@ -26,7 +26,7 @@ H6{color:White !important;}
 
 
 <p align="center">
-  <img width="200" src="HandBrake-icon.gif">
+  <img width="200" src="images/HandBrake-icon.gif">
 </p>
 
 
@@ -78,9 +78,9 @@ HandBrake is a free, open source video transcoder that you canuse on a Mac, Wind
 
 ## Additional resources
 
- **HandBrake Documentation** [https://handbrake.fr/docs/](https://handbrake.fr/docs/){:target="_blank"}
+ **HandBrake Documentation**<br>[https://handbrake.fr/docs/](https://handbrake.fr/docs/){:target="_blank"}
  
- **Interlaced and Progressive**:
+ **Helpful information on Interlaced vs Progressive**:<br>
  Thomas. Alexander. (2023) **Video Encoding Tips** [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter/){:target="_blank"}
 
 

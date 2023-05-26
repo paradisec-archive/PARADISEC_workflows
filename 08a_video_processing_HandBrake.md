@@ -15,7 +15,7 @@ nav_order: 8.5
 </details>
 
 <style>
-H5{color:White !important;}
+H5{color:Black !important;}
 </style>
 
 <style>
@@ -79,12 +79,12 @@ Presented below are details on how to refine the transcoding process to create y
   <img width="200" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
 </p>
 
-**DIMENSIONS**
+##### Dimensions tab
 
 ><span style="color:DarkBlue">
 >**NOTE**: As mentioned above, there may be a mismatch in a file's storage and display size as seen in the below screenshots:
 <p align="center">
-  <img width="400" src="images/HandBrake-Aspect-Mismatch.png" alt="Screenshot of HandBrake's summary tab">
+  <img width="500" src="images/HandBrake-Aspect-Mismatch.png" alt="Screenshot of HandBrake's summary tab">
 </p>
 The file's aspect ratio (as confirmend by MediaInfo) matched the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
 ></span>

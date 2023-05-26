@@ -19,7 +19,7 @@ H5{color:Black !important;}
 </style>
 
 <style>
-H6{color:White !important;}
+H6{color:Black !important;}
 </style>
 
 # Video Processing with HandBrake

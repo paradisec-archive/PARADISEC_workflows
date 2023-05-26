@@ -73,6 +73,9 @@ Open HandBrake; you are prompted to navigate to your video file. If HandBrake is
 Presented below are details on how to refine the transcoding process to create your target format. This advice is geared toward processing access videos for PARADISEC archive, ***mp4 (H.264)***, but this will hopefully enable you to understand how you can manipulate the features of HandBrake to create your own transcoding targets.
 
 **SUMMARY**
+<p align="center">
+  <img width="500" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
+</p>
 
 **DIMENSIONS**
 

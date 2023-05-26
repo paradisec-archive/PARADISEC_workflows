@@ -54,7 +54,9 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 
 ### To transcode a single video
 
-Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You will be presented the following workspace (HandBrake version 1.6.1 for Mac)
+Before you proceed, collect the important structural metadata about your video files; this will inform your workflow and if you can do batch processing or not. This Metadata querry can be done using MediaInfo on individual files, or via a batch export outlined [here]()[]:target="_blank"}. 
+
+Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You will be presented the following workspace (HandBrake version 1.6.1 for Mac).
 
 <p align="center">
   <img width="500" src="images/HandBrake-main_workspace.png" alt="Screenshot of HandBrake main workspace">

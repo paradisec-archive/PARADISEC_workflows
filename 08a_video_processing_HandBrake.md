@@ -86,14 +86,34 @@ Presented below are details on how to refine the transcoding process to create y
 
 
 #### Filters
+<p align="center">
+  <img width="500" src="images/HandBrake-main_FILTERS_TAB-none.png" alt="Screenshot of HandBrake main workspace">
+</p>
+
+
+<p align="center">
+  <img width="500" src="images/HandBrake-main_FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake main workspace">
+</p>
 
 #### Video
+<p align="center">
+  <img width="500" src="images/HandBrake-VIDEO_TAB.png" alt="Screenshot of HandBrake main workspace">
+</p>
 
 #### Audio
+<p align="center">
+  <img width="500" src="images/HandBrake-AUDIO_TAB.png" alt="Screenshot of HandBrake main workspace">
+</p>
 
 #### Subtitles
+<p align="center">
+  <img width="500" src="images/HandBrake-SUBTITLES_TAB.png" alt="Screenshot of HandBrake main workspace">
+</p>
 
 #### Chapters
+<p align="center">
+  <img width="500" src="images/HandBrake-CHAPTERS_TAB.png" alt="Screenshot of HandBrake main workspace">
+</p>
 
 
 ## Transcoding tasks

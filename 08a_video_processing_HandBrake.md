@@ -60,7 +60,8 @@ Metadata you should collect:
 * **Size/dimension** (essentialy height and width measurements). Ideally the file's ***storage size*** should be the same as ***display size*** (I have only seen these numbers differ with an older .AVI file. I set the size to the same dimension and the transcoding worked fine)
 * **Framerate (FPS)**. HandBrake *should* produce a file with the same FPS, even if the main workspace has a differnt framerate listed for your video
 * **Encoding format profile** (ex: High@L4.0)
-* **BitRate**
+* **BitRate** If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value
+* **Video scan type** Progressive or interlaced 
 
 Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time. You will then be presented a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
 

@@ -82,11 +82,11 @@ Presented below are details on how to refine the transcoding process to create y
 ##### Dimensions tab
 
 ><span style="color:DarkBlue">
->**NOTE**: As mentioned above, there may be a mismatch in a file's storage and display size as seen in the below screenshots:
+>**NOTE**: As mentioned above, there may be a mismatch in a file's storage and display size as seen in the below screenshots. The file's aspect ratio (as confirmend by MediaInfo) matches the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
 <p align="center">
   <img width="500" src="images/HandBrake-Aspect-Mismatch.png" alt="Screenshot of HandBrake's summary tab">
 </p>
-The file's aspect ratio (as confirmend by MediaInfo) matched the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
+
 ></span>
 <br>
 

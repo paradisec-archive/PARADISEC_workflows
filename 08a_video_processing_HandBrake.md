@@ -36,7 +36,7 @@ H6{color:White !important;}
 
 *This technical guide was created as part of the archiving workflow for PARADISEC. Some of the content may not be relevant for general users.* 
 
-<span style="font-variant:small-caps;">Last updated: 19 May 2023</span>
+<span style="font-variant:small-caps;">Last updated: 26 May 2023</span>
 
 
 HandBrake is a free, open source video transcoder that you can use on a Mac, Windows, and Linux. 
@@ -50,9 +50,15 @@ HandBrake is a free, open source video transcoder that you can use on a Mac, Win
 Instructions for downloading and installing HandBrake can be found [here](https://handbrake.fr/docs/en/1.6.0/get-handbrake/download-and-install.html){:target="_blank"}.
 
 ## Transcoding tasks
-Below are possible scenarios and workflows for using HandBrake for transcoding your digital videos.
+Below are possible scenarios and workflows for using HandBrake for transcoding your digital videos. You can transcode from the following formats: .MOV/.AVI/.MTS/.M4V/.MKV/.WEBM/.FLV/.MPG/.MPEG/.MXF, etc to .MP4 (H.246)
 
-### To transcode .MOV/.AVI/.MTS/.M4V/.MKV/.WEBM/.FLV/.MPG/.MPEG/.MXF, etc to .MP4 (H.246)
+### To transcode a single video
+
+Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You will be presented the following workspace (HandBrake version 1.6.1 for Mac)
+
+<p align="center">
+  <img width="500" src="images/HandBrake-main_workspace.png" alt="Screenshot of HandBrake main workspace">
+</p>
 
 
 

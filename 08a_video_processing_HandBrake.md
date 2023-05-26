@@ -15,11 +15,11 @@ nav_order: 8.5
 </details>
 
 <style>
-H5{color:Black !important;}
+#H5{color:Black !important;}
 </style>
 
 <style>
-H6{color:Black !important;}
+#H6{color:Black !important;}
 </style>
 
 # Video Processing with HandBrake

@@ -49,14 +49,8 @@ HandBrake is a free, open source video transcoder that you can use on a Mac, Win
 
 Instructions for downloading and installing HandBrake can be found [here](https://handbrake.fr/docs/en/1.6.0/get-handbrake/download-and-install.html){:target="_blank"}.
 
-## Transcoding tasks
-Below are possible scenarios and workflows for using HandBrake for transcoding your digital videos. You can transcode from the following formats: .MOV .AVI .MTS .M4V .MKV .WEBM .FLV .MPG .MPEG .MXF, etc
 
-### To transcode a single video
-
-Before you proceed, collect the important structural metadata about your video files; this will inform your workflow and if you can do batch processing or not. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
-
-#### Metadata you should collect prior to transcoding: 
+## Metadata you should collect prior to transcoding: 
 * **Size/dimension** (height and width measurements) - Ideally, the file's ***storage size*** should be the same as ***display size*** (I have only seen these numbers differ with an older .AVI file. See note below in DIMENSIONS)
 * **Framerate (FPS)** - HandBrake *should* produce a file with the same FPS, even if the main workspace has a differnt framerate listed for your video
 * **Encoding format profile** - (ex: High@L4.0)
@@ -65,7 +59,7 @@ Before you proceed, collect the important structural metadata about your video f
 * **Audio Bitrate** - You may have received a file with a very robust audio track, ex 256. HandBrake's default is 160
 
 
-#### The HandBrake workspace
+### The HandBrake workspace
 Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time. You will then be presented a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
 
 <p align="center">
@@ -74,12 +68,12 @@ Open HandBrake; you are prompted to navigate to your video file. If HandBrake is
 
 Presented below are details on how to refine the transcoding process to create your target format. This advice is geared toward processing access videos for PARADISEC archive, ***mp4 (H.264)***, but this will hopefully enable you to understand how you can manipulate the features of HandBrake to create your own transcoding targets.
 
-##### Summary tab
+#### Summary
 <p align="center">
   <img width="200" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
 </p>
 
-##### Dimensions tab
+#### Dimensions
 
 ><span style="color:DarkBlue">
 >**NOTE**: As mentioned above, there may be a mismatch in a file's storage and display size as seen in the below screenshots. The file's aspect ratio (as confirmend by MediaInfo) matches the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
@@ -91,16 +85,23 @@ Presented below are details on how to refine the transcoding process to create y
 <br>
 
 
-**FILTERS**
+#### Filters
 
-**VIDEO**
+#### Video
 
-**AUDIO**
+#### Audio
 
-**SUBTITLES**
+#### Subtitles
 
-**CHAPTERS**
+#### Chapters
 
+
+## Transcoding tasks
+Below are possible scenarios and workflows for using HandBrake for transcoding your digital videos. You can transcode from the following formats: .MOV .AVI .MTS .M4V .MKV .WEBM .FLV .MPG .MPEG .MXF, etc
+
+### To transcode a single video
+
+Before you proceed, collect the important structural metadata about your video files; this will inform your workflow and if you can do batch processing or not. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
 
 ### To transcode multiple videos in a batch
 

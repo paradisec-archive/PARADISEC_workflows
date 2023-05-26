@@ -57,11 +57,12 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 Before you proceed, collect the important structural metadata about your video files; this will inform your workflow and if you can do batch processing or not. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
 
 Metadata you should collect: 
-* **Size/dimension** (essentialy height and width measurements). Ideally the file's ***storage size*** should be the same as ***display size*** (I have only seen these numbers differ with an older .AVI file. I set the size to the same dimension and the transcoding worked fine)
-* **Framerate (FPS)**. HandBrake *should* produce a file with the same FPS, even if the main workspace has a differnt framerate listed for your video
-* **Encoding format profile** (ex: High@L4.0)
-* **BitRate** If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value
-* **Video scan type** Progressive or interlaced 
+* **Size/dimension** (essentialy height and width measurements) - Ideally, the file's ***storage size*** should be the same as ***display size*** (I have only seen these numbers differ with an older .AVI file. I set the size to the same dimension and the transcoding worked fine)
+* **Framerate (FPS)** - HandBrake *should* produce a file with the same FPS, even if the main workspace has a differnt framerate listed for your video
+* **Encoding format profile** - (ex: High@L4.0)
+* **BitRate** - If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value
+* **Video scan type** - Progressive or interlaced 
+* **Audio Bitrate** - You may have received a file with a very robust audio track, ex 256. HandBrake's default is 160
 
 Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time. You will then be presented a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
 

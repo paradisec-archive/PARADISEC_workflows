@@ -74,7 +74,7 @@ Presented below are details on how to refine the transcoding process to create y
 
 **SUMMARY**
 <p align="center">
-  <img width="500" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
+  <img width="200" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
 </p>
 
 **DIMENSIONS**

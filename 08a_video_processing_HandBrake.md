@@ -97,7 +97,6 @@ Open HandBrake; you are prompted to navigate to your video file. If HandBrake is
 
  **HandBrake Documentation:**<br>[https://handbrake.fr/docs/](https://handbrake.fr/docs/){:target="_blank"}
  
- **Helpful information on deinterlacing, YADIF, BWDIF, decomb, etc.** [here](https://www.dr-lex.be/info-stuff/videotips.html#deinter/){:target="_blank"}. From:<br>
  Thomas. Alexander. (2023) **Video Encoding Tips** [https://www.dr-lex.be/info-stuff/videotips.html](https://www.dr-lex.be/info-stuff/videotips.html){:target="_blank"}.
 
 

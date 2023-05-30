@@ -62,26 +62,26 @@ Before you proceed, collect the important structural metadata about your video f
 
 
 ## The HandBrake workspace
-When you open HandBrake, you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time (jump to [batch processing](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html#to-transcode-multiple-videos-in-a-batch) to read about how to transcode more than one video at a time). You will then be presented a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
+When you open HandBrake, you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time (jump to [batch processing](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html#to-transcode-multiple-videos-in-a-batch) to read about how to transcode more than one video at a time). You will then see a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
 
 <p align="center">
   <img width="500" src="images/HandBrake-main_workspace.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
-Presented below are details on how to refine the transcoding process to create your target format. This advice is geared toward processing access videos for the PARADISEC archive, but this will hopefully enable you to understand how you can manipulate the features of HandBrake to create your own transcoding targets.
+Below are brief descriptions about each of the tabs found in the HandBrake workspace and how to refine the transcoding settings to create your target format. This advice is geared toward processing access videos for the PARADISEC archive; however, this will hopefully empower you to create your own transcoding targets.
 
 ### Summary
 <p align="center">
   <img width="200" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
 </p>
 
-The **Summary** tab is the default active tab when you open a video in HandBrake. It provides an overview of selected default settings, specifically the target  format (MP4, H.264), the FPS (30), audio codec (AAC), filters that will be applied (comb detect, decomb), and the aspect ratio. 
+The **Summary** tab is the default active tab when you open a video in HandBrake. It provides an overview of selected default settings, specifically the target format (MP4, H.264), the FPS (30), audio codec (AAC), filters that are currently selected (comb detect, decomb), and the aspect ratio. 
 
 If you are happy with the default setting and the location where the file is to be written, you can just hit the *Start* button at the top of the window. 
 
-If you want a different format to MP4, such as MKV or WebM, you can use the dropdown menu. As for the default settings for the tick boxes, my suggestion is to leave them as they are. Same goes for the settings located right above the tabs. If you decide to create a preset to transcode a set of videos with similar encoding features, you would select it from the preset dropdown menu. 
+If you want a different format to MP4, such as MKV or WebM, you can use the dropdown menu. As for the default settings for the tick boxes, my suggestion is to leave them as they are. The same goes for the settings located right above the tabs. If you decide to create a preset to transcode a set of videos with similar encoding features, you would select it from the preset dropdown menu. 
 
-If you have specific changes to the default, then step through the remaining tabs and make your changes.
+If you have specific changes to the default encoding settings, then step through the remaining tabs and make your changes.
 
 ### Dimensions
 <p align="center">

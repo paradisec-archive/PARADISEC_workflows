@@ -93,11 +93,13 @@ In the **Dimensions** tab you can make changes to the aspect ratio, including ad
 Any changes you make to these settings can be previewed in the **Summary** tab prior to transcoding.
 
 ### Filters
-
 <p align="center">
   <img width="500" src="images/HandBrake-FILTERS_TAB-none.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
+The **Filters** tab is very important, especially if you have *interlaced* videos and you wish to make them *progressive*. If you do not apply a filter when you transcode an interlaced video, you will create a progressive video with combing artifacts, essentially horizontal lines that appear with rapid motion. In this tab you can set a filter of deactivate filtering if you do not need it.
+
+To read more about deinterlacing and detecine, visit this site [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter){:target="_blank"}.
 
 <p align="center">
   <img width="500" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake main workspace">

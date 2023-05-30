@@ -85,7 +85,7 @@ If you have specific changes to the default encoding settings, then step through
 
 ### Dimensions
 <p align="center">
-  <img width="500" src="images/HandBrake-DIMENSIONS_TAB.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-DIMENSIONS_TAB.png" alt="Screenshot of HandBrake dimensions tab">
 </p>
 
 In the **Dimensions** tab you can make changes to the aspect ratio, including adding letterbox or pillarbox. You can also crop, rotate or flip your video.
@@ -94,37 +94,45 @@ Any changes you make to these settings can be previewed in the **Summary** tab p
 
 ### Filters
 <p align="center">
-  <img width="500" src="images/HandBrake-FILTERS_TAB-default.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-FILTERS_TAB-default.png" alt="Screenshot of HandBrake Filter tab">
 </p>
 
-The **Filters** tab is very important, especially if you have *interlaced* videos and you wish to make them *progressive*. If you do not apply a filter when you transcode an interlaced video, you will create a progressive video with combing artifacts, essentially horizontal lines that appear with rapid motion. In this tab you can set a filter of deactivate filtering if you do not need it.
+The **Filters** tab has the default settings as seen above. It is a good idea to determine if that seting is needed. If you have a progressive video, you should turn off the filters, rather than retaining the default. 
+
+<p align="center">
+  <img width="200" src="images/HandBrake-FILTERS_TAB-none.png" alt="Screenshot of HandBrake filters set to "none"">
+</p>
+
+
+
+, especially if you have *interlaced* videos and you wish to make them *progressive*. If you do not apply a filter when you transcode an interlaced video, you will create a progressive video with combing artifacts, essentially horizontal lines that appear with rapid motion. In this tab you can set a filter of deactivate filtering if you do not need it.
 
 To read more about deinterlacing and detelecine, visit this site [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter){:target="_blank"}.
 
 The default setting for the filters is
 
 <p align="center">
-  <img width="500" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake filters set to Bwdif">
 </p>
 
 ### Video
 <p align="center">
-  <img width="500" src="images/HandBrake-VIDEO_TAB.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-VIDEO_TAB.png" alt="Screenshot of HandBrake video tab">
 </p>
 
 ### Audio
 <p align="center">
-  <img width="500" src="images/HandBrake-AUDIO_TAB.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-AUDIO_TAB.png" alt="Screenshot of HandBrake audio tab">
 </p>
 
 ### Subtitles
 <p align="center">
-  <img width="500" src="images/HandBrake-SUBLTITLES_TAB.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-SUBLTITLES_TAB.png" alt="Screenshot of HandBrake subtitles tab">
 </p>
 
 ### Chapters
 <p align="center">
-  <img width="500" src="images/HandBrake-CHAPTERS_TAB.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-CHAPTERS_TAB.png" alt="Screenshot of HandBrake chapters tab">
 </p>
 
 

@@ -62,7 +62,7 @@ Before you proceed, collect the important structural metadata about your video f
 
 
 ## The HandBrake workspace
-Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time. You will then be presented a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
+Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time (more on batch processing [below]()). You will then be presented a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
 
 <p align="center">
   <img width="500" src="images/HandBrake-main_workspace.png" alt="Screenshot of HandBrake main workspace">
@@ -77,16 +77,9 @@ Presented below are details on how to refine the transcoding process to create y
 
 ### Dimensions
 
-><span style="color:DarkBlue">
->**NOTE**: As mentioned above, there may be a mismatch in a file's storage and display size as seen in the below screenshots. The file's aspect ratio (as confirmend by MediaInfo) matches the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
-></span>
-
-<p align="center">
-  <img width="500" src="images/HandBrake-Aspect-Mismatch.png" alt="Screenshot of HandBrake's summary tab">
-</p>
 
 
-<br>
+
 
 
 ### Filters
@@ -137,6 +130,15 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 
 
 
+### Things to watch out for
+
+><span style="color:DarkBlue">
+>**NOTE**: As mentioned above, there may be a mismatch in a file's storage and display size as seen in the below screenshots. The file's aspect ratio (as confirmend by MediaInfo) matches the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
+></span>
+
+<p align="center">
+  <img width="500" src="images/HandBrake-Aspect-Mismatch.png" alt="Screenshot of HandBrake's summary tab">
+</p>
 
 
 

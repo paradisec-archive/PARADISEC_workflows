@@ -118,6 +118,17 @@ To read more about deinterlacing and detelecine, visit this site [https://www.dr
   <img width="500" src="images/HandBrake-VIDEO_TAB.png" alt="Screenshot of HandBrake video tab">
 </p>
 
+Video quality can be changed by adjusting one of two settings: 
+
+1. Constant Quality: 
+
+<p align="center">
+  <img width="200" src="images/HandBrake-Video_Qual-menu.png" alt="Screenshot of HandBrake filters set to "Bwdif"">
+</p>
+
+2. Average BitRate:
+
+
 ### Audio
 <p align="center">
   <img width="500" src="images/HandBrake-AUDIO_TAB.png" alt="Screenshot of HandBrake audio tab">

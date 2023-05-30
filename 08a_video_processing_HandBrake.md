@@ -79,7 +79,7 @@ The **Summary** tab is the default active tab when you open a video in HandBrake
 
 If you are happy with the default setting and the location where the file is to be written, you can just hit the *Start* button at the top of the window. 
 
-If you want a different format to MP4, such as MKV or WebM, you can use the dropdown menu. As for the default settings for the 4 tick boxes, my suggestion is to leave them as they are. Same goes for the settings located right above the tabs. If you decide to create a preset for a similarly shaped set of videos, you would select that from the preset dropdown menu. 
+If you want a different format to MP4, such as MKV or WebM, you can use the dropdown menu. As for the default settings for the tick boxes, my suggestion is to leave them as they are. Same goes for the settings located right above the tabs. If you decide to create a preset for a similarly shaped set of videos, you would select that from the preset dropdown menu. 
 
 If you have specific changes to the default, then step through the remaining tabs.
 

@@ -68,7 +68,7 @@ When you open HandBrake, you are prompted to navigate to your video file. If Han
   <img width="500" src="images/HandBrake-main_workspace.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
-Presented below are details on how to refine the transcoding process to create your target format. This advice is geared toward processing access videos for PARADISEC archive, but this will hopefully enable you to understand how you can manipulate the features of HandBrake to create your own transcoding targets.
+Presented below are details on how to refine the transcoding process to create your target format. This advice is geared toward processing access videos for the PARADISEC archive, but this will hopefully enable you to understand how you can manipulate the features of HandBrake to create your own transcoding targets.
 
 ### Summary
 <p align="center">

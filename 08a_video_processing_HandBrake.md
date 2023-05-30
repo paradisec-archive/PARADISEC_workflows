@@ -118,6 +118,7 @@ To read more about deinterlacing and detelecine, visit this site [https://www.dr
   <img width="500" src="images/HandBrake-VIDEO_TAB.png" alt="Screenshot of HandBrake video tab">
 </p>
 
+#### Video Encoding
 You can select different encoders from the dropdown menu as seen below:
 
 <p align="center">
@@ -126,6 +127,14 @@ You can select different encoders from the dropdown menu as seen below:
 
 It is also with this menu you can adjust your transcoding to accommodate a 10-bit source video.
 
+#### Frames per Second (FPS)
+Here you can adjust the FPS if HandBrake does not correctly capture your source frame rate.
+
+<p align="center">
+  <img width="200" src="images/HandBrake-FPS-menu.png" alt="Screenshot of HandBrake video encoder menu">
+</p>
+
+#### Video Quality
 Video quality can be changed by adjusting one of two settings: 
 
 1. Constant Quality: setting the slider to acheive a constant rate factor (CRF): 

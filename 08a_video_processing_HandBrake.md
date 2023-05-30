@@ -114,7 +114,7 @@ If you have an *interlaced* video and you wish to make them *progressive* you sh
 To read more about deinterlacing and detelecine, visit this site [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter){:target="_blank"}.
 
 <p align="center">
-  <img width="500" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake filters set to Bwdif">
+  <img width="200" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake filters set to Bwdif">
 </p>
 
 ### Video

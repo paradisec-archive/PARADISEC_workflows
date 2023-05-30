@@ -140,7 +140,7 @@ Video quality can be changed by adjusting one of two settings:
 1. Constant Quality: setting the slider to acheive a constant rate factor (CRF): 
 
 <p align="center">
-  <img width="200" src="images/HandBrake-Video_Qual-menu.png" alt="Screenshot of HandBrake video constant quality">
+  <img width="400" src="images/HandBrake-Video_Qual-menu.png" alt="Screenshot of HandBrake video constant quality">
 </p>
 
 2. Average BitRate: setting the average BitRate to match the overall BitRate of your source videos. You can also select to run a 2-pass encoding here.

@@ -97,15 +97,19 @@ Any changes you make to these settings can be previewed in the **Summary** tab p
   <img width="500" src="images/HandBrake-FILTERS_TAB-default.png" alt="Screenshot of HandBrake Filter tab">
 </p>
 
-The **Filters** tab has the default settings as seen above. It is a good idea to determine if that seting is needed. If you have a progressive video, you should turn off the filters, rather than retaining the default. 
+The **Filters** tab has the default settings as seen above. It is a good idea to determine if that setting is needed. If you have a *progressive* video, you should turn off the filters, rather than retaining the default. 
 
 <p align="center">
   <img width="200" src="images/HandBrake-FILTERS_TAB-none.png" alt="Screenshot of HandBrake filters set to "none"">
 </p>
 
+If you have an *interlaced* video and you wish to make them *progressive* you should apply the filte as seen below.
 
+<p align="center">
+  <img width="200" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake filters set to "Bwdif"">
+</p>
 
-, especially if you have *interlaced* videos and you wish to make them *progressive*. If you do not apply a filter when you transcode an interlaced video, you will create a progressive video with combing artifacts, essentially horizontal lines that appear with rapid motion. In this tab you can set a filter of deactivate filtering if you do not need it.
+ If you do not apply a filter when you transcode an interlaced video, you will create a progressive video with combing artifacts, essentially horizontal lines that appear with rapid motion. In this tab you can set a filter of deactivate filtering if you do not need it.
 
 To read more about deinterlacing and detelecine, visit this site [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter){:target="_blank"}.
 

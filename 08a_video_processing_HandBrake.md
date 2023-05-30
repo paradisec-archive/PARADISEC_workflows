@@ -78,6 +78,7 @@ Presented below are details on how to refine the transcoding process to create y
 ><span style="color:DarkBlue">
 >**NOTE**: As mentioned above, there may be a mismatch in a file's storage and display size as seen in the below screenshots. The file's aspect ratio (as confirmend by MediaInfo) matches the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
 ></span>
+
 <p align="center">
   <img width="500" src="images/HandBrake-Aspect-Mismatch.png" alt="Screenshot of HandBrake's summary tab">
 </p>
@@ -87,13 +88,14 @@ Presented below are details on how to refine the transcoding process to create y
 
 
 #### Filters
+
 <p align="center">
-  <img width="500" src="images/HandBrake-main_FILTERS_TAB-none.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-FILTERS_TAB-none.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
 
 <p align="center">
-  <img width="500" src="images/HandBrake-main_FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
 #### Video
@@ -108,7 +110,7 @@ Presented below are details on how to refine the transcoding process to create y
 
 #### Subtitles
 <p align="center">
-  <img width="500" src="images/HandBrake-SUBTITLES_TAB.png" alt="Screenshot of HandBrake main workspace">
+  <img width="500" src="images/HandBrake-SUBLTITLES_TAB.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
 #### Chapters

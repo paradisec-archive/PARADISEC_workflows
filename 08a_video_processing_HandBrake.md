@@ -62,7 +62,7 @@ Before you proceed, collect the important structural metadata about your video f
 
 
 ## The HandBrake workspace
-Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time (more on batch processing [below]()). You will then be presented a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
+When you open HandBrake, you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time (more on batch processing [below]()). You will then be presented a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
 
 <p align="center">
   <img width="500" src="images/HandBrake-main_workspace.png" alt="Screenshot of HandBrake main workspace">

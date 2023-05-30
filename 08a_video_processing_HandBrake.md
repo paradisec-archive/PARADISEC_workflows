@@ -123,7 +123,7 @@ Video quality can be changed by adjusting one of two settings:
 1. Constant Quality: 
 
 <p align="center">
-  <img width="200" src="images/HandBrake-Video_Qual-menu.png" alt="Screenshot of HandBrake filters set to "Bwdif"">
+  <img width="200" src="images/HandBrake-Video_Qual-menu.png" alt="Screenshot of HandBrake video constant quality">
 </p>
 
 2. Average BitRate:

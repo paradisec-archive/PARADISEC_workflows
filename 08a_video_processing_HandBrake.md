@@ -51,8 +51,10 @@ Instructions for downloading and installing HandBrake can be found [here](https:
 
 
 ## Metadata you should collect prior to transcoding: 
-* **Size/dimension** (height and width measurements) - Ideally, the file's ***storage size*** should be the same as ***display size*** (I have only seen these numbers differ with an older .AVI file. See note below in DIMENSIONS)
-* **Framerate (FPS)** - HandBrake *should* produce a file with the same FPS, even if the main workspace has a differnt framerate listed for your video
+Before you proceed, collect the important structural metadata about your video files; this will inform your workflow and whether or not you can do batch processing. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
+
+* **Size/dimension** - (height and width measurements, aspect ratio)
+* **Framerate (FPS)**
 * **Encoding format profile** - (ex: High@L4.0)
 * **BitRate** - If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value
 * **Video scan type** - Progressive or interlaced 
@@ -124,7 +126,7 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 
 ### To transcode a single video
 
-Before you proceed, collect the important structural metadata about your video files; this will inform your workflow and if you can do batch processing or not. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
+
 
 ### To transcode multiple videos in a batch
 

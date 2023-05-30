@@ -101,6 +101,8 @@ The **Filters** tab is very important, especially if you have *interlaced* video
 
 To read more about deinterlacing and detelecine, visit this site [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter){:target="_blank"}.
 
+The default setting for the filters is to have 
+
 <p align="center">
   <img width="500" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake main workspace">
 </p>

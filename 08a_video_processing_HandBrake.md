@@ -76,7 +76,9 @@ Presented below are details on how to refine the transcoding process to create y
 </p>
 
 ### Dimensions
-
+<p align="center">
+  <img width="500" src="images/HandBrake-DIMENSIONS_TAB.png" alt="Screenshot of HandBrake main workspace">
+</p>
 
 
 

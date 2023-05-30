@@ -145,7 +145,10 @@ Video quality can be changed by adjusting one of two settings:
 
 2. Average BitRate: setting the average BitRate to match the overall BitRate of your source videos.
 
+#### Video Encoding Profile
 
+
+For more information on video encoding profiles, visit this site: [https://streaminglearningcenter.com/codecs/beginners-guide-to-encoding-h264.html#h-264-profiles](https://streaminglearningcenter.com/codecs/beginners-guide-to-encoding-h264.html#h-264-profiles){:target="_blank"}.
 ### Audio
 <p align="center">
   <img width="500" src="images/HandBrake-AUDIO_TAB.png" alt="Screenshot of HandBrake audio tab">

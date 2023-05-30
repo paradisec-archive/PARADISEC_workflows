@@ -88,9 +88,9 @@ If you have specific changes to the default, then step through the remaining tab
   <img width="500" src="images/HandBrake-DIMENSIONS_TAB.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
+In the **Dimensions** tab you can make changes to the aspect ratio, including adding letterbox or pillarbox. You can also crop, rotate or flip your video.
 
-
-
+Any changes you make to these settings can be previewed in the **Summary** tab prior to transcoding.
 
 ### Filters
 

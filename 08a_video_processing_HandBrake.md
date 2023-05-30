@@ -75,7 +75,7 @@ Presented below are details on how to refine the transcoding process to create y
   <img width="200" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
 </p>
 
-The **Summary** tab is the active tab once you open a video in HandBrake. It provides an overview of selected default settings, specifically the target  format (MP4, H.264), the FPS, audio codec (AAC), filters that will be applied, and the aspect ratio. 
+The **Summary** tab is the default active tab when you open a video in HandBrake. It provides an overview of selected default settings, specifically the target  format (MP4, H.264), the FPS, audio codec (AAC), filters that will be applied, and the aspect ratio. 
 
 If you are happy with the default setting and the location where the file is to be written, you can just hit the *Start* button at the top of the window. 
 

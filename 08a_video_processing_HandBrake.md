@@ -75,6 +75,14 @@ Presented below are details on how to refine the transcoding process to create y
   <img width="200" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
 </p>
 
+The **Summary** tab is the active tab once you open a video in HandBrake. It provides an overview of selected default settings, specifically the target  format (MP4, H.264), the FPS, audio codec (AAC), filters that will be applied, and the aspect ratio. 
+
+If you are happy with the default setting and the location where the file is to be written, you can just hit the *Start* button at the top of the window. 
+
+If you want a different format, you can use the dropdown menu. As for the default settings for the 4 tick boxes, my suggestion is to leave them as they are. Same goes for the settings located right above the tabs. If you decide to create a preset for a similarly shaped set of videos, you would select that from the preset dropdown menu. 
+
+If you have specific changes to the default, then step through the remaining tabs.
+
 ### Dimensions
 <p align="center">
   <img width="500" src="images/HandBrake-DIMENSIONS_TAB.png" alt="Screenshot of HandBrake main workspace">

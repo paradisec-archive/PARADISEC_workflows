@@ -59,7 +59,7 @@ Instructions for downloading and installing HandBrake can be found [here](https:
 * **Audio Bitrate** - You may have received a file with a very robust audio track, ex 256. HandBrake's default is 160
 
 
-### The HandBrake workspace
+## The HandBrake workspace
 Open HandBrake; you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time. You will then be presented a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
 
 <p align="center">
@@ -68,12 +68,12 @@ Open HandBrake; you are prompted to navigate to your video file. If HandBrake is
 
 Presented below are details on how to refine the transcoding process to create your target format. This advice is geared toward processing access videos for PARADISEC archive, ***mp4 (H.264)***, but this will hopefully enable you to understand how you can manipulate the features of HandBrake to create your own transcoding targets.
 
-#### Summary
+### Summary
 <p align="center">
   <img width="200" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
 </p>
 
-#### Dimensions
+### Dimensions
 
 ><span style="color:DarkBlue">
 >**NOTE**: As mentioned above, there may be a mismatch in a file's storage and display size as seen in the below screenshots. The file's aspect ratio (as confirmend by MediaInfo) matches the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
@@ -87,7 +87,7 @@ Presented below are details on how to refine the transcoding process to create y
 <br>
 
 
-#### Filters
+### Filters
 
 <p align="center">
   <img width="500" src="images/HandBrake-FILTERS_TAB-none.png" alt="Screenshot of HandBrake main workspace">
@@ -98,22 +98,22 @@ Presented below are details on how to refine the transcoding process to create y
   <img width="500" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
-#### Video
+### Video
 <p align="center">
   <img width="500" src="images/HandBrake-VIDEO_TAB.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
-#### Audio
+### Audio
 <p align="center">
   <img width="500" src="images/HandBrake-AUDIO_TAB.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
-#### Subtitles
+### Subtitles
 <p align="center">
   <img width="500" src="images/HandBrake-SUBLTITLES_TAB.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
-#### Chapters
+### Chapters
 <p align="center">
   <img width="500" src="images/HandBrake-CHAPTERS_TAB.png" alt="Screenshot of HandBrake main workspace">
 </p>

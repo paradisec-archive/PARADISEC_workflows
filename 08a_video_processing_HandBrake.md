@@ -39,7 +39,7 @@ nav_order: 8.5
 <span style="font-variant:small-caps;">Last updated: 30 May 2023</span>
 
 
-HandBrake is a free, open source video transcoder that you can use on a Mac, Windows, and Linux. 
+HandBrake is a free, open source video transcoder that you can use on Mac, Windows, and Linux systems. 
 
 
 ## Installation options
@@ -68,7 +68,7 @@ When you open HandBrake, you are prompted to navigate to your video file. If Han
   <img width="500" src="images/HandBrake-main_workspace.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
-Presented below are details on how to refine the transcoding process to create your target format. This advice is geared toward processing access videos for PARADISEC archive, ***mp4 (H.264)***, but this will hopefully enable you to understand how you can manipulate the features of HandBrake to create your own transcoding targets.
+Presented below are details on how to refine the transcoding process to create your target format. This advice is geared toward processing access videos for PARADISEC archive, but this will hopefully enable you to understand how you can manipulate the features of HandBrake to create your own transcoding targets.
 
 ### Summary
 <p align="center">

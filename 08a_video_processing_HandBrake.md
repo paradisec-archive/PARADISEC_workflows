@@ -180,6 +180,14 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 
 
 
+
+<p align="center">
+  <img width="500" src="images/HandBrake-MediaInfoBandA.jpg" alt="Screenshot of MediaInfo comparison of source and transcoded files">
+</p>
+
+
+
+
 ### Things to watch out for
 
 ><span style="color:DarkBlue">

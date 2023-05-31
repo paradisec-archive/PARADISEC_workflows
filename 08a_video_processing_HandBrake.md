@@ -100,13 +100,13 @@ Any changes you make to these settings can be previewed in the **Summary** tab p
 The **Filters** tab has the default settings as seen above. It is a good idea to determine if that setting is needed. If you have a *progressive* video, you should turn off the filters, rather than retaining the default. 
 
 <p align="center">
-  <img width="200" src="images/HandBrake-FILTERS_TAB-none.png" alt="Screenshot of HandBrake filters set to none>
+  <img width="200" src="images/HandBrake-FILTERS_TAB-none.png" alt="Screenshot of HandBrake filters set to none">
 </p>
 
 If you have an *interlaced* video and you wish to make them *progressive* you should apply the filter as seen below.
 
 <p align="center">
-  <img width="200" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake filters set to Bwdif>
+  <img width="200" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake filters set to Bwdif">
 </p>
 
  If you do not apply a filter when you transcode an interlaced video to progressive, you will create a video with combing artifacts, essentially horizontal lines that appear with rapid motion.

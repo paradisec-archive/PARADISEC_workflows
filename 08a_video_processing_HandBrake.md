@@ -171,14 +171,10 @@ For more information on video encoding profiles, visit this site: [https://strea
 ## Transcoding tasks
 Below are possible scenarios and workflows for using HandBrake for transcoding your digital videos. You can transcode from the following formats: .MOV .AVI .MTS .M4V .MKV .WEBM .FLV .MPG .MPEG .MXF, etc
 
-### To transcode a single video
-
-
-
 ### To transcode multiple videos in a batch
 
 
-
+### Transcoding workflow designed for creating .MP4 (H.264) access videos for PARADISEC
 
 
 

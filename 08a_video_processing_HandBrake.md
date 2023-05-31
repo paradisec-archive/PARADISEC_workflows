@@ -180,6 +180,7 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 
 
 
+Below is a comparison of the source .MOV file on the left (with red highlights) and the transcoded .MP4 on the right (with green highlights). The highlighted items are the key specifications to try to match in order to retain quality of the source file.
 
 <p align="center">
   <img width="500" src="images/HandBrake-MediaInfoBandA.jpg" alt="Screenshot of MediaInfo comparison of source and transcoded files">

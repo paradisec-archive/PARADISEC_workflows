@@ -184,7 +184,7 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 Below is a MediaInfo metadtata comparison of the source .MOV file on the left (with red highlights) and the transcoded .MP4 on the right (with green highlights). The highlighted items are the key specifications to try to match in order to retain quality of the source file.
 
 <p align="center">
-  <img width="500" src="images/HandBrake-MediaInfo-BandA.jpg" alt="Screenshot of MediaInfo comparison of source and transcoded files">
+  <img width="600" src="images/HandBrake-MediaInfo-BandA.jpg" alt="Screenshot of MediaInfo comparison of source and transcoded files">
 </p>
 
 
@@ -193,7 +193,7 @@ Below is a MediaInfo metadtata comparison of the source .MOV file on the left (w
 ### Things to watch out for
 
 ><span style="color:DarkBlue">
->**NOTE**: There may be a mismatch in a file's storage and display size as seen in the screenshot below. The file's aspect ratio (as confirmend by MediaInfo) matches the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
+>**NOTE**: There may be a mismatch in a file's storage size and its display size as seen in the summary tab of an older .AVI video below. The file's aspect ratio shown in the top image is correctly represented by the display size (640x480) and NOT the storage size (x). To confirm that the storage aspect is incorrect, I altered the video dimensions to represent the storage size. The distortion can be seen in the bottom image.
 ></span>
 
 <p align="center">

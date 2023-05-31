@@ -106,7 +106,7 @@ The **Filters** tab has the default settings as seen above. It is a good idea to
 If you have an *interlaced* video and you wish to make them *progressive* you should apply the filter as seen below.
 
 <p align="center">
-  <img width="200" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake filters set to Bwdif">
+  <img width="400" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake filters set to Bwdif">
 </p>
 
  If you do not apply a filter when you transcode an interlaced video to progressive, you will create a video with combing artifacts, essentially horizontal lines that appear with rapid motion.
@@ -174,6 +174,7 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 ### To transcode multiple videos in a batch
 
 
+
 ### Transcoding workflow designed for creating .MP4 (H.264) access videos for PARADISEC
 
 
@@ -183,7 +184,7 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 Below is a comparison of the source .MOV file on the left (with red highlights) and the transcoded .MP4 on the right (with green highlights). The highlighted items are the key specifications to try to match in order to retain quality of the source file.
 
 <p align="center">
-  <img width="500" src="images/HandBrake-MediaInfoBandA.jpg" alt="Screenshot of MediaInfo comparison of source and transcoded files">
+  <img width="500" src="images/HandBrake-MediaInfo-BandA.jpg" alt="Screenshot of MediaInfo comparison of source and transcoded files">
 </p>
 
 
@@ -192,7 +193,7 @@ Below is a comparison of the source .MOV file on the left (with red highlights) 
 ### Things to watch out for
 
 ><span style="color:DarkBlue">
->**NOTE**: As mentioned above, there may be a mismatch in a file's storage and display size as seen in the below screenshots. The file's aspect ratio (as confirmend by MediaInfo) matches the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
+>**NOTE**: There may be a mismatch in a file's storage and display size as seen in the screenshot below. The file's aspect ratio (as confirmend by MediaInfo) matches the final display dimensions configured by HandBrake and the file did not look distorted, so I kept those dimensions when transcoding, and not the storage dimensions.
 ></span>
 
 <p align="center">

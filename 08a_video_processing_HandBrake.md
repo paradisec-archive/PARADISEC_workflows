@@ -193,7 +193,7 @@ Below is a MediaInfo metadtata comparison of the source .MOV file on the left (w
 ### Things to watch out for
 
 ><span style="color:DarkBlue">
->**NOTE**: There may be a mismatch in a file's storage size and its display size as seen in the summary tab of an older .AVI video below. The file's aspect ratio shown in the top image is correctly represented by the display size (640x480) and NOT the storage size (x). To confirm that the storage aspect is incorrect, I altered the video dimensions to represent the storage size. The distortion can be seen in the bottom image.
+>**NOTE**: There may be a mismatch in a file's storage size and its display size as seen in the summary tab of an older .AVI video below. The file's aspect ratio shown in the top image is correctly represented by the display size (640x480) and NOT the storage size (720x480). To check if the storage aspect is indeed incorrect, I altered the video dimensions to represent the storage size. That distortion can be seen in the bottom image. I then transcoded the file using the display size.
 ></span>
 
 <p align="center">

@@ -58,7 +58,6 @@ Before you proceed, collect the important structural metadata about your video f
 * **Encoding format profile** - (ex: High@L4.0)
 * **BitRate** - If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value
 * **Video scan type** - Progressive or interlaced 
-* **Audio Bitrate** - You may have received a file with a very robust audio track, ex 256. HandBrake's default is 160
 
 
 ## The HandBrake workspace
@@ -177,7 +176,8 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 
 ### Transcoding workflow designed for creating .MP4 (H.264) access videos for PARADISEC
 
-
+1. Collect the necessary metadata for videos. Group files that have similar BitRate, FPS, Aspect Ratio, Scan type, Encoding Profile, allowing you to batch encode.
+2.  
 
 
 

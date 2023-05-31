@@ -114,10 +114,11 @@ If you have an *interlaced* video and you wish to make them *progressive* you sh
 To read more about deinterlacing and detelecine, visit this site [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter){:target="_blank"}.
 
 ### Video
-
 <p align="center">
   <img width="500" src="images/HandBrake-VIDEO_TAB.png" alt="Screenshot of HandBrake video tab">
 </p>
+
+The **Video** tab offers a number of parameters you can adjust. 
 
 #### Video Encoding
 You can select different encoders from the dropdown menu as seen below:
@@ -150,6 +151,7 @@ Video quality can be changed by adjusting one of two settings:
 
 
 For more information on video encoding profiles, visit this site: [https://streaminglearningcenter.com/codecs/beginners-guide-to-encoding-h264.html#h-264-profiles](https://streaminglearningcenter.com/codecs/beginners-guide-to-encoding-h264.html#h-264-profiles){:target="_blank"}.
+
 ### Audio
 <p align="center">
   <img width="500" src="images/HandBrake-AUDIO_TAB.png" alt="Screenshot of HandBrake audio tab">

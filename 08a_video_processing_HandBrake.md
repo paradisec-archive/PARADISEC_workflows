@@ -36,7 +36,7 @@ nav_order: 8.5
 
 *This technical guide was created as part of the archiving workflow for PARADISEC. Some of the content may not be relevant for general users.* 
 
-<span style="font-variant:small-caps;">Last updated: 30 May 2023</span>
+<span style="font-variant:small-caps;">Last updated: 08 June 2023</span>
 
 
 HandBrake is a free, open source video transcoder that you can use on Mac, Windows, and Linux systems. 

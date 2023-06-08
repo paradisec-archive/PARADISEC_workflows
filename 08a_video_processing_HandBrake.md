@@ -139,7 +139,6 @@ Here you can adjust the FPS if HandBrake does not correctly capture your source 
 Video quality can be changed by adjusting one of two settings: 
 
 1. Constant Quality: setting the slider to acheive a constant rate factor (CRF): 
-
 <p align="center">
   <img width="400" src="images/HandBrake-Video_Qual-menu.png" alt="Screenshot of HandBrake video constant quality">
 </p>

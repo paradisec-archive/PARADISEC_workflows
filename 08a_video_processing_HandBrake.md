@@ -183,6 +183,7 @@ As you add files one at a time, it is a good idea to open up your queue and make
   <img width="200" src="images/HandBrake-Queue.png" alt="Screenshot of HandBrake chapters tab">
 </p>
 
+Once all your files are added to the queue, simply press Start.
 
 ### Transcoding workflow designed for creating .MP4 (H.264) access videos for PARADISEC
 

@@ -67,7 +67,7 @@ When you open HandBrake, you are prompted to navigate to your video file. If Han
   <img width="500" src="images/HandBrake-main_workspace.png" alt="Screenshot of HandBrake main workspace">
 </p>
 
-Below are brief descriptions about each of the tabs found in the HandBrake workspace and how to refine the transcoding settings to create your target format. This advice is geared toward processing access videos for the PARADISEC archive; however, this will hopefully empower you to create your own transcoding targets.
+Below are brief descriptions about each of the tabs found in the HandBrake workspace and how to refine the transcoding settings to create your target format. 
 
 ### Summary
 <p align="center">
@@ -191,7 +191,9 @@ Once all your files are added to the queue, simply press Start.
 3. Create a preset for the set of videos that match this first file (or open a saved preset that matches the file's features)
 4. Click on "Add To Queue" button and repeat the process of adding to the queue for each file in the set
 
-#### Creating a preset
+#### Creating a preset for PARADISEC .mp4 (H.264) access videos
+
+*The following instructions are geared toward creating presets for creating access videos for the PARADISEC archive; however, this workflow will hopefully empower general users to create their own transcoded videos.*
 
 If your source file is ***Interlaced***, you need to apply a filter to create a ***Progressive*** version. Use the Bwdif filter as mentioned [above](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html#filters).
 

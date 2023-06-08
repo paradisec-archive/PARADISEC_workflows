@@ -171,7 +171,17 @@ For more information on video encoding profiles, visit this site: [https://strea
 Below are possible scenarios and workflows for using HandBrake for transcoding your digital videos. You can transcode from the following formats: .MOV .AVI .MTS .M4V .MKV .WEBM .FLV .MPG .MPEG .MXF, etc
 
 ### To transcode multiple videos in a batch
-To transcode multiple videos at one time, you need to add each file one at a time to the queue. 
+To transcode multiple videos at one time, you need to add each file one at a time to the queue. Once you have opened a video file in HandBrake (and created an appropriate preset) click on the Add to Queue button at the top of the window. 
+
+<p align="center">
+  <img width="500" src="images/HandBrake-QueueMenu.png" alt="Screenshot of HandBrake chapters tab">
+</p>
+
+As you add files one at a time, it is a good idea to open up your queue and make sure you have added all the files you intend to transcode:
+
+<p align="center">
+  <img width="200" src="images/HandBrake-Queue.png" alt="Screenshot of HandBrake chapters tab">
+</p>
 
 
 ### Transcoding workflow designed for creating .MP4 (H.264) access videos for PARADISEC

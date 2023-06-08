@@ -173,13 +173,13 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 To transcode multiple videos at one time, you need to add each file one at a time to the queue. Once you have opened a video file in HandBrake (and created an appropriate preset) click on the Add to Queue button at the top of the window. 
 
 <p align="center">
-  <img width="500" src="images/HandBrake-QueueMenu.png" alt="Screenshot of HandBrake chapters tab">
+  <img width="600" src="images/HandBrake-QueueMenu.png" alt="Screenshot of HandBrake chapters tab">
 </p>
 
 As you add files one at a time, it is a good idea to open up your queue and make sure you have added all the files you intend to transcode:
 
 <p align="center">
-  <img width="200" src="images/HandBrake-Queue.png" alt="Screenshot of HandBrake chapters tab">
+  <img width="400" src="images/HandBrake-Queue.png" alt="Screenshot of HandBrake chapters tab">
 </p>
 
 Once all your files are added to the queue, simply press Start.

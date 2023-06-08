@@ -171,19 +171,19 @@ For more information on video encoding profiles, visit this site: [https://strea
 Below are possible scenarios and workflows for using HandBrake for transcoding your digital videos. You can transcode from the following formats: .MOV .AVI .MTS .M4V .MKV .WEBM .FLV .MPG .MPEG .MXF, etc
 
 ### To transcode multiple videos in a batch
-
+To transcode multiple videos at one time, you need to add each file one at a time to the queue. 
 
 
 ### Transcoding workflow designed for creating .MP4 (H.264) access videos for PARADISEC
 
-1. Collect the necessary metadata for videos. Group files that have similar BitRate, FPS, Aspect Ratio, Scan type, Encoding Profile, allowing you to batch encode.
+1. Collect the necessary metadata for videos. Group files that have similar BitRate, FPS, Aspect Ratio, Scan type, Encoding Profile, allowing you to batch encode
 2. Drag one file into HandBrake
 3. Create a preset for the set of videos that match this first file (or open a saved preset that matches the file's features)
-4. Click on "Add To Queue" button and repeat the process of adding to the queue for each file
+4. Click on "Add To Queue" button and repeat the process of adding to the queue for each file in the set
 
 #### Creating a preset
 
-If your source file is ***Interlaced***, you need to apply a filter to create a ***Progressive*** version. 
+If your source file is ***Interlaced***, you need to apply a filter to create a ***Progressive*** version. Use the Bwdif filter as mentioned [above](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html#filters).
 
 
 

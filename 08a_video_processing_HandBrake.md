@@ -102,7 +102,7 @@ The **Filters** tab has the default settings as seen above. It is a good idea to
   <img width="200" src="images/HandBrake-FILTERS_TAB-none.png" alt="Screenshot of HandBrake filters set to none">
 </p>
 
-If you have an *interlaced* video and you wish to make them *progressive* you should apply the filter as seen below.
+If you have an *interlaced* video and you wish to make it *progressive* you should apply the **Bwdif** filter as seen below.
 
 <p align="center">
   <img width="400" src="images/HandBrake-FILTERS_TAB-Bwdif.png" alt="Screenshot of HandBrake filters set to Bwdif">

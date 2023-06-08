@@ -128,8 +128,8 @@ You can select different encoders from the dropdown menu as seen below:
 
 It is also with this menu you can adjust your transcoding to accommodate a 10-bit source video.
 
-#### Frames per Second (FPS)
-Here you can adjust the FPS if HandBrake does not correctly capture your source frame rate.
+#### Frames per Second (fps)
+Here you can adjust the fps if HandBrake does not correctly capture your source frame rate.
 
 <p align="center">
   <img width="200" src="images/HandBrake-FPS-menu.png" alt="Screenshot of HandBrake video encoder menu">
@@ -170,13 +170,13 @@ For more information on video encoding profiles, visit this site: [https://strea
 Below are possible scenarios and workflows for using HandBrake for transcoding your digital videos. You can transcode from the following formats: .MOV .AVI .MTS .M4V .MKV .WEBM .FLV .MPG .MPEG .MXF, etc
 
 ### To transcode multiple videos in a batch
-To transcode multiple videos at one time, you need to add each file one at a time to the queue. Once you have opened a video file in HandBrake (and created an appropriate preset) click on the **Add to Queue** button at the top of the window. 
+To transcode multiple videos at one time, you need to add each file one at a time to the queue. Once you have opened a video file in HandBrake (and created an appropriate preset) click on the **Add to Queue** button in the upper left of the workspace. 
 
 <p align="center">
   <img width="600" src="images/HandBrake-QueueMenu.png" alt="Screenshot of HandBrake chapters tab">
 </p>
 
-As you add files one at a time, it is a good idea to open up your queue and make sure you have added all the files you intend to transcode:
+As you add files one at a time, it is a good idea to open up your queue by clicking on **Queue** in the upper right of the workspace and make sure you have added all the files you intend to transcode:
 
 <p align="center">
   <img width="400" src="images/HandBrake-Queue.png" alt="Screenshot of HandBrake chapters tab">

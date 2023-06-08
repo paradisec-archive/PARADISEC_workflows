@@ -193,7 +193,7 @@ Once all your files are added to the queue, simply press Start.
 
 #### Creating a preset for PARADISEC .mp4 (H.264) access videos
 
-*The following instructions are geared toward creating presets for creating access videos for the PARADISEC archive; however, this workflow will hopefully empower general users to create their own transcoded videos.*
+*The following instructions are geared toward creating presets to transcode access videos for PARADISEC; however, this workflow will hopefully empower general users to create their own transcoded videos.*
 
 If your source file is ***Interlaced***, you need to apply a filter to create a ***Progressive*** version. Use the Bwdif filter as mentioned [above](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html#filters).
 

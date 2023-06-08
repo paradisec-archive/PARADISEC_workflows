@@ -177,7 +177,13 @@ Below are possible scenarios and workflows for using HandBrake for transcoding y
 ### Transcoding workflow designed for creating .MP4 (H.264) access videos for PARADISEC
 
 1. Collect the necessary metadata for videos. Group files that have similar BitRate, FPS, Aspect Ratio, Scan type, Encoding Profile, allowing you to batch encode.
-2.  
+2. Drag one file into HandBrake
+3. Create a preset for the set of videos that match this first file (or open a saved preset that matches the file's features)
+4. Click on "Add To Queue" button and repeat the process of adding to the queue for each file
+
+#### Creating a preset
+
+If your source file is ***Interlaced***, you need to apply a filter to create a ***Progressive*** version. 
 
 
 

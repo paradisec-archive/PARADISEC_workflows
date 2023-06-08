@@ -54,7 +54,7 @@ Instructions for downloading and installing HandBrake can be found [here](https:
 Before you proceed, collect the important structural metadata about your video files; this will inform your workflow and whether or not you can do batch processing. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
 
 * **Size/dimension** - (height and width measurements, aspect ratio)
-* **Framerate (FPS)**
+* **Framerate (fps)**
 * **Encoding format profile** - (ex: High@L4.0)
 * **BitRate** - If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value
 * **Video scan type** - Progressive or interlaced 
@@ -186,7 +186,7 @@ Once all your files are added to the queue, simply press Start.
 
 ### Transcoding workflow designed for creating .MP4 (H.264) access videos for PARADISEC
 
-1. Collect the necessary metadata for videos. Group files that have similar BitRate, FPS, Aspect Ratio, Scan type, Encoding Profile, allowing you to batch encode
+1. Collect the necessary metadata for videos. Group files that have similar BitRate, fps, Aspect Ratio, Scan type, Encoding Profile, allowing you to batch encode
 2. Drag one file into HandBrake
 3. Create a preset for the set of videos that match this first file (or open a saved preset that matches the file's features)
 4. Click on "Add To Queue" button and repeat the process of adding to the queue for each file in the set

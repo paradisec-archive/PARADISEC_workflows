@@ -69,7 +69,7 @@ When you open HandBrake, you are prompted to navigate to your video file. If Han
 
 Below are brief descriptions about each of the tabs found in the HandBrake workspace and how to refine the transcoding settings to create your target format. 
 
-### Summary
+### Summary tab
 <p align="center">
   <img width="200" src="images/HandBrake-SUMMARY_TAB.png" alt="Screenshot of HandBrake's summary tab">
 </p>
@@ -82,7 +82,7 @@ If you want a different format to MP4, such as MKV or WebM, you can use the drop
 
 If you have specific changes to the default encoding settings, then step through the remaining tabs and make your changes.
 
-### Dimensions
+### Dimensions tab
 <p align="center">
   <img width="500" src="images/HandBrake-DIMENSIONS_TAB.png" alt="Screenshot of HandBrake dimensions tab">
 </p>
@@ -91,7 +91,7 @@ In the **Dimensions** tab you can make changes to the aspect ratio, including ad
 
 Any changes you make to these settings can be previewed in the **Summary** tab prior to transcoding.
 
-### Filters
+### Filters tab
 <p align="center">
   <img width="500" src="images/HandBrake-FILTERS_TAB-default.png" alt="Screenshot of HandBrake Filter tab">
 </p>
@@ -112,7 +112,7 @@ If you have an *interlaced* video and you wish to make it *progressive* you shou
 
 To read more about deinterlacing and detelecine, visit this site [https://www.dr-lex.be/info-stuff/videotips.html#deinter](https://www.dr-lex.be/info-stuff/videotips.html#deinter){:target="_blank"}.
 
-### Video
+### Video tab
 <p align="center">
   <img width="500" src="images/HandBrake-VIDEO_TAB.png" alt="Screenshot of HandBrake video tab">
 </p>
@@ -150,17 +150,18 @@ Video quality can be changed by adjusting one of two settings:
 
 For more information on video encoding profiles, visit this site: [https://streaminglearningcenter.com/codecs/beginners-guide-to-encoding-h264.html#h-264-profiles](https://streaminglearningcenter.com/codecs/beginners-guide-to-encoding-h264.html#h-264-profiles){:target="_blank"}.
 
-### Audio
+
+### Audio tab
 <p align="center">
   <img width="500" src="images/HandBrake-AUDIO_TAB.png" alt="Screenshot of HandBrake audio tab">
 </p>
 
-### Subtitles
+### Subtitles tab
 <p align="center">
   <img width="500" src="images/HandBrake-SUBLTITLES_TAB.png" alt="Screenshot of HandBrake subtitles tab">
 </p>
 
-### Chapters
+### Chapters tab
 <p align="center">
   <img width="500" src="images/HandBrake-CHAPTERS_TAB.png" alt="Screenshot of HandBrake chapters tab">
 </p>

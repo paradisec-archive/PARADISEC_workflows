@@ -76,6 +76,8 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
   </p>
 
 2. Organise files by Bitrate 
+3. Use Handbrake, FFmpeg, or MediaEncoder to create .mp4 (H.264), if original files are not already compliant. Follow instructions for Handbrake [here](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html){:target="_blank"}, FFmpeg [here](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}, or MediaEncoder [here](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html){:target="_blank"}.
+4. 
 
 ⬆️ [Back to top](#)
 

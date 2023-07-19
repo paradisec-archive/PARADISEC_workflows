@@ -34,12 +34,14 @@ H6{color:White !important;}
 </p>
 <br>
 
-<span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
+<span style="font-variant:small-caps;">Last updated: 19 July 2023</span>
 
 ## PARADISEC audio processing workflow for archiving
-This workflow is targeted toward born-digital audio files; however, should the need arise to adjust audio files originating from various legacy formats, this workflow will help.  
+This workflow is targeted toward born-digital audio files or files that come to PARADISEC that have previously been digitised by another party.
 
 ## PARADISEC audio standards
+
+For further information on digital video formats we accept, see [Standard formats for archiving with PARADISEC](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#standard-formats-for-archiving-with-paradisec){:target="_blank"}.
 
 ## Other audio processing tasks
 
@@ -61,19 +63,20 @@ ffmpeg -i  video.mp4 audio.wav
 
 If the original video (.avi, .mts, .mp4, .mov, etc.) has only one audio channel, or has a sampling or bit rate you want to change, take a look at the previous section on audio processing with ffmpeg.
 
-Resampling audio using Audacity	Manipulating audio with FFmpeg
+Resampling audio using Audacity	
+Extracting audio with FFmpeg
 
 ## Low-cost Options
 Post-production of digitised audio and processing of born-digital audio files can be achieved using the following free programs:
 
-* [NCH Wavepad](https://www.nch.com.au/wavepad/index.html)
+* [NCH Wavepad](https://www.nch.com.au/wavepad/index.html){:target="_blank"} (free)
 
     <p align="center">
        <img width="500" src="images/wavepad.jpg">
      </p>
 
 
-* [Ocenaudio](https://www.ocenaudio.com/en/startpage)
+* [Ocenaudio](https://www.ocenaudio.com/en/startpage){:target="_blank"} (free)
 
     <p align="center">
        <img width="500" src="images/ocenaudio.jpg">

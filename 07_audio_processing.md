@@ -46,7 +46,7 @@ This workflow is targeted toward born-digital audio files or files that come to 
 PARADISEC can accept various audio formats (.wav, .aiff, .m4a, mp3.), although our preference is that the audio be sent to us as close to the archival standard of 96kHz, 24-bit (stereo) as possible. Once we receive files, they are transcoded, resampled and sent to our archive system where they are transformed into BWF archival .wav files, with an accompanying access .mp3 copy. 
 
 ### Resampling audio using Audacity
-
+🚧 This section is currently under construction 🚧
 
 ### Extracting audio from a video
 If you want to extract the audio track from a video file, here are two way you can do this, both using software that is available for free:

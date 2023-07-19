@@ -43,6 +43,9 @@ This workflow is targeted toward born-digital audio files or files that come to 
 
 For further information on digital video formats we accept, see [Standard formats for archiving with PARADISEC](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#standard-formats-for-archiving-with-paradisec){:target="_blank"}.
 
+PARADISEC archives audio as 96kHz, 24-bit stereo .wav files. 
+
+
 ## Other audio processing tasks
 
 ### Extracting audio from a video
@@ -68,10 +71,11 @@ You can download VLC's free media player [here](https://www.videolan.org/vlc/){:
     <p align="center">
        <img width="200" src="images/VLC-AudioCD.png">
      </p>
-     
+
 4. Choose the destination for the output file and save it.
 
 #### Extracting a .wav file from a video file using FFmpeg
+
 If you want to retain the same audio quality as the source video:
 ```
 ffmpeg -i  <name_of_input_video.extension> <name_of_output_audio.extension>
@@ -84,8 +88,8 @@ ffmpeg -i  video.mp4 audio.wav
 
 If the original video (.avi, .mts, .mp4, .mov, etc.) has only one audio channel, or has a sampling or bit rate you want to change, take a look at the previous section on audio processing with ffmpeg.
 
-Resampling audio using Audacity	
-Extracting audio with FFmpeg
+
+
 
 ## Low-cost Options
 Post-production of digitised audio and processing of born-digital audio files can be achieved using the following free programs:

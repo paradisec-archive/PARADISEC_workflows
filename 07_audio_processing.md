@@ -107,7 +107,7 @@ Post-production of digitised audio and processing of born-digital audio files ca
        <img width="500" src="images/ocenaudio.jpg">
      </p>
 
-* [Audition](https://www.audacityteam.org/){:target="_blank"} (free)
+* [Audacity](https://www.audacityteam.org/){:target="_blank"} (free)
 
     <p align="center">
        <img width="500" src="images/audacity.png">

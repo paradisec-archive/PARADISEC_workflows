@@ -63,13 +63,13 @@ You can download VLC's free media player [here](https://www.videolan.org/vlc/){:
 2. Drag the video file you want to extract the audio from into the Convert & Stream window
 
     <p align="center">
-       <img width="200" src="images/VLC-convert-window.png">
+       <img width="500" src="images/VLC-convert-window.png">
      </p>
 
 3. Under "Choose Profile" select the **Audio - CD** from the drop-down menu. You can select **Customize...** if you want to alter the default .wav settings from a sample rate of 44100, bitrate 128, 2 channels.
 
     <p align="center">
-       <img width="200" src="images/VLC-AudioCD.png">
+       <img width="500" src="images/VLC-AudioCD.png">
      </p>
 
 4. Choose the destination for the output file and save it.

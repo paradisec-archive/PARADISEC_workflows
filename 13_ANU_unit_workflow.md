@@ -37,7 +37,7 @@ H6{color:White !important;}
 
 
 
-For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au){:target="_blank"}, or write to us at:<br><br>
+This workflow is designed for use by PARADISEC staff at ANU. Some instructions may not apply to your unit. For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au){:target="_blank"}, or write to us at:<br><br>
 **PARADISEC <br>
 Sydney Conservatorium of Music, C41 <br>
 University of Sydney, 2006 <br>
@@ -47,7 +47,8 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 
 ### Workflow for handling analogue open reel or cassette tapes
 1. Create inventory of files received
-2. 
+2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.
+3. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
 
 ### Workflow for handling born-digital audio files
 1. Create inventory of files received

@@ -47,14 +47,17 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 
 ### Workflow for handling analogue open reel or cassette tapes
 1. Create inventory of files received
+2. 
 
 ### Workflow for handling born-digital audio files
 1. Create inventory of files received
+2. 
 
 ## Video workflow
 
 ### Workflow for handling video tape formats, film, or other non-file-based video formats
 1. Create inventory of files received
+2. 
 
 ### Workflow for handling born-digital video files
 1. Create inventory of files received

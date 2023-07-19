@@ -39,14 +39,13 @@ H6{color:White !important;}
 ## PARADISEC audio processing workflow for archiving
 This workflow is targeted toward born-digital audio files or files that come to PARADISEC that have previously been digitised by another party.
 
-## PARADISEC audio standards
+### PARADISEC audio standards
 
 *For further information on digital formats we accept, see [Standard formats for archiving with PARADISEC](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#standard-formats-for-archiving-with-paradisec){:target="_blank"}.*
 
 PARADISEC accepts audio files with the following formats: .wav, .aiff, .m4a, mp3. These files are transcoded, resampled and sent to our archive system as 96kHz, 24-bit stereo .wav files. We then create BWF archival .wav files, with an access .mp3 copy. We prefer that the audio be sent to us as close to the archival standard of 24bit, 96kHz as possible.
 
 
-## Other audio processing tasks
 
 ### Extracting audio from a video
 If you want to extract the audio track from a video file, here are two way you can do this, both using software that is available for free:

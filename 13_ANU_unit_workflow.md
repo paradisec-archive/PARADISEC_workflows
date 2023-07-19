@@ -61,6 +61,11 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 	 * best to use MediaInfo batch export to collect necessary structural metadata such as overall/max Bitrate (needed for transcoding), duration (needed for QC), etc.
 	 * If not possible to use MediaInfo batch export, then use MediaInfo app and manually collect necessary metadata
 	 * Minimally, create a list or csv of files (Terminal print dir using "ls" is quickest)
+
+<p align="center">
+  <img width="700" src="images/Video-inventory.png" alt="Video structural metadata">
+  </p>
+
 2. Organise files by Bitrate 
 
 ⬆️ [Back to top](#)

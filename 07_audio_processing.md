@@ -82,7 +82,13 @@ Post-production of digitised audio and processing of born-digital audio files ca
        <img width="500" src="images/ocenaudio.jpg">
      </p>
 
-Both of these options allow you to export a stereo file at 96kHz/24bit, edit silences at the beginning or end of your audio files, boost the audio gain if the volume is too low or uneven across the two channels, or any other necessary interventions.
+* [Audition](https://www.audacityteam.org/){:target="_blank"} (free)
+
+    <p align="center">
+       <img width="500" src="images/audacity.png">
+     </p>
+
+All three of these options allow you to export a stereo file at 96kHz/24bit, edit silences at the beginning or end of your audio files, boost the audio gain if the volume is too low or uneven across the two channels, or any other necessary interventions.
 
 <br>
 <hr style="border:1px solid grey">

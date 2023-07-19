@@ -46,11 +46,12 @@ For further information on digital video formats we accept, see [Standard format
 ## Other audio processing tasks
 
 ### Extracting audio from a video
-If you want to extract the audio track from a video file. you can easily do this in two ways, both using software that is freely available:
+If you want to extract the audio track from a video file, here are two way you can do this, both using software that is available for free:
 
-### Using VLC
+#### Extracting a .wav file from a video file using VLC
 
-### Using FFmpeg
+
+#### Extracting a .wav file from a video file using FFmpeg
 If you want to retain the same audio quality as the source video:
 ```
 ffmpeg -i  <name_of_input_video.extension> <name_of_output_audio.extension>

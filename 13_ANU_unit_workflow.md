@@ -56,8 +56,8 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
         - If sticky shed is present no special prior treatment is needed
         - Clean and prepare for digitisation
         - If necessary, advice regarding duration of treatment and temperature can be found at NFSA and also within the IASA TC-04 Guidelines
-      ></span>
-  * If no issues are present, procede with following instructions
+    ></span>
+   * If no issues are present, procede with following instructions
 3. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.
 4. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
 

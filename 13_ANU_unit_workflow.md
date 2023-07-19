@@ -43,8 +43,18 @@ Sydney Conservatorium of Music, C41 <br>
 University of Sydney, 2006 <br>
 Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 
+## Audio workflow
+
+### Workflow for handling analogue open reel or cassette tapes
+
+### Workflow for handling born-digital audio files
+
+## Video workflow
+
+### Workflow for handling video tape formats, film, or other non-file-based video formats
 
 
+### Workflow for handling born-digital video files
 
 
 ⬆️ [Back to top](#)

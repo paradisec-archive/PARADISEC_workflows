@@ -47,7 +47,7 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 
 ### Workflow for handling analogue open reel or cassette tapes
 1. Create inventory of files received
-2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc. to capture all written metadata. Image files should be named with the same PI as the audio files. Archival copies of images should be in tiff (.tif) format, then create lower resolution jpeg (.jpg) copies and then combine all images associated with a tape as a reduced size .pdf. The tif images should be zipped into a single file so that DOIs are not created for each individual file.
+2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc. to capture all written metadata. Image files should be named with the same PI as the audio files. For each tape, archival copies of images should be in tiff (.tif) format. Next, create lower resolution jpeg (.jpg) copies and combine these as a single reduced size .pdf. The .tif images should then be zipped into a single file so that DOIs are not created for each individual file.
 
 ><span style="color:DarkBlue">
 >**NOTE:** The whole image should be captured, but in some cases it might be desirable to zoom in to the text to make sure it is fully legible in an additional image; even blank surfaces should be photographed to ensure that no metadata has been overlooked. You can place a ruler or a colour separation guide and grey scales patch on the base if you need this level of size or colour precision in your image capture.

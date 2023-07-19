@@ -46,16 +46,22 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 ## Audio workflow
 
 ### Workflow for handling analogue open reel or cassette tapes
+1. Create inventory of files received
 
 ### Workflow for handling born-digital audio files
+1. Create inventory of files received
 
 ## Video workflow
 
 ### Workflow for handling video tape formats, film, or other non-file-based video formats
-
+1. Create inventory of files received
 
 ### Workflow for handling born-digital video files
-
+1. Create inventory of files received
+	 * best to use MediaInfo batch export to collect necessary structural metadata such as overall/max Bitrate (needed for transcoding), duration (needed for QC), etc.
+	 * If not possible to use MediaInfo batch export, then use MediaInfo app and manually collect necessary metadata
+	 * Minimally, create a list or csv of files (Terminal print dir using "ls" is quickest)
+2. Organise files by Bitrate 
 
 ⬆️ [Back to top](#)
 

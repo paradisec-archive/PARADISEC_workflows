@@ -47,12 +47,36 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 
 ### Workflow for handling analogue open reel or cassette tapes
 1. Create inventory of files received
-2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.
-3. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
+2. Prepare tapes for digitisation (Audio)
+   * Assess tape condition
+    ><span style="color:DarkBlue">
+    >**NOTE:** If treatment is needed, send to Sydney to:
+         - dehumidify in vacuum oven if necessary, with separate batches for mould-affected items
+         - if mouldy- remove any visible growths first with cotton bud or pad and solution of isopropyl and cetramide
+        - If sticky shed is present no special prior treatment is needed
+        - Clean and prepare for digitisation
+        - If necessary, advice regarding duration of treatment and temperature can be found at NFSA and also within the IASA TC-04 Guidelines
+      ></span>
+  * If no issues are present, procede with following instructions
+3. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.
+4. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
 
 ### Workflow for handling born-digital audio files
 1. Create inventory of files received
 2. 
+
+
+Reel-to-reel
+
+Repair or replace lead tape and damaged splices if necessary
+Clean using slow spool and specialist equipment (cotton pads and isopropyl/cetramide solution); also clean flange (spool) separately
+Perform a second slow spool to repack tape
+Cassette and DAT
+
+Replace splices if necessary (cassette)
+Fast forward and rewind to minimise print-through (cassette) and to repack tape (cassette and DAT)
+If mouldy, bag up separately, to avoid cross-contamination, shelve in PARADISEC’s Dirty Room and minimise time in Ingestion Room, replay on designated dirty cassette machine
+
 
 ## Video workflow
 

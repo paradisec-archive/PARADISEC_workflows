@@ -49,14 +49,14 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 1. Create inventory of files received
 2. Prepare tapes for digitisation (Audio)
    * Assess tape condition
-  ><span style="color:DarkBlue">
+><span style="color:DarkBlue">
   >**NOTE:** If treatment is needed, send to Sydney to:
       - dehumidify in vacuum oven if necessary, with separate batches for mould-affected items
       - if mouldy, remove any visible growths first with cotton bud or pad and solution of isopropyl and cetramide
       - If sticky shed is present no special prior treatment is needed
       - Clean and prepare for digitisation
       - If necessary, advice regarding duration of treatment and temperature can be found at NFSA and also within the IASA TC-04 Guidelines
-  ></span>
+></span>
 
    * If no issues are present, procede with following instructions
 3. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.

@@ -47,24 +47,17 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 
 ### Workflow for handling analogue open reel or cassette tapes
 1. Create inventory of items received
-2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.
-3. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
+2. Perform a cursory quality check; if mouldy, bag up separately to avoid cross-contamination set aside to transfer to Sydney unit
+3. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.
+4. Repair or replace lead tape and damaged splices if necessary
+5. Fast forward and rewind to minimise print-through
+6. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
 
 ### Workflow for handling born-digital audio files
-1. Create inventory of files received.
+#### Reel-to-reel
+
+1. Create inventory of files received
 2. 
-
-
-Reel-to-reel
-
-Repair or replace lead tape and damaged splices if necessary
-Clean using slow spool and specialist equipment (cotton pads and isopropyl/cetramide solution); also clean flange (spool) separately
-Perform a second slow spool to repack tape
-Cassette and DAT
-
-Replace splices if necessary (cassette)
-Fast forward and rewind to minimise print-through (cassette) and to repack tape (cassette and DAT)
-If mouldy, bag up separately, to avoid cross-contamination, shelve in PARADISEC’s Dirty Room and minimise time in Ingestion Room, replay on designated dirty cassette machine
 
 
 ## Video workflow
@@ -89,6 +82,8 @@ If mouldy, bag up separately, to avoid cross-contamination, shelve in PARADISEC�
 3. Working with the file copies, and using the metadata inventory as a guide, organise files by bitrate by putting them new separate folders with the bitrate in the folder name
 3. Use Handbrake, FFmpeg, or MediaEncoder to create .mp4 (H.264), if original files are not already compliant. Follow instructions for Handbrake [here](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html){:target="_blank"}, FFmpeg [here](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}, or MediaEncoder [here](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html){:target="_blank"}.
 4. 
+
+
 
 ⬆️ [Back to top](#)
 

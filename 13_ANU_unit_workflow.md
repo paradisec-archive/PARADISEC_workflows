@@ -33,7 +33,7 @@ H6{color:White !important;}
   <img width="700" src="images/Reel-BW-gh-page.jpg" alt="PARADISEC-reel-to-reel">
   </p>
 
-<span style="font-variant:small-caps;">Last updated: 19 July 2023</span>
+<span style="font-variant:small-caps;">Last updated: 20 July 2023</span>
 
 
 
@@ -47,17 +47,25 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 
 ### Workflow for handling analogue open reel or cassette tapes
 1. Create inventory of files received
-2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc. to capture all written metadata. Image files should be named with the same PI as the audio files. For each tape, archival copies of images should be in tiff (.tif) format. Next, create lower resolution jpeg (.jpg) copies and combine these as a single reduced size .pdf. The .tif images should then be zipped into a single file so that DOIs are not created for each individual file.
-
-><span style="color:DarkBlue">
->**NOTE:** The whole image should be captured, but in some cases it might be desirable to zoom in to the text to make sure it is fully legible in an additional image; even blank surfaces should be photographed to ensure that no metadata has been overlooked. You can place a ruler or a colour separation guide and grey scales patch on the base if you need this level of size or colour precision in your image capture.
-></span>
-
+2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.
 3. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
 
 ### Workflow for handling born-digital audio files
 1. Create inventory of files received
 2. 
+
+
+Reel-to-reel
+
+Repair or replace lead tape and damaged splices if necessary
+Clean using slow spool and specialist equipment (cotton pads and isopropyl/cetramide solution); also clean flange (spool) separately
+Perform a second slow spool to repack tape
+Cassette and DAT
+
+Replace splices if necessary (cassette)
+Fast forward and rewind to minimise print-through (cassette) and to repack tape (cassette and DAT)
+If mouldy, bag up separately, to avoid cross-contamination, shelve in PARADISEC’s Dirty Room and minimise time in Ingestion Room, replay on designated dirty cassette machine
+
 
 ## Video workflow
 

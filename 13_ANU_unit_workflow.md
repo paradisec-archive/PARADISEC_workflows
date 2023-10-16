@@ -78,11 +78,14 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
   <img width="700" src="images/Video-inventory.png" alt="Video structural metadata">
   </p>
 
+*Photo: Spreadsheet containing structural metadata extracted from a set of videos using MediaInfo batch export, Windows version*
+
 2. If you don't already have a local backup of these files, create a folder of working copies.
 3. Working with the file copies, and using the metadata inventory as a guide, organise files by bitrate by putting them new separate folders with the bitrate in the folder name
-3. Use Handbrake, FFmpeg, or MediaEncoder to create .mp4 (H.264), if original files are not already compliant. Follow instructions for Handbrake [here](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html){:target="_blank"}, FFmpeg [here](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}, or MediaEncoder [here](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html){:target="_blank"}.
-4. 
-
+3. Use Handbrake, FFmpeg, or MediaEncoder to create .mp4 (H.264), if original files are not already compliant. Follow instructions for Handbrake [here](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html){:target="_blank"}, FFmpeg [here](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}, or MediaEncoder [here](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html){:target="_blank"}
+4. Use Abode MediaEncoder to create lossless JPEG2000 archival .MXF files. Follow instructions for Adobe ME [here](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html){:target="_blank"}
+5. Using MediaInfo, create another metadata inventory of newly transcoded files. Add to previous spreadsheet and compare specifications to original (specifically duration, as a difference in duration may indicate dropped frames).
+6. 
 
 
 ⬆️ [Back to top](#)

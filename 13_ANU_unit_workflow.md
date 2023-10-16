@@ -85,7 +85,8 @@ If mouldy, bag up separately, to avoid cross-contamination, shelve in PARADISECâ
   <img width="700" src="images/Video-inventory.png" alt="Video structural metadata">
   </p>
 
-2. Organise files by Bitrate 
+2. If you don't already have a local backup of these files, create a folder of working copies.
+3. Working with the file copies, and using the metadata inventory as a guide, organise files by bitrate by putting them new separate folders with the bitrate in the folder name
 3. Use Handbrake, FFmpeg, or MediaEncoder to create .mp4 (H.264), if original files are not already compliant. Follow instructions for Handbrake [here](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html){:target="_blank"}, FFmpeg [here](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}, or MediaEncoder [here](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html){:target="_blank"}.
 4. 
 

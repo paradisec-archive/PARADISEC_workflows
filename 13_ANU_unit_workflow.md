@@ -51,7 +51,7 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 3. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
 
 ### Workflow for handling born-digital audio files
-1. Create inventory of files received
+1. Create inventory of files received.
 2. 
 
 
@@ -70,14 +70,16 @@ If mouldy, bag up separately, to avoid cross-contamination, shelve in PARADISECâ
 ## Video workflow
 
 ### Workflow for handling video tape formats, film, or other non-file-based video formats
-1. Create inventory of files received
-2. 
+1. Create an inventory of items received
+2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc. and add PARADISEC ID slips
+3. Confirm with PARADISEC admin that there is funding for out-sourcing the digitising task (though this really should be done prior to taking possession of physical items)
+4. Contact DAMSmart and arrange to get the items to them; provide them with a digital version of the item inventory and how files are to be named
 
 ### Workflow for handling born-digital video files
 1. Create inventory of files received
 	 * It is best to use MediaInfo batch export to collect necessary structural metadata such as overall/max Bitrate (needed for transcoding), duration (needed for QC), etc. (For more information about extracting metadata with MediaInfo, click [here](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}).
 	 * If not possible to use MediaInfo batch export, then use MediaInfo app and manually collect necessary metadata.
-	 * Minimally, create a list or csv of files (Terminal print dir using "ls" is quickest).
+	 * Minimally, create a list or csv of files (Terminal print dir using "ls" is fastest).
 
 <p align="center">
   <img width="700" src="images/Video-inventory.png" alt="Video structural metadata">

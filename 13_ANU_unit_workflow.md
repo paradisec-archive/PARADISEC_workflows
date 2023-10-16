@@ -46,7 +46,7 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 ## Audio workflow
 
 ### Workflow for handling analogue open reel or cassette tapes
-1. Create inventory of files received
+1. Create inventory of items received
 2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.
 3. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
 

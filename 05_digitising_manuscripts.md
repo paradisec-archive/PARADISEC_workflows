@@ -29,7 +29,7 @@ H6{color:White !important;}
   <img width="300" src="images/tripod.GIF">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 01 November 2023</span>
+<span style="font-variant:small-caps;">Last updated: 07 November 2023</span>
 
 This page outlines PARADISEC's approach to digitising text materials and offers guidance in the post-production processing of the resulting images prior to archiving. The majority of our fieldnotes, papers, and notebook digitisation is done with high resolution photography, not scanning. Here are some reasons why we choose to use photography rather than scanning:
 
@@ -176,7 +176,7 @@ As you capture the images, it is important to check their quality before you get
 2. Take the Canon 700D battery pack from the charger and insert into the camera.
 3. Once the computer is fully booted, turn the camera on. This will also open the EOS Utility software installed on the computer.
 
-     >**Note:** Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF** and that the camera mode on the top of the camera is set to **TV**
+     >**Note:** Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF** and that the camera mode on the top of the camera is set to **Av**. This setting prioritises the aperture, which controls the amount of light that passes through the lens, affecting the sensor's exposure to light.
 
 4. Select "camera setting/remote shooting" from the start screen. 
 
@@ -209,19 +209,30 @@ As you capture the images, it is important to check their quality before you get
      <img width="200" src="images/imgcap-EOS-settings-light.jpg">
     </p>
 
-    The shutter speed should be 1/125 and the ISO should be 200 for our studio lighting.
+    The **aperture setting** is expressed in f/numbers (or *f-stop*). Start out with a setting of f/8, or smaller, f/11 or f/16. The larger the aperture, the smaller the f/number.
+
+    Set the **ISO** to 100. The higher the ISO, the more sensitive to light the senser is. This setting is where you amplify or dampen the light going to the camera's sensor. A higher ISO means that less light is needed to produce the image, enabling you to use a smaller aperture, faster shutter speed, or both.
 
     <p align="center">
-     <img width="300" src="images/imgcap-EOS-settings-ISO-Fstop.jpg">
+     <img width="300" src="images/imgcap-EOS-settings-NEWIMAGEHERE.jpg">
     </p>
 
-    If necessary, make finer adjustments to the **exposure level** (adjusts image lightness/darkness) by moving this digital slider either toward -1 or +1.
+    If necessary, make finer adjustments to the **exposure level** (adjusts image lightness/darkness) by moving this digital slider either toward -1 or +1. To begin with, set this level to 0 (zero).
 
     <p align="center">
      <img width="200" src="images/imgcap-EOS-settings-more-lighting.jpg">
     </p>
 
-10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window, or the small black button in the lower left side of the live view window, or press the space bar. Repeat this step for each page of your item. If you are capturing more than one item/notebook, then restart your workflow from step 6. Do not forget to reset your image naming and counting.
+10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window, or the small black button in the lower left side of the live view window, or press the space bar. Check the resulting image:
+
+    * make sure the entire image looks good and is in focus
+    * check that the corners are sharp as well as the centre of the image
+    * check for light reflection and adjust lighting as needed to remove glare
+    * check that lighting is even across the image
+    * check colours against the colour-correction card
+    * check the arrangement of item within the frame
+
+Repeat this step for each page of your item. If you are capturing more than one item/notebook, then restart your workflow from step 6. Do not forget to reset your image naming and counting.
 
     <p align="center">
      <img width="500" src="images/imgcap-remote-viewer.jpg">

@@ -214,7 +214,7 @@ As you capture the images, it is important to check their quality before you get
     Set the **ISO** to 100. The higher the ISO, the more sensitive to light the senser is. This setting is where you amplify or dampen the light going to the camera's sensor. A higher ISO means that less light is needed to produce the image, enabling you to use a smaller aperture, faster shutter speed, or both.
 
     <p align="center">
-     <img width="300" src="images/imgcap-EOS-settings-NEWIMAGEHERE.jpg">
+     <img width="200" src="images/imgcap-EOS-settings-ISO-Fstop.jpg">
     </p>
 
     If necessary, make finer adjustments to the **exposure level** (adjusts image lightness/darkness) by moving this digital slider either toward -1 or +1. To begin with, set this level to 0 (zero).

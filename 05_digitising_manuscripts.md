@@ -203,7 +203,9 @@ As you capture the images, it is important to check their quality before you get
       <img width="300" src="images/img-cap-blocking.jpg">
     </p>
 
-9. Set lighting by double-clicking on the relevant icon in the settings window. The lamp symbol (indicating tungsten lighting) is the best light setting for our studio.
+9. To accommodated the studio lighting and sett the exposure for the camera, follow these steps:
+
+    Account for the studio lighting by double-clicking on the relevant icon in the settings window. The lightbulb symbol (indicating **tungsten lighting**) is the best light setting for our studio.
 
     <p align="center">
      <img width="200" src="images/imgcap-EOS-settings-light.jpg">
@@ -232,7 +234,7 @@ As you capture the images, it is important to check their quality before you get
     * check colours against the colour-correction card
     * check the arrangement of item within the frame
 
-Repeat this step for each page of your item. If you are capturing more than one item/notebook, then restart your workflow from step 6. Do not forget to reset your image naming and counting.
+  Repeat this step for each page of your item. If you are capturing more than one item/notebook, then restart your workflow from step 6. Do not forget to reset your image naming and counting.
 
     <p align="center">
      <img width="500" src="images/imgcap-remote-viewer.jpg">

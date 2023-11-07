@@ -227,6 +227,11 @@ As you capture the images, it is important to check their quality before you get
 
 10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window, or the small black button in the lower left side of the live view window, or press the space bar. Check the resulting image:
 
+    <p align="center">
+      <img width="500" src="images/imgcap-remote-viewer.jpg">
+    </p>
+
+
     * make sure the entire image looks good and is in focus
     * check that the corners are sharp as well as the centre of the image
     * check for light reflection and adjust lighting as needed to remove glare
@@ -236,9 +241,7 @@ As you capture the images, it is important to check their quality before you get
 
     Repeat this step for each page of your item. If you are capturing more than one item/notebook, then restart your workflow from step 6. Do not forget to reset your image naming and counting.
 
-    <p align="center">
-     <img width="500" src="images/imgcap-remote-viewer.jpg">
-    </p>
+
 
 11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
 12. Remove the battery and put into the charger to charge for the next session.

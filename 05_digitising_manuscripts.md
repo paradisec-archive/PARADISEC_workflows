@@ -225,12 +225,13 @@ As you capture the images, it is important to check their quality before you get
      <img width="200" src="images/imgcap-EOS-settings-more-lighting.jpg">
     </p>
 
-10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window, or the small black button in the lower left side of the live view window, or press the space bar. Check the resulting image:
+10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window, or the small black button in the lower left side of the live view window, or press the space bar. 
 
     <p align="center">
       <img width="500" src="images/imgcap-remote-viewer.jpg">
     </p>
 
+    Check the resulting image:
 
     * make sure the entire image looks good and is in focus
     * check that the corners are sharp as well as the centre of the image

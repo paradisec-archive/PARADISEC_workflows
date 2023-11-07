@@ -320,6 +320,8 @@ It is also a good idea to create a .pdf of your image files bundled together in 
 ## Additional resources
 Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) **Remote Capture: Digitising Documentary Heritage in Challenging Locations**. Open Book Publishers, Open Field Guides Series, vol. I [https://doi:10.11647/OBP.0138](https://www.openbookpublishers.com/books/10.11647/obp.0138){:target="_blank"}.
 
+Gray, Elizabeth. (2016, updated 18 July 2019) **The Exposure Triangle - A Beginner's Guide** *photographylife.com*. Retreived 7 November 2023, from [https://photographylife.com/what-is-exposure-triangle](https://photographylife.com/what-is-exposure-triangle){:target="_blank"}.
+
 ⬆️  [Back to top](#)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work was created by Julia Colleen Miller and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>{:target="_blank"}.

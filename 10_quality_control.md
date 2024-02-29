@@ -94,26 +94,30 @@ Click on the *Sheet* tab, select the comma from the dropdown menu for the column
 
 #### Bulk output MediaInfo reports: Mac
 
-I have downloaded and installed the app from the Mac App Store, as suggested on the MediaInfo webpage. The Mac MediaInfo app differs from the Windows version in that you cannot view sheets, or export bulk reports using the GUI.
+You can dowload the MediaInfo app from the Mac App Store, or from the MediaArea website [https://mediaarea.net/en/MediaInfo/Download/Mac_OS](https://mediaarea.net/en/MediaInfo/Download/Mac_OS){:target="_blank"}. The Mac MediaInfo app differs from the Windows version in that you cannot view sheets, or export bulk reports using the GUI.
 
-You first need to create a .txt file that lists the specifications you want to export, and name this file *"Options.txt"*. Again, as with the Windows specifications, you will need to experiment with how they are named. Here is some suggested content for *Options.txt* for video reporting:
+In order to do a bulk export you need to do the following:
 
-```
-General;%FileName%,%Format%,%Format_Profile%,%CodecID%,%FileSize%,%Duration%,%OverallBitRate%,%FileExtension%,
-Video;%Format%,%CodecID%,%Width%,%Height%,%DisplayAspectRatio%,%FrameRate%,%ColorSpace%,%ChromaSubsampling%,%BitDepth%,%ScanType%,%Compression_Mode%,
-Audio;%Channel(s)%,%ChannelLayout%,%SamplingRate%,
-File_End;\r\n
+1. Create a .txt file that lists the specifications you want to export, and name this file *"Options.txt"*. Again, as with the Windows specifications, you will need to experiment with how they are named. Here is some suggested content for *Options.txt* for video reporting:
 
-```
-Place the *Options.txt* in the same folder as the videos you wish to examine.
+  ```
+  General;%FileName%,%Format%,%Format_Profile%,%CodecID%,%FileSize%,%Duration%,%OverallBitRate%,%FileExtension%,
+  Video;%Format%,%CodecID%,%Width%,%Height%,%DisplayAspectRatio%,%FrameRate%,%ColorSpace%,%ChromaSubsampling%,%BitDepth%,%ScanType%,%Compression_Mode%,
+  Audio;%Channel(s)%,%ChannelLayout%,%SamplingRate%,
+  File_End;\r\n
 
-Open Terminal and navigate to the directory where your videos and the *Options.txt* is located.
+  ```
+2. Place the file *Options.txt* in the same folder as the files you wish to examine.
 
-Then type the following into the terminal:
+3. Open Terminal and navigate to the directory where your videos and the *Options.txt* is located.
 
+4. Then type the following into the terminal:
+
+  ```
     MediaInfo --Output=file://options.txt /Volumes/"YourDirectory" \*.\* > output.csv
+  ```
 
-Unfortunately, this will output a .csv without headers for the columns. My fix for this: I have a separate .csv saved with just the headers to paste in each newly exported report.
+Unfortunately, this will output a .csv without headers for the columns. You can keep a separate .csv saved with just the headers to paste in each newly exported report.
 <br>
 <br>
 If you are not able to install MediaInfo onto your computer, there is a web version of MediaInfo where you can create and download reports of your video files via the web browser. Your media stays safe, as nothing is actually uploaded to their servers. [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline){:target="_blank"}

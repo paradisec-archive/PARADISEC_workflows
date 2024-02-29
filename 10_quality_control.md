@@ -32,7 +32,7 @@ H6{color:White !important;}
   <img width="300" src="images/QC-SHORT.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 02 October 2022</span>
+<span style="font-variant:small-caps;">Last updated: 01 March 2024</span>
 
 ## MediaArea tools for QC (quality checking/quality control)
 
@@ -40,7 +40,7 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 
 ### MediaInfo
 
-[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is a tool which allows you to look at a summary of the structural metadata of media files. Below is a comparison of how MediaInfo presents the metadata information on a PC and on a Mac, both using **Tree** view.
+[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is a tool which allows you to look at a summary of the structural metadata of media files. To see a list of all metadata fields and their descriptions, click [here](https://mediaarea.net/en/MediaInfo/Support/Fields){:target="_blank"}.Below is a comparison of how MediaInfo presents the metadata information on a PC and on a Mac, both using **Tree** view.
 
 <p align="center">
   <img width="600" src="images/MediaInfoComparison.jpg">

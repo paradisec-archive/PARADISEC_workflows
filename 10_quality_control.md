@@ -40,7 +40,7 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
 
 ### MediaInfo
 
-[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is one of MediaArea's free tools, which allows you to look at a report of the structural metadata of media files. To see a list of all metadata fields and their descriptions, click [here](https://mediaarea.net/en/MediaInfo/Support/Fields){:target="_blank"}.Below is a comparison of how MediaInfo presents the metadata information on a PC and on a Mac, both using **Tree** view.
+[MediaInfo](https://mediaarea.net/en/MediaInfo){:target="_blank"} is one of MediaArea's free tools, which allows you to look at a report of the structural metadata of media files. To see a list of all metadata fields and their descriptions, click [here](https://mediaarea.net/en/MediaInfo/Support/Fields){:target="_blank"}. Below is a comparison of how MediaInfo presents the metadata information on a PC and on a Mac, both using **Tree** view.
 
 <p align="center">
   <img width="600" src="images/MediaInfoComparison.jpg">

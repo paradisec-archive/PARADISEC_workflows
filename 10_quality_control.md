@@ -60,19 +60,19 @@ Using the MediaInfo GUI (examples are from v21.09), open the program, then add m
   <img width="500" src="images/MediaInfo-03.jpg">
 </p>
 
-To select what specifications you want to export to a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*. 
+To select what metadata fields you want to export to a csv, go to Options>Preferences, or just click on the wrench icon to the left. The preference window will open. Under *Customize* select *Sheet* and then *New...*. 
 
 <p align="center">
   <img width="500" src="images/MediaInfo-06.jpg">
 </p>
 
-You will then be able to make your choices for the attributes you wish to export. You may need to experiment with this. I have selected the following 29 attributes to include in my report. You'll notice the three categories of metadata: General, Video, Audio. These correlate to the sections of metadata found in the MediaInfo reports (see comparison image above). 
+Make your choices for the attributes you wish to export. You may need to experiment with this. I have selected the following 29 attributes to include in my export. You'll notice the three categories of metadata: General, Video, Audio. These correlate to the sections of metadata found in the MediaInfo reports (see comparison image above). 
 
 <p align="center">
   <img width="300" src="images/MediaInfo-02.jpg">
 </p>
 
-Once you have edited your target specifications to be output in your report, a new .csv is created with this information and is saved here: C:\Users\\"YourUserName"\AppData\Roaming\MediaInfo\Plugin\Sheet. If you want to share this customisation with your team, you need only send them the .csv and have them place it in the correct folder, so that they do not have to recreate the process. This is what the content of that .csv plugin looks like:
+Your selections are saved as a .csv here: C:\Users\\"YourUserName"\AppData\Roaming\MediaInfo\Plugin\Sheet. If you want to share this customisation with your team, just send them the .csv place it in the correct folder; this will save them from having to repeat the process. This is the content of that .csv plugin:
 
 <p align="center">
   <img width="300" src="images/MediaInfo-05.jpg">

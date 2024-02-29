@@ -46,7 +46,7 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
   <img width="600" src="images/MediaInfoComparison.jpg">
 </p>
 
-You can look at multiple files at one time using the app, but be warned- if you highlight and then select open with MediaInfo on a PC, each metadata report will open a new window. On a Mac, you get one open window, but you can select which file to view from a dropdown menu in the address bar. The next section explains another option to view multiple file reports without having to look at one report at a time.
+You can look at multiple files at one time using the app, but be warned- if you highlight and then select open with MediaInfo on a PC, each metadata report will open a separate window. On a Mac, you get one open window, but you can select which file to view from a dropdown menu in the file address bar at the top of the window. The next section explains another option to view multiple file reports without having to look at one report at a time.
 <br>
 <br>
 

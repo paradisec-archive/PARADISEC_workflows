@@ -46,13 +46,15 @@ Open source tools available from [MediaArea](https://mediaarea.net/){:target="_b
   <img width="600" src="images/MediaInfoComparison.jpg">
 </p>
 
-You can open multiple files at one time using the app, but be warned- if you are using MediaInfo on a PC, each metadata report will open a separate window unless you first switch your view mode to *sheet* (see next). On a Mac, only one window opens, but you can select which file to view from a dropdown menu in the file address bar at the top. The next section explains another option to view multiple file reports without having to look at one report at a time.
+You can open multiple files at one time using the app, but be warned- if you are using MediaInfo on a PC, each metadata report will open in a separate window unless you first open the app, and use the import folder option, or simply drag a selection of files the app ***after*** you have switched to **Sheet** view (see next). 
+
+On a Mac, only one window opens, but you can select which file to view from a dropdown menu in the file address bar at the top. The next section explains another option to view multiple file reports without having to look at one report at a time.
 <br>
 <br>
 
 #### Bulk output MediaInfo reoprts: Windows
 
-Using MediaInfo GUI v21.09, open the program, then add media to explore. To do this press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder and avoid adding nested folders. The image below shows all of the videos I have added. To get this view, go to the menu and select View, then select *sheet*.
+Using the MediaInfo GUI (examples are from v21.09), open the program, then add media to explore. To do this press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder and avoid adding nested folders. The image below shows all selected media files. To get this view, go to the menu and select View, then select **Sheet**.
 
 <p align="center">
   <img width="500" src="images/MediaInfo-03.jpg">

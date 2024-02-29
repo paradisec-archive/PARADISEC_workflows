@@ -72,7 +72,7 @@ Make your choices for the attributes you wish to export. You may need to experim
   <img width="300" src="images/MediaInfo-02.jpg">
 </p>
 
-Your selections are saved as a .csv here: C:\Users\\"YourUserName"\AppData\Roaming\MediaInfo\Plugin\Sheet. If you want to share this customisation with your team, just send them the .csv place it in the correct folder; this will save them from having to repeat the process. This is the content of that .csv plugin:
+Your selections are saved as a .csv here: C:\Users\\"YourUserName"\AppData\Roaming\MediaInfo\Plugin\Sheet. If you want to share this customisation with someone, or use it on a different PC, just copy the .csv and place it in the correct directory on the other computer, thus avoiding having to repeat the process. Below is a snapshot of the .csv content:
 
 <p align="center">
   <img width="300" src="images/MediaInfo-05.jpg">

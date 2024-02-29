@@ -52,7 +52,7 @@ You can open multiple files at one time using the app, but be warned- if you are
 
 #### Bulk output MediaInfo reoprts: Windows
 
-*This section outlines a means to extract metadata from multiple files at one time, outputting targeted metadata highlights to a csv, using a PC.*
+***How to bulk extract metadata to a .csv file using a PC.***
 
 Using MediaInfo GUI v21.09, open the program, then add media to explore. To do this press icon *Select a folder to examine*, located on left pannel of window, or go to the MediaInfo menu and select *File>Open>Folder...*. It is best if you have only the media you want to examine in that folder and avoid adding nested folders. The image below shows all of the videos I have added. To get this view, go to the menu and select View, then select *sheet*.
 
@@ -96,7 +96,7 @@ Click on the *Sheet* tab, select the comma from the dropdown menu for the column
 
 #### Bulk output MediaInfo reports: Mac
 
-*This section outlines a means to extract metadata from multiple files at one time, outputting targeted metadata highlights to a csv, using a Mac.*
+***How to bulk extract metadata to a .csv file using a Mac.***
 
 I have downloaded and installed the app from the Mac App Store, as suggested on the MediaInfo webpage. The Mac MediaInfo app differs from the Windows version in that you cannot view sheets, or export bulk reports using the GUI.
 

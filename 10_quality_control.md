@@ -78,7 +78,7 @@ Your selections are saved as a .csv here: C:\Users\\"YourUserName"\AppData\Roami
   <img width="300" src="images/MediaInfo-05.jpg">
 </p>
 
-When you have saved your Custom Sheet choices, you are ready to export. First, go to *Preferences* again to select your custom sheet from the dropdown menu:
+When you are ready to export your batched metadata reports, go to *Preferences* to select your custom sheet from the dropdown menu:
 
 <p align="center">
   <img width="500" src="images/MediaInfo-01.jpg">

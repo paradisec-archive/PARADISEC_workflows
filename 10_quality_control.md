@@ -84,7 +84,7 @@ When you are ready to export your batched metadata reports, go to *Preferences* 
   <img width="500" src="images/MediaInfo-01.jpg">
 </p>
 
-The icon to the left with the arrow and the "i" is the export function. Alternatively, you can go to *File>Export* in the menu. This window will open, directing you to choose your export format.
+Then press the icon on the left with the arrow and the "i". This is the export function. Alternatively, you can go to *File>Export* in the menu. This window will open, directing you to choose your export format.
 
 <p align="center">
   <img width="400" src="images/MediaInfo-04.jpg">

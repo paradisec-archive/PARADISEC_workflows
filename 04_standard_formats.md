@@ -78,7 +78,7 @@ For photographic negative or slide scans TIF, 600 dpi, 4000 pixels on the longes
 <br>
 
 #### Processing your own media
-If you would like to save money (see PARADISEC's page on [Costing a deposit](https://www.paradisec.org.au/deposit/costing-a-deposit/){:target="_blank"} or speed up the archiving process, you may provide us with audio files that are already sampled to 96kHz/24bit or video files that are .mp4 (H.264 codec), you can refer to the following pages: [Audio processing](https://paradisec-archive.github.io/PARADISEC_workflows/07_audio_processing.html){:target="_blank"}, [Video Processing using HandBrake](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html){:target="_blank"} and [Video Processing using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}.
+If you would like to save money (see PARADISEC's page on [Costing a deposit](https://www.paradisec.org.au/deposit/costing-a-deposit/){:target="_blank"} or speed up the archiving process, you may provide us with audio files that are already sampled to 96kHz/24bit or video files that are .mp4 (H.264 codec), you can refer to the following pages: [Audio processing](https://paradisec-archive.github.io/PARADISEC_workflows/07_audio_processing.html){:target="_blank"}, [Video processing using HandBrake](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html){:target="_blank"} and [Video processing using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}.
 
 <br>
 

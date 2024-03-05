@@ -29,7 +29,7 @@ H6{color:White !important;}
   <img height="300" src="images/rainbow-zoom.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 3 October 2022</span>
+<span style="font-variant:small-caps;">Last updated: 05 March 2024</span>
 
 ## Standard formats for archiving with PARADISEC
 The tables below contain the file formats we accept from depositors and the final formats that go into the archive. If you have a format other than those listed, please contact us so we can advise you on what can be done.
@@ -61,7 +61,7 @@ The tables below contain the file formats we accept from depositors and the fina
 | Lexicons | *Archival and access copies:* Same as original *(see accepted formats above)*|
 
 <span style="color:DarkBlue">
-<sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they tend to be lossy formats. Look at the [following section](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#suggestions-for-audio-recorders-and-video-cameras)for capture suggestions*
+<sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they tend to be lossy formats. Look at the [following section](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#suggestions-for-audio-recorders-and-video-cameras){:target="_blank"} for capture suggestions*
 </span>
 
 <span style="color:DarkBlue">
@@ -78,7 +78,7 @@ For photographic negative or slide scans TIF, 600 dpi, 4000 pixels on the longes
 <br>
 
 #### Processing your own media
-If you would like to save money (see PARADISEC's page on [Costing a deposit](https://www.paradisec.org.au/deposit/costing-a-deposit/) or speed up the archiving process, you may provide us with audio files that are already sampled to 96kHz/24bit or video files that are .mp4 (H.264 codec), you can refer to the following pages: [Audio processing](https://paradisec-archive.github.io/PARADISEC_workflows/07_audio_processing.html){:target="_blank"} and [Video Processing using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}.
+If you would like to save money (see PARADISEC's page on [Costing a deposit](https://www.paradisec.org.au/deposit/costing-a-deposit/){:target="_blank"} or speed up the archiving process, you may provide us with audio files that are already sampled to 96kHz/24bit or video files that are .mp4 (H.264 codec), you can refer to the following pages: [Audio processing](https://paradisec-archive.github.io/PARADISEC_workflows/07_audio_processing.html){:target="_blank"}, [Video Processing using HandBrake](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html){:target="_blank"} and [Video Processing using FFmpeg](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}.
 
 <br>
 

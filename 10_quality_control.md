@@ -25,14 +25,10 @@ H6{color:White !important;}
 # Quality control: checking the quality of audio and video files
 
 <p align="center">
-🚧 This page is currently under construction 🚧
-</p>
-
-<p align="center">
   <img width="300" src="images/QC-SHORT.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 01 March 2024</span>
+<span style="font-variant:small-caps;">Last updated: 05 March 2024</span>
 
 ## MediaArea tools for QC (quality checking/quality control)
 
@@ -176,14 +172,6 @@ as well as in the **player mode**
 
 Visit this [QCTools page](https://mediaarea.net/QCTools/Playback_Filters){:target="_blank"} for descriptions of their playback filters.
 
-
-### BWF MetaEdit
-
-[BWF MetaEdit](https://mediaarea.net/BWFMetaEdit){:target="_blank"} - allows up to view and edit BEXT chunks in BWF audio files
-
-## Using Switch player for visual QC
-
-## Other tools
 
 <br>
 <hr style="border:1px solid grey">

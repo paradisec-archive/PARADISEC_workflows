@@ -13,11 +13,10 @@ nav_order: 1
 </p>
 <br>
 
-<span style="font-variant:small-caps;">Last updated: 26 May 2023</span>
+<span style="font-variant:small-caps;">Last updated: 05 March 2024</span>
 
 These technical workflows and archiving guides are designed to help people with different goals and different skill levels. If there is a topic you want to know about, but the information is not contained on these pages, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au){:target="_blank"} and we will do our best to help. 
 
-*Development of this documentation was generously funded by the [ARC Centre of Excellence for the Dynamics of Language](https://www.dynamicsoflanguage.edu.au/){:target="_blank"} (CoEDL)*
 <br>
 <hr style="border:1px solid grey">
 *If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order.*
@@ -90,5 +89,7 @@ These technical workflows and archiving guides are designed to help people with 
 * Tips on organising & working with a sign language interpreter
 
 ⬆️ [Back to top](#)
+
+*Development of this documentation was generously funded by the [ARC Centre of Excellence for the Dynamics of Language](https://www.dynamicsoflanguage.edu.au/){:target="_blank"} (CoEDL)*
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work was created by Julia Colleen Miller and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>{:target="_blank"}.

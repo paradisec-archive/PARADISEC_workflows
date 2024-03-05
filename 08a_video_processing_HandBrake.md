@@ -44,16 +44,6 @@ HandBrake is a free, open source video transcoder that you can use on Mac, Windo
 Instructions for downloading and installing HandBrake can be found [here](https://handbrake.fr/docs/en/1.6.0/get-handbrake/download-and-install.html){:target="_blank"}.
 
 
-## Metadata you should collect prior to transcoding: 
-Before you start transcoding, collect the important structural metadata about your video files; this will inform your workflow and whether or not you can do batch processing. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
-
-* **Size/dimension** - (height and width measurements, aspect ratio)
-* **Framerate (fps)** - (ex: 25fps, 30fps, 50fps, etc.)
-* **Encoding format profile** - (ex: High@L4.0)
-* **BitRate** - If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value.
-* **Video scan type** - Progressive or interlaced 
-
-
 ## The HandBrake workspace
 When you open HandBrake, you are prompted to navigate to your video file. If HandBrake is already open, just drag and drop a video into the program window. You can only select or drag and drop one video at a time (jump to [batch processing](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html#to-transcode-multiple-videos-in-a-batch) to read about how to transcode more than one video at a time). You will then see a workspace similar to this one (*HandBrake version 1.6.1 for Mac*):
 
@@ -159,6 +149,16 @@ For more information on video encoding profiles, visit this site: [https://strea
 <p align="center">
   <img width="500" src="images/HandBrake-CHAPTERS_TAB.png" alt="Screenshot of HandBrake chapters tab">
 </p>
+
+
+## Metadata you should collect prior to transcoding: 
+Before you start transcoding, collect the important structural metadata about your video files; this will inform your workflow and whether or not you can do batch processing. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
+
+* **Size/dimension** - (height and width measurements, aspect ratio)
+* **Framerate (fps)** - (ex: 25fps, 30fps, 50fps, etc.)
+* **Encoding format profile** - (ex: High@L4.0)
+* **BitRate** - If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value.
+* **Video scan type** - Progressive or interlaced 
 
 
 ## To transcode multiple videos in a batch

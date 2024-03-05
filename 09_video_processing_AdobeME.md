@@ -187,9 +187,28 @@ The **H.264/MPEG-4 AVC** is a standard format that is widely accepted (easily tr
 
 ### Define Encoding Settings: Making an Encoding Preset for MP4 (H.264)
 
-The process for creating the .MP4s is simillar to that of the .MXF as discussed above, so this section will only provide the actual settings and not 
+The process for creating the .MP4s is simillar to that of the .MXF as discussed above, so this section will only provide the actual settings and not the full workflow. 
 
-## Low-cost Options
+## Low-cost Options for video editing and transcoding
+
+There are a few non-linear (timeline-based) video editing tools available that are free. These tools behave a bit like [Adobe Premiere Pro](https://www.adobe.com/au/products/premiere.html){:target="_blank"} or [Final Cut Pro](https://www.apple.com/au/final-cut-pro/){:target="_blank"}. You can add media, see a timeline as well as a video player. When you move your cursor through the timeline, the video scrubs through frame-by-frame. This allows you to make targeted cuts, extract clips, add still images, add audio tracks, increase volume for all of the video, or just parts. You can also add subtitles. The videos can then be exported to a variety of formats.
+
+
+[Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)){:target="_blank"} is a professional video editing program that has a rather steep learning curve (it comes with a 4,100 page .pdf instuction manual). The free version is a full-capacity tool that offers robust options for editing, effects, colour correction, audio editing, and much more.
+
+<p align="center">
+  <img width="500" src="images/Davinci_Resolve.png" alt="Screenshot of Davinci Resolve">
+</p>
+
+
+
+[OpenShot](https://www.openshot.org/)){:target="_blank"} is a very simple video editing tool that allow you to make edits, extract clips, adjust volume, add audio tracks, etc. You can also make cuts, or add markers and export the project as an .EDL file (Edit Decision Lists) or as an .XML for use wit Final Cut Pro. If you open the .EDL with a text editor, you can retreive a list of all edits made, including the start and end times for each cut you made, names of all files in project, etc.
+
+<p align="center">
+  <img width="500" src="images/Open_Shot.png" alt="Screenshot of Open Shot Video Editor">
+</p>
+
+
 
 <br>
 <hr style="border:1px solid grey">

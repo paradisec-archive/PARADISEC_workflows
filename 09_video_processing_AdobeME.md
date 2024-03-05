@@ -202,7 +202,7 @@ There are a few non-linear (timeline-based) video editing tools available that a
 
 
 
-[OpenShot](https://www.openshot.org/){:target="_blank"} is a very simple video editing tool that allow you to make edits, extract clips, adjust volume, add audio tracks, etc. You can also make cuts, or add markers and export the project as an .EDL file (Edit Decision Lists) or as an .XML for use wit Final Cut Pro. If you open the .EDL with a text editor, you can retreive a list of all edits made, including the start and end times for each cut you made, names of all files in project, etc.
+[OpenShot](https://www.openshot.org/){:target="_blank"} is a very simple video editing tool that allow you to make edits, extract clips, adjust volume, add audio tracks, etc. You can also make cuts, or add markers and export the project as an .EDL file (Edit Decision Lists) or as an .XML for use with Final Cut Pro. If you open the .EDL with a text editor, you can retreive a list of all edits made, including the start and end times for each cut you made, names of all files in project, etc.
 
 <p align="center">
   <img width="800" src="images/Open_Shot.png" alt="Screenshot of Open Shot Video Editor">

@@ -160,6 +160,11 @@ Before you start transcoding, collect the important structural metadata about yo
 * **BitRate** - If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value.
 * **Video scan type** - Progressive or interlaced 
 
+Below is a screen shot of the type of metadata you can use to help inform your transcoding tasks.
+
+<p align="center">
+  <img width="500" src="images/HandBrake-Metadata_Export.jpg" alt="Screenshot of Metadata spreaddheet">
+</p>
 
 ## To transcode multiple videos in a batch
 To transcode multiple videos at one time, you need to add each file one at a time to the queue. Once you have opened a video file in HandBrake (and created an appropriate preset) click on the **Add to Queue** button in the upper left of the workspace. 

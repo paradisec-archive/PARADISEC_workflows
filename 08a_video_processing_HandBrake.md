@@ -190,7 +190,7 @@ Once all your files are added to the queue, simply press Start.
 
 *The following instructions are geared toward creating presets to transcode access videos for PARADISEC; however, this workflow will hopefully empower general users to create their own transcoded videos.*
 
-If your source file is ***Interlaced***, you need to apply a filter to create a ***Progressive*** version. Use the Bwdif filter as mentioned [above](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html#filters).
+If your source file is ***Interlaced***, you need to apply a filter to create a ***Progressive*** version. Use the Bwdif filter as mentioned [above](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html#filters-tab).
 
 
 

@@ -30,13 +30,7 @@ nav_order: 8.5
 </p>
 
 
-<p align="center">
-🚧 This page is currently under construction 🚧
-</p>
-
-*This technical guide was created as part of the archiving workflow for PARADISEC. Some of the content may not be relevant for general users.* 
-
-<span style="font-variant:small-caps;">Last updated: 01 March 2024</span>
+<span style="font-variant:small-caps;">Last updated: 05 March 2024</span>
 
 
 HandBrake is a free, open source video transcoder that you can use on Mac, Windows, and Linux systems. 
@@ -51,12 +45,12 @@ Instructions for downloading and installing HandBrake can be found [here](https:
 
 
 ## Metadata you should collect prior to transcoding: 
-Before you proceed, collect the important structural metadata about your video files; this will inform your workflow and whether or not you can do batch processing. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
+Before you start transcoding, collect the important structural metadata about your video files; this will inform your workflow and whether or not you can do batch processing. This Metadata query can be done using MediaInfo on individual files, or via a batch export outlined here: [MediaInfo metadata export](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}. 
 
 * **Size/dimension** - (height and width measurements, aspect ratio)
-* **Framerate (fps)**
+* **Framerate (fps)** - (ex: 25fps, 30fps, 50fps, etc.)
 * **Encoding format profile** - (ex: High@L4.0)
-* **BitRate** - If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value
+* **BitRate** - If doing batch processes with a target constant Bitrate, you will need to group your videos by Bitrate value.
 * **Video scan type** - Progressive or interlaced 
 
 

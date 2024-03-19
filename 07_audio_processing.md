@@ -34,7 +34,7 @@ H6{color:White !important;}
 </p>
 <br>
 
-<span style="font-variant:small-caps;">Last updated: 19 July 2023</span>
+<span style="font-variant:small-caps;">Last updated: 19 March 2024</span>
 
 ## PARADISEC audio processing workflow for archiving
 This workflow is targeted toward born-digital audio files or files that come to PARADISEC that have previously been digitised by another party.

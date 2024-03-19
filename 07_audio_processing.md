@@ -47,7 +47,7 @@ PARADISEC can accept various audio formats (.wav, .aiff, .m4a, mp3.), although o
 
 ### Resampling audio using Audacity
 
-
+Audacity is free cross-platform software for audio recording and editing. Follow this link to [download](https://www.audacityteam.org/){:target="_blank"}.
 
 If you need to import M4a audio, you'll need to have ffmpeg installed. [Here](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"} are the instructions for this.
 

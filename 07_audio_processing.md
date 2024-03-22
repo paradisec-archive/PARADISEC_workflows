@@ -49,7 +49,9 @@ PARADISEC can accept various audio formats (.wav, .aiff, .m4a, mp3.), although o
 
 Audacity is free cross-platform software for audio recording and editing. Follow this link to [download](https://www.audacityteam.org/){:target="_blank"}.
 
-If you need to import M4a audio, you'll need to have ffmpeg installed. [Here](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"} are the instructions for this.
+If you need to import .m4a audio, you'll need to have ffmpeg installed. [Here](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"} are the instructions for this.
+
+
 
 ### Extracting audio from a video
 If you want to extract the audio track from a video file, here are two way you can do this, both using software that is available for free:

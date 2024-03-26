@@ -55,33 +55,28 @@ The following instructions are based on Audacity version 3.4.2 for Windows, thou
 
 When you open Audacity, you are presented with an empty workspace.
 
-<br>
 <p align="center">
-  <img width="500" src="images/Audacity-MainWindow-01.png">
+  <img width="800" src="images/Audacity-MainWindow-01.png">
 </p>
-<br>
 
-Simply drag your files into that window. Each track displayed in the same window, not separate ones for each file.
+Simply drag your files into that window. Each track will be displayed in the same window, not in separate ones for each file.
 
-<br>
 <p align="center">
-  <img width="500" src="images/Audacity-Bulk-Resample-01.png">
+  <img width="800" src="images/Audacity-Bulk-Resample-01.png">
 </p>
-<br>
 
 When all files are loaded, go up to the main menu and select **File > Export Audio**. A window pops up that allows you to specify mono/stereo, the sample rate, and the encoding (bit depth), as well as the destination folder. Under Export Range, select **Multiple Files**.
 
-<br>
 <p align="center">
-  <img width="200" src="images/Audacity-Bulk-Resample-03.png">
+  <img width="500" src="images/Audacity-Bulk-Resample-03.png">
 </p>
-<br>  
+
 Make sure the other settings are as follows:
 
  * **Split file based on:** Tracks
  * **Name files:** Using Lablel/Track Name 
 
- The click **Export**
+ The click **Export** and you are done.
 
 
 ### Extracting audio from a video

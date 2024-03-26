@@ -34,7 +34,7 @@ H6{color:White !important;}
 </p>
 <br>
 
-<span style="font-variant:small-caps;">Last updated: 19 March 2024</span>
+<span style="font-variant:small-caps;">Last updated: 27 March 2024</span>
 
 ## PARADISEC audio processing workflow for archiving
 This workflow is targeted toward born-digital audio files or files that come to PARADISEC that have previously been digitised by another party.
@@ -45,11 +45,26 @@ This workflow is targeted toward born-digital audio files or files that come to 
 
 PARADISEC can accept various audio formats (.wav, .aiff, .m4a, mp3.), although our preference is that the audio be sent to us as close to the archival standard of 96kHz, 24-bit (stereo) as possible. Once we receive files, they are transcoded, resampled and sent to our archive system where they are transformed into BWF archival .wav files, with an accompanying access .mp3 copy. 
 
-### Resampling audio using Audacity
+### Bulk resampling audio using Audacity
 
 Audacity is free cross-platform software for audio recording and editing. Follow this link to [download](https://www.audacityteam.org/){:target="_blank"}.
 
 If you need to import .m4a audio, you'll need to have ffmpeg installed. [Here](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"} are the instructions for this.
+
+The following instructions are based on Audacity version 3.4.2 for Windows. 
+
+When you open Audacity, you are presented with an empty workspace.
+<br>
+<p align="center">
+  <img width="500" src="images/Audacity-MainWindow-01.png">
+</p>
+<br>
+Simply drag your files into that window. Each track displayed in the same window, not separate ones for each file.
+<br>
+<p align="center">
+  <img width="500" src="images/Audacity-Bulk-Resample-01.png">
+</p>
+<br>
 
 
 

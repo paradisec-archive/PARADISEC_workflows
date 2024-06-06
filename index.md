@@ -13,7 +13,7 @@ nav_order: 1
 </p>
 <br>
 
-<span style="font-variant:small-caps;">Last updated: 05 March 2024</span>
+<span style="font-variant:small-caps;">Last updated: 06 June 2024</span>
 
 These archiving guides and technical workflows are designed to help people with different goals and different skill levels. If there is a topic you want to know about, but the information is not contained on these pages, feel free to reach out to us at [PARADISEC](mailto:admin@paradisec.org.au){:target="_blank"} and we will do our best to help. 
 

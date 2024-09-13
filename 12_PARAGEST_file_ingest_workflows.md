@@ -53,7 +53,7 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 ## Full PARAGEST Workflow
 
 <p align="center">
-  <img width="700" src="images/PARAGEST-Ferlito-Stepfunction-Graph.png" alt="Flowchart for all file types">
+  <img width="700" src="images/PARAGEST-Ferlito-Stepfunction_Graph.png" alt="Flowchart for all file types">
   </p>
 
 

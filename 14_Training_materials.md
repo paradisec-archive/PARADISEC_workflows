@@ -42,26 +42,26 @@ H6{color:White !important;}
 
 #### Week 1: TOPICS and ASSIGNMENTS
 
-| WEEK 1   | TOPICS       |
-| :---     | :---         |
-|          | * Introduction to Language Documentation & Digital Archiving |
-|          | * Introduction to PARADISEC |
-|          | * Exploring the services provided by PARADISEC |
-|          | * Overview of the content held within PARADISEC and the archive structure | 
-|          | * How to archive with PARADISEC |
-| **READINGS**  (Links are provided [here](https://paradisec-archive.github.io/PARADISEC_workflows/14_Training_materials.html#readings))   |
-|          | 1. Himmelmann “Documentary and Descriptive Linguistics” (35 pp) | 
-|          | 2. Hanke & Berez-Kroeker “A Brief History of Archiving in Language Documentation with an Annotated Bibliography” (47 pp) | 
-|          | 3. Berez-Kroeker & Hanke “Language Archiving” (Oxford Handbook) (26 pp) |
-|          | 4. Meakins-Green-Turpin “Understanding Linguistic Fieldwork” (EXCERPT 1: Section 4.4: Archiving) (12 pp: 83-95) | 
-|          | 5. Meakins-Green-Turpin “Understanding Linguistic Fieldwork” (EXCERPT 2: Section 2.4: Ways of working in the field) (7 pp: 28-34) |
-|          | 6. IASA_TC03 “The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy” (20 pp) |
-|          | **ONLINE RESOURCES** |
-|          | * PARADISEC Workflow “Getting started with PARADISEC”: [https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html){:target="_blank"} |
-|          | * PARADISEC Catalog: [https://catalog.paradisec.org.au/](https://catalog.paradisec.org.au/){:target="_blank"} |
-|          | * Endangered Languages Archive (ELAR): [https://www.elararchive.org/](https://www.elararchive.org/){:target="_blank"} |
-|          | * The Language Archive (TLA), specifically the DOBES collections: [https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_0001_305B_C](https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_0001_305B_C){:target="_blank"} |
-|          | * TK (Traditional Knowledge) Labels: [https://localcontexts.org/labels/traditional-knowledge-labels/](https://localcontexts.org/labels/traditional-knowledge-labels/){:target="_blank"} |
+|               | Week 1       |
+| :---          | :---         |
+| **TOPICS**    | * Introduction to Language Documentation & Digital Archiving |
+|               | * Introduction to PARADISEC |
+|               | * Exploring the services provided by PARADISEC |
+|               | * Overview of the content held within PARADISEC and the archive structure | 
+|               | * How to archive with PARADISEC |
+| **READINGS**  (Links are provided [here](https://paradisec-archive.github.io/PARADISEC_workflows/14_Training_materials.html#readings))   |              |
+|               | 1. Himmelmann “Documentary and Descriptive Linguistics” (35 pp) | 
+|               | 2. Hanke & Berez-Kroeker “A Brief History of Archiving in Language Documentation with an Annotated Bibliography” (47 pp) | 
+|               | 3. Berez-Kroeker & Hanke “Language Archiving” (Oxford Handbook) (26 pp) |
+|               | 4. Meakins-Green-Turpin “Understanding Linguistic Fieldwork” (EXCERPT 1: Section 4.4: Archiving) (12 pp: 83-95) | 
+|               | 5. Meakins-Green-Turpin “Understanding Linguistic Fieldwork” (EXCERPT 2: Section 2.4: Ways of working in the field) (7 pp: 28-34) |
+|               | 6. IASA_TC03 “The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy” (20 pp) |
+| **ONLINE RESOURCES** |         |
+|               | * PARADISEC Workflow “Getting started with PARADISEC”: [https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html){:target="_blank"} |
+|               | * PARADISEC Catalog: [https://catalog.paradisec.org.au/](https://catalog.paradisec.org.au/){:target="_blank"} |
+|               | * Endangered Languages Archive (ELAR): [https://www.elararchive.org/](https://www.elararchive.org/){:target="_blank"} |
+|               | * The Language Archive (TLA), specifically the DOBES collections: [https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_0001_305B_C](https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_0001_305B_C){:target="_blank"} |
+|               | * TK (Traditional Knowledge) Labels: [https://localcontexts.org/labels/traditional-knowledge-labels/](https://localcontexts.org/labels/traditional-knowledge-labels/){:target="_blank"} |
 
 
 #### READINGS for WEEK 1

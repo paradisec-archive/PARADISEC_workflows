@@ -30,7 +30,7 @@ H6{color:White !important;}
 
 
 <p align="center">
-  <img width="300" src="Training.jpg" alt="PARADISEC">
+  <img width="300" src="images/Training.jpg" alt="PARADISEC">
   </p>
 
 <span style="font-variant:small-caps;">Last updated: 13 September 2024</span>

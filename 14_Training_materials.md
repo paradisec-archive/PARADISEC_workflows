@@ -24,7 +24,6 @@ H6{color:White !important;}
 
 # Materials for Teaching, Training and Workshops
 <br>
-
 <p align="center">
   <img width="700" src="images/Training.png" alt="PARADISEC">
   </p>

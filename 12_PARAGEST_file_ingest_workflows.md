@@ -1,5 +1,5 @@
 ---
-title: File Ingest Workflows
+title: PARAGEST: File Ingest Workflows
 layout: default
 published: true
 nav_order: 12
@@ -22,7 +22,7 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-# PARAGEST: Workflow for File Procesing and File Transfer to the PARADISEC Archive
+# PARAGEST: Workflows for File Procesing and File Transfer to the PARADISEC Archive
 
 
 

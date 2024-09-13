@@ -40,7 +40,7 @@ H6{color:White !important;}
 
 ### Week 1: History of Endangered Language Documentation and the Development of Digital Language Archives
 
-#### TOPICS and ASSIGNMENTS for WEEK 1
+#### Week 1: TOPICS and ASSIGNMENTS
 
 | WEEK 1   | TOPICS       |
 | :---     | :---         |
@@ -49,7 +49,7 @@ H6{color:White !important;}
 |          | * Exploring the services provided by PARADISEC |
 |          | * Overview of the content held within PARADISEC and the archive structure | 
 |          | * How to archive with PARADISEC |
-|          | **READINGS**  (Links are provided [here](https://paradisec-archive.github.io/PARADISEC_workflows/14_Training_materials.html#readings))   |
+| **READINGS**  (Links are provided [here](https://paradisec-archive.github.io/PARADISEC_workflows/14_Training_materials.html#readings))   |
 |          | 1. Himmelmann “Documentary and Descriptive Linguistics” (35 pp) | 
 |          | 2. Hanke & Berez-Kroeker “A Brief History of Archiving in Language Documentation with an Annotated Bibliography” (47 pp) | 
 |          | 3. Berez-Kroeker & Hanke “Language Archiving” (Oxford Handbook) (26 pp) |

@@ -34,11 +34,7 @@ H6{color:White !important;}
 
 
 
-This workflow is designed for use by PARADISEC. For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au){:target="_blank"}, or write to us at:<br><br>
-**PARADISEC <br>
-Sydney Conservatorium of Music, C41 <br>
-University of Sydney, 2006 <br>
-Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
+
 
 ## Video Transcoding Workflow (preliminary)
 
@@ -53,11 +49,18 @@ Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 ## Full PARAGEST Workflow
 
 <p align="center">
-  <img width="700" src="images/PARAGEST-Ferlito-Stepfunction_Graph.png" alt="Flowchart for all file types">
+  <img width="700" src="images/PARAGEST-Ferlito-Stepfunctions_Graph.png" alt="Flowchart for all file types">
   </p>
 
 
 *Photo: Flowchart for all digital files to go into the PARADISEC archive*
+
+
+This workflow is designed for use by PARADISEC. For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au){:target="_blank"}, or write to us at:<br><br>
+**PARADISEC <br>
+Sydney Conservatorium of Music, C41 <br>
+University of Sydney, 2006 <br>
+Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 
 
 ⬆️ [Back to top](#)

@@ -50,8 +50,7 @@ H6{color:White !important;}
 |          | * Exploring the services provided by PARADISEC |
 |          | * Overview of the content held within PARADISEC and the archive structure | 
 |          | * How to archive with PARADISEC |
-|          | **READINGS**  (Links are provided [here](https://paradisec-archive.github.io/PARADISEC_workflows/14_Training_materials.html#readings){:target="_blank"}   |
-| :---     | :---         |
+|          | **READINGS**  (Links are provided [here](https://paradisec-archive.github.io/PARADISEC_workflows/14_Training_materials.html#readings){:target="_blank"})   |
 |          | 1. Himmelmann “Documentary and Descriptive Linguistics” (35 pp) | 
 |          | 2. Hanke & Berez-Kroeker “A Brief History of Archiving in Language Documentation with an Annotated Bibliography” (47 pp) | 
 |          | 3. Berez-Kroeker & Hanke “Language Archiving” (Oxford Handbook) (26 pp) |
@@ -59,7 +58,6 @@ H6{color:White !important;}
 |          | 5. Meakins-Green-Turpin “Understanding Linguistic Fieldwork” (EXCERPT 2: Section 2.4: Ways of working in the field) (7 pp: 28-34) |
 |          | 6. IASA_TC03 “The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy” (20 pp) |
 |          | **ONLINE RESOURCES** |
-| : ---    | :---             |
 |          | * PARADISEC Workflow “Getting started with PARADISEC”: [https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html){:target="_blank"} |
 |          | * PARADISEC Catalog: [https://catalog.paradisec.org.au/](https://catalog.paradisec.org.au/){:target="_blank"} |
 |          | * Endangered Languages Archive (ELAR): [https://www.elararchive.org/](https://www.elararchive.org/){:target="_blank"} |

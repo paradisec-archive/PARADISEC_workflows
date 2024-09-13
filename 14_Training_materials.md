@@ -30,7 +30,7 @@ H6{color:White !important;}
   </p>
 
 <p align="center">
-🚧 This page is currently under construction🚧
+🚧 This page is currently under construction 🚧
 </p>
 
 <span style="font-variant:small-caps;">Last updated: 13 September 2024</span>

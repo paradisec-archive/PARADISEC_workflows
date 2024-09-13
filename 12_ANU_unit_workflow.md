@@ -1,8 +1,8 @@
 ---
-title: Workflow - Canberra Unit (ANU)
+title: File Ingest Workflows
 layout: default
 published: true
-nav_order: 13
+nav_order: 12
 ---
 
 <details closed markdown="block">
@@ -22,18 +22,15 @@ H5{color:White !important;}
 H6{color:White !important;}
 </style>
 
-# PARADISEC Workflow - The Australian National University
-<br>
-<p align="center">
-🚧 This page is currently under construction🚧
-</p>
+# PARAGEST: Workflow for File Procesing and File Transfer to the PARADISEC Archive
+
 
 
 <p align="center">
   <img width="700" src="images/Reel-BW-gh-page.jpg" alt="PARADISEC-reel-to-reel">
   </p>
 
-<span style="font-variant:small-caps;">Last updated: 16 October 2023</span>
+<span style="font-variant:small-caps;">Last updated: 13 September 2024</span>
 
 
 

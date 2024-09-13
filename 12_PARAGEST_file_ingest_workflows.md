@@ -1,5 +1,5 @@
 ---
-title: PARAGEST: File Ingest Workflows
+title: File Ingest Workflows
 layout: default
 published: true
 nav_order: 12

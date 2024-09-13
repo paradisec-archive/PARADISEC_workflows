@@ -26,7 +26,7 @@ H6{color:White !important;}
 <br>
 
 <p align="center">
-  <img width="400" src="images/Training.jpg" alt="PARADISEC">
+  <img width="700" src="images/Training.png" alt="PARADISEC">
   </p>
 
 <p align="center">

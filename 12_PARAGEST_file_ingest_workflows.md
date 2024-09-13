@@ -34,55 +34,30 @@ H6{color:White !important;}
 
 
 
-This workflow is designed for use by PARADISEC staff at ANU. Some instructions may not apply to your unit. For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au){:target="_blank"}, or write to us at:<br><br>
+This workflow is designed for use by PARADISEC. For questions or comments on this document please contact us at [admin@paradisec.org.au](mailto:admin@paradisec.org.au){:target="_blank"}, or write to us at:<br><br>
 **PARADISEC <br>
 Sydney Conservatorium of Music, C41 <br>
 University of Sydney, 2006 <br>
 Ph: +61 2 9351 1279, Fax: +61 2 9351 1287**
 
-## Audio workflow
-
-### Workflow for handling analogue open reel or cassette tapes
-1. Create inventory of items received
-2. Perform a cursory quality check; if mouldy, bag up separately to avoid cross-contamination set aside to transfer to Sydney unit
-3. Photograph each item, including all tape box inserts, tape labels, written inserts, etc.
-4. Repair or replace lead tape and damaged splices if necessary
-5. Fast forward and rewind to minimise print-through
-6. Follow the digitising instructions outlined [here](https://paradisec-archive.github.io/PARADISEC_workflows/06_audio_digitising.html){:target="_blank"}
-
-### Workflow for handling born-digital audio files
-#### Reel-to-reel
-
-1. Create inventory of files received
-2. 
-
-
-## Video workflow
-
-### Workflow for handling video tape formats, film, or other non-file-based video formats
-1. Create an inventory of items received
-2. Photograph each item, including all tape box inserts, tape labels, written inserts, etc. and add PARADISEC ID slips
-3. Confirm with PARADISEC admin that there is funding for out-sourcing the digitising task (though this really should be done prior to taking possession of physical items)
-4. Contact DAMSmart and arrange to get the items to them; provide them with a digital version of the item inventory and how files are to be named
-
-### Workflow for handling born-digital video files
-1. Create inventory of files received
-	 * It is best to use MediaInfo batch export to collect necessary structural metadata such as overall/max Bitrate (needed for transcoding), duration (needed for QC), etc. (For more information about extracting metadata with MediaInfo, click [here](https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html#mediainfo){:target="_blank"}).
-	 * If not possible to use MediaInfo batch export, then use MediaInfo app and manually collect necessary metadata.
-	 * Minimally, create a list or csv of files (Terminal print dir using "ls" is fastest).
+## Video Transcoding Workflow (preliminary)
 
 <p align="center">
-  <img width="700" src="images/Video-inventory.png" alt="Video structural metadata">
+  <img width="700" src="images/PARAGEST-Video_Workflow.png" alt="Flowchart for digital video pipelines">
   </p>
 
-*Photo: Spreadsheet containing structural metadata extracted from a set of videos using MediaInfo batch export, Windows version*
+*Photo: Preliminary flowchart for digital video files, directing them to correct processing pipelines*
 
-2. If you don't already have a local backup of these files, create a folder of working copies.
-3. Working with the file copies, and using the metadata inventory as a guide, organise files by bitrate by putting them new separate folders with the bitrate in the folder name
-3. Use Handbrake, FFmpeg, or MediaEncoder to create .mp4 (H.264), if original files are not already compliant. Follow instructions for Handbrake [here](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html){:target="_blank"}, FFmpeg [here](https://paradisec-archive.github.io/PARADISEC_workflows/08_video_processing_FFmpeg.html){:target="_blank"}, or MediaEncoder [here](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html){:target="_blank"}
-4. Use Abode MediaEncoder to create lossless JPEG2000 archival .MXF files. Follow instructions for Adobe ME [here](https://paradisec-archive.github.io/PARADISEC_workflows/09_video_processing_AdobeME.html){:target="_blank"}
-5. Using MediaInfo, create another metadata inventory of newly transcoded files. Add to previous spreadsheet and compare specifications to original (specifically duration, as a difference in duration may indicate dropped frames).
-6. 
+
+
+## Full PARAGEST Workflow
+
+<p align="center">
+  <img width="700" src="images/PARAGEST-Ferlito-Stepfunction-Graph.png" alt="Flowchart for all file types">
+  </p>
+
+
+*Photo: Flowchart for all digital files to go into the PARADISEC archive*
 
 
 ⬆️ [Back to top](#)

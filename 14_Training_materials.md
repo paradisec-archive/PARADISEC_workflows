@@ -24,14 +24,14 @@ H6{color:White !important;}
 
 # Materials for Teaching, Training and Workshops
 <br>
-<p align="center">
-🚧 This page is currently under construction🚧
-</p>
-
 
 <p align="center">
   <img width="300" src="images/Training.jpg" alt="PARADISEC">
   </p>
+
+<p align="center">
+🚧 This page is currently under construction🚧
+</p>
 
 <span style="font-variant:small-caps;">Last updated: 13 September 2024</span>
 

@@ -39,7 +39,7 @@ H6{color:White !important;}
 ## Video Transcoding Workflow (preliminary)
 
 <p align="center">
-  <img width="700" src="images/PARAGEST-Video_Workflow.png" alt="Flowchart for digital video pipelines">
+  <img width="700" src="images/PARAGEST-Video_Workflow.jpg" alt="Flowchart for digital video pipelines">
   </p>
 
 *Photo: Preliminary flowchart for digital video files, directing them to correct processing pipelines*

@@ -62,7 +62,7 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 
 | Equipment | Description and links to more details |
 | :----- | :----- |
-| Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B){:target="_blank"} *(compact digital camera)* and [Canon EOS 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html){:target="_blank"} *(DSLR)* |
+| Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B){:target="_blank"} *(compact digital camera)* and [Canon EOS 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specifications/){:target="_blank"} *(DSLR)* |
 | Photo stand | [Kaiser Reprokid](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5360){:target="_blank"} | 
 | Tripod with Reversable centre post | [Velbon Sherpa 803R Pro Tripod](https://www.ana-photo.com/Product/Velbon/VELBON-SHERPA-800R803R.html){:target="_blank"} |
 | Shelf clamp | [Velbon Clamp Kit II](https://velbon.net/product/accessories/clampk.html){:target="_blank"} |

@@ -64,7 +64,7 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 | :----- | :----- |
 | Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B){:target="_blank"} *(compact digital camera)* and [Canon EOS 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specifications/){:target="_blank"} *(DSLR)* |
 | Photo stand | [Kaiser Reprokid](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5360){:target="_blank"} | 
-| Tripod with Reversable centre post | [Velbon Sherpa 803R Pro Tripod](https://www.ana-photo.com/Product/Velbon/VELBON-SHERPA-800R803R.html){:target="_blank"} |
+| Tripod with Reversable centre post | [Velbon Sherpa Series](https://velbon.net/product/sherpa/sherpa-200r.html){:target="_blank"} |
 | Shelf clamp | [Velbon Clamp Kit II](https://velbon.net/product/accessories/clampk.html){:target="_blank"} |
 | Software for remote capture | [EOS Utility](https://www.canon.com.au/cameras/eos-700d/support){:target="_blank"} *(for compatible Canon cameras)* |
 | Software for post-production editing | [Adobe Bridge](https://www.adobe.com/au/products/bridge.html){:target="_blank"} |

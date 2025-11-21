@@ -304,7 +304,7 @@ It is also a good idea to create a .pdf of your image files bundled together in 
 
 ### Software
 * The camera tethering software designed to work with Canon cameras is free. If you cannot afford a camera that works with tethering software, you can simply capture images to your compact digital camera's SD card and do your file management, including file nameing, all in your post-production editing.
-* You can also use Lightroom Classic to tether yur camera to your computer. Learn more about how to tether using Lightroom Classic [here](https://tethertools.com/blog/tethering-in-lightroom-cc-vs-lightroom-classic-cc/){:target="_blank"} and [here](https://photoshopcafe.com/tether-camera-lightroom-tutorial.htm) {:target="_blank"}.
+* You can also use Lightroom Classic to tether yur camera to your computer. Learn more about how to tether using Lightroom Classic [here](https://tethertools.com/blog/tethering-in-lightroom-cc-vs-lightroom-classic-cc/){:target="_blank"} and [here](https://photoshopcafe.com/tether-camera-lightroom-tutorial.htm){:target="_blank"}.
 * Post production of raw images (.CR2) can be done with the **free** raw image processing program [RawTherapee](https://www.rawtherapee.com/){:target="_blank"}, replacing the costly Adobe Bridge option outlined above. This includes bulk processing of images. Their documentation and help information can be found here: [RawTherapee](http://rawpedia.rawtherapee.com/Main_Page){:target=_blank"}.
 
    <p align="center">

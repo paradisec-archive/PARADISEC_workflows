@@ -1,0 +1,127 @@
+/* ================================
+   Base typography fixes
+   ================================ */
+
+/* Replace hardcoded H5/H6 styling */
+h5, h6 {
+  color: var(--body-text-color);
+}
+
+h5 {
+  font-weight: 600;
+}
+
+h6 {
+  font-weight: 500;
+  opacity: 0.85;
+}
+
+/* ================================
+   Inline text safety reset
+   (prevents old overrides behaving oddly)
+   ================================ */
+
+span {
+  color: inherit;
+}
+
+/* ================================
+   Callout / notice styles
+   (replace inline coloured spans)
+   ================================ */
+
+.notice {
+  color: var(--body-text-color);
+  border-left: 4px solid var(--link-color);
+  background-color: var(--feedback-color);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+}
+
+/* Info callout */
+.callout-info {
+  border-left: 4px solid #2f6fdf;
+  background: rgba(47, 111, 223, 0.08);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+}
+
+/* Success callout */
+.callout-success {
+  border-left: 4px solid #2ecc71;
+  background: rgba(46, 204, 113, 0.10);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+}
+
+/* Warning callout */
+.callout-warning {
+  border-left: 4px solid #f39c12;
+  background: rgba(243, 156, 18, 0.10);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+}
+
+/* Error callout */
+.callout-error {
+  border-left: 4px solid #e74c3c;
+  background: rgba(231, 76, 60, 0.10);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  border-radius: 6px;
+}
+
+/* ================================
+   Theme-aware improvements
+   ================================ */
+
+body {
+  color: var(--body-text-color);
+  background-color: var(--body-background-color);
+}
+
+/* Links always follow theme */
+a {
+  color: var(--link-color);
+}
+
+/* ================================
+   Dark mode safety (Just the Docs)
+   ================================ */
+
+/* Ensure custom callouts adapt in dark mode */
+[data-theme="dark"] .callout-info,
+.js-theme-dark .callout-info {
+  background: rgba(47, 111, 223, 0.15);
+}
+
+[data-theme="dark"] .callout-success,
+.js-theme-dark .callout-success {
+  background: rgba(46, 204, 113, 0.15);
+}
+
+[data-theme="dark"] .callout-warning,
+.js-theme-dark .callout-warning {
+  background: rgba(243, 156, 18, 0.15);
+}
+
+[data-theme="dark"] .callout-error,
+.js-theme-dark .callout-error {
+  background: rgba(231, 76, 60, 0.15);
+}
+
+/* ================================
+   Utility helpers
+   ================================ */
+
+.text-muted {
+  opacity: 0.7;
+}
+
+.text-center {
+  text-align: center;
+}

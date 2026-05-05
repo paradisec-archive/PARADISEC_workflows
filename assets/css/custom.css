@@ -238,3 +238,31 @@ body.dark-mode .search-input {
 body.dark-mode .site-header > * {
   background-color: #252526;
 }
+
+/* === FINAL POLISH === */
+
+/* Smooth transitions */
+body,
+.main-content,
+.side-bar,
+.site-header {
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+/* Softer heading contrast */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3 {
+  color: #f5f5f5;
+}
+
+/* Link hover */
+body.dark-mode a:hover {
+  text-decoration: underline;
+}
+
+/* GitHub button polish */
+body.dark-mode .site-header .site-button {
+  border-radius: 6px;
+  padding: 0.3rem 0.7rem;
+}

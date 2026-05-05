@@ -141,25 +141,23 @@ body.dark-mode .aux-nav a:hover {
   color: #ffffff;
 }
 
-/* Fix header links (including GitHub link) */
-
-body.dark-mode .site-header a {
-  color: #cccccc !important;
+/* General header links (excluding buttons) */
+body.dark-mode .site-header a:not(.site-button) {
+  color: #cccccc;
 }
 
-body.dark-mode .site-header a:hover {
+body.dark-mode .site-header a:not(.site-button):hover {
   color: #ffffff;
 }
 
-/* Fix GitHub button in header */
-
+/* GitHub button */
 body.dark-mode .site-header .site-button {
   background-color: #2d2d2d;
   color: #cccccc;
-  border-color: #3a3a3a;
+  border: 1px solid #3a3a3a;
 }
 
-/* Hover state */
+/* Button hover */
 body.dark-mode .site-header .site-button:hover {
   background-color: #3a3a3a;
   color: #ffffff;

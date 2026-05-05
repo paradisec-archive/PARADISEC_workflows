@@ -184,3 +184,25 @@ body.dark-mode .aux-nav .site-button:hover {
 body.dark-mode .aux-nav {
   background-color: #252526;
 }
+
+/* Remove white divider / strip in header */
+
+body.dark-mode .site-header {
+  background-color: #252526;
+  border-bottom: 1px solid #3a3a3a;
+}
+
+/* Kill any pseudo-element or divider */
+body.dark-mode .site-header::after {
+  background-color: #252526 !important;
+}
+
+/* Fix the small separator block */
+body.dark-mode .aux-nav {
+  background-color: #252526;
+}
+
+/* Ensure no child element is forcing white */
+body.dark-mode .site-header * {
+  background-color: inherit;
+}

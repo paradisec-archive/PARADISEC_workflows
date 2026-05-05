@@ -90,6 +90,6 @@ These archiving guides and technical workflows are designed to help people with 
 
 ⬆️ [Back to top](#)
 
-*Development of this documentation was generously funded by the [ARC Centre of Excellence for the Dynamics of Language](https://www.dynamicsoflanguage.edu.au/){:target="_blank"} (CoEDL)*
+*Original development of this documentation was funded by the [ARC Centre of Excellence for the Dynamics of Language (CoEDL)](http://www.dynamicsoflanguage.edu.au){:target="_blank"}. Support for its ongoing upkeep is provided by [Language Data Commons of Australia (LDaCA)](https://www.ldaca.edu.au/){:target="_blank"}.*
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work was created by Julia Colleen Miller and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>{:target="_blank"}.

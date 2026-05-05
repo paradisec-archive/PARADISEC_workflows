@@ -7,16 +7,24 @@ body.dark-mode {
   --border-color: #3a3a3a;
 }
 
+/* === CONSISTENT BACKGROUND OVERRIDE === */
+
+body.dark-mode,
+body.dark-mode .page-wrap,
+body.dark-mode .main,
+body.dark-mode .main-content {
+  background-color: #1e1e1e;
+}
+
 /* Main content */
 body.dark-mode .main-content {
-  background-color: #222222;
   color: #e0e0e0;
 }
+
 
 /* Sidebar */
 body.dark-mode .side-bar {
   background-color: #252526;
-  color: #e0e0e0;
 }
 
 /* Header */
@@ -106,4 +114,29 @@ body.dark-mode .callout-info {
 /* Info icon */
 .callout-info::before {
   content: "💡";
+}
+
+/* === HEADER + NAV DARK MODE FIX === */
+
+body.dark-mode .site-header {
+  background-color: #252526;
+  border-bottom: 1px solid #3a3a3a;
+}
+
+body.dark-mode .search-input {
+  background-color: #2d2d2d;
+  color: #e0e0e0;
+  border-color: #3a3a3a;
+}
+
+body.dark-mode .search-input::placeholder {
+  color: #aaaaaa;
+}
+
+body.dark-mode .aux-nav a {
+  color: #cccccc;
+}
+
+body.dark-mode .aux-nav a:hover {
+  color: #ffffff;
 }

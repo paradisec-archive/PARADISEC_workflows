@@ -7,20 +7,26 @@ body.dark-mode {
   --border-color: #3a3a3a;
 }
 
-/* === CONSISTENT BACKGROUND OVERRIDE === */
+/* === FULL BACKGROUND UNIFICATION (FIXES PATCHINESS) === */
 
 body.dark-mode,
+body.dark-mode html,
 body.dark-mode .page-wrap,
 body.dark-mode .main,
-body.dark-mode .main-content {
-  background-color: #2d2d2d;
+body.dark-mode .main-content,
+body.dark-mode .main-content-wrap {
+  background-color: #2d2d2d !important;
 }
 
-/* Main content */
+/* Ensure text colour */
 body.dark-mode .main-content {
   color: #e0e0e0;
 }
 
+/* Remove background blocks inside content */
+body.dark-mode .main-content > * {
+  background-color: transparent;
+}
 
 /* Sidebar */
 body.dark-mode .side-bar {
@@ -30,6 +36,7 @@ body.dark-mode .side-bar {
 /* Header */
 body.dark-mode .site-header {
   background-color: #252526;
+  border-bottom: 1px solid #3a3a3a;
 }
 
 /* Headings */
@@ -39,7 +46,7 @@ body.dark-mode h3,
 body.dark-mode h4,
 body.dark-mode h5,
 body.dark-mode h6 {
-  color: #ffffff;
+  color: #f5f5f5;
 }
 
 /* Links */
@@ -62,13 +69,6 @@ body.dark-mode table {
 body.dark-mode th,
 body.dark-mode td {
   border-color: #3a3a3a;
-}
-
-/* Fix outer page background */
-body.dark-mode,
-body.dark-mode .page-wrap,
-body.dark-mode .main {
-  background-color: #1e1e1e;
 }
 
 /* Ensure full page background */
@@ -118,13 +118,8 @@ body.dark-mode .callout-info {
 
 /* === HEADER + NAV DARK MODE FIX === */
 
-body.dark-mode .site-header {
-  background-color: #252526;
-  border-bottom: 1px solid #3a3a3a;
-}
-
 body.dark-mode .search-input {
-  background-color: #2d2d2d;
+  background-color: #2d2d2d !important;
   color: #e0e0e0;
   border-color: #3a3a3a;
 }
@@ -133,15 +128,7 @@ body.dark-mode .search-input::placeholder {
   color: #aaaaaa;
 }
 
-body.dark-mode .aux-nav a {
-  color: #cccccc;
-}
-
-body.dark-mode .aux-nav a:hover {
-  color: #ffffff;
-}
-
-/* General header links (excluding buttons) */
+/* Header links */
 body.dark-mode .site-header a:not(.site-button) {
   color: #cccccc;
 }
@@ -150,98 +137,31 @@ body.dark-mode .site-header a:not(.site-button):hover {
   color: #ffffff;
 }
 
-/* GitHub button (force override) */
-
-body.dark-mode .site-header .site-button,
-body.dark-mode .site-header a.site-button {
+/* GitHub button */
+body.dark-mode .site-header .site-button {
   background-color: #2d2d2d !important;
   color: #cccccc !important;
   border: 1px solid #3a3a3a !important;
+  border-radius: 6px;
+  padding: 0.3rem 0.7rem;
 }
 
-/* Hover */
-body.dark-mode .site-header .site-button:hover,
-body.dark-mode .site-header a.site-button:hover {
+body.dark-mode .site-header .site-button:hover {
   background-color: #3a3a3a !important;
   color: #ffffff !important;
 }
 
-/* Fix GitHub button background properly */
-
-body.dark-mode .aux-nav .site-button {
-  background-color: #252526 !important;
-  color: #cccccc !important;
-}
-
-/* Hover */
-body.dark-mode .aux-nav .site-button:hover {
-  background-color: #3a3a3a !important;
-  color: #ffffff !important;
-}
-
-/* Fix header nav background */
-
-body.dark-mode .aux-nav {
-  background-color: #252526;
-}
-
-/* Remove white divider / strip in header */
-
-body.dark-mode .site-header {
-  background-color: #252526;
-  border-bottom: 1px solid #3a3a3a;
-}
-
-/* Kill any pseudo-element or divider */
-body.dark-mode .site-header::after {
-  background-color: #252526 !important;
-}
-
-/* Fix the small separator block */
-body.dark-mode .aux-nav {
-  background-color: #252526;
-}
-
-/* Ensure no child element is forcing white */
-body.dark-mode .site-header * {
-  background-color: inherit;
-}
-
-/* Nuclear option for that divider */
-
-body.dark-mode .site-header,
-body.dark-mode .site-header > *,
+/* Fix header layout elements */
 body.dark-mode .aux-nav,
+body.dark-mode .search,
+body.dark-mode .search-wrapper,
+body.dark-mode .site-header > *,
 body.dark-mode .aux-nav > * {
   background-color: #252526 !important;
 }
 
-/* === FIX WHITE BLOCK NEXT TO SEARCH === */
-
-/* Search container */
-body.dark-mode .search,
-body.dark-mode .search-wrapper {
-  background-color: #252526 !important;
-}
-
-/* The flex item that creates that white strip */
-body.dark-mode .site-header > div {
-  background-color: #252526 !important;
-}
-
-/* Ensure search area blends */
-body.dark-mode .search-input {
-  background-color: #2d2d2d !important;
-}
-
-/* Remove any divider/gap effect */
-body.dark-mode .site-header > * {
-  background-color: #252526;
-}
-
 /* === FINAL POLISH === */
 
-/* Smooth transitions */
 body,
 .main-content,
 .side-bar,
@@ -249,20 +169,6 @@ body,
   transition: background-color 0.25s ease, color 0.25s ease;
 }
 
-/* Softer heading contrast */
-body.dark-mode h1,
-body.dark-mode h2,
-body.dark-mode h3 {
-  color: #f5f5f5;
-}
-
-/* Link hover */
 body.dark-mode a:hover {
   text-decoration: underline;
-}
-
-/* GitHub button polish */
-body.dark-mode .site-header .site-button {
-  border-radius: 6px;
-  padding: 0.3rem 0.7rem;
 }

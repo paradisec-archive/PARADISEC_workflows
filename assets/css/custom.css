@@ -2,12 +2,12 @@
   border: 3px solid red;
 }
 
-body.dark-mode {
-  background-color: #111;
-  color: #eee;
-}
 
 body.dark-mode .main-content {
   background-color: #111;
   color: #eee;
+}
+
+body.dark-mode {
+  border: 10px solid lime !important;
 }

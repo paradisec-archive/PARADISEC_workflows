@@ -47,3 +47,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
+a[href^="http"]:not([href*="paradisec-archive.github.io"])::after {
+  content: " ↗";
+  font-size: 0.8em;
+  opacity: 0.7;
+}

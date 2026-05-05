@@ -65,3 +65,22 @@ body.dark-mode .callout-info {
   border-left-color: #7aa2ff;
   color: #e0e0e0;
 }
+
+/* Fix outer page background */
+
+body.dark-mode,
+body.dark-mode .page-wrap,
+body.dark-mode .main {
+  background-color: #121212;
+}
+
+/* Ensure full page background */
+body.dark-mode html {
+  background-color: #121212;
+}
+
+html, body {
+
+  background-color: var(--body-background-color);
+
+}

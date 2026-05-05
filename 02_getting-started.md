@@ -34,7 +34,7 @@ The process of signing up on our website is simple; however, you need to have an
 
  Go to the PARASDISEC catalog website: [http://catalog.paradisec.org.au/](http://catalog.paradisec.org.au/){:target="_blank"}, and click on **Sign up** in the upper right‐hand corner. Once you sign up, you get an automated message informing you to check your email to confirm your account: 
 
-<div class="callout-info">
+<div class="callout callout-info">
 A message with a confirmation link has been sent to your email address. Please open the link to activate your account.
 </div>
 

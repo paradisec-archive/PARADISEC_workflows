@@ -113,7 +113,7 @@ body.dark-mode .callout-info {
 
 /* Info icon */
 .callout-info::before {
-  content: "💡";
+  content: "ℹ️";
 }
 
 /* === DARK MODE TABLE FIX === */

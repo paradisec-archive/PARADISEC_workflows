@@ -140,3 +140,13 @@ body.dark-mode .aux-nav a {
 body.dark-mode .aux-nav a:hover {
   color: #ffffff;
 }
+
+/* Fix header links (including GitHub link) */
+
+body.dark-mode .site-header a {
+  color: #cccccc;
+}
+
+body.dark-mode .site-header a:hover {
+  color: #ffffff;
+}

@@ -1,5 +1,7 @@
 title: PARADISEC Workflows
 description: PARADISEC technical workflows and archiving guides 
+baseurl: "/PARADISEC_workflows"
+url: "https://paradisec-archive.github.io"
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
 #color_scheme: light

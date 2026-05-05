@@ -160,6 +160,14 @@ body.dark-mode td {
 
 }
 
+/* Optional: zebra striping for readability */
+
+body.dark-mode tr:nth-child(even) td {
+
+  background-color: #262626;
+
+}
+
 /* === HEADER + NAV DARK MODE FIX === */
 
 body.dark-mode .search-input {

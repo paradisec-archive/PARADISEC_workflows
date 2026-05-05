@@ -1,10 +1,23 @@
-function setTheme(theme) {
-  document.documentElement.setAttribute("data-theme", theme);
-  localStorage.setItem("theme", theme);
+const STORAGE_KEY = "jd-theme";
+
+// Apply theme using Just the Docs classes
+function applyTheme(theme) {
+  const body = document.body;
+
+  if (theme === "dark") {
+    body.classList.add("js-theme-dark");
+    body.classList.remove("js-theme-light");
+  } else {
+    body.classList.add("js-theme-light");
+    body.classList.remove("js-theme-dark");
+  }
+
+  localStorage.setItem(STORAGE_KEY, theme);
 }
 
-function getPreferredTheme() {
-  const saved = localStorage.getItem("theme");
+// Get saved or system preference
+function getInitialTheme() {
+  const saved = localStorage.getItem(STORAGE_KEY);
   if (saved) return saved;
 
   return window.matchMedia("(prefers-color-scheme: dark)").matches
@@ -12,18 +25,19 @@ function getPreferredTheme() {
     : "light";
 }
 
-// Apply on load
-setTheme(getPreferredTheme());
+// Toggle theme
+function toggleTheme() {
+  const isDark = document.body.classList.contains("js-theme-dark");
+  applyTheme(isDark ? "light" : "dark");
+}
 
-// Toggle button
+// Initialise
 document.addEventListener("DOMContentLoaded", () => {
+  applyTheme(getInitialTheme());
+
   const toggle = document.getElementById("theme-toggle");
 
-  if (!toggle) return;
-
-  toggle.addEventListener("click", () => {
-    const current = document.documentElement.getAttribute("data-theme");
-    const next = current === "dark" ? "light" : "dark";
-    setTheme(next);
-  });
+  if (toggle) {
+    toggle.addEventListener("click", toggleTheme);
+  }
 });

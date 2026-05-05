@@ -116,6 +116,50 @@ body.dark-mode .callout-info {
   content: "💡";
 }
 
+/* === DARK MODE TABLE FIX === */
+
+body.dark-mode table {
+
+  background-color: #2d2d2d;
+
+  border-collapse: collapse;
+
+}
+
+/* Table headers */
+
+body.dark-mode th {
+
+  background-color: #3a3a3a;
+
+  color: #ffffff;
+
+  font-weight: 600;
+
+}
+
+/* Table cells */
+
+body.dark-mode td {
+
+  background-color: #2d2d2d;
+
+  color: #e0e0e0;
+
+}
+
+/* Borders */
+
+body.dark-mode th,
+
+body.dark-mode td {
+
+  border: 1px solid #3a3a3a;
+
+  padding: 0.5rem;
+
+}
+
 /* === HEADER + NAV DARK MODE FIX === */
 
 body.dark-mode .search-input {

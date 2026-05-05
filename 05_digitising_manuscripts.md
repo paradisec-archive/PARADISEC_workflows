@@ -79,9 +79,11 @@ The above information and the workflow included on this page are provided as sug
 #### Canon PowerShot G12
 This Canon camera was purchased in 2010 and it is still fully functional in 2022. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual){:target="_blank"} of the firmware. I have not done this hack; See below for a simple workflow for image capture without tethering your camera to a computer. The PowerShot G12 features an articulated LCD screen. This means you can rotate it so that your target image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
 
-><span style="color:DarkBlue">
->**NOTE:** To see a larger version of the photos found on this website, right-click on the image and select the option ***Open Image in New Tab***
-></span>
+<div class="callout callout-info">
+
+To see a larger version of the photos found on this website, right-click on the image and select the option ***Open Image in New Tab***
+
+</div>
 
 
 <p align="center">
@@ -161,8 +163,11 @@ If you are planning to use a Canon camera that is compatible with the EOS Utilit
 * [EOS Utility for PCs](https://www.canon.com.au/support/sims-content?pid=74c2eb672e2946a7b940f86e2c9e2461&cid=3E70ECD154334FBD866C212BDC988F56&ctype=ap){:target="_blank"} 
 * [EOS Utility for Macs](https://www.canon.com.au/support/sims-content?pid=0a6e29c7259d4fa8938b3bb591ebb372&cid=A5B1C6A24B9D464DBCFE41EEE51ECAD3&ctype=ap){:target="_blank"}
 
-> **Note:** The link to the PC version is for EOS Utility 3, which is not compatible with my EOS 700D camera; however, with this installation both EOS Utility 2 and EOS Utility 3 are installed. The version that I am using is 2.14.20.0.
+<div class="callout callout-info">
 
+The link to the PC version is for EOS Utility 3, which is not compatible with my EOS 700D camera; however, with this installation both EOS Utility 2 and EOS Utility 3 are installed. The version that I am using is 2.14.20.0.
+
+</div>
 
 ### Adobe Bridge
 ***For image preview and processing, use Adobe Bridge***<br> 

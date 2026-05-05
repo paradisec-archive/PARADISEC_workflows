@@ -14,13 +14,6 @@ nav_order: 4
 {:toc}
 </details>
 
-<style>
-H5{color:White !important;}
-</style>
-
-<style>
-H6{color:White !important;}
-</style>
 
 # Standard Formats for Data Collection and Archiving
 

@@ -14,13 +14,6 @@ nav_order: 6
 {:toc}
 </details>
 
-<style>
-H5{color:White !important;}
-</style>
-
-<style>
-H6{color:White !important;}
-</style>
 
 
 # Audio Digitising - Cassette and Reel-to-reel Tapes

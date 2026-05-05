@@ -14,13 +14,6 @@ nav_order: 12
 {:toc}
 </details>
 
-<style>
-H5{color:White !important;}
-</style>
-
-<style>
-H6{color:White !important;}
-</style>
 
 # PARAGEST: Workflows for File Procesing and File Transfer to the PARADISEC Archive
 

@@ -14,13 +14,6 @@ nav_order: 13
 {:toc}
 </details>
 
-<style>
-H5{color:White !important;}
-</style>
-
-<style>
-H6{color:White !important;}
-</style>
 
 # PARADISEC Workflow and Dobbin Ingest Model - University of Sydney
 <br>

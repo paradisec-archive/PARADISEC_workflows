@@ -14,13 +14,6 @@ nav_order: 8.5
 {:toc}
 </details>
 
-<style>
-#H5{color:Black !important;}
-</style>
-
-<style>
-#H6{color:Black !important;}
-</style>
 
 # Video Processing with HandBrake
 

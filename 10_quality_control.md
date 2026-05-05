@@ -14,13 +14,6 @@ nav_order: 10
 {:toc}
 </details>
 
-<style>
-H5{color:White !important;}
-</style>
-
-<style>
-H6{color:White !important;}
-</style>
 
 # Quality control: checking the quality of audio and video files
 

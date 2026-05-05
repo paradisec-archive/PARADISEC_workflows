@@ -14,13 +14,6 @@ nav_order: 5
 {:toc}
 </details>
 
-<style>
-H5{color:White !important;}
-</style>
-
-<style>
-H6{color:White !important;}
-</style>
 
 
 # Digitising Fieldnotes & Manuscripts

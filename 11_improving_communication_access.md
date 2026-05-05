@@ -14,13 +14,6 @@ nav_order: 11
 {:toc}
 </details>
 
-<style>
-H5{color:White !important;}
-</style>
-
-<style>
-H6{color:White !important;}
-</style>
 
 
 # Improving communication access for deaf and hard of hearing people 

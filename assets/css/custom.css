@@ -1,26 +1,27 @@
-/* === DARK MODE (hybrid – works with Just the Docs) === */
+/* === DARK MODE (charcoal, refined) === */
 
 body.dark-mode {
-  --body-background-color: #121212;
+  --body-background-color: #1e1e1e;
   --body-text-color: #e0e0e0;
   --link-color: #7aa2ff;
+  --border-color: #3a3a3a;
 }
 
 /* Main content */
 body.dark-mode .main-content {
-  background-color: #121212;
+  background-color: #222222;
   color: #e0e0e0;
 }
 
 /* Sidebar */
 body.dark-mode .side-bar {
-  background-color: #1a1a1a;
+  background-color: #252526;
   color: #e0e0e0;
 }
 
 /* Header */
 body.dark-mode .site-header {
-  background-color: #1a1a1a;
+  background-color: #252526;
 }
 
 /* Headings */
@@ -41,7 +42,7 @@ body.dark-mode a {
 /* Code */
 body.dark-mode pre,
 body.dark-mode code {
-  background-color: #1e1e1e;
+  background-color: #2d2d2d;
   color: #dcdcdc;
 }
 
@@ -52,33 +53,19 @@ body.dark-mode table {
 
 body.dark-mode th,
 body.dark-mode td {
-  border-color: #333;
-}
-
-/* Callouts */
-body.dark-mode .callout-info {
-  background: rgba(47, 111, 223, 0.15);
-  border-left-color: #7aa2ff;
-  color: #e0e0e0;
+  border-color: #3a3a3a;
 }
 
 /* Fix outer page background */
-
 body.dark-mode,
 body.dark-mode .page-wrap,
 body.dark-mode .main {
-  background-color: #121212;
+  background-color: #1e1e1e;
 }
 
 /* Ensure full page background */
-body.dark-mode html {
-  background-color: #121212;
-}
-
 html, body {
-
   background-color: var(--body-background-color);
-
 }
 
 /* === BASE CALLOUT === */
@@ -91,40 +78,32 @@ html, body {
   border-radius: 6px;
 }
 
-/* Dark mode adjustment */
+/* Dark mode callout */
 body.dark-mode .callout {
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: rgba(255, 255, 255, 0.06);
 }
 
+/* Info callout */
 .callout-info {
   border-left-color: #2f6fdf;
 }
 
 body.dark-mode .callout-info {
   border-left-color: #7aa2ff;
+  color: var(--body-text-color);
 }
 
+/* Neutral note */
 .callout-note {
   border-left-color: var(--border-color);
 }
 
+/* Icon spacing */
 .callout::before {
-
   margin-right: 0.5rem;
-
 }
 
+/* Info icon */
 .callout-info::before {
-
-  content: "ℹ️";
-
-}
-
-/* Base callout (light mode) */
-.callout {
-  border-left: 4px solid var(--border-color);
-  background-color: rgba(0, 0, 0, 0.03);  /* subtle grey tint */
-  padding: 0.75rem 1rem;
-  margin: 1rem 0;
-  border-radius: 6px;
+  content: "💡";
 }

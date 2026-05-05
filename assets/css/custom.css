@@ -107,3 +107,15 @@ body.dark-mode .callout-info {
 .callout-note {
   border-left-color: var(--border-color);
 }
+
+.callout::before {
+
+  margin-right: 0.5rem;
+
+}
+
+.callout-info::before {
+
+  content: "ℹ️";
+
+}

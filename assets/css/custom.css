@@ -150,3 +150,17 @@ body.dark-mode .site-header a {
 body.dark-mode .site-header a:hover {
   color: #ffffff;
 }
+
+/* Fix GitHub button in header */
+
+body.dark-mode .site-header .site-button {
+  background-color: #2d2d2d;
+  color: #cccccc;
+  border-color: #3a3a3a;
+}
+
+/* Hover state */
+body.dark-mode .site-header .site-button:hover {
+  background-color: #3a3a3a;
+  color: #ffffff;
+}

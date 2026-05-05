@@ -2,12 +2,80 @@
   border: 3px solid red;
 }
 
-
-body.dark-mode .main-content {
-  background-color: #111;
-  color: #eee;
-}
+/* === DARK MODE OVERRIDE === */
 
 body.dark-mode {
-  border: 10px solid lime !important;
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+/* Main content */
+body.dark-mode .main-content {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+/* Sidebar (navigation panel) */
+body.dark-mode .side-bar {
+  background-color: #1a1a1a !important;
+  color: #e0e0e0 !important;
+}
+
+/* Sidebar links */
+body.dark-mode .side-bar a {
+  color: #cccccc !important;
+}
+
+body.dark-mode .side-bar a:hover {
+  color: #ffffff !important;
+}
+
+/* Top header */
+body.dark-mode .site-header {
+  background-color: #1a1a1a !important;
+}
+
+/* Headings */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+  color: #ffffff !important;
+}
+
+/* Paragraphs + lists */
+body.dark-mode p,
+body.dark-mode li {
+  color: #e0e0e0 !important;
+}
+
+/* Links in content */
+body.dark-mode a {
+  color: #7aa2ff !important;
+}
+
+/* Tables */
+body.dark-mode table {
+  background-color: #1a1a1a !important;
+}
+
+body.dark-mode th,
+body.dark-mode td {
+  border-color: #333 !important;
+}
+
+/* Code blocks */
+body.dark-mode pre,
+body.dark-mode code {
+  background-color: #1e1e1e !important;
+  color: #dcdcdc !important;
+}
+
+/* Callouts */
+body.dark-mode .callout-info {
+  background: rgba(47, 111, 223, 0.2) !important;
+  border-left-color: #7aa2ff !important;
+  color: #e0e0e0 !important;
 }

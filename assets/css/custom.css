@@ -150,15 +150,18 @@ body.dark-mode .site-header a:not(.site-button):hover {
   color: #ffffff;
 }
 
-/* GitHub button */
-body.dark-mode .site-header .site-button {
-  background-color: #2d2d2d;
-  color: #cccccc;
-  border: 1px solid #3a3a3a;
+/* GitHub button (force override) */
+
+body.dark-mode .site-header .site-button,
+body.dark-mode .site-header a.site-button {
+  background-color: #2d2d2d !important;
+  color: #cccccc !important;
+  border: 1px solid #3a3a3a !important;
 }
 
-/* Button hover */
-body.dark-mode .site-header .site-button:hover {
-  background-color: #3a3a3a;
-  color: #ffffff;
+/* Hover */
+body.dark-mode .site-header .site-button:hover,
+body.dark-mode .site-header a.site-button:hover {
+  background-color: #3a3a3a !important;
+  color: #ffffff !important;
 }

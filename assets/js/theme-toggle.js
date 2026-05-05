@@ -41,3 +41,17 @@ document.addEventListener("DOMContentLoaded", () => {
     toggle.addEventListener("click", toggleTheme);
   }
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Theme toggle script loaded");
+
+  const toggle = document.getElementById("theme-toggle");
+
+  console.log("Button:", toggle);
+
+  if (toggle) {
+    toggle.addEventListener("click", () => {
+      console.log("Clicked!");
+    });
+  }
+});

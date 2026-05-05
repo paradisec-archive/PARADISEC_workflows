@@ -2,80 +2,33 @@
   border: 3px solid red;
 }
 
-/* === DARK MODE OVERRIDE === */
+/* === DARK MODE (theme-aligned) === */
 
 body.dark-mode {
-  background-color: #121212 !important;
-  color: #e0e0e0 !important;
-}
+  /* Core colours */
+  --body-background-color: #121212;
+  --body-text-color: #e0e0e0;
 
-/* Main content */
-body.dark-mode .main-content {
-  background-color: #121212 !important;
-  color: #e0e0e0 !important;
-}
+  /* Links */
+  --link-color: #7aa2ff;
 
-/* Sidebar (navigation panel) */
-body.dark-mode .side-bar {
-  background-color: #1a1a1a !important;
-  color: #e0e0e0 !important;
-}
+  /* Sidebar */
+  --sidebar-color: #1a1a1a;
+  --nav-child-link-color: #cccccc;
 
-/* Sidebar links */
-body.dark-mode .side-bar a {
-  color: #cccccc !important;
-}
+  /* Headers */
+  --heading-color: #ffffff;
 
-body.dark-mode .side-bar a:hover {
-  color: #ffffff !important;
-}
+  /* Borders */
+  --border-color: #2a2a2a;
 
-/* Top header */
-body.dark-mode .site-header {
-  background-color: #1a1a1a !important;
-}
+  /* Code */
+  --code-background-color: #1e1e1e;
+  --code-text-color: #dcdcdc;
 
-/* Headings */
-body.dark-mode h1,
-body.dark-mode h2,
-body.dark-mode h3,
-body.dark-mode h4,
-body.dark-mode h5,
-body.dark-mode h6 {
-  color: #ffffff !important;
-}
+  /* Tables */
+  --table-background-color: #1a1a1a;
 
-/* Paragraphs + lists */
-body.dark-mode p,
-body.dark-mode li {
-  color: #e0e0e0 !important;
-}
-
-/* Links in content */
-body.dark-mode a {
-  color: #7aa2ff !important;
-}
-
-/* Tables */
-body.dark-mode table {
-  background-color: #1a1a1a !important;
-}
-
-body.dark-mode th,
-body.dark-mode td {
-  border-color: #333 !important;
-}
-
-/* Code blocks */
-body.dark-mode pre,
-body.dark-mode code {
-  background-color: #1e1e1e !important;
-  color: #dcdcdc !important;
-}
-
-/* Callouts */
-body.dark-mode .callout-info {
-  background: rgba(47, 111, 223, 0.2) !important;
-  border-left-color: #7aa2ff !important;
-  color: #e0e0e0 !important;
+  /* Optional: subtle UI tweaks */
+  --btn-primary-color: #3a7afe;
 }

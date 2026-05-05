@@ -182,7 +182,12 @@ As you capture the images, it is important to check their quality before you get
 2. Take the Canon 700D battery pack from the charger and insert into the camera.
 3. Once the computer is fully booted, turn the camera on. This will also open the EOS Utility software installed on the computer.
 
-     >**Note:** Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF** and that the camera mode on the top of the camera is set to **Av**. This setting prioritises the aperture, which controls the amount of light that passes through the lens, affecting the sensor's exposure to light.
+     <div class="callout callout-info">
+
+     Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF** and that the camera mode on the top of the camera is set to **Av**. This setting prioritises the aperture, which controls the amount of light that passes through the lens, affecting the sensor's exposure to light.
+
+     </div>
+
 
 4. Select "camera setting/remote shooting" from the start screen. 
 

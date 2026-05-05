@@ -215,3 +215,26 @@ body.dark-mode .aux-nav,
 body.dark-mode .aux-nav > * {
   background-color: #252526 !important;
 }
+
+/* === FIX WHITE BLOCK NEXT TO SEARCH === */
+
+/* Search container */
+body.dark-mode .search,
+body.dark-mode .search-wrapper {
+  background-color: #252526 !important;
+}
+
+/* The flex item that creates that white strip */
+body.dark-mode .site-header > div {
+  background-color: #252526 !important;
+}
+
+/* Ensure search area blends */
+body.dark-mode .search-input {
+  background-color: #2d2d2d !important;
+}
+
+/* Remove any divider/gap effect */
+body.dark-mode .site-header > * {
+  background-color: #252526;
+}

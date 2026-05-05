@@ -165,3 +165,22 @@ body.dark-mode .site-header a.site-button:hover {
   background-color: #3a3a3a !important;
   color: #ffffff !important;
 }
+
+/* Fix GitHub button background properly */
+
+body.dark-mode .aux-nav .site-button {
+  background-color: #252526 !important;
+  color: #cccccc !important;
+}
+
+/* Hover */
+body.dark-mode .aux-nav .site-button:hover {
+  background-color: #3a3a3a !important;
+  color: #ffffff !important;
+}
+
+/* Fix header nav background */
+
+body.dark-mode .aux-nav {
+  background-color: #252526;
+}

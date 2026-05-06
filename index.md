@@ -21,7 +21,7 @@ These archiving guides and technical workflows are designed to help people with 
 <hr style="border:1px solid grey">
 *If you are just starting out and would like to know how to begin the process of archiving with PARADISEC these guides can help you get your materials in order.*
 
-## [Getting started with PARADISEC](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html)
+## [Getting started with PARADISEC](https://paradisec-archive.github.io/PARADISEC_workflows/02_getting-started.html){:target="_blank"}
 * How to become a PARADISEC ***user***
 * How to become a PARADISEC ***depositor*** (How to start a new collection with PARADISEC)
 * Archiving materials that come from analogue sources vs archiving born-digital materials
@@ -65,7 +65,7 @@ These archiving guides and technical workflows are designed to help people with 
 * Transcode videos with settings not available in Adobe ME presets
 * Handle video with problematic properties
 
-## [Video processing with HandBrake](https://paradisec-archive.github.io/PARADISEC_workflows/08.5_video_processing_HandBrake.html)
+## [Video processing with HandBrake](https://paradisec-archive.github.io/PARADISEC_workflows/08a_video_processing_HandBrake.html)
 * Free, open source video transcoding tool
 * Uses FFMpeg libraries "under the hood"
 * Simple GUI with many presets to choose or customise

@@ -8,6 +8,7 @@ function applyTheme(theme) {
 /* Get preferred theme */
 function getPreferredTheme() {
   const saved = localStorage.getItem(STORAGE_KEY);
+
   if (saved) return saved;
 
   return window.matchMedia("(prefers-color-scheme: dark)").matches
@@ -21,11 +22,14 @@ function setTheme(theme) {
   applyTheme(theme);
 }
 
-/* Initialise */
+/* Initialise everything */
 document.addEventListener("DOMContentLoaded", () => {
+
+  /* Apply saved/system theme */
   const theme = getPreferredTheme();
   applyTheme(theme);
 
+  /* Theme toggle button */
   const toggle = document.getElementById("theme-toggle");
 
   if (toggle) {
@@ -34,22 +38,15 @@ document.addEventListener("DOMContentLoaded", () => {
       setTheme(isDark ? "light" : "dark");
     });
   }
-});
 
-document.addEventListener("DOMContentLoaded", () => {
+  /* External links open in new tab */
   const links = document.querySelectorAll("a[href^='http']");
 
   links.forEach(link => {
-    // Only modify external links
     if (!link.href.includes(window.location.hostname)) {
       link.setAttribute("target", "_blank");
       link.setAttribute("rel", "noopener noreferrer");
     }
   });
-});
 
-a[href^="http"]:not([href*="paradisec-archive.github.io"])::after {
-  content: " ↗";
-  font-size: 0.8em;
-  opacity: 0.7;
-}
+});

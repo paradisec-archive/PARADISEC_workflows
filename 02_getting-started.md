@@ -21,7 +21,6 @@ nav_order: 2
   <img width="700" src="images/PARADISEC-banner.jpg">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 06 May 2026</span>
 
 ## How to become a PARADISEC user
 In order to view items in the PARADISEC archive, you need to first ***sign up*** and become a PARADISEC user. 

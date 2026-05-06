@@ -89,7 +89,7 @@ Below is a list of information you'll need to provide PARADISEC when you are rea
 
 *This section only outlines the spreadsheet option for metadata capture. To learn more about LaMeta metadata tool, please visit the [Metadata & Data Management](https://paradisec-archive.github.io/PARADISEC_workflows/03_data_management.html){:target="_blank"} page.*
 
-When you are ready to begin, PARADISEC offers a simple spreadsheet that allows the arcive administators to automatically create the catalog entries for items in your collection. You can acces the spreadsheet [here](http://www.paradisec.org.au/wp-content/uploads/2020/10/PDSCMinimalMetadata2020.xlsx){:target="_blank"}. *(If the .xlsx file does not download automatically, then right-click on the link to save the file).* Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
+When you are ready to begin, PARADISEC offers a simple spreadsheet that allows the arcive administators to automatically create the catalog entries for items in your collection. You can acces the spreadsheet [here](https://www.paradisec.org.au/wp-content/uploads/2025/06/PDSCMinimalMetadata2025.xlsx){:target="_blank"}. *(If the .xlsx file does not download automatically, then right-click on the link to save the file).* Please do not alter the structure of the spreadsheet, as this will prevent the auto-upload process for us.
 
 The PARADISEC team can help you with any questions you may have when filling in the metadata spreadsheet.
 

@@ -107,18 +107,20 @@ Getting your *archival* file names in order should come *after* you have created
 **ANATOMY OF A PARADISEC FILE NAME**<br>
 Our system requires all files to adhere to specific file-naming conventions. This section will step you through the required parts of the filenames.
 
-<hr style="border:2px solid blue">
+<hr style="border:1px solid grey">
 **TEMPLATE:** [CollectionID] - [ItemID] - [ContentFile] . file extension
 
 | Coll ID  |  Item ID  | Content  |  Extension  |
 |  :----:  |   :----:   | :----:  | :----:  |
 | JCM01 | 20150908_wordlist | 01 | .wav |
 
-><span style="color:DarkBlue">
->**NOTE:** No spaces or special characters are allowed in your file names, and only the two hyphens seen above are allowed. Underscores are fine. File names should not exceed 30 characters, excluding file extensions.
-></span>
+<div class="callout callout-info">
 
-<hr style="border:2px solid blue">
+No spaces or special characters are allowed in your file names, and only the two hyphens seen above are allowed. Underscores are fine. File names should not exceed 30 characters, excluding file extensions.
+
+</div>
+
+<hr style="border:1px solid grey">
 
 1. **CollectionID** is your PARADISEC collection ID and it typically has the shape of your initials in capital letters and a number. This ID can be determined by you, but must be confirmed as available for use by a PARADISEC administrator. This ID is created when you set up a collection in PARADISEC.
 
@@ -126,9 +128,11 @@ Our system requires all files to adhere to specific file-naming conventions. Thi
 
 3. **ContentFile** is the final necessary part to a file name. This part of the name allows you to enumerate files of the same format, i.e. photos with 001, 002, etc, or multiple tracks of a single audio or video session, 01, 02, 03, etc. You could distinguish the type of microphone used for an audio track in this part of the file name, e.g. LM (lapel mic) or HM (for head mounted mic).
 
-><span style="color:DarkBlue">
->**NOTE:** Even if your item contains only one file, and thus does not need to be differentiated from other files within the same item, you still need to have this third part of the file name. You could use -00, -01, -wordlist01, -original, etc.
-></span>
+<div class="callout callout-info">
+
+Even if your item contains only one file, and thus does not need to be differentiated from other files within the same item, you still need to have this third part of the file name. You could use -00, -01, -wordlist01, -original, etc.
+
+</div>
 
 
 ### STEP 4: Fill out a PARADISEC deposit form for each collection you are creating
@@ -137,9 +141,7 @@ You will need to fill out a [deposit form](http://www.paradisec.org.au/PDSCdepos
 
 ### STEP 5: Send your files to PARADISEC
 
-If you are planing to archive digital files with PARADISEC, and your institution is part of the Australian Access Federation (AAF), you can sign up for a [Cloudstor](https://cloudstor.aarnet.edu.au/){:target="_blank"} account. Once you do, you get 1TB of free storage available to you instantly. You can also send us OneDrive, Dropbox, Google Drive links. These options are the best means to transfer files to PARADISEC. If you do not use any of those cloud storage options, but would like to transfer your files this way, contact [PARADISEC](mailto:admin@paradisec.au.org){:target="_blank"} and we can create a Cloudstor folder for you to use for transferring files to us.
-
-You can also use Dropbox, Google Drive or OneDrive.
+If you are planing to archive digital files with PARADISEC, you can send us OneDrive, Dropbox,or Google Drive links. These options are the best means to transfer files to PARADISEC. If you do not use any of those cloud storage options, but would like to transfer your files this way, contact [PARADISEC](mailto:admin@paradisec.au.org){:target="_blank"} and we can create a SharePoint/OneDrive folder for you to use for transferring files to us.
 
 If uploading files to a cloud service is not possible due to a lack of computer access or poor internet connections, you can post a hard drive of your materials to PARADISEC at:
 

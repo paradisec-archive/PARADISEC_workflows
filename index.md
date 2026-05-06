@@ -81,7 +81,7 @@ These archiving guides and technical workflows are designed to help people with 
 * Check both audio and video files
 <br>
 <hr style="border:1px solid grey">
-*CoEDL has released a set of [guidelines](http://www.dynamicsoflanguage.edu.au/publications-and-seminars/centre-publications/creating-captions-guidelines/){:target="_blank"} for improving communication access for deaf and hard of hearing people. This page offers a simple but effect workflow for integrating captioning and/or sign laguage interpreting.* 
+*CoEDL has released a set of guidelines for improving communication access for deaf and hard of hearing people. This page offers a simple but effect workflow for integrating captioning and/or sign laguage interpreting.* 
 
 ## [Improving communication access for deaf & hard of hearing people](https://paradisec-archive.github.io/PARADISEC_workflows/11_improving_communication_access.html)
 * General tips for improving communication access 

@@ -17,7 +17,6 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-include-cache'
-  gem "jekyll-last-modified-at"
   gem 'jekyll-commonmark-ghpages'
 end
 

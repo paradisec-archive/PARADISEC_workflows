@@ -21,7 +21,6 @@ nav_order: 2
   <img width="700" src="images/PARADISEC-banner.jpg">
 </p>
 
-
 <span style="font-variant:small-caps;">Last updated: 09 May 2026</span>
 
 ## How to become a PARADISEC user

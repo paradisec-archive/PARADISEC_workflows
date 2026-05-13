@@ -22,7 +22,7 @@ nav_order: 4
   <img height="300" src="images/rainbow-zoom.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 05 March 2024</span>
+<span style="font-variant:small-caps;">Last updated: 13 May 2026</span>
 
 ## Standard formats for archiving with PARADISEC
 The tables below contain the file formats we accept from depositors and the final formats that go into the archive. If you have a format other than those listed, please contact us so we can advise you on what can be done.

@@ -53,9 +53,9 @@ The tables below contain the file formats we accept from depositors and the fina
 | Annotations | *Archival and access copies:* Same as original *(see accepted formats above)*|
 | Lexicons | *Archival and access copies:* Same as original *(see accepted formats above)*|
 
-<span style="color:DarkBlue">
+<div class="callout callout-info">
 <sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they tend to be lossy formats. Look at the [following section](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#suggestions-for-audio-recorders-and-video-cameras){:target="_blank"} for capture suggestions*
-</span>
+</div>
 
 <span style="color:DarkBlue">
 <sup>2</sup> *If you choose to scan, rather than photograph your notes: Colour option: 300 dpi, scanning ratio: 100%, 8 bits per channel RGB, embedded ICC colour profile encouraged, OCR6 encouraged (PDF or PDF/A complies). Grayscale options: See the National Archives of Australia recommendations [here](https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/preservation-digitisation-standards#preservation-digitisation-standards){:target="_blank"}

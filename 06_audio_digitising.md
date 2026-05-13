@@ -266,9 +266,9 @@ the magnetic tape begins almost reach the tape heads.
 
 10. Get WaveLab set up to record the track, following the instructions as outlined above (specifically: step 16).
 
-      ><div class="callout callout-info">
+      <div class="callout callout-info">
       As previously mentioned, it may be that the tape has been recorded as mono tracks on both sides. Our system will digitise both mono tracks simultaneously. If you are using headphones, you will hear one track in one ear, playing correctly, and the second track in the other ear, playing backwards.
-      ></div>
+      </div>
 
 11. When the tape is coming to the end, watch closely and stop playback when the magnetic tape finishes passing along the heads and the trailer tape appears (usually red). Then stop the recording in WaveLab.
 

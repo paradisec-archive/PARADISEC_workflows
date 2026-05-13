@@ -54,13 +54,12 @@ The tables below contain the file formats we accept from depositors and the fina
 | Lexicons | *Archival and access copies:* Same as original *(see accepted formats above)*|
 
 <div class="callout callout-info">
-<sup>1</sup> *If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they tend to be lossy formats. Look at the [following section](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#suggestions-for-audio-recorders-and-video-cameras){:target="_blank"} for capture suggestions*
+<em><sup>1</sup>If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they tend to be lossy formats. Look at <a href="https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#suggestions-for-audio-recorders-and-video-cameras"target="_blank">the following sectionfor capture suggestions</a></em>
 </div>
 
-<span style="color:DarkBlue">
-<sup>2</sup> *If you choose to scan, rather than photograph your notes: Colour option: 300 dpi, scanning ratio: 100%, 8 bits per channel RGB, embedded ICC colour profile encouraged, OCR6 encouraged (PDF or PDF/A complies). Grayscale options: See the National Archives of Australia recommendations [here](https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/preservation-digitisation-standards#preservation-digitisation-standards){:target="_blank"}
-For photographic negative or slide scans TIF, 600 dpi, 4000 pixels on the longest side, 48 bit colour RGB or 16 bit grayscale.*
-</span>
+<div class="callout callout-info">
+<em><sup>2</sup> If you choose to scan, rather than photograph your notes: Colour option: 300 dpi, scanning ratio: 100%, 8 bits per channel RGB, embedded ICC colour profile encouraged, OCR6 encouraged (PDF or PDF/A complies). Grayscale options: See the National Archives of Australia recommendations <a href="https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/preservation-digitisation-standards#preservation-digitisation-standards"target="_blank">here</a>. For photographic negative or slide scans: TIF, 600 dpi, 4000 pixels on the longest side, 48 bit colour RGB or 16 bit grayscale.</em>
+</div>
 
 <span style="color:DarkBlue">
 <sup>3</sup> *Fieldworks (FLEx) files need to be exported to xml (one for the lexicon and one for the text). If you have bundled sound and image files into the FLEx project, they need to be separated as they are typically not in an archival format. We can archive a fwbackup file if it contains only text in xml format (its native format) , but not if it contains audio and images.*

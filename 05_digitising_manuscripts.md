@@ -184,7 +184,7 @@ As you capture the images, it is important to check their quality before you get
 
      <div class="callout callout-info">
 
-     Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF** and that the camera mode on the top of the camera is set to **Av**. This setting prioritises the aperture, which controls the amount of light that passes through the lens, affecting the sensor's exposure to light.
+     Make sure the <strong>AF/MF</strong> (Auto Focus, Manual Focus) setting on the lens of the camera is set to <strong>AF</strong> and that the camera mode on the top of the camera is set to <strong>Av</strong>. This setting prioritises the aperture, which controls the amount of light that passes through the lens, affecting the sensor's exposure to light.
 
      </div>
 

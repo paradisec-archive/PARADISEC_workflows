@@ -192,7 +192,7 @@ Avoid internet browsing and any activity over the network during digitisation <e
 
 13.	As you are previewing the tape, you can see that the PHASESCOPE is also actively monitoring the audio. We will use this scope to help guide us in our **Azimuth adjustment**. 
     
-14.	You can find the Azimuth screw on the TASCAM machine in the gap right above the STOP button. It is the screw to the left of the heads. Use the supplied tiny screwdriver.
+14.	You can find the Azimuth screws on the TASCAM machine in the gaps right above the STOP and PLAY buttons. Use the supplied tiny phillips screwdriver.
   
      <p align="center">
        <img width="300" src="images/TASCAM-AzimuthAdjustment.jpg">

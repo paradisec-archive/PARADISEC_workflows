@@ -58,7 +58,7 @@ The tables below contain the file formats we accept from depositors and the fina
 </div>
 
 <div class="callout callout-info">
-<em><sup>2</sup> If you choose to scan, rather than photograph your notes: Colour option: 300 dpi, scanning ratio: 100%, 8 bits per channel RGB, embedded ICC colour profile encouraged, OCR6 encouraged (PDF or PDF/A complies). Grayscale options: See the National Archives of Australia recommendations <a href="https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/preservation-digitisation-standards#preservation-digitisation-standards"target="_blank">here</a>. For photographic negative or slide scans: TIF, 600 dpi, 4000 pixels on the longest side, 48 bit colour RGB or 16 bit grayscale.</em>
+<em><sup>2</sup> If you choose to scan, rather than photograph your notes: Colour option: 300 dpi, scanning ratio: 100%, 8 bits per channel RGB, embedded ICC colour profile encouraged, OCR6 encouraged (PDF or PDF/A complies). Grayscale options: See the National Archives of Australia recommendations <a href="https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/preservation-digitisation-standards#preservation-digitisation-standards" target="_blank">here</a>. For photographic negative or slide scans: TIF, 600 dpi, 4000 pixels on the longest side, 48 bit colour RGB or 16 bit grayscale.</em>
 </div>
 
 <span style="color:DarkBlue">

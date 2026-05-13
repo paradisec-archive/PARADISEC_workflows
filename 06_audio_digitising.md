@@ -102,7 +102,7 @@ Having an external, stand-alone analogue/digital converter is critical so that t
 <hr style="border:1px solid blue">
 
 ## Software
-The software we use to digitise audio is [Steinberg's Wavelab 10 Pro](https://new.steinberg.net/wavelab/){:target="_blank"}
+The software we use to digitise audio is Steinberg's Wavelab 11 Pro. Find the latest version of Wavelab [here](https://new.steinberg.net/wavelab/){:target="_blank"}.
 
 ## Digitising Cassette Tapes
 

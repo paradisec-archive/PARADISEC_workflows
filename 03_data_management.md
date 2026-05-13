@@ -22,7 +22,7 @@ nav_order: 3
   <img width="700" src="images/banner-notebooks.jpg">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 13 April 2026</span>
+<span style="font-variant:small-caps;">Last updated: 13 May 2026</span>
 
 The information below regarding the **metadata tools** is mostly geared toward preparing your collection for archiving with [PARADISEC](https://www.paradisec.org.au/){:target="_blank"} (Pacific and Regional Archive for Digital Sources in Engangered Cultures). 
 

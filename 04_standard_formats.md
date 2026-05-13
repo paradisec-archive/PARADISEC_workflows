@@ -57,7 +57,7 @@ The tables below contain the file formats we accept from depositors and the fina
 <sup>1</sup> If you have files such as .mp3 (audio) or .mpg (video), we will certainly accept them; however, if you are collecting new recordings, please avoid these formats, as they tend to be lossy formats. Look at <a href="https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#suggestions-for-audio-recorders-and-video-cameras" target="_blank">the following section</a> for capture suggestions.
 </div>
 
-<div class="callout callout-info">
+<div class="callout callout-footnote">
 <em><sup>2</sup> If you choose to scan, rather than photograph your notes: Colour option: 300 dpi, scanning ratio: 100%, 8 bits per channel RGB, embedded ICC colour profile encouraged, OCR6 encouraged (PDF or PDF/A complies). Grayscale options: See the National Archives of Australia recommendations <a href="https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/archival-policy-and-planning/preservation-digitisation-standards#preservation-digitisation-standards" target="_blank">here</a>. For photographic negative or slide scans: TIF, 600 dpi, 4000 pixels on the longest side, 48 bit colour RGB or 16 bit grayscale.</em>
 </div>
 

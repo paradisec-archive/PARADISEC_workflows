@@ -62,7 +62,7 @@ The tables below contain the file formats we accept from depositors and the fina
 </div>
 
 <div class="callout callout-footnote">
-<em><sup>3</sup> Fieldworks (FLEx) files need to be exported to xml (one for the lexicon and one for the text). If you have bundled sound and image files into the FLEx project, they need to be separated as they are typically not in an archival format. We can archive a fwbackup file if it contains only text in xml format (its native format) , but not if it contains audio and images.
+<em><sup>3</sup> Fieldworks (FLEx) files need to be exported to xml (one for the lexicon and one for the text). If you have bundled sound and image files into the FLEx project, they need to be separated as they are typically not in an archival format. We can archive a fwbackup file if it contains only text in xml format (its native format), but not if it contains audio and images.
 </em></div>
 
 

@@ -106,10 +106,9 @@ The software we use to digitise audio is Steinberg's Wavelab 11 Pro. Find the la
 
 ## Digitising Cassette Tapes
 
-><span style="color:DarkBlue"> 
->**Note:** Avoid internet browsing and any activity over the network during digitisation *(these activities can cause interference, which may result in digital clips and unwanted errors in the signal)*. Avoid using mobile phones or other mobile devices (better yet, turn them off or leave them outside of the studio), including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during the digitising process.
-></span>
-
+<div class="callout callout-info">
+Avoid internet browsing and any activity over the network during digitisation <em>(these activities can cause interference, which may result in digital clips and unwanted errors in the signal)</em>. Avoid using mobile phones or other mobile devices (better yet, turn them off or leave them outside of the studio), including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during the digitising process.
+</div>
 
 1.	Turn on computer and login with your ANU UDS credentials
    

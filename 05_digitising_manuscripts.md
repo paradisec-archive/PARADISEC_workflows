@@ -81,7 +81,7 @@ This Canon camera was purchased in 2010 and it is still fully functional in 2022
 
 <div class="callout callout-info">
 
-To see a larger version of the photos found on this website, right-click on the image and select the option <strong>Open Image in New Tab</strong>
+To see a larger version of the photos found on this website, right-click on the image and select the option <strong><em>Open Image in New Tab</em></strong>
 
 </div>
 

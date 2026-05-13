@@ -22,7 +22,7 @@ nav_order: 5
   <img width="300" src="images/tripod.GIF">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 4 May 2026</span>
+<span style="font-variant:small-caps;">Last updated: 13 May 2026</span>
 
 This page outlines PARADISEC's approach to digitising text materials and offers guidance in the post-production processing of the resulting images prior to archiving. The majority of our fieldnotes, papers, and notebook digitisation is done with high resolution photography, not scanning. Here are some reasons why we choose to use photography rather than scanning:
 
@@ -52,7 +52,7 @@ There will be more about target image sizes (pixel dimension) below in the secti
 
 </div>
 
-In the end, we would only need the **.tif** version from you for the archive. Our system automatically creates the access **.jpg**. If you are archiving images of notes or a field journal, it is a good idea to also provide a single **.pdf** of the images digitally bound together. For this, you should use compressed .jpgs rather than .tifs, which will keep the size of the .pdf manageable.
+In the end, we would only need the <strong>.tif</strong> version from you for the archive. Our system automatically creates the access <strong>.jpg</strong>. If you are archiving images of notes or a field journal, it is a good idea to also provide a single **.pdf** of the images digitally bound together. For this, you should use compressed .jpgs rather than .tifs, which will keep the size of the .pdf manageable.
 
 ----------
 

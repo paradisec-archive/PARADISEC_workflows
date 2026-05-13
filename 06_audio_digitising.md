@@ -256,7 +256,7 @@ the magnetic tape begins almost reach the tape heads.
        <img width="300" src="images/Azimuth01_1.jpg">
      </p>
 
-     Many tapes we receive were recorded as mono, with a different mono track on each side of the tape. We digitise these two tracks simultaneously. As a result, there will be an X shape for representing both mono tracks. As the audio for both tracks is playing simultaneously (one track will play normally, the other will be reversed), you will rely more on the phasescope to adjust the azimuth *(see image below)*. <br>
+     Many tapes we receive were recorded as mono, with a different mono track on each side of the tape. We digitise these two tracks simultaneously. As a result, there will be an X shape for representing both mono tracks. As the audio for both tracks is playing simultaneously (one track will play normally, the other will be reversed), yoy can switch the headphone channel to select each channel to adjust the Azimuth using your ears, but yiou can also look to the Phasecsope. *(see image below)*. <br>
 
      <p align="center">
        <img width="300" src="images/Azimuth02_1.jpg">

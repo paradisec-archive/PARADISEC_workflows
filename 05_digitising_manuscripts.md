@@ -316,8 +316,11 @@ It is also a good idea to create a .pdf of your image files bundled together in 
 * If you are not going to use tethering for image capture, try to find a camera that has an articulated LCD screen, not a fixed screen. This will allow you to move the viewfinder to a position to easily see the image before you shoot. You can see an articulated screen in the photo of the Cannon PowerShot above, within the section introducing the [Velbon shelf clamp](https://paradisec-archive.github.io/PARADISEC_workflows/05_digitising_manuscripts.html#velbon-shelf-clamp).
 
 ### Software
+#### Tethering for remote capture
 * The camera tethering software designed to work with Canon cameras is free. If you cannot afford a camera that works with tethering software, you can simply capture images to your compact digital camera's SD card and do your file management, including file nameing, all in your post-production editing.
 * You can also use Lightroom Classic to tether your camera to your computer. Learn more about how to tether using Lightroom Classic [here](https://tethertools.com/blog/tethering-in-lightroom-cc-vs-lightroom-classic-cc/){:target="_blank"} and [here](https://photoshopcafe.com/tether-camera-lightroom-tutorial.htm){:target="_blank"}.
+
+#### Editing RAW images
 * Post production of raw images (.CR2) can be done with the **free** raw image processing program [RawTherapee](https://www.rawtherapee.com/){:target="_blank"}, replacing the costly Adobe Bridge option outlined above. This includes bulk processing of images. Their documentation and help information can be found here: [RawTherapee](http://rawpedia.rawtherapee.com/Main_Page){:target=_blank"}.
 
    <p align="center">
@@ -330,6 +333,7 @@ It is also a good idea to create a .pdf of your image files bundled together in 
      <img width="500" src="images/Darktable-screenshot.png">
     </p>
 
+#### Creating single PDF of multiple images
 * There are other .pdf creating options available other than Adobe Acrobat DC such as downloadable programs like [PDF24](https://www.pdf24.org/en/){:target="_blank"} or via a web interface like [Online2pdf](https://online2pdf.com/){:target="_blank"}, although this latter option, like most online pdf creators, has file size and number restrictions. 
 
 <br>

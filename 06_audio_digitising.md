@@ -22,7 +22,7 @@ nav_order: 6
   <img width="500" src="images/rev-rev-vox.gif">
 </p>
 
-<span style="font-variant:small-caps;">Last updated: 28 February 2023</span>
+<span style="font-variant:small-caps;">Last updated: 13 May 2026</span>
 
 This page outlines the technical workflow for digitising cassette and reel-to-reel tapes for the PARADISEC archive. This workflow can be modified to accommodate other organisations in their specific digitising goals.
 
@@ -114,8 +114,8 @@ The software we use to digitise audio is Steinberg's Wavelab 11 Pro. Find the la
 1.	Turn on computer and login with your ANU UDS credentials
    
       Resources you should find on the desktop:
-      * Wavelab Pro 10.0 shortcut
-      * Wavelab Pro 10.0 [operations manual](https://steinberg.help/wavelab-manuals/wavelab-pro/wavelab-pro-10/){:target="_blank"} <br> <br>
+      * Wavelab Pro 11.0 shortcut
+      * Wavelab Pro 11.0 [operations manual](https://archive.steinberg.help/wavelab-manuals/wavelab-pro/wavelab-pro-11/){:target="_blank"} <br> <br>
 
 2.  Turn on the RME ADI-2 PRO FS R <br>
 3.	Turn on and load a tape into the Tascam 122 mk III <br>

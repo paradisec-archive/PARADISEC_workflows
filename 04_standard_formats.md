@@ -86,7 +86,7 @@ If you would like to save money (see PARADISEC's page on [Costing a deposit](htt
 #### Suggested audio settings
 
 <div class="callout callout-info">
-Avoid recording in compressed formats.
+Avoid recording audio in compressed formats.
 </div>
 
 * Select a high sampling rate to ensure good capture of speech. A minimal choice would be to capture 48kHz, 16bit. Our archival target is 96kHz, 24 bit, but this could create file sizes that are too unwieldy for use in remote field sites with limited storage and limited access to power for file transfer and processing on laptop.
@@ -105,7 +105,7 @@ Avoid recording in compressed formats.
 #### Suggested video settings
 
 <div class="callout callout-info">
-Avoid recording in compressed formats.
+Avoid recording video in compressed formats.
 </div>
 
 * If you can, select the .mp4 (H.264) recording format with Advanced Audio Coding (AAC). This is a standard format and is well supported.

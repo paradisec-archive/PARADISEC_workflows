@@ -209,7 +209,7 @@ Avoid internet browsing and any activity over the network during digitisation <e
        <img width="300" src="images/Wavelab-PHASESCOPE-AtRest.JPG">
      </p>
 
-     Play the tape. Once the signal is clearly coming through, turn the screw to the left and to the right, using your ears and the phasescope to help you determine the clearest signal. If the tape is a cassette tape the same signal will be on both channels. Aim to get the line as vertically straight as possible *(see image below)*. <br>
+     Play the tape. Once the signal is clearly coming through, turn the screws to the left and to the right, using your ears and the phasescope to help you determine the clearest signal. If the tape is a cassette tape the same signal will be on both channels. Aim to get the line as vertically straight as possible *(see image below)*. <br>
 
      <p align="center">
        <img width="300" src="images/Wavelab-PHASESCOPE-PostAdjustment.JPG">
@@ -266,9 +266,9 @@ the magnetic tape begins almost reach the tape heads.
 
 10. Get WaveLab set up to record the track, following the instructions as outlined above (specifically: step 16).
 
-      ><span style="color:DarkBlue">
-      **NOTE:** As previously mentioned, it may be that the tape has been recorded as mono tracks on both sides. Our system will digitise both mono tracks simultaneously. If you are using headphones, you will hear one track in one ear, playing correctly, and the second track in the other ear, playing backwards.
-      ></span>
+      ><div class="callout callout-info">
+      As previously mentioned, it may be that the tape has been recorded as mono tracks on both sides. Our system will digitise both mono tracks simultaneously. If you are using headphones, you will hear one track in one ear, playing correctly, and the second track in the other ear, playing backwards.
+      ></div>
 
 11. When the tape is coming to the end, watch closely and stop playback when the magnetic tape finishes passing along the heads and the trailer tape appears (usually red). Then stop the recording in WaveLab.
 

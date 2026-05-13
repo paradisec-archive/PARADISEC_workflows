@@ -309,7 +309,7 @@ As a stand-in for the digital converter mentioned above, you can use an audio re
 | Zoom H4N Pro <br> [Link](https://zoomcorp.com/en/jp/handy-recorders/handheld-recorders/h4n-pro/){:target="_blank"}       | 44.1/48/96kHz, 16/24bit WAV; internal X/Y stereo mic, 2 XLR external mic inputs *(with phantom power)*, 3.5mm mic input, powered by 2 AA batteries or USB, records to SD/SDHC cards |
 
 #### Portable cassette players
-To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. If you are not able to purchase a professional tape machine, some smaller, less-expensive portable models may be used. Be aware, you may not get the same quality, especialy as you will not be able to adjust the azimuth on these smaller units.
+To be able to digitise a tape, you need to find a playback device. These are increasingly becoming harder to source. If you are not able to purchase a professional tape machine, some smaller, less-expensive portable models may be used. Be aware, you will not get the same quality using these devices.
 
 Pictured below ia a **Panasonic RQ-2102 Slim Line** shoe-box style tape player connected to a Zoom H4N Pro (cable configueation: 3.5mm headphone jack output from the Panasonic to an input mic of the Zoom H4N Pro using a 6.35mm phone adapter). The Zoom is then attached to a laptop via the Audio I/F USB option. Recording was done using Wavepad software. This configuration with the Zoom only allows a 44.1kHz or 48kHz sampling rate. 
 
@@ -326,7 +326,7 @@ Below is a **Marantz CP-230** portable stereo cassette deck. This player has two
 
 The RCA oputput (using an RCA to 3.5mm) and the same Zoom USB-to-laptop-and-Wavepad configuration as above also yielded a mono recording. 
 
-Connecting the Marantz to the Zoom H4N Pro to record directly to the SD card, rather than using Wavepad yielded a stereo recording. For this, the output 6.35mm phone jack for the Marantz is configured for stereo. This was then connected to the 3.5mm mic input on the back of the Zoom H4N Pro. This mic input is also stereo. The audio was recorded as a stereo 96Khz, 24bit .wav file.
+Of my brief study, the best configutation involved connecting the Marantz to the Zoom H4N Pro to record directly to the SD card, rather than using Wavepad. For this, the output 6.35mm phone jack for the Marantz is configured for stereo. This was then connected to the 3.5mm mic input on the back of the Zoom H4N Pro. This mic input is also stereo. The audio was recorded as a stereo 96Khz, 24bit .wav file.
 
   <p align="center">
        <img width="500" src="images/direct-to-zoom-FINAL.jpg">

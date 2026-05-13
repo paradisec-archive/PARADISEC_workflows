@@ -101,6 +101,19 @@ body.dark-mode .callout-info {
   color: var(--body-text-color);
 }
 
+/* === FOOTNOTE CALLOUT === */
+
+.callout-footnote {
+  font-size: 0.95rem;
+  font-style: italic;
+  opacity: 0.9;
+  border-left-color: #6c757d;
+}
+
+body.dark-mode .callout-footnote {
+  border-left-color: #8b949e;
+}
+
 /* Neutral note */
 .callout-note {
   border-left-color: var(--border-color);

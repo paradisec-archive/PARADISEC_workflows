@@ -242,7 +242,7 @@ the magnetic tape begins almost reach the tape heads.
 
 6. Follow the same WaveLab instructions as above for testing the volumes of the output. To adjust the output volume, make sure the UNCAL light is on. This means the audio volume is uncalibrated and you can adjust volume as needed using the CH1 and CH2 REP/SYNC LEVEL
 
-7. Check the speed of the playback. If it sounds too slow or too fast, cycle through the choices of 3.75, 7.5 or 15. If these do not appear to create the right speed, make note and we may need to adjust once audio is digitised.
+7. Check the speed of the playback. If it sounds too slow or too fast, cycle through the choices of 1-7/8 ips, 3-3/4 ips, or 7-1/2 ips. If these do not appear to create the right speed, make note and we may need to adjust once audio is digitised.
 
 8. Adjust the azimuth for open reel tapes. The hex nut is located directly above the tape head as seen in image below:
 

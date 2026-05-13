@@ -110,7 +110,7 @@ The software we use to digitise audio is Steinberg's Wavelab 11 Pro. Find the la
 Avoid internet browsing and any activity over the network during digitisation <em>(these activities can cause interference, which may result in digital clips and unwanted errors in the signal)</em>. Avoid using mobile phones or other mobile devices (better yet, turn them off or leave them outside of the studio), including close wi-fi transmitters, and as a precaution, close any programs other than WaveLab during the digitising process.
 </div>
 
-1.	Turn on computer and login with your ANU UDS credentials
+1.	Turn on computer and login with your ANU credentials
    
       Resources you should find on the desktop:
       * Wavelab Pro 11.0 shortcut

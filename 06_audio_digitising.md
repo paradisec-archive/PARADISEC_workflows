@@ -274,9 +274,9 @@ the magnetic tape begins almost reach the tape heads.
 
 12. Press z-loc to rewind the tape back onto original reel.
 
-     ><span style="color:DarkBlue">
-      **NOTE:** DO NOT HIT REWIND. Use the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautious way to treat the tape
-     ></span>
+     <div class="callout callout-info">
+      DO NOT HIT REWIND. Use the Z-Loc button. This will rewind the tape, slowing down as it approaches the 00.00.00 point in the counter. This will ensure we do not need to rethread the tape, and it is a more cautious way to treat the tape
+     </div>
 
 ## Low-cost Options
 The equipment and software mentioned above have been selected to adhere to best practice in digital preservation and archiving as set out by IASA. However, it is very a costly set-up. Below are some options for audio cassette digitising that recognise the need for standards, but also recognise that preservation (and access to the tape content) is paramount.

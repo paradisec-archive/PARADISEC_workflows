@@ -265,7 +265,7 @@ As you capture the images, it is important to check their quality before you get
 
 <div class="callout callout-info">
 
-If you are affiliated with ANU, our workstation allows you to access this program using your university login. If you do not have access to the Adobe Creative Cloud suite of programs, you can still use Bridge, but in order to use the Camera Raw function to edit your .CR2 files, you need to have a subscription to Photoshop: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red){:target="_blank"}. See the section below on [Low-cost Options](https://paradisec-archive.github.io/PARADISEC_workflows/05_digitising_manuscripts.html#low-cost-options) for alternatives.
+If you are affiliated with ANU, our workstation allows you to access this program using your university login. If you do not have access to the Adobe Creative Cloud suite of programs, you can still use Bridge, but in order to use the Camera Raw function to edit your .CR2 files, you need to have a subscription to Photoshop: <a href="https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red" target="_blank">Adobe Bridge</a> See the section below on <a href="https://paradisec-archive.github.io/PARADISEC_workflows/05_digitising_manuscripts.html#low-cost-options" target="_blank">Low-cost Options</a>for alternatives.
 
 </div>
 

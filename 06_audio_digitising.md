@@ -297,7 +297,7 @@ Steinberg WaveLab is a very powerful studio software for audio capture and editi
        <img width="500" src="images/ocenaudio.jpg">
      </p>
 
-Both of these options allow you to capture a stereo audio file at 96kHz/24bit and do post-production on the files you have created, cutting off long silences at the beginning or end of the files, boosting the audio gain if volume is too low, etc.
+Both of these options allow you to capture a stereo audio file at 96kHz/24bit and edit the files you have created, cutting off long silences at the beginning or end of the files, boosting the audio gain if volume is too low, etc. and reversing the channel that was captured in reverse.
 
 ### Equipment
 

@@ -27,7 +27,7 @@ nav_order: 7
 </p>
 <br>
 
-<span style="font-variant:small-caps;">Last updated: 27 March 2024</span>
+<span style="font-variant:small-caps;">Last updated: 13 May 2026</span>
 
 ## PARADISEC audio processing workflow for archiving
 This workflow is targeted toward born-digital audio files or files that come to PARADISEC that have previously been digitised by another party.
@@ -37,6 +37,11 @@ This workflow is targeted toward born-digital audio files or files that come to 
 *For further information on digital formats we accept, see [Standard formats for archiving with PARADISEC](https://paradisec-archive.github.io/PARADISEC_workflows/04_standard_formats.html#standard-formats-for-archiving-with-paradisec){:target="_blank"}.*
 
 PARADISEC can accept various audio formats (.wav, .aiff, .m4a, mp3.), although our preference is that the audio be sent to us as close to the archival standard of 96kHz, 24-bit (stereo) as possible. Once we receive files, they are transcoded, resampled and sent to our archive system where they are transformed into BWF archival .wav files, with an accompanying access .mp3 copy. 
+
+
+
+
+## Other tasks, other tools
 
 ### Bulk resampling audio using Audacity
 
